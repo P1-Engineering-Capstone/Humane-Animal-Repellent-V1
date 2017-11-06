@@ -1,5 +1,8 @@
 import numpy as np
+import time
 import cv2
+import matplotlib.pyplot as plt
+from scipy.stats import itemfreq
 
 
 class BackGroundSubtractor:
@@ -51,7 +54,7 @@ def get_best_contour(imgmask, threshold):
 
 ret,frame = cam.read()
 if ret is True:
-	backSubtractor = BackGroundSubtractor(0.3,denoise(frame))
+	backSubtractor = BackGroundSubtractor(0.2,denoise(frame))
 	run = True
 else:
 	run = False
@@ -71,7 +74,7 @@ while(run):
 		# Apply thresholding on the background and display the resulting mask
 		ret, mask = cv2.threshold(foreGround, 15, 255, cv2.THRESH_BINARY)
 		gray = cv2.cvtColor(mask, cv2.COLOR_BGR2GRAY)
-		c = get_best_contour(gray, 1000)
+		c = get_best_contour(gray, 400)
 
 		if c is not None:
             # compute the bounding box for the contour, draw it on the frame,
@@ -82,6 +85,11 @@ while(run):
 			yVal = str(y)
 			disp = xVal + ", " + yVal 
 			cv2.putText(mask, disp, (x, y), cv2.FONT_HERSHEY_SIMPLEX, .5, (255, 255, 255))
+			crop_img = frame[y:(y + h), x:(x + w)]
+			lower = np.array([100, 15, 17])
+			upper = np.array([200, 56, 50])
+			red_mask = cv2.inRange(crop_img, lower, upper)
+			cv2.imshow("Red Mask", red_mask)
 
 		# Note: The mask is displayed as a RGB image, you can
 		# display a grayscale image by converting 'foreGround' to
