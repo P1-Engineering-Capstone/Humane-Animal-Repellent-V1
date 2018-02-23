@@ -1,0 +1,4 @@
+n02356381 squirrel
+n02472987 human
+n02084071 dog
+n02121620 cat
