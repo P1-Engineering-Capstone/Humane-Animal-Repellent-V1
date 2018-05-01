@@ -1,4 +1,4 @@
-# Squirrel Repelling Robot
+# Humane Animal Repellent V1 (HARV1)
 We trained a computer model using Caffe Framework and are developing an application written in Python which is able to run on 
 a Raspberry Pi. The model was trained on a dataset of over 6,000 images with 4 classes: squirrels, humans, dogs, and cats.
 
@@ -11,6 +11,6 @@ lawn pots, sprinklers, etc.
 Find the model at: https://www.dropbox.com/s/n2qgpjm1slej0sf/squirrel_alexnet.caffemodel?dl=0
 
 Details:
-  Iteration
-  Accuracy
-  Loss
+  Iterations: 30,000
+  Accuracy:   55.5%
+  Loss:       0.64
