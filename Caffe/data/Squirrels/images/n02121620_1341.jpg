@@ -1,0 +1,26 @@
+
+<html>
+
+	<head>
+		<title>
+			ContentDirect(tm) | Error 404		</title>
+		
+		<link href="../shared/styles.css" rel="stylesheet" type="text/css">
+		<script language=JavaScript>
+			document.write(get_CSS_tweaks());
+		</script>
+	</head>
+	
+	<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	
+		<div class="page-margin">
+		
+		<p class="heading">Error 404</p>
+		
+		<p class="body">Not found: The file you requested does not exist.</p>
+		
+		</div>
+		
+	</body>
+	
+</html>

@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+
+<html class="no-js" lang="en-US" data-cursor="999">
+<head>
+  
+<!-- Meta Tags -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width">
+	
+<title>WildAid - Home</title>
+<base href="http://www.wildaid.co.uk/" />
+<meta name="description" content="We raise awareness of British wildlife by promoting understanding and respect of wildlife and the natural environment through education." />
+
+<!-- Favicons -->
+<link rel="shortcut icon" href="manager/templates/hospiscare/img/faviconNEW.ico">
+<link rel="apple-touch-icon" href="manager/templates/wildaid/assets/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="manager/templates/wildaid/assets/images/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="manager/templates/wildaid/assets/images/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="144x144" href="manager/templates/wildaid/assets/images/apple-touch-icon-144x144.png">
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="manager/templates/wildaid/style.css" />
+
+<!-- Javascripts -->
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/modernizr.js"></script>
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/detection.js"></script>
+
+<link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,300,700' rel='stylesheet' type='text/css'>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54561853-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- This site is optimized with the Sterc seoPro plugin 1.0.2 - http://www.sterc.nl/modx/seopro -->
+</head>
+<body class="home sticky-nav">
+  <!-- BEGIN /#container --> 
+	<section class="container">
+
+	<!-- BEGIN header -->
+	<header id="masthead" class="site-header--fixed site-header" role="banner">
+
+	<div class="row">
+
+      <!-- BEGIN #logo -->
+  		<div id="logo" class="site-logo">
+
+  		  <a href="http://www.wildaid.co.uk/">
+           <img src="manager/templates/wildaid/assets/images/site-logo.png" alt="WildAid">
+        </a>
+
+  		</div>	
+      <!-- /END #logo -->
+
+    <!-- BEGIN .navbar -->  
+		<div class="navbar"> 
+		<nav class="site-navigation navigation">
+			<ul class="primary-menu"  id="primary" >
+<li class="first active"><a href="http://www.wildaid.co.uk/" title="Home" >Home</a></li>
+<li><a href="about.html" title="About WildAid" >About</a></li>
+<li><a href="gallery.html" title="Image Gallery" >Gallery</a></li>
+<li><a href="wildaid-challenge-scheme.html" title="WildAid Challenge Scheme" >WildAid Challenges</a></li>
+<li><a href="in-action/" title="News" >News</a></li>
+<li><a href="get-involved.html" title="Get Involved" >Get Involved</a></li>
+<li class="last"><a href="contact.html" title="Contact" >Contact</a></li>
+
+</ul>
+          
+          <a href="#" class="nav-toggle icon-menu" aria-hidden="false"></a>
+			</nav>
+      <!-- /END .navbar --> 
+		</div>
+	 </div>
+	</header>
+	<!-- END header -->
+
+<!--BEGIN custom-header -->
+<div id="custom-header" class="site-background" data-image="banner1280x850-2.jpg" data-opacity="0.40" data-color="181a25">
+
+    <!-- BEGIN #taglne -->
+    <div id="tagline" class="site-tagline row">
+        <h1>Connect to Wildlife...<br>
+        <span class="green-text">Protect Wildlife</span>
+        </h1>
+        <h2 class="orange-text">We envision a world where wildlife no longer becomes casualties of human neglect</h2>
+    </div>
+    <!-- END /#tagline -->
+
+</div>
+<!-- END /#custom-header -->
+
+<!-- BEGIN #main --> 
+<section id="main" class="site-content row" role="main">
+
+    <a class="button button-flat button-block primary donate" href="get-involved.html">Donate</a>
+    
+    <!-- BEGIN .page-header -->
+    <header class="page-header page-header--home">
+        <h2 class="home-title"><span>Introducing WildAid</span></h2>
+        <p class="home-subtitle">WildAid's mission is to support wildlife rescue and rehabilitation across the UK</p>
+    </header>
+    <!-- END /.page-header -->
+
+    <!-- BEGIN .portfolio-3-columns  -->
+    <section class="portfolio-3-columns">
+
+    <!-- BEGIN .portfolio-items -->
+    <div class="grid portfolio-items section-block clearfix">
+        <article class="grid-3">
+            <a href="about.html">
+                <figure>
+                    <span class="overlay">
+                        <i class="icon-add"></i>
+                    </span>
+                    <img src="manager/templates/wildaid/assets/images/home/about-home-2.jpg" alt="About Us">
+                </figure>
+                <h3>About Us</h3>
+            </a>
+        </article>
+        <article class="grid-3">
+            <a href="events.html">
+                <figure>
+                    <span class="overlay">
+                        <i class="icon-add"></i>
+                    </span>
+                    <img src="manager/templates/wildaid/assets/images/home/about-home.jpg" alt="Events">
+                </figure>
+                <h3>Events</h3>
+            </a>
+        </article>
+        <article class="grid-3">
+            <a href="gallery.html">
+                <figure>
+                    <span class="overlay">
+                        <i class="icon-add"></i>
+                    </span>
+                    <img src="manager/templates/wildaid/assets/images/home/involved-home.jpg" alt="Gallery">
+                </figure>
+                <h3>Gallery</h3>
+            </a>
+        </article>
+        <article class="grid-3">
+            <a href="get-involved.html">
+                <figure>
+                    <span class="overlay">
+                        <i class="icon-add"></i>
+                    </span>
+                    <img src="manager/templates/wildaid/assets/images/home/involved-home-2.jpg" alt="Get Involved">
+                </figure>
+                <h3>Get Involved</h3>
+            </a>
+        </article>
+
+    </div>
+    <!-- END /.portfolio-items -->
+
+    </section><!-- END /.portfolio-3-columns  -->
+  
+  
+    <!-- BEGIN #call-to-action -->
+    <section id="call-to-action" class="portfolio-cta clearfix">
+        <div class="large-8 columns">
+            <span class="cta-label">Bringing you the latest news about how you are making a difference for wildlife</span>
+        </div>
+        <div class="large-4 columns">
+            <a class="button button-flat button-block primary" href="in-action/">In Action</a>
+        </div>
+    </section>
+    <!-- END /#call-to-action -->
+
+    <!-- BEGIN #home-latest -->
+<section id="home-latest">
+    <header class="page-header page-header--home">
+        <h2 class="home-title">
+            <span>In Action - Latest</span>
+        </h2>
+        <p class="home-subtitle">Making positive changes for wildlife and for people</p>
+    </header>
+
+<div class="row">
+    <div class="large-3 columns">
+    <img src="/assets/components/phpthumbof/cache/rsz_dscn0928.f6868050a3f66297b49eadf928dca611.jpg" alt="A Happy Christmas">
+</div>
+
+<div class="large-3 columns">
+    <div class="post-content">
+        <h4><a href="in-action/2017/12/21/a-happy-christmas/">A Happy Christmas</a></h4> 
+        <p>Wishing everyone a very Happy Christmas.</p>
+    </div>
+    <a href="in-action/2017/12/21/a-happy-christmas/" class="button button-medium button-flat button-block primary">Read more...</a>
+</div>
+<div class="large-3 columns">
+    <img src="/assets/components/phpthumbof/cache/IMG_1560.f6868050a3f66297b49eadf928dca611.jpg" alt="Chorley Hedgehog Rescue Centre Challenge">
+</div>
+
+<div class="large-3 columns">
+    <div class="post-content">
+        <h4><a href="in-action/2017/11/28/ccc/">Chorley Hedgehog Rescue Centre Challenge</a></h4> 
+        <p>A home-based wildlife centre asked for our support in the heart of Lancashire - find out what we are doing for this amazing centre and how you can help.</p>
+    </div>
+    <a href="in-action/2017/11/28/ccc/" class="button button-medium button-flat button-block primary">Read more...</a>
+</div>
+</div>
+
+
+
+</section>
+<!-- BEGIN /#home-latest -->
+
+    <!-- BEGIN #widgets -->
+    <section id="foot-quote" class="clearfix">
+        <div class="section-block clearfix">
+            <p>"It's all about encouraging people to participate and learn about the natural world through hands on discovery."</p>
+        </div>
+    </section>
+    <!-- END /#footerQuote -->
+
+
+    <!-- BEGIN #widgets -->
+    <section id="widgets" class="clearfix widgets">
+    
+        <div class="four medium-4 columns">
+            <h3>About WildAid</h3>
+<p>Established over 25 years ago, as a wildlife rescue and rehabilitation centre, WildAid has been making a difference for wildlife welfare throughout the UK ever since.</p>
+        </div>
+        
+        <div class="four medium-4 columns">
+            <h3>Donations</h3><p>The projects run by WildAid depend upon the generosity and kindness of our supporters.</p>	
+            <a class="button button-flat button-block primary footer-donate-button" href="get-involved.html">Donate</a>
+        </div>
+    
+        <div class="four medium-4 columns">
+            <h3>Contact</h3>
+            <p>Tel: 07833 248352</p>
+            <p>Email: <a href="mailto:info@wildaid.co.uk">info@wildaid.co.uk</a></p>
+            <div class="social">
+    <a href="https://www.facebook.com/pages/WildAid/185449871483962" class="font-icon" target="blank"><i class="fa fa-fw fa-facebook"></i></a>
+    <a href="https://twitter.com/wildaiduk" class="font-icon" target="blank"><i class="fa fa-fw fa-twitter"></i></a>
+    <a href="https://www.youtube.com/channel/UCMQu-b-5zFI9SSt1QhH38BQ" class="font-icon" target="blank"><i class="fa fa-fw fa-youtube"></i></a>
+</div>
+
+        </div>
+        
+    </section>
+    <!-- END /#widgets -->
+    
+    
+	<!-- BEGIN footer -->
+    <footer class="site-footer">
+        <div class="foot-links">
+           <a href="child-protection.html">Child Protection Policy</a><a href="privacy-policy.html">Privacy Policy</a><a href="cookies.html">Cookies Policy</a><a href="sitemap.html">Sitemap</a>
+        </div>
+        <div class="copyright">
+           © Copyright 2015 WildAid - Website Design by <a target="_blank" href="http://jcottrell.co.uk">jcottrell.co.uk</a>
+        </div>
+        <a title="Scroll To Top" href="#top" id="scroll-top" class="scroll-top">
+          <span>Top</span>
+          <i class="icon-circleup"></i>
+        </a>
+    </footer>
+    
+	</section>
+    <!-- END /#main --> 
+
+</section>
+<!-- END /#container -->
+
+<!-- Javascripts -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/jquery-migrate.js"></script>
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/plugins.js"></script>
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/headroom.js"></script>
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/jquery.unveilEffects.js"></script>
+
+<script type="text/javascript" src="manager/templates/wildaid/assets/js/custom.js"></script>
+
+
+</body>
+</html>

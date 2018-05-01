@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>De pagina die u zocht bestaat niet (404)</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script>
+     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+     })(window,document,'script','dataLayer','GTM-THHNGTW');
+    </script>
+    <link rel="stylesheet" media="all" href="//cloud.webtype.com/css/0320258a-fdad-4c28-9b95-ed588ab58eaf.css">
+    <style>
+     body {
+       background-color: #fff;
+       color: #000;
+       text-align: center;
+       font-family: "Miller Text", Georgia, serif;
+       font-size: 20px;
+       line-height: 1.5;
+       margin: 0;
+     }
+
+     div.dialog {
+       width: 95%;
+       max-width: 23em;
+       margin: 3em auto 0;
+       text-align: center;
+     }
+
+     img {
+       max-width: 250px;
+     }
+
+     div.dialog {
+       border: 1px solid #ed1c24;
+       background-color: white;
+       padding: 20px 40px;
+     }
+
+     h1 {
+       font-size: 150%;
+       line-height: 120%;
+       color: #000;
+       font-weight: 600;
+       margin: .5em 0;
+     }
+
+     p.options {
+       margin: 0;
+       padding: 1em 0 0;
+       border-top: 1px solid #ed1c24;
+       font-size: 18px;
+     }
+
+     a {
+       color: #ed1c24;
+       text-decoration: underline;
+       line-height: inherit;
+       font-weight: inherit;
+     }
+     a:hover {
+       color: #000;
+       text-decoration: underline;
+     }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-THHNGTW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <div class="dialog">
+      <img src="/static/vout.jpg">
+      <div>
+        <h1>De pagina kan niet gevonden worden</h1>
+        <p>Misschien is de pagina verhuisd of misschien heeft u het adres niet juist ingevoerd.</p>
+      </div>
+      <p class="options">
+        <a href="/">Naar de homepage</a> van <em>De Groene Amsterdammer</em>
+        of neem contact met ons op via <a href="mailto:groene@groene.nl">groene@groene.nl</a>
+      </p>
+    </div>
+  </body>
+</html>

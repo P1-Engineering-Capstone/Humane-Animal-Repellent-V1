@@ -1,0 +1,387 @@
+<!doctype html>
+<html class="">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+
+<!-- FB Instant Articles -->
+<meta property="fb:pages" content="120437254701165" />
+
+<!-- Icons and RSS -->
+<link type="image/x-icon" href="/favicon.ico" rel="shortcut icon" />
+<link rel="apple-touch-icon" href="/djb_media/djb180.png" />
+<link rel="alternate" title="All Dutch &amp; English DJBroadcast content" type="application/rss+xml" href="https://www.djbroadcast.net/rss/all.xml" />
+<link rel="alternate" title="All English DJBroadcast content" type="application/rss+xml" href="https://www.djbroadcast.net/rss/all-english.xml" />
+<link rel="alternate" title="DJBroadcast - English section" type="application/rss+xml" href="https://www.djbroadcast.net/rss/english.xml" />
+<link rel="alternate" title="DJBroadcast - Dutch section" type="application/rss+xml" href="https://www.djbroadcast.net/rss/dutch.xml" />
+<link rel="alternate" title="DJBroadcast - Audio section" type="application/rss+xml" href="https://www.djbroadcast.net/rss/audio.xml" />
+<link rel="alternate" title="DJBroadcast - Video section" type="application/rss+xml" href="https://www.djbroadcast.net/rss/video.xml" />
+
+<title>DJBROADCAST</title>
+
+<!-- //USE14 -->
+
+<!-- 
+<link rel="stylesheet" type="text/css" href="https://fast.fonts.net/cssapi/51461680-3b9e-4a9f-b615-ef3beb5e9024.css" />
+<link rel="stylesheet" type="text/css" href="//f.fontdeck.com/s/css/RtLSdsePXbx7epVI8hBTdYCty8o/www.djbroadcast.net/55125.css" />
+ -->
+<link rel="stylesheet" type="text/css" href="/style/base.css?1516663332" />
+
+<script type="text/javascript" src="/script/common/jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="/script/common/soundmanager2-nodebug-jsmin.js"></script>
+<script type="text/javascript" src="/script/common/use.min.js"></script>
+
+<script type="text/javascript" src="/script/DJB.js?1516663332"></script>
+<script type="text/javascript">
+	
+var app;
+
+$(function() {
+	
+	/*	init app
+	*/
+
+	//make sure CSS transitions are supported
+	var s = document.createElement('div').style,
+		supported = 'transition' in s || 'webkitTransition' in s || 'MozTransition' in s || 'msTransition' in s || 'OTransition' in s;
+	if (!supported) return $('body').html('<div id="unsupported">Sorry, this browser is not supported.<br/>Please update to a more recent version to view DJBROADCAST.</div>');
+
+	app = new DJB('','','');
+	
+	soundManager.setup({
+		url:'/media/',
+		onready: function() {
+			app.playerUI();
+		}
+	});
+
+});
+
+</script>
+
+<script type="text/javascript">
+	var googletag = googletag || {};
+	googletag.cmd = googletag.cmd || [];
+	(function() {
+		var gads = document.createElement("script");
+		gads.async = true;
+		gads.type = "text/javascript";
+		var useSSL = "https:" == document.location.protocol;
+		gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+		var node =document.getElementsByTagName("script")[0];
+		node.parentNode.insertBefore(gads, node);
+	})();
+
+	googletag.cmd.push(function() {
+		googletag.pubads().collapseEmptyDivs(true);
+		googletag.pubads().addEventListener('slotRenderEnded', function(e) {
+ 			if (!e.isEmpty)
+ 			{
+ 				$(window).triggerHandler('resize');
+ 				app.grid.triggerHandler('cacheOffsets',true);
+ 			}
+		});
+	});
+</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+var host = window.location.host;
+if (host!='djb' && host!='djb.dev' && host!='dev.djbroadcast.nl' && host!='djb.use.media')
+{
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1225656250853392'); // Insert your pixel ID here.
+	fbq('track', 'PageView');
+}
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1225656250853392&ev=PageView&noscript=1"/></noscript>
+
+</head>
+
+<body>
+<div id="fb-root"></div>
+<script>
+	window.fbAsyncInit = function() {
+		FB.init({
+			appId:'151753634970619',
+			cookie:true,
+			version:'v2.1'
+		});
+		
+		app.FBready = true;
+	};
+
+	(function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.id = id;
+		js.src = "//connect.facebook.net/en_US/sdk.js";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<!-- header -->
+
+<div id="header">
+	<div class="bar">
+		<a class="logo">
+		<svg width="29px" height="32px" viewBox="15 16 29 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g id="Imported-Layers-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(15.000000, 16.000000)">
+				<path d="M12.1886714,16.0708485 C10.3151452,16.0708485 8.79655298,14.5096131 8.79655298,12.5837641 C8.79655298,10.657915 10.3151452,9.09639252 12.1886714,9.09639252 L13.6952556,9.0880667 C15.5643137,9.10127318 17.0781585,10.660786 17.0781585,12.5837641 C17.0781585,14.5096131 18.4984528,16.0682646 18.4199819,16.0625227 L12.4263179,16.0625227 C12.3478471,16.0682646 12.2685385,16.0708485 12.1886714,16.0708485 L12.1886714,16.0708485 Z M25.4418653,6.98306891 C27.3151122,6.98306891 28.8337044,5.42183351 28.8337044,3.49569737 C28.8337044,1.5730064 27.3198595,0.0134935756 25.4508014,0 L12.1886714,0 C5.45693466,0 0,5.61016937 0,12.5309382 C0,19.4514198 5.45693466,25.0615892 12.1886714,25.0615892 L15.2811484,25.0615892 L20.7520459,30.6861134 C20.8037082,30.7472652 20.8578838,30.8066943 20.9145727,30.8649751 C22.2390822,32.2269649 24.3868374,32.2269649 25.711347,30.8649751 C27.0339017,29.505282 27.0361358,27.302097 25.7236342,25.933791 L19.1756477,19.2139903 C18.5221895,18.5421825 17.668505,18.2016851 16.8120279,18.1924979 L12.1886714,18.192785 C9.17522364,18.192785 6.73257447,15.6815445 6.73257447,12.5837641 C6.73257447,9.55201602 9.07217831,7.0818304 12.0049211,6.97790116 C12.0657989,6.98134633 25.3617189,6.98306891 25.4418653,6.98306891 Z M22.1469278,16.0708485 C22.226795,16.0708485 22.3061036,16.0682646 22.3845744,16.0625227 C22.3845744,16.0625227 23.1648147,16.0708485 23.2449611,16.0708485 C25.118208,16.0708485 26.6368002,14.5096131 26.6368002,12.5837641 C26.6368002,10.660786 25.1229553,9.10127318 23.2538972,9.0880667 L22.1469278,9.09639252 C20.2736809,9.09639252 18.7548095,10.657915 18.7548095,12.5837641 C18.7548095,14.5096131 20.2736809,16.0708485 22.1469278,16.0708485 L22.1469278,16.0708485 Z"></path>
+			</g>
+		</svg>
+		<svg id="sponsored" width="55px" height="26px" viewBox="0 0 55 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<defs>
+				<filter x="-0.1%" y="-0.8%" width="100.2%" height="103.1%" filterUnits="objectBoundingBox" id="filter-1">
+					<feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+					<feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.147503397 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+					<feMerge>
+						<feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+						<feMergeNode in="SourceGraphic"></feMergeNode>
+					</feMerge>
+				</filter>
+			</defs>
+			<g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+				<g id="Back-Nav-We" transform="translate(-15.000000, -19.000000)" fill="#FFFFFF">
+					<g id="Group-Copy-23" filter="url(#filter-1)">
+						<g id="Nav-bar-3">
+							<g id="WE-Copy-4" transform="translate(15.000000, 19.000000)">
+								<path d="M15,17.0768293 C15.7617718,17.0768293 16.1904861,17.4922107 16.7143214,18.2766919 L19.0000834,21.7383216 C19.8570655,23.0764082 20.5714107,24 22.2380377,24 C23.9046647,24 24.6667044,23.3535655 25.475992,21.5531953 C26.4760575,19.3385077 27.5238175,16.6614479 28.4760992,13.0618602 C29.5238591,9.04582716 30,6.55398222 30,4.52344555 C30,2.49193361 29.3334385,1.29207103 27.0476766,0.876689657 C23.9046647,0.323261579 19.6666448,0 15,0 C10.3333552,0 6.09533535,0.323261579 2.95232339,0.876689657 C0.666650788,1.29207103 0,2.49193361 0,4.52344555 C0,6.55398222 0.476140856,9.04582716 1.52390082,13.0618602 C2.47618254,16.6614479 3.5239425,19.3385077 4.524008,21.5531953 C5.33329562,23.3535655 6.09533535,24 7.76196232,24 C9.42858929,24 10.1429345,23.0764082 10.9999166,21.7383216 L13.2856786,18.2766919 C13.8095139,17.4922107 14.2382282,17.0768293 15,17.0768293" id="Fill-3"></path>
+								<path d="M44.7566972,25 C48.7403076,25 51.7752911,23.7596148 53.3878235,22.0421583 C54.2413653,21.0873742 55.2371345,19.6089574 54.52582,18.4637114 C53.9092347,17.4622743 52.8660564,17.2708958 51.6329748,17.8915009 C50.4000712,18.5112811 49.0248512,18.8454601 47.4599948,18.8454601 C45.9422807,18.8454601 44.3298373,18.2732495 43.4762954,17.4136047 C42.4331172,16.3645063 41.863941,15.0289817 41.863941,13.4543258 C41.863941,13.0725772 42.1011644,13.0250992 42.5279354,13.3590949 C43.6187007,14.2178231 45.2308772,14.6471414 47.4123189,14.6471414 C51.4433384,14.6471414 55,11.9274228 55,7.72910419 C55,3.29192911 50.82702,0 44.5194737,0 C37.4537375,0 32,4.579884 32,12.3090798 C32,19.5137265 36.7422451,25 44.7566972,25" id="Fill-1"></path>
+							</g>
+						</g>
+					</g>
+				</g>
+			</g>
+		</svg>
+		<span class="playing"></span>
+		</a>
+		<a class="close">Sluit artikel</a>
+		<a class="search">
+		<svg width="43px" height="43px" viewBox="608 10 43 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<defs></defs>
+			<g id="Search-White" stroke="none" fill="none" transform="translate(629.000000, 32.000000) rotate(45.000000) translate(-629.000000, -32.000000) translate(617.000000, 16.000000)">
+				<circle id="Oval-40" stroke-width="1" transform="translate(12.000000, 12.000000) scale(-1, 1) translate(-12.000000, -12.000000) " cx="12" cy="12" r="12"></circle>
+				<rect id="Rectangle-36" fill-rule="evenodd" x="11" y="24" width="3" height="8"></rect>
+			</g>
+		</svg>		
+		</a>
+		<div class="search">
+			<input id="search" placeholder="Zoek op artikelen, artiesten of labels">
+			<a class="reset">
+			<svg width="26px" height="26px" viewBox="618 18 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+				<g id="X-Close-White" stroke="none" fill="none" transform="translate(619.000000, 19.000000)" fill-rule="evenodd">
+					<rect id="Rectangle-3" transform="translate(12.020815, 12.020815) rotate(45.000000) translate(-12.020815, -12.020815) " x="-3.97918472" y="11.0208153" width="32" height="2"></rect>
+					<rect id="Rectangle-3-Copy" transform="translate(12.020815, 12.020815) rotate(-45.000000) translate(-12.020815, -12.020815) " x="-3.97918472" y="11.0208153" width="32" height="2"></rect>
+				</g>
+			</svg>
+			</a>
+		</div>
+
+		<div class="menu">
+			<a class="menu filter all selected">Alle verhalen</a>
+			<a class="menu filter audio" data-filter="fm">Audio</a>
+			<a class="menu filter hourcollection" data-filter="hourcollection">WeTransfer presents: (h)our collection</a>
+			<a class="menu filter trending">Populair</a>
+			<a class="menu filter bookmarks">Leeslijst</a>
+			<a class="menu page" data-filter="manifest">Manifest</a>
+			<!-- <a class="menu mailinglist">Mailing list</a> -->
+			<a class="menu settings">Instellingen<span class="signin">Inloggen / Aanmelden</span><span class="signout">Uitloggen</span></a>
+			<div id="social" class="clear"></div>
+		</div>
+
+	</div>
+</div>
+
+<div id="page-header">
+	<div id="page-menu">
+		<div class="menu">
+			<a class="selected all">All stories</a>
+			<a class="bookmarks">Bookmarks</a>
+			<a class="trending">Trending</a>
+		</div>
+		<div id="article-header">
+			<div class="meta"></div>
+			<a class="close"><span class="text">Close<span class="article"> Article</span></span></a>
+		</div>
+		<a class="search"></a>
+	</div>
+	
+</div>
+
+<!-- side bar -->
+
+<div id="page-sidemenu">
+	<div class="playing"></div>
+</div>
+<div id="page-sidebar">
+	<div class="djb"><div></div></div>
+	<div class="menu">
+		<div class="header">Content filters</div>
+		<a data-filter="all" class="selected">All types</a>
+		<a data-filter="net">English</a>
+		<a data-filter="nl">Dutch</a>
+		<a data-filter="fm">Audio</a>
+		<a data-filter="tv">Video</a>
+		<div class="sub">
+			<!-- <a data-filter="shop">Magazine</a> -->
+			<!-- <a data-filter="subscribe">Subscribe</a> -->
+			<a data-filter="about">About</a>
+			<a data-filter="features">Site features</a>
+		</div>
+	</div>
+	<!-- <div id="social" class="clear"></div> -->
+	<div id="profile">
+		<div class="signin">
+			<div class="header">Sign in with DJB</div>
+			<p>Make the most of your DJBroadcast. Create an account and customise DJB to fit your personal taste.</p>
+			<a class="button">Sign in / Sign up</a>
+		</div>
+		<div class="user">
+			<div class="avatar"></div>
+			<span class="name"></span> <a class="signout small">(Sign out)</a>
+			<a class="edit">Edit your content and notifications</a>
+		</div>
+		<ul id="notifications"></ul>
+	</div>
+</div>
+
+<!-- home grid -->
+
+<div id="page-fixed">
+	<div id="page-body">
+		<div id="djb">
+			<img src="/media/djb-icon.svg"/>
+			<img src="/media/djb-logo.svg"/>
+		</div>
+		<div id="grid" class="clear"></div>
+	</div>
+</div>
+
+<!-- article view -->
+
+<div id="page-article">
+	<article>
+	<div class="head">
+		<div class="media"></div>
+		<div class="media hd"></div>
+		<div class="title modern"></div>
+	</div>
+	<div class="share"><a class="hype"></a><a class="bookmark"></a><a class="share"><i></i>Delen</a></div>
+	<div class="sponsor"><!-- <div class="caption">This article is brought to you by</div> --></div>
+	<div class="body">
+		<blockquote class="short"></blockquote>
+		<div class="text"></div>
+		<div class="end"></div>
+		<!-- <div class="comments"><a class="header caption"><i></i>Got something to say</a><div id="comments"></div></div> -->
+		<div class="related"><blockquote>Blijf bij ons, hier meer content waarvan we denken dat het je gaat bevallen</blockquote><div id="related"></div></div>
+		<div class="footer caption"><img class="logo" src="/media/djb-icon.svg"/><div>©2018 <a href="http://blueprintmedia.nl" target="_blank">Blueprint.Media</a> hosted by <a href="http://true.nl" target="_blank"><img class="logo true" src="/media/true-logo.svg" alt="hosted by True"/></a></div></div>
+	</div>
+	</article>
+</div>
+
+<!-- modals -->
+
+<div id="page-dimm" class="modal"></div>
+<div id="page-settings" class="modal">
+	<a class="close"></a>
+	<div class="head">
+		<div class="title">Pas je persoonlijke instellingen aan</div>
+		<div class="avatar"></div>
+		<div class="name"></div>
+	</div>
+	<div class="account">
+		<div class="title">Persoonlijke instellingen</div>
+		<ul>
+			<li class="name">Profielnaam: <strong>niet ingesteld</strong> <a class="edit">(Wijzigen)</a></li>
+			<li class="email">Email: <strong>niet ingesteld</strong> <a class="edit">(Wijzigen)</a><span class="caption">Inloggen met je e-mailadres? <a class="create">Maak een login aan</a></span></li>
+			<li class="email pw">Password: <strong>niet ingesteld</strong> <a class="edit">(Wijzigen)</a></li>
+		</ul>
+	</div>
+<!--  //removed 2017 design
+	<div class="social">
+		<div class="title">Social</div>
+		<ul>
+			<li class="social facebook">Facebook: <strong>Connected</strong><a class="connect">Connect</a></li>
+			<li class="social twitter">Twitter: <strong>Connected</strong><a class="connect">Connect</a></li>
+		</ul>
+	</div>
+ -->
+<!-- //removed 2017 design
+	<div class="filters">
+		<div class="title">Content filters</div>
+	</div>
+ -->
+	<div class="newsletter">
+		<div class="title">Nieuwsbrief</div>
+		<div class="intro">Ontvang elke week onze nieuwsbrief met daarin al onze artikelen overzichtelijk op een rij.</div>
+	</div>
+<!-- //removed 2017 design
+	<div class="notifications">
+		<div class="title">Notifications</div>
+	</div>
+ -->
+	<div class="design clear">
+		<div class="title">Design & layout</div>
+		<div class="intro">Personaliseer de website en kies de typografie die je voorkeur heeft.</div>
+	</div>
+
+</div>
+<div id="page-signin" class="modal">
+	<a class="close"></a>
+	<div class="title"></div>
+	<div class="body"></div>
+	<div class="caption"></div>
+	<form id="signin" onsubmit="return false">
+		<div class="social">
+			<input type="button" class="twitter" value="Sign in with Twitter."/>
+			<input type="button" class="facebook" value="Sign in with Facebook."/>
+			<div>or</div>
+		</div>
+		<div class="login">
+			<input name="username" type="text" placeholder="Email"/>
+			<input name="password" type="password" placeholder="Password"/>
+		</div>
+		<div class="email">
+			<input name="email" type="text" placeholder="Email"/>
+		</div>
+		<div class="pw">
+			<input name="old_password" type="password" placeholder="Old Password"/>
+			<input name="new_password" type="password" placeholder="New Password"/>
+		</div>
+		<div class="rset">
+			<input name="rset_password" type="password" placeholder="New Password"/>
+		</div>
+		<input type="submit" value="Submit"/>
+		<div class="forgot"><a class="caption">Forgot your password?</a></div>
+	</form>
+	<div class="loading"></div>
+</div>
+<div id="page-search" class="modal">
+	<!-- <a class="close"></a> -->
+	<div class="body">
+		<!-- <input id="search" placeholder="type to search"> -->
+		<div id="result"></div>
+	</div>
+</div>
+
+<script>
+var host = window.location.host;
+if (host!='djb' && host!='djb.dev' && host!='dev.djbroadcast.nl' && host!='djb.use.media')
+{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1737396-12', 'auto');
+  ga('send', 'pageview');
+}
+</script>
+
+</body>
+</html>

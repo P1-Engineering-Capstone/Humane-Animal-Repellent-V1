@@ -1,0 +1,467 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns:php="http://php.net/xsl"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8"><title>opapostzegel.punt.nl</title><meta name="keywords" content=",">
+		<style type="text/css">
+.js {visibility: hidden;}
+</style>
+<script src="/style/oran20121108213902/javascript/jquery.js" type="text/javascript"></script>
+<script src="/style/oran20121108213902/javascript/hoverIntent.js" type="text/javascript"></script>
+<script type="text/javascript">
+/* The Following JQuery script is written exclusively written for the Orange Nova design
+Used with the Websitemaker of Mijndomein only
+Copyright for this script goes to BringingPlutoBack and cannot be re-used 
+without written permission.
+Written by Daniel R. [http://www.bringingplutoback.com]
+*/
+$('html').addClass('js');
+$(document).ready(function() {
+var divmenu = $('div.#block_menu');
+var header2 = $('<div id="headertwo"><div class="titlecontainer" /></div>');
+divmenu.appendTo(".header");
+$('.multilevelmenu').addClass('sf-menu sf-js-enabled sf-shadow');
+header2.insertBefore($('.outputwrapper'));
+$('.sitetitle').appendTo('.titlecontainer');
+});
+</script>
+		<meta name="description" content=""><link rel="alternate" type="application/rss+xml" href="http://opapostzegel.punt.nl/upload/hond1.jpg?rss" title="opapostzegel.punt.nl"><style type="text/css">
+
+
+			@import "/Layout/Puntbasic/main.css";
+			@import "/Layout/Puntbasic/overrule.css";			
+					
+				@import "/style/oran20121108213902/main.css";
+				</style><script language="javascript" type="text/javascript">
+			var basepath = '';
+			var layoutname = 'Threeblocks';
+			var Dialogframe = '';
+		</script>
+		
+		</head><body>
+		
+		
+		<script language="javascript" type="text/javascript" src="/javascript/nl_NL.loaderbar.js"></script><script language="javascript" type="text/javascript">
+				loaderbar = new loaderbar({mode:'silent'})
+
+				
+				loaderbar.addfile('wsmpack.js',50);
+				
+					loaderbar.addfile('social.js',50);
+				
+					
+				loaderbar.setonload(function (){
+				});
+				loaderbar.start();
+		</script><div class="websitecontent clearfix" id="websitecontent"><div id="wrapper"><div class="header"><div class="logo"><img src="/Layout/Threeblocks/Images/blank.gif"></div><div class="sitetitle">opapostzegel.punt.nl</div><div class="sitemission"></div></div>
+
+<div id="block_menu"><div id="multilevelmenuwrapper"><ul class="multilevelmenu">
+		
+		<li class="multilevelmenuitem menulevelitem menuitemnr0"><a href="/">Home</a></li>
+		
+	
+		
+		<li class="multilevelmenuitem menulevelitem menuitemnr1"><a href="/category">Categorieën</a></li>
+		
+	
+		
+		<li class="multilevelmenuitem menulevelitem menuitemnr2"><a href="/mediaalbum">Albums</a></li>
+		
+	
+		
+		<li class="multilevelmenuitem menulevelitem menuitemnr3"><a href="/Admin">Admin</a></li>
+		
+	</ul></div></div>
+	
+<div class="outputwrapper" id="outputwrapper">
+	
+	<div class="block_main main" id="block_main">
+		
+	
+		
+	<div class="blocktitle">Laatste artikelen</div>
+		
+	
+		
+	
+
+<div class="wsp_pagination"><div class="nextpage_anchor"><a href="/upload/hond1.jpg?pagefor=category_view_frontpage_10&amp;pagenr=1">volgende &#187;</a></div></div><div class="paginationclear" style="clear:both;"></div><div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2013/04/Geloofscrisis">Geloofscrisis</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl/" target="_blank">opapostzegel</a>
+                  13-04-2013 14:59-
+			<a href="/content/2013/04/Geloofscrisis">permalink</a></div><div class="normaltext"><p style="text-align: center;"><span style="color: #0000ff; font-family: times new roman,times; font-size: large;"><strong>Geloofscrisis</strong></span></p>
+<p><span style="font-size: x-small;">Je kunt door allerlei oorzaken &nbsp;je geloof verliezen. Nu bedoel ik met geloof dit keer niet een bepaalde religieuze overtuiging, maar het geloof in postzegels en het verzamelen van moderne postzegels.</span></p>
+<p><span style="font-size: x-small;">Postzegels verzamelen was voor mij een soort geloofsovertuiging. Maar helaas, net als bij mijn religieuze overtuiging zijn er tegenwoordig &nbsp;ontzettend veel dingen die me ernstig aan het twijfelen hebben gebracht. &nbsp;Bij het postzegelverzamelen is dat nu in eerste instantie de massale hoeveelheid verschillende zegels die de postadministraties op de markt brengen. Voor 99% <strong>totaal overbodig</strong>, maar alleen bedoeld om de verzamelaars geld uit de zak &nbsp;te kloppen. En dan bedoel ik niet alleen de uitgiften van zogenaamde bananenrepublieken als Guinee of Togo, maar ook de onzinnige aantallen die PostNL de verzamelaar met de modernste reclametechnieken probeert te slijten. Zegels die beslist niet bedoeld zijn om er je post mee te frankeren, maar alleen om ongebruikt in een album te stoppen.</span></p>
+<p><span style="font-size: x-small;">Ik zie door de bomen het bos niet meer en ik wil die bomen gewoon niet meer zien. Ik begrijp ook werkelijk niet hoe verenigingen van postzegelverzamelaars &ndash; ook de mijne &ndash; eraan kunnen meewerken dat zoveel mogelijk van die troep verkocht wordt. Ik zeg dan ook aan het eind van het jaar mijn lidmaatschap op.</span></p>
+<p><span style="font-size: x-small;">O ja, er is ook nog een maandblad <strong><em>Filatelie</em>.</strong> De onafhankelijkheid van dit blad betwijfel ik ondertussen ook zeer. Ik raak er steeds meer van overtuigd, dat de postzegelhandel bij dit magazine de dienst uitmaakt. Niet toevallig is de hoofdredacteur de Zwijndrechtse postzegelhandelaar Ren&eacute; Hillesum.</span></p>
+<p><span style="font-size: x-small;">Misschien een beetje vreemd voor iemand, die via het internet een klein postzegelhandeltje drijft, maar ik roep elke verzamelaar op, te stoppen met het kopen van die moderne pulp!</span></p>
+<p><span style="font-size: x-small;">Ophouden dan met verzamelen? Nee, natuurlijk niet, &nbsp;maar ga dan <strong>post</strong>-zegels verzamelen. En wat de moderne zegels betreft, zijn dan voor mij alleen nog gebruikte &ndash; <strong>echt gelopen</strong> &ndash; zegels. &nbsp;En probeer dan maar eens om alle Nederlandse uitgiften van 2012 compleet te krijgen!</span></p>
+<p>&nbsp;</p></div><a href="/content/2013/04/Geloofscrisis#comments" class="readmorelink">Reacties </a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2013/04/Geloofscrisis" data-text="Geloofscrisis" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2013%2F04%2FGeloofscrisis&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2012/11/Bananenkoninkrijk">Bananenkoninkrijk</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl/" target="_blank">opapostzegel</a>
+                  08-11-2012 15:44-
+			<a href="/content/2012/11/Bananenkoninkrijk">permalink</a></div><div class="normaltext"><p style="text-align: center;"><span style="color: #0000ff; font-size: medium;"><strong><span style="font-family: arial,helvetica,sans-serif;">Bananenkoninkrijk</span></strong></span></p>
+<p style="text-align: left;"><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">Als postzegelverzamelaar begin je je toch steeds vaker af te vragen of het nog gekker kan en vooral of ze bij PostNL misschien gek geworden zijn.</span></p>
+<p style="text-align: left;"><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">De hoeveelheid zegels die PostNL over de verzamelaars uitstort grenst aan het ongelofelijke. Het ergste daarbij is, dat het eigenlijk helemaal niet meer om postzegels gaat. Het &nbsp;gaat namelijk in verreweg de meeste gevallen om plaatjes, soms heel fraai uitgevoerd en vaak ook niet om aan te zien, die PostNL alleen maar uitgeeft om de beurs van de verzamelaar te plukken. O ja, die plaatjes hebben inderdaad frankeerwaarde en je k&ugrave;nt ze gebruiken om er je post mee te frankeren, maar dat is eigenlijk helemaal niet de bedoeling. Nee, ze zijn eigenlijk alleen maar bedoeld om postfris opgeborgen te worden, bij voorkeur in een of ander album dat PostNl je ook voor een forst bedrag wilt verkopen.<br /><img src="/_contentimages/2012-11-08-15-47-38.zeehelden.jpg" alt="" /></span></p>
+<p style="text-align: left;"><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">Als grote nieuwigheid brengt PostNL nu een set van 12 velletjes zeehelden uit. Elk velletje met een frankeerwaarde van &euro; 1,50. Het bijzondere van deze zegels &nbsp;is, dat ze in zilverdruk zijn uitgevoerd en daarom kosten ze dus geen &euro; 1,50 maar &nbsp;&euro; 4,95</span></p>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">Zo&rsquo;n onmogelijke zegel, die niet eens behoorlijk als zegel gebruikt kan worden omdat hij niet behoorlijk gestempeld kan worden, hebben we al eens eerder gehad.<br /> Ook Piet Hein,voor <em>slechts</em> &fnof; 12,50<br /><img style="margin-right: auto; margin-left: auto; display: block;" src="/_contentimages/2012-11-08-15-39-58.piet hein.jpg" alt="" /><br /></span><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">Vroeger spraken we wel van bananenrepublieken voor landen die een overmaat aan zegels uitgaven. We hebben er nu dus ook een bananenkoninkrijk bij.</span></p>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">O, en waarschijnlijk begrijpt u nu ook waarom ik zelf tegenwoordig alleen nog echt gelopen zegels met een zo mooi mogelijk stempel verzamel. Die hebben namelijk bewezen dat ze POST-zegel zijn.</span></p></br></br></br></div><a href="/content/2012/11/Bananenkoninkrijk#comments" class="readmorelink">Reacties </a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2012/11/Bananenkoninkrijk" data-text="Bananenkoninkrijk" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2012%2F11%2FBananenkoninkrijk&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2012/11/Betaling">Betaling</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl/" target="_blank">opapostzegel</a>
+                  06-11-2012 14:27-
+			<a href="/content/2012/11/Betaling">permalink</a></div><div class="normaltext"><p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;">Only paying by bank-account with IBAN/BIC, Skrill, PayPal or cash in EURO accepted.</span></p>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><strong> <span style="color: #ff0000;"><strong>Skrill-paying</strong></span></strong><strong><span style="color: #ff0000;">: </span>&euro; 0.19 + 2%</strong><strong> <br /></strong></span><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><strong><span style="color: #ff0000;"><strong>PayPal-paying</strong></span></strong><span style="color: #ff0000;"><strong>: </strong></span><strong>European Union: &euro; 0.35 + 3.5%</strong><strong>&nbsp;<br /></strong></span><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USA and Canada: &euro; 0.35 + 4%</strong><strong>&nbsp;&nbsp;<br />&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other countries: &euro; 0.35 + 5%</strong></span></p>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><em>No extra fees</em> for bank transfers within the <em>EU</em><strong>,</strong> using IBAN/BIC.</span></p>
+<p><span style="color: #0000ff; font-family: arial,helvetica,sans-serif; font-size: x-small;"><strong>No extra Delcampe costs. <br />Keine Delcampe-Mehrkosten. <br /></strong></span><span style="color: #0000ff; font-family: arial,helvetica,sans-serif; font-size: x-small;"><strong>Sans aucun pr&eacute;l&eacute;vement suppl&eacute;mentaire pour Delcampe.</strong></span></p>
+<p><span style="font-family: arial,helvetica,sans-serif; font-size: x-small;"><span id="auctionDescription">Vergleichen Sie nicht nur die Preise der angebotenen Artikel, sondern auch Portokosten u.s.w. <br /></span><span id="auctionDescription">Compare not only prices of the items, but als shipping and handling costs. <br />Comparer non seulement les prix des articles, mais aussi les frais de port etc.</span></span></p></br></br></br></br></br></br></div><a href="/content/2012/11/Betaling#comments" class="readmorelink">Reacties </a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2012/11/Betaling" data-text="Betaling" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2012%2F11%2FBetaling&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2012/06/kniertje">Kniertje</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  27-06-2012 16:25-
+			<a href="/content/2012/06/kniertje">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div align="center"><strong><font color="#0033cc" size="5">Kniertje</font></strong></div>
+<div align="center"><strong><font color="#0033cc" size="5">&nbsp;</font></strong></div>
+<div align="center"><img title="" alt="" src="/_files/2012-06-27/kniertje.jpg" width="323" height="447"></div>
+<div align="center">&nbsp;</div>
+<div align="center"><font color="#0033cc">Herman Heijermans: Op Hoop van Zegen - Kniertje</font></div>
+<div align="center"><font color="#0033cc">NVPH 1049</font></div>
+<div align="center"><font color="#0033cc">&nbsp;</font></div>
+<div align="center"><font color="#000000">Waarom zag ik nu in gedachten dit zegeltje voor me toen ik onderstaand bericht<br>
+ las en ik op mijn tong moest bijten om het derde gebod niet te overtreden?</font></div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center"><img title="" alt="" src="/_files/2012-06-27/groenink.gif" width="400" height="300"></div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div></div><a href="/content/2012/06/kniertje" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2012/06/kniertje" data-text="Kniertje" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2012%2F06%2Fkniertje&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2011/10/postzegels-en-postzegel">Postzegels en Postzegel</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  18-10-2011 14:21-
+			<a href="/content/2011/10/postzegels-en-postzegel">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><b><span style="font-size: 14pt;"><font face="Times New Roman"><font color="#0033ff"><font size="5">Postzegels en Postzegels </font></font></font></span></b><b><span style="font-size: 14pt;"><font color="#0033ff" face="Times New Roman">&nbsp;</font> </span></b></p>
+<p><font color="#000000" size="3" face="Times New Roman">Wie er een catalogus op na slaat en de prijzen van postfrisse en gebruikte zegels vergelijkt, zal tot de conclusie komen dat postfrisse zegels vrijwel altijd beduidend duurder zijn dan gebruikte. De meeste verzamelaars verzamelen tegenwoordig namelijk postfrisse zegels. </font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font color="#000000" size="3" face="Times New Roman">Persoonlijk vind ik dat nogal vreemd, om de doodeenvoudige reden dat voor mij een postzegel pas een postzegel is als hij gediend heeft om er een poststuk mee te frankeren.</font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font color="#000000" size="3" face="Times New Roman">Zo'n postfris exemplaar mag dan misschien een fraai plaatje opleveren, maar daar blijft het dan ook bij. </font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font color="#000000" size="3" face="Times New Roman">En ja, ik heb ook zo verzameld en het levert fraaie albumbladen op, maar daar is de kous dan ook mee af. Ik kan dan net zo goed ansichtkaarten of foto's van vogels gaan verzamelen.</font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal">&nbsp;</p>
+<p><font color="#000000" size="3" face="Times New Roman">
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="http://filiopa.punt.nl/upload/Pz1.jpg" width="445" height="225"></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center">&nbsp;</div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="http://filiopa.punt.nl/upload/Pz2.jpg" width="451" height="225"></div></font></p>
+<p><font color="#000000" size="3" face="Times New Roman">Als ik de zegels hierboven vergelijk, vind ik de zegels rechts dus echte postzegels; voor mij ideale exemplaren, want ik kan zien waar en wanneer ze gebruikt zijn: volledige plaatsnaam en datum èn niet met een zogenaamd welwillendheidsstempel, maar echt gelopen.<br>
+</font><font color="#000000" size="3" face="Times New Roman">Zo'n zegel heeft geschiedenis.</font></p>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font color="#000000" size="3" face="Times New Roman">En dan de prijs volgens de catalogus: de postfrisse exemplaren zijn ongeveer twee maal zo duur als de gebruikte. Als je probeert via het internet deze zegels te kopen kom je tot de ontdekking dat de postfrisse exemplaren bij tientallen worden aangeboden, maar dat het heel wat moeilijker of vrijwel onmogelijk is gebruikte exemplaren te vinden zoals ik ze graag zie. Kijk, naar zulke zegels moet je zoeken en dan vind ik verzamelen weer een sport! Om dergelijke fraaie exemplaren van Duitsland te vinden is nog vrij gemakkelijk, maar probeer hetzelfde eens met bijvoorbeeld Zuid-Afrika. Dat wordt echt zoeken! En nog leuker wordt het om zulke briefstukjes of poststukken van Zuid-Afrika te vinden zoals hieronder afgebeeld.</font></div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font color="#000000" size="3" face="Times New Roman"><img title="" alt="" src="http://filiopa.punt.nl/upload/pzgl_rsa_amersfoort.jpg" width="390" height="396">
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center">&nbsp;</div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="http://filiopa.punt.nl/upload/pzgl_rsa_marken.jpg" width="381" height="361"></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center">&nbsp;</div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="http://filiopa.punt.nl/upload/Postst._rsa.jpg" width="647" height="445"></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center">&nbsp;</div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font color="#000000" size="5">Mensen, ga <em><strong>post</strong></em>zegels verzamelen!</font></div></font></p>
+<p>&nbsp;</p></div></div><a href="/content/2011/10/postzegels-en-postzegel" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2011/10/postzegels-en-postzegel" data-text="Postzegels en Postzegel" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2011%2F10%2Fpostzegels-en-postzegel&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2011/03/sparen">Sparen</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  17-03-2011 17:26-
+			<a href="/content/2011/03/sparen">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div align="center"><font color="#ff0000" size="6">Sparen en Bonussen</font></div>
+<div align="center"><font color="#ff0000" size="6">&nbsp;</font></div>
+<div align="center"><img title="" alt="" src="/_files/2011-03-17/sparen.jpg" width="453" height="313"></div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center"><font color="#0000cc" size="2"><strong>Denk er goed aan, mensen, sparen levert je rente op!</strong></font></div>
+<div align="center"><strong><font color="#0000cc" size="2">&nbsp;</font></strong></div>
+<div align="center"><img title="" alt="" src="/_files/2011-03-17/bonussen.gif" width="400" height="300"></div>
+<div align="center">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="center"><strong>Gij zult de naam des Heren uws Gods niet ijdel gebruiken...</strong></div>
+<div align="center"><strong>&nbsp;</strong></div>
+<div align="left"><font size="2">Ben ik nu de enige die moeite heeft om zich bij het lezen van zulk nieuws aan het derde gebod te houden?</font></div></div><a href="/content/2011/03/sparen" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2011/03/sparen" data-text="Sparen" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2011%2F03%2Fsparen&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2010/10/blokfluit">Blokfluit</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  19-10-2010 14:27-
+			<a href="/content/2010/10/blokfluit">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font color="#0033ff" size="6" face="Times New Roman">Blokfluit</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">De mogelijkheden een thematische verzameling aan te leggen zijn vrijwel onbeperkt. De meest uiteenlopende onderwerpen lenen zich ertoe. Zo ken  ik iemand die alles verzamelt rond het thema DOOD. Ja, voor mij nu niet het thema waar ik graag mee bezig ben. </font><font size="3" face="Times New Roman">Ik zou dan liever een verzameling beginnen met als thema MUZIEK. </font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font size="3" face="Times New Roman">Maar omdat dat een zeer omvangrijke verzameling zou worden, zou ik me beperken tot MUZIEKINSTRUMENTEN.</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="/_files/2010-10-19/su-muzinstr.jpg" width="566" height="297"></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img title="" alt="" src="/_files/2010-10-19/ier-muzinstr.jpg" width="592" height="224"></p>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Eén instrument heeft dan wel mijn bijzondere belangstelling: de blokfluit. Voor velen is dat alleen maar een instrument voor kinderen, maar wie wel eens geluisterd heeft naar bijvoorbeeld Hans-Martin Linde, Michaela Petri , Dan Laurin of naar wat oudere opnamen waarop Frans Brüggen de blokfluit bespeelt, moet er wel anders over gaan denken. </font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><a href="http://www.youtube.com/watch?v=_fI9_1qLXmc">http://www.youtube.com/watch?v=_fI9_1qLXmc</a></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal">&nbsp;</div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Eén ding is zeker: wie het eenvoudig wil houden en binnen niet al te lange tijd toch iets leuks wil laten horen, kan ik de blokfluit van harte aanbevelen. </font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Enige tijd geleden kreeg ik tijdens een opruimwoede de oude fluiten weer in handen waar in de vorige eeuw mijn kinderen op speelden. En toen kreeg ik het weer te pakken. </font></p>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Zelf ben ik eigenlijk in het geheel niet muzikaal, en mijn bekwaamheid op de blokfluit zou je waarschijnlijk moeten beoordelen als: gevorderde beginner. Daarom heeft deze overjarige grootvader sinds enkele weken weer les genomen en eigenlijk zou hij nu iemand van zijn niveau moeten vinden die met hem samen eenvoudige duetten van bijv. Devienne of Delaligne zou willen spelen. Er zou dan door Opa wel flink geoefend moeten worden, maar we kennen het gezegde: Oefening baart kunst! Dus als iemand uit de omgeving van Deventer zich geroepen voelt ..</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal">&nbsp;</p>
+<p><font size="3" face="Times New Roman">
+<p align="center"><img title="" alt="" src="/_files/2010-10-19/berlijn-blokfluit.jpg" width="535" height="319"></p></font></p>
+<p><a href="mailto:opapostzegel@hotmail.com">opapostzegel@hotmail.com</a> </p></div><a href="/content/2010/10/blokfluit" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2010/10/blokfluit" data-text="Blokfluit" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2010%2F10%2Fblokfluit&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2010/06/bezopen">Bezopen</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  17-06-2010 12:29-
+			<a href="/content/2010/06/bezopen">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div align="center"><strong><font color="#0000ff" size="5">Bezopen</font></strong></div>
+<div align="center"><strong><font color="#0000ff" size="5">&nbsp;</font></strong></div>
+<div align="center"><strong><font color="#0000ff" size="5">&nbsp;</font></strong></div>
+<div align="center"><img title="" alt="" src="/_files/2010-06-17/bpost.gif" width="400" height="180"></div>
+<div align="center">&nbsp;</div>
+<div align="center"><font color="#ff0000" size="3"><strong>"De naam moet op zijn Engels worden uitgesproken."</strong></font></div>
+<div align="center"><font color="#ff0000" size="3">&nbsp;</font></div>
+<div align="left"><font size="3">Soms weet ik niet meer of ik moet lachen of huilen als het om onze moerstaal gaat. Allochtonen worden - terecht - aangespoord om toch vooral Nederlands te leren. Maar onze overheid, semi-overheidsinstellingen en vooral bedrijven zijn voortdurend bezig ons het Engels door de strot te duwen. </font></div>
+<div align="left"><font size="3">Ik moet dus voortaan niet meer naar het stadskantoor van de gemeente Deventer, maar naar het frontoffice (of is het misschien <em>de</em> frontoffice?). </font></div>
+<div align="left"><font size="3">Nu moeten we e.e.a. ook nog op zijn Engels uitspreken! En natuurlijk doen we dat, want we willen toch vooral niet voor achterlijk versleten worden.</font></div>
+<div align="left"><font size="3">En dus verstuur ik mijn post </font><font size="3">per Tie-En-Tie naar <font size="3">België </font>waar vervolgens Biepoost voor de bezorging verantwoordelijk is.</font></div>
+<div align="left"><font size="3">Welnu, ze kunnen me allemaal de k.... kussen (in België <em>de kl.... kussen</em>). Ik blijf heel achterlijk Tee-En-Tee en Beepost zeggen!</font></div>
+<div align="left"><font size="3">&nbsp;</font></div></div><a href="/content/2010/06/bezopen" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2010/06/bezopen" data-text="Bezopen" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2010%2F06%2Fbezopen&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2010/01/volksvertegenwoordiging">Volksvertegenwoordiging</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  12-01-2010 19:02-
+			<a href="/content/2010/01/volksvertegenwoordiging">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><font color="#0000cc" size="6" face="Times New Roman">Volksvertegenwoordiging</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Postzegels: je kunt er zo heerlijk bij denken en fantaseren, want ze brengen je overal, dichtbij en ver weg. Je maakt kennis met allerlei landen en landstreken, met de wondere wereld van flora en fauna. Maar je maakt ook reizen naar het nabije en verre verleden. Ze brengen je soms ook op plaatsen waar je liever niet wilt zijn of naar tijden waaraan je niet herinnerd wilt worden. Kortom: ze bieden een overvloed aan overpeinzingen en soms verleiden ze je er ook toe één of meer onwelvoeglijke woorden te uiten.</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman"><br>
+<br>
+</font></div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal" align="center"><img style="margin: 0px;" title="" alt="" src="/_files/2010-01-12/nl1129.jpg" width="482" height="335"></p>
+<p><font size="3" face="Times New Roman">Neem nu zo'n  Nederlandse zegel die je eraan herinnert dat er ook nog zoiets bestaat als een Tweede Kamer, zijnde de Volksvertegenwoordiging.</font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Soms, of eigenlijk vaak en steeds vaker, vraag ik me af wat we daar nu eigenlijk aan hebben. Ik heb wel eens het gevoel dat die instelling er alleen maar is om de praatprogramma's op de tv aan voldoende stof te helpen om er dagen, zo niet weken over te kunnen ouweh.. en een 150-tal kamerlieden van een behoorlijk betaalde baan te voorzien.</font></p>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Blijven we niet eindeloos vergaderen over een of andere prinses die genoeg van haar vent heeft, dan is er wel een andere die probeert de belasting een beetje te omzeilen of een optrekje in Mozambique wil laten bouwen.  En Jan Peter mag weer opdraven.</font></div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Ik weet nog steeds niet goed hoe ik JP moet beoordelen. Is het nu een bevlogen politicus die ondanks alle kritiek toch probeert er nog iets fatsoenlijks van te maken of is het een sukkel die maar tegen zich aan laat pissen terwijl hij buiten de politiek ongetwijfeld veel meer kan verdienen? <br>
+<br>
+</font><font size="3" face="Times New Roman">Vandaag werd het rapport Davidse openbaar gemaakt en je kon van tevoren reeds voorspellen hoe sommige volksvertegenwoordigers weer in alle toonaarden zouden beweren dat de regering hen schandelijk bedrogen had. Het zou natuurlijk weer allemaal ongepast, ongehoord, ongelooflijk en verbijsterend zijn. En natuurlijk, de alles beter-wetende wereldverbeteraarster Femke Halsema opende de rij met de verklaring: Schokkend!</font></div>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Allemachtig mensen, denk ik dan, je kon toch op je klompen wel aanvoelen dat er in het verleden niet alles werd gezegd, dat de Kamer niet voor de volle 100% werd ingelicht of ingelicht kon worden en dat de verantwoordelijke ministers zich later wel eens gruwelijk belazerd hebben gevoeld. </font></p>
+<p style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font size="3" face="Times New Roman">Maar nee, we zullen hier nog lang van mogen genieten. Alsof er geen crisis en geen stijgende werkeloosheid is en alsof er geen problemen met etnische minderheden, drugsdealers en draaideurcriminelen zijn.</font></p>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal">&nbsp;</div>
+<div style="margin: 0cm 0cm 0pt;" class="MsoNormal"><font color="#0000cc">Vervolg</font></div>
+<div align="center"><font size="3" face="Times New Roman"><img title="" alt="" src="/_files/2010-01-13/hulp-haiti.jpg" width="400" height="223"></font></div>
+<div align="center"><font size="3" face="Times New Roman">&nbsp;</font></div>
+<div align="center"><font size="3" face="Times New Roman">Twee miljoen aan noodhulp.</font></div>
+<div align="center"><font size="3" face="Times New Roman">Ondertussen gaat de soap over Irak in de Kamer vrolijk verder.</font></div>
+<div align="center"><font size="3" face="Times New Roman">Wat zouden dat rapport en die vergaderingen nu gekost hebben?</font></div>
+<p>&nbsp;</p></div><a href="/content/2010/01/volksvertegenwoordiging" class="readmorelink">Lees meer...</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2010/01/volksvertegenwoordiging" data-text="Volksvertegenwoordiging" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2010%2F01%2Fvolksvertegenwoordiging&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="weblog">
+		<div id="articlecontainer">
+		<div class="content"><div class="title"><a href="/content/2009/12/willem-van-oranje">Willem van Oranje</a></div><div class="contentinfo"><a href="http://opapostzegel.punt.nl" target="_blank">opapostzegel</a>
+                  24-12-2009 20:29
+			 -  (2)
+			-
+			<a href="/content/2009/12/willem-van-oranje">permalink</a>- in
+				<a href="/category/view/postzegels">Postzegels</a></div><div class="introtext"><div align="center"><font color="#0000ff" size="6" face="Times New Roman"><strong>Willem van Oranje</strong></font></div>
+<div align="center"><strong><font color="#0000ff" size="6" face="Times New Roman">&nbsp;</font></strong></div>
+<div align="center"><img title="" alt="" src="/_files/2009-12-24/wvo-mi-1976.jpg" width="181" height="242"></div>
+<div align="center">&nbsp;</div>
+<div align="left">Toen ik vandaag een Belgische zegel met de beeltenis van Willem van Oranje tegenkwam realiseerde ik me weer hoe eng de Nederlandse en Belgische geschiedenis met elkaar verbonden zijn. Want Willem de Zwijger op een Belgische zegel is niet iets wat je direct verwacht.</div>
+<div align="left">De hierboven afgebeelde zegel werd uitgegeven ter gelegenheid van het feit dat 400 jaar eerder de Pacificatie van Gent werd gesloten. </div>
+<div align="left">"Nou" dacht ik,  "hoeveel Nederlanders zouden weten wat die Pacificatie van Gent eigenlijk was?"</div>
+<div align="left"> Nu zat ik net een bundeltje verzamelde columns van prof. Smalhout te lezen waarin ik de volgende passages tegenkwam:</div>
+<div align="left">"<em>De vertegenwoordigers van de computer-discogeneratie voelen zich thans de maatstaf van de samenleving. Ze beschouwen alles van vóór hun geboortejaar als belachelijk, uit de tijd, verouderd, betekenisloos, stom en hinderlijk. Dat moet dus weg.</em></div>
+<div align="left"><em>Ze zijn slachtoffers van onder meer dertig jaar onderwijsverloedering, waaraan geen enkele aandacht aan cultuur meer is besteed."</em></div>
+<div align="left">en</div>
+<div align="left"><em>"Tientallen jaren was het onderwijs in geschiedenis op de Nederlandse scholen op criminele wijze verwaarloosd."</em> </div>
+<div align="left">&nbsp;</div>
+<div align="left">"Zou het echt zo erg zijn?" vroeg ik me af en besloot de proef op de som te nemen. Aan een tiental willekeurige voorbijgangers, in leeftijd variërend van 17 tot 50 jaar vroeg ik:</div>
+<div align="left">"Weet u wie Willem van Oranje was?"</div>
+<div align="left">"Weet u wanneer hij ongeveer leefde?"</div>
+<div align="left">"Weet u waar hij is geboren en overleden?"</div>
+<div align="left">Het resultaat was veel erger dan ik en waarschijnlijk ook professor Smalhout voor mogelijk hielden.</div>
+<div align="left">Het meest positieve antwoord was: De Vader des Vaderlands.</div>
+<div align="left">Volgens sommigen was hij de vader van Juliana en voor de meesten leefde hij zo ongeveer tussen 1750 en 1850. Waar hij is geboren wist niemand en één dertiger wist na enige aarzeling te vertellen dat hij in Delft was overleden. Vermoord, dacht hij. </div>
+<div align="left">&nbsp;</div>
+<div align="left">Ik plaats daarom nog maar wat afbeeldingen van Willem van Oranje met enkele historische data, maar ik denk dat het te ver voert om uiteen te zetten wat de Pacificatie van Gent inhield.</div>
+<div align="left">&nbsp;</div>
+<div align="left">&nbsp;</div>
+<div align="center"><img title="" alt="" src="/_files/2009-12-24/wvo.jpg" width="458" height="313"></div>
+<div align="center">&nbsp;</div>
+<div align="center">Geboren 1533 op de Dillenburg in Duitsland</div>
+<div align="center">Erfde in 1540 het prinsdom Orange in Frankrijk</div>
+<div align="center">Werd daarna opgevoed aan het hof van keizer Karel V (1500-1559)</div>
+<div align="center">(Karel V: Keizer van Duitsland, Koning van Spanje en Heer der Nederlanden)</div>
+<div align="center">Willem werd na het terugtreden van Karel V in 1555 raadsman van Philips II</div>
+<div align="center">Was stadhouder (= plaatsvervanger van de vorst) van Holland, Zeeland en Utrecht</div>
+<div align="center">Ging in 1559 in de oppositie tegen Philips II</div>
+<div align="center">Werd geleidelijk aan de aanvoerder van de opstand tegen de Koning van Hispanje, die tenslotte uitmondde in wat bekend werd als de Tachtigjarige Oorlog (1568-1648).</div>
+<div align="center">Werd op 10 juli 1584 te Delft vermoord door Balthasar Gerards.</div>
+<div align="left">&nbsp;</div>
+<div align="center">&nbsp;</div>
+<div align="left"><img title="" alt="" src="/_files/2009-12-24/wvo-serie.jpg" width="709" height="204"></div>
+<div align="left">&nbsp;</div>
+<div align="left">&nbsp;</div></div><a href="/content/2009/12/willem-van-oranje" class="readmorelink">Lees meer...</a>
+				 
+				<a href="/content/2009/12/willem-van-oranje#comments" class="readmorelink">(2 reacties)</a><div class="sharethiscontainer"><table><tr><td valign="bottom"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://opapostzegel.punt.nl/content/2009/12/willem-van-oranje" data-text="Willem van Oranje" data-count="horizontal" data-lang="en" >Tweet</a></td></tr></table></div><div class="facebookcontainer"><table><tr></tr></table><table><tr><td valign="bottom"><div style="margin-bottom:5px;padding-right:5px;"><iframe src="http://www.facebook.com/plugins/like.php?href&amp;layout=standard&amp;show_faces=false&amp;locale=nl_NL&amp;width=450&amp;&amp;href=http%3A%2F%2Fopapostzegel.punt.nl%2Fcontent%2F2009%2F12%2Fwillem-van-oranje&amp;colorscheme=light&amp;height=25" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:25px;" allowTransparency="true"></iframe></div></td></tr></table></div></div>
+		</div>
+		</div>
+<div class="wsp_pagination"><div class="nextpage_anchor"><a href="/upload/hond1.jpg?pagefor=category_view_frontpage_10&amp;pagenr=1">volgende &#187;</a></div></div><div class="paginationclear" style="clear:both;"></div>
+
+
+		
+	
+		
+	</div>
+	
+
+	
+	<div class="block_right" id="block_right">
+		
+		
+		
+	
+		
+	<div class="blocktitle">Categorieën</div>
+		
+	
+		
+	<div class="wsplisting_wsp_concise"><ul><li class="wspListingItem_wsp_concise"><a href="/category/view/frontpage">Voorpagina</a></li><li class="wspListingItem_wsp_concise"><a href="/category/view/postzegels">Postzegels</a></li></ul></div>
+		
+	
+		
+	
+		
+	</div>
+	
+
+	<div class="separator"></div>
+	<div class="block_footer" id="block_footer">
+		<div id="footercontainer" class="foot_column footers" />
+		
+		
+	
+		
+	<div class="blocktitle">Disclaimer</div>
+		
+	
+		
+	<div class="rawcontent">Voetnoot</div>
+		
+	
+		
+	
+		
+	</div>
+	
+</div><div class="outputwrapper_extrablocks" id="outputwrapper_extrablocks"></div><div id="footer-options">
+					
+					<div class="footerrss"><a href="?rss" title="RSS">Rss</a></div>
+					
+				</div><div class="poweredby">Domeinregistratie en hosting via  <a href="http://www.punt.nl/over-mijndomein/" onclick="location.href='http://www.punt.nl/over-mijndomein/'; return false">mijndomein.nl</a></div></div></div><script src="/javascript/nl_NL.wsmpack.js" type="text/javascript"></script><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script><div class="lightbox" id="lightbox" onclick="puntapi.hidelightbox(3);"></div><div class="lightbox_underlay" id="lightbox_underlay" onclick="puntapi.hidelightbox(3);"></div><script src="/javascript/punt-social"></script><script>
+				
+				__md.nl.punt.init();
+				loaderbar.loadedfile('social.js');
+			</script><script type="text/javascript">
+		
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34628255-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+		
+</script>
+		<script src="/style/oran20121108213902/javascript/superfish.js" type="text/javascript"></script>
+<script src="/style/oran20121108213902/javascript/supersubs.js" type="text/javascript"></script>
+<script type="text/javascript">
+//=================================== MENU ===================================//
+$(document).ready(function(){
+$("ul.sf-menu").supersubs({
+minWidth : 12, // requires em unit.
+maxWidth : 27, // requires em unit.
+extraWidth : 3 // extra width 
+}).superfish();
+});
+</script>
+<script type="text/javascript">
+	/* Delay show of website */
+	function delayShow() {
+			var secs = 1000;
+			setTimeout('$("html").css("visibility","visible");', secs);
+}
+function WrapClass(x,y) {
+	if (x.length) {
+		x.each (function () {
+			($(this).wrap(y));
+		});
+	}
+}
+function Moveblocktitle() {
+		$("#footercontainer > .blocktitle").each(function(){
+        var title = $(this).html();
+        $(this).next().addClass('moveto');
+        $('.moveto').prepend('<div class="footertitle">' +title+ '</div>');
+        $(this).remove();
+        $('.moveto').removeClass('moveto');
+		});	
+}
+function mediaalbum() {
+		$('.mediaalbumprevnext img').addClass('nextimg');
+		($(".nextimg:first").attr("src","/style/oran20121108213902/images/left.png"));
+		($(".nextimg:last").attr("src","/style/oran20121108213902/images/right.png"));
+}
+function mainmedia() {
+		$(".mediaitemTN:nth-child(3n)").after('<div class="mediabreak"></div>');
+		$("#block_main .mediaitemTN img").before('<span class="imagehover" style="opacity: 0;"></span>');
+		$('#block_main .mediaitemTN').hover(
+		function() {
+			$(this).find('.imagehover').stop().fadeTo(500, 0.60);
+		},
+		function() {
+			$(this).find('.imagehover').stop().fadeTo(500, 0);
+		}
+	)
+}
+function footer_display() {
+	if ($.trim($('#block_footer').html()).length) {
+	($('#footercontainer').children().addClass('footers'));
+		 if ($('#footercontainer .blocktitle')) {
+			($('.blocktitle').removeClass('footers'));
+		} 
+	($('#footercontainer .footers:first').addClass('first'));
+	($('#footercontainer .footers:nth-child(4)').addClass('last'));
+	($('#footercontainer .footers:gt(3)').remove()); 
+	}
+}	
+	$(document).ready(function(){
+		 WrapClass($('#block_main .media') , '<div class="mediacontainer" />');
+		 Moveblocktitle();
+		 footer_display();
+		 if ($('#block_main .media').length) {
+			mainmedia();
+		 }
+		 if ($('#mediaalbumajaxcontainer').length) {
+		 mediaalbum();
+		 }
+		 delayShow();
+		 });		 
+</script>
+		</body></html>

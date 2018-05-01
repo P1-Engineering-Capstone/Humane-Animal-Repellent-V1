@@ -1,0 +1,671 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<title>Page not found &#8211; Cynical-C</title>
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cynical-C &raquo; Feed" href="http://www.cynical-c.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cynical-C &raquo; Comments Feed" href="http://www.cynical-c.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.cynical-c.com\/wordpress\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='delicato-style-css'  href='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/css/font-awesome.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='delicato-animate-css'  href='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/css/animate.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='delicato-magnific-popup-css'  href='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/css/magnific-popup.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='delicato-googlefonts-css'  href='//fonts.googleapis.com/css?family=Droid+Sans:300,400,700' type='text/css' media='all' />
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/css/jetpack.css?ver=5.7' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/_inc/build/postmessage.min.js?ver=5.7'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/_inc/build/jquery.jetpack-resize.min.js?ver=5.7'></script>
+<link rel='https://api.w.org/' href='http://www.cynical-c.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cynical-c.com/wordpress/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cynical-c.com/wordpress/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.cynical-c.com/?wordfence_lh=1&hid=70188D6FBECA2BA3CB3F1D275D50C664');
+</script>
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<link rel='dns-prefetch' href='//jetpack.wordpress.com'/>
+<link rel='dns-prefetch' href='//s0.wp.com'/>
+<link rel='dns-prefetch' href='//s1.wp.com'/>
+<link rel='dns-prefetch' href='//s2.wp.com'/>
+<link rel='dns-prefetch' href='//public-api.wordpress.com'/>
+<link rel='dns-prefetch' href='//0.gravatar.com'/>
+<link rel='dns-prefetch' href='//1.gravatar.com'/>
+<link rel='dns-prefetch' href='//2.gravatar.com'/>
+<link rel='dns-prefetch' href='//widgets.wp.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<style type="text/css" media="screen">
+		
+body {
+ font-family: 'Droid Sans', sans-serif; 
+ font-size: 15px; 
+}
+		
+#secondary, footer.site-footer, .posted-on, .byline, .comments-link, .reading-time, .count-views, .cat-links, 
+.tags-links, .edit-link, .theImgRelatedDate, .dataBottom, .page-links,
+#comments .reply, #comments .comment-metadata, .orion-menu li {
+ font-size: 14px; 
+}
+			
+body {
+ background-color: #e0e0e0; 
+}
+			
+.hfeed {
+ max-width:1200px; margin:0 auto; background: #efefef; 
+} 
+
+.menuFixed {
+ max-width: 1200px; 
+}
+			
+#primary {
+ float:left; 
+ padding-right:30px; 
+}
+			
+header.site-header, footer.site-footer, #socket-box, .borderTop {
+ background-color: rgba(59,89,152,1); 
+} 
+
+.menuFixed, .flashNews {
+ background-color: rgba(59,89,152,.9) !important; 
+} 
+
+.flashNews h3:after {
+ border-bottom: 33px solid#3b5998 
+} 
+
+.quoteText, .linkText {
+ background-color: rgba(59,89,152,.7) !important; 
+} 
+
+.orion-menu ul, .orion-menu ul li ul, .flashNews h3 {
+ background: #3b5998 
+}
+			
+header.site-header,footer.site-footer,#socket-box,.flashNews, header.site-header a,footer.site-footer a,#socket-box a,.flashNews a, .orion-menu > li.showhide, .flashNews h3, .delicato-controls li, .topSearchFormContent input[type="text"], .quoteText, .quoteText a, .quoteCaption a, .linkEmbed a {
+ color: #a0a0a0; 
+} 
+
+.orion-menu > li.showhide .icon em {
+ background: #a0a0a0; 
+} 
+
+::-webkit-input-placeholder {
+ color: #a0a0a0; 
+} 
+
+:-moz-placeholder {
+ color: #a0a0a0; 
+} 
+
+::-moz-placeholder {
+ color: #a0a0a0; 
+} 
+
+:-ms-input-placeholder {
+ color: #a0a0a0; 
+}
+			
+body, button, input, select, textarea, a, input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], input[type="number"],
+input[type="tel"], input[type="range"], input[type="date"], input[type="month"], input[type="week"], input[type="time"], input[type="datetime"],
+input[type="datetime-local"], input[type="color"], textarea {
+ color: #000000; 
+} 
+
+.dropcap.square, .dropcap.circle {
+ background: #000000; 
+}
+			
+.delicatoPostWidget .theText span.date, .delicatoPostWidget .theText span.comm, .posted-on, .byline, .comments-link, .cat-links, 
+.tags-links, .edit-link, .theImgRelatedDate, .dataBottom, .reading-time, .page-links, .posted-on a, .byline a, .comments-link a, .cat-links a, 
+.tags-links a, .edit-link a, .theImgRelatedDate a, .count-views, .controls-caption {
+ color: #4f4f4f; 
+}
+			
+h1, h2, h3, h4, h5, h6, h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, ul.tabs li {
+ color: #3b5998; 
+} 
+
+.nav-links .nav-previous a, .nav-links .nav-next a, .comment-navigation .nav-previous a, .comment-navigation .nav-next a, #toTop, .owl-theme .owl-controls .owl-buttons div, button, input[type="button"], input[type="reset"], input[type="submit"] {
+ background: #3b5998; 
+}
+			
+a:hover, a:focus, a:active, header.site-header a:hover, footer.site-footer a:hover, #socket-box a:hover,.flashNews a:hover, 
+#head-content .topSearch:hover, #head-content .topSearch.active, h5.trigger.active a, ul.tab-delicato-tabs li.active a h5,
+.orion-menu li:hover > a, .orion-menu li.current-menu-item > a, .orion-menu li.current-menu-parent > a, .orion-menu li.current-page-ancestor > a,
+.orion-menu .current_page_item > a, .orion-menu .current_page_parent > a, .delicato-controls li.flex-active a {
+ color: #00b5f7; 
+}
+			
+</style>
+
+		</head>
+
+<body class="error404 group-blog">
+<div id="preloader"></div>
+<div id="page" class="hfeed site">
+<!-- Start Slider -->
+<!-- End Slider -->
+<div class="borderTop"></div>
+	<header id="masthead" class="site-header " role="banner">
+		<div id="head-content">
+		<div class="site-branding clear">
+			<a href="http://www.cynical-c.com/" rel="home"><img src="http://www.cynical-c.com/wordpress/archives/bloggraphics/cropped-title35.jpe" data-name="active fadeInDown" alt="Cynical-C" /></a>
+							<p class="site-title" style="position: absolute;clip: rect(1px, 1px, 1px, 1px);"><a href="http://www.cynical-c.com/" rel="home">Cynical-C</a></p>
+					</div>
+				<div class="topSearch">
+					<i class="fa fa-search"></i>
+		</div>
+				<nav id="site-navigation" class="main-navigation clear" role="navigation">
+			<div class="menu-menu-1-container"><ul id="menu-menu-1" class="menu orion-menu"><li id="menu-item-34144" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-34144"><a href="http://www.cynical-c.com/">Home</a></li>
+<li id="menu-item-34145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34145"><a href="http://www.cynical-c.com/about/">About</a></li>
+<li id="menu-item-34148" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34148"><a href="http://www.cynical-c.com/faq/">FAQ</a></li>
+</ul></div>		</nav><!-- #site-navigation -->
+		</div><!-- #head-content -->
+		<div class="topSearchForm">
+		<div class="topSearchFormContent">
+			<form role="search" method="get" id="searchform" action="http://www.cynical-c.com/"><input type="text" name="s" class="search" placeholder="Type and hit enter..."></form>
+		</div>
+	</div><!-- .topSearchForm -->
+		</header><!-- #masthead -->
+	<div id="content" class="site-content">
+	<div id="bodyContent">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://www.cynical-c.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>
+				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="text-6" data-name="active fadeIn" class="widget  widget_text"><h3 class="widget-title">Site Info</h3>			<div class="textwidget"><a href="http://www.cynical-c.com/?page_id=2">About</a><br>
+<a href="mailto:cynicalcblog@gmail.com">Contact</a><br>
+<a href="http://www.cynical-c.com/?page_id=11583">FAQ</a><br>
+<a href="http://www.cynical-c.com/?p=7108">Testimonials</a><br>
+<a href="http://www.cynical-c.com/category/where-is-jesus/">Where's Jesus?</a>
+<br>
+<a href="http://www.cynical-c.com/?cat=62">Daily Ingersoll</a>
+<br>
+<a href="http://www.cynical-c.com/?cat=85">You Can't Please Everyone</a><br>
+<a href="http://www.cynical-c.com/2011/05/26/i-write-letters/">Actus Formalis Defectionis</a><br><br>
+
+
+<b>Social Stuff</b><br>
+<a href="http://twitter.com/CynicalCBlog"><img src='http://www.cynical-c.com/images/twitterbutton.png' alt='' /></a>
+
+<a href="https://www.facebook.com/CynicalCBlog"><img src='http://www.cynical-c.com/images/fb.jpg' alt='' /></a>
+
+<a href="https://www.instagram.com/cdc530"><img src='http://www.cynical-c.com/images/instagramlogo.jpg' alt='' /></a>
+<br>
+
+<a href="http://cynicalcblog.tumblr.com"><img src='http://www.cynical-c.com/images/tumblr.jpg' alt='' /></a>
+
+<a href="https://www.goodreads.com/user/show/4744780-chris"><img src='http://www.cynical-c.com/images/goodreads.png' alt='' /></a>
+
+<a href="http://www.cynical-c.com/feed/"><img src='http://www.cynical-c.com/images/rss.png' alt='' /></a>
+
+</div>
+		</aside><aside id="twitter_timeline-2" data-name="active fadeIn" class="widget  widget_twitter_timeline"><h3 class="widget-title">Twitter</h3><a class="twitter-timeline" data-theme="dark" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="3" data-lang="EN" data-partner="jetpack" href="https://twitter.com/CynicalCBlog">My Tweets</a></aside><aside id="delicatoinstagram-2" data-name="active fadeIn" class="widget  DelicatoInstagram"><h3 class="widget-title">		<a title="cdc530" href="https://instagram.com/cdc530" target="_blank"><i class="fa fa-instagram spaceRight"></i></a> Instagram 
+		</h3>								<div id="instagram-pics-big"><div class="single-instagram-pic-big"><a href="//instagram.com/p/BeIf4CBDgIJ" target="_blank" title="Instagram Image"><img src="//instagram.fsjc1-3.fna.fbcdn.net/vp/7f391ba6a22bc0d77c432a88a011c141/5B24B7BC/t51.2885-15/s640x640/sh0.08/e35/26264684_144303416267322_5368429637888114688_n.jpg"  alt="Instagram Image" /></a></div><div class="single-instagram-pic-big"><a href="//instagram.com/p/BdImPBsDaZo" target="_blank" title="Instagram Image"><img src="//instagram.fsjc1-3.fna.fbcdn.net/vp/50ef34913dd4149d2f6562cb780828db/5AE4A4A1/t51.2885-15/s640x640/sh0.08/e35/25016180_1196466287152495_1999974950428999680_n.jpg"  alt="Instagram Image" /></a></div><div class="single-instagram-pic-big"><a href="//instagram.com/p/BdIWZ_DjZJI" target="_blank" title="Instagram Image"><img src="//instagram.fsjc1-3.fna.fbcdn.net/vp/f27920d2ef2792207a8c30685ab8088c/5AE43E82/t51.2885-15/s640x640/sh0.08/e35/25022140_171050290294048_1224835380449116160_n.jpg"  alt="Instagram Image" /></a></div><div class="single-instagram-pic-big"><a href="//instagram.com/p/BcaXIiRDeyh" target="_blank" title="Instagram Image"><img src="//instagram.fsjc1-3.fna.fbcdn.net/vp/12e3da28bb94b47455d5f705b22818ec/5AFF7AE9/t51.2885-15/s640x640/sh0.08/e35/25010479_743790755830094_4721864221766189056_n.jpg"  alt="Instagram Image" /></a></div><div class="single-instagram-pic-big"><a href="//instagram.com/p/BcXj0VMjMon" target="_blank" title="Instagram Image"><img src="//instagram.fsjc1-3.fna.fbcdn.net/vp/f3766b685245d746cdcea5e0d0e90002/5AEDA044/t51.2885-15/s640x640/sh0.08/e35/25016770_133984580575506_163322062780235776_n.jpg"  alt="Instagram Image" /></a></div></div>
+				</aside><aside id="wpcom-goodreads-3" data-name="active fadeIn" class="widget  widget_goodreads"><h3 class="widget-title">Goodreads</h3><div class="gr_custom_widget" id="gr_custom_widget_4744780_currently-reading"></div>
+<script src="https://www.goodreads.com/review/custom_widget/4744780.Goodreads:%20currently-reading?cover_position=&#038;cover_size=small&#038;num_books=5&#038;order=d&#038;shelf=currently-reading&#038;sort=date_added&#038;widget_bg_transparent=&#038;widget_id=4744780_currently-reading"></script>
+</aside><aside id="calendar-8" data-name="active fadeIn" class="widget  widget_calendar"><div id="calendar_wrap" class="calendar_wrap"><table id="wp-calendar">
+	<caption>January 2018</caption>
+	<thead>
+	<tr>
+		<th scope="col" title="Monday">M</th>
+		<th scope="col" title="Tuesday">T</th>
+		<th scope="col" title="Wednesday">W</th>
+		<th scope="col" title="Thursday">T</th>
+		<th scope="col" title="Friday">F</th>
+		<th scope="col" title="Saturday">S</th>
+		<th scope="col" title="Sunday">S</th>
+	</tr>
+	</thead>
+
+	<tfoot>
+	<tr>
+		<td colspan="3" id="prev"><a href="http://www.cynical-c.com/2017/12/">&laquo; Dec</a></td>
+		<td class="pad">&nbsp;</td>
+		<td colspan="3" id="next" class="pad">&nbsp;</td>
+	</tr>
+	</tfoot>
+
+	<tbody>
+	<tr><td>1</td><td><a href="http://www.cynical-c.com/2018/01/02/" aria-label="Posts published on January 2, 2018">2</a></td><td><a href="http://www.cynical-c.com/2018/01/03/" aria-label="Posts published on January 3, 2018">3</a></td><td><a href="http://www.cynical-c.com/2018/01/04/" aria-label="Posts published on January 4, 2018">4</a></td><td><a href="http://www.cynical-c.com/2018/01/05/" aria-label="Posts published on January 5, 2018">5</a></td><td>6</td><td><a href="http://www.cynical-c.com/2018/01/07/" aria-label="Posts published on January 7, 2018">7</a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.cynical-c.com/2018/01/08/" aria-label="Posts published on January 8, 2018">8</a></td><td><a href="http://www.cynical-c.com/2018/01/09/" aria-label="Posts published on January 9, 2018">9</a></td><td><a href="http://www.cynical-c.com/2018/01/10/" aria-label="Posts published on January 10, 2018">10</a></td><td><a href="http://www.cynical-c.com/2018/01/11/" aria-label="Posts published on January 11, 2018">11</a></td><td><a href="http://www.cynical-c.com/2018/01/12/" aria-label="Posts published on January 12, 2018">12</a></td><td>13</td><td>14</td>
+	</tr>
+	<tr>
+		<td><a href="http://www.cynical-c.com/2018/01/15/" aria-label="Posts published on January 15, 2018">15</a></td><td><a href="http://www.cynical-c.com/2018/01/16/" aria-label="Posts published on January 16, 2018">16</a></td><td><a href="http://www.cynical-c.com/2018/01/17/" aria-label="Posts published on January 17, 2018">17</a></td><td><a href="http://www.cynical-c.com/2018/01/18/" aria-label="Posts published on January 18, 2018">18</a></td><td><a href="http://www.cynical-c.com/2018/01/19/" aria-label="Posts published on January 19, 2018">19</a></td><td>20</td><td>21</td>
+	</tr>
+	<tr>
+		<td id="today"><a href="http://www.cynical-c.com/2018/01/22/" aria-label="Posts published on January 22, 2018">22</a></td><td>23</td><td>24</td><td>25</td><td>26</td><td>27</td><td>28</td>
+	</tr>
+	<tr>
+		<td>29</td><td>30</td><td>31</td>
+		<td class="pad" colspan="4">&nbsp;</td>
+	</tr>
+	</tbody>
+	</table></div></aside><aside id="archives-6" data-name="active fadeIn" class="widget  widget_archive"><h3 class="widget-title">Archives</h3>		<label class="screen-reader-text" for="archives-dropdown-6">Archives</label>
+		<select id="archives-dropdown-6" name="archive-dropdown" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+			
+			<option value="">Select Month</option>
+				<option value='http://www.cynical-c.com/2018/01/'> January 2018 </option>
+	<option value='http://www.cynical-c.com/2017/12/'> December 2017 </option>
+	<option value='http://www.cynical-c.com/2017/11/'> November 2017 </option>
+	<option value='http://www.cynical-c.com/2017/10/'> October 2017 </option>
+	<option value='http://www.cynical-c.com/2017/09/'> September 2017 </option>
+	<option value='http://www.cynical-c.com/2017/08/'> August 2017 </option>
+	<option value='http://www.cynical-c.com/2017/07/'> July 2017 </option>
+	<option value='http://www.cynical-c.com/2017/06/'> June 2017 </option>
+	<option value='http://www.cynical-c.com/2017/05/'> May 2017 </option>
+	<option value='http://www.cynical-c.com/2017/04/'> April 2017 </option>
+	<option value='http://www.cynical-c.com/2017/03/'> March 2017 </option>
+	<option value='http://www.cynical-c.com/2017/02/'> February 2017 </option>
+	<option value='http://www.cynical-c.com/2017/01/'> January 2017 </option>
+	<option value='http://www.cynical-c.com/2016/12/'> December 2016 </option>
+	<option value='http://www.cynical-c.com/2016/11/'> November 2016 </option>
+	<option value='http://www.cynical-c.com/2016/10/'> October 2016 </option>
+	<option value='http://www.cynical-c.com/2016/09/'> September 2016 </option>
+	<option value='http://www.cynical-c.com/2016/08/'> August 2016 </option>
+	<option value='http://www.cynical-c.com/2016/07/'> July 2016 </option>
+	<option value='http://www.cynical-c.com/2016/06/'> June 2016 </option>
+	<option value='http://www.cynical-c.com/2016/05/'> May 2016 </option>
+	<option value='http://www.cynical-c.com/2016/04/'> April 2016 </option>
+	<option value='http://www.cynical-c.com/2016/03/'> March 2016 </option>
+	<option value='http://www.cynical-c.com/2016/02/'> February 2016 </option>
+	<option value='http://www.cynical-c.com/2016/01/'> January 2016 </option>
+	<option value='http://www.cynical-c.com/2015/12/'> December 2015 </option>
+	<option value='http://www.cynical-c.com/2015/11/'> November 2015 </option>
+	<option value='http://www.cynical-c.com/2015/10/'> October 2015 </option>
+	<option value='http://www.cynical-c.com/2015/09/'> September 2015 </option>
+	<option value='http://www.cynical-c.com/2015/08/'> August 2015 </option>
+	<option value='http://www.cynical-c.com/2015/07/'> July 2015 </option>
+	<option value='http://www.cynical-c.com/2015/06/'> June 2015 </option>
+	<option value='http://www.cynical-c.com/2015/05/'> May 2015 </option>
+	<option value='http://www.cynical-c.com/2015/04/'> April 2015 </option>
+	<option value='http://www.cynical-c.com/2015/03/'> March 2015 </option>
+	<option value='http://www.cynical-c.com/2015/02/'> February 2015 </option>
+	<option value='http://www.cynical-c.com/2015/01/'> January 2015 </option>
+	<option value='http://www.cynical-c.com/2014/06/'> June 2014 </option>
+	<option value='http://www.cynical-c.com/2014/05/'> May 2014 </option>
+	<option value='http://www.cynical-c.com/2014/04/'> April 2014 </option>
+	<option value='http://www.cynical-c.com/2014/03/'> March 2014 </option>
+	<option value='http://www.cynical-c.com/2014/02/'> February 2014 </option>
+	<option value='http://www.cynical-c.com/2014/01/'> January 2014 </option>
+	<option value='http://www.cynical-c.com/2013/12/'> December 2013 </option>
+	<option value='http://www.cynical-c.com/2013/11/'> November 2013 </option>
+	<option value='http://www.cynical-c.com/2013/10/'> October 2013 </option>
+	<option value='http://www.cynical-c.com/2013/09/'> September 2013 </option>
+	<option value='http://www.cynical-c.com/2013/08/'> August 2013 </option>
+	<option value='http://www.cynical-c.com/2013/07/'> July 2013 </option>
+	<option value='http://www.cynical-c.com/2013/06/'> June 2013 </option>
+	<option value='http://www.cynical-c.com/2013/05/'> May 2013 </option>
+	<option value='http://www.cynical-c.com/2013/04/'> April 2013 </option>
+	<option value='http://www.cynical-c.com/2013/03/'> March 2013 </option>
+	<option value='http://www.cynical-c.com/2013/02/'> February 2013 </option>
+	<option value='http://www.cynical-c.com/2013/01/'> January 2013 </option>
+	<option value='http://www.cynical-c.com/2012/12/'> December 2012 </option>
+	<option value='http://www.cynical-c.com/2012/11/'> November 2012 </option>
+	<option value='http://www.cynical-c.com/2012/10/'> October 2012 </option>
+	<option value='http://www.cynical-c.com/2012/09/'> September 2012 </option>
+	<option value='http://www.cynical-c.com/2012/08/'> August 2012 </option>
+	<option value='http://www.cynical-c.com/2012/07/'> July 2012 </option>
+	<option value='http://www.cynical-c.com/2012/06/'> June 2012 </option>
+	<option value='http://www.cynical-c.com/2012/05/'> May 2012 </option>
+	<option value='http://www.cynical-c.com/2012/04/'> April 2012 </option>
+	<option value='http://www.cynical-c.com/2012/03/'> March 2012 </option>
+	<option value='http://www.cynical-c.com/2012/02/'> February 2012 </option>
+	<option value='http://www.cynical-c.com/2012/01/'> January 2012 </option>
+	<option value='http://www.cynical-c.com/2011/12/'> December 2011 </option>
+	<option value='http://www.cynical-c.com/2011/11/'> November 2011 </option>
+	<option value='http://www.cynical-c.com/2011/10/'> October 2011 </option>
+	<option value='http://www.cynical-c.com/2011/09/'> September 2011 </option>
+	<option value='http://www.cynical-c.com/2011/08/'> August 2011 </option>
+	<option value='http://www.cynical-c.com/2011/07/'> July 2011 </option>
+	<option value='http://www.cynical-c.com/2011/06/'> June 2011 </option>
+	<option value='http://www.cynical-c.com/2011/05/'> May 2011 </option>
+	<option value='http://www.cynical-c.com/2011/04/'> April 2011 </option>
+	<option value='http://www.cynical-c.com/2011/03/'> March 2011 </option>
+	<option value='http://www.cynical-c.com/2011/02/'> February 2011 </option>
+	<option value='http://www.cynical-c.com/2011/01/'> January 2011 </option>
+	<option value='http://www.cynical-c.com/2010/12/'> December 2010 </option>
+	<option value='http://www.cynical-c.com/2010/11/'> November 2010 </option>
+	<option value='http://www.cynical-c.com/2010/10/'> October 2010 </option>
+	<option value='http://www.cynical-c.com/2010/09/'> September 2010 </option>
+	<option value='http://www.cynical-c.com/2010/08/'> August 2010 </option>
+	<option value='http://www.cynical-c.com/2010/07/'> July 2010 </option>
+	<option value='http://www.cynical-c.com/2010/06/'> June 2010 </option>
+	<option value='http://www.cynical-c.com/2010/05/'> May 2010 </option>
+	<option value='http://www.cynical-c.com/2010/04/'> April 2010 </option>
+	<option value='http://www.cynical-c.com/2010/03/'> March 2010 </option>
+	<option value='http://www.cynical-c.com/2010/02/'> February 2010 </option>
+	<option value='http://www.cynical-c.com/2010/01/'> January 2010 </option>
+	<option value='http://www.cynical-c.com/2009/12/'> December 2009 </option>
+	<option value='http://www.cynical-c.com/2009/11/'> November 2009 </option>
+	<option value='http://www.cynical-c.com/2009/10/'> October 2009 </option>
+	<option value='http://www.cynical-c.com/2009/09/'> September 2009 </option>
+	<option value='http://www.cynical-c.com/2009/08/'> August 2009 </option>
+	<option value='http://www.cynical-c.com/2009/07/'> July 2009 </option>
+	<option value='http://www.cynical-c.com/2009/06/'> June 2009 </option>
+	<option value='http://www.cynical-c.com/2009/05/'> May 2009 </option>
+	<option value='http://www.cynical-c.com/2009/04/'> April 2009 </option>
+	<option value='http://www.cynical-c.com/2009/03/'> March 2009 </option>
+	<option value='http://www.cynical-c.com/2009/02/'> February 2009 </option>
+	<option value='http://www.cynical-c.com/2009/01/'> January 2009 </option>
+	<option value='http://www.cynical-c.com/2008/12/'> December 2008 </option>
+	<option value='http://www.cynical-c.com/2008/11/'> November 2008 </option>
+	<option value='http://www.cynical-c.com/2008/10/'> October 2008 </option>
+	<option value='http://www.cynical-c.com/2008/09/'> September 2008 </option>
+	<option value='http://www.cynical-c.com/2008/08/'> August 2008 </option>
+	<option value='http://www.cynical-c.com/2008/07/'> July 2008 </option>
+	<option value='http://www.cynical-c.com/2008/06/'> June 2008 </option>
+	<option value='http://www.cynical-c.com/2008/05/'> May 2008 </option>
+	<option value='http://www.cynical-c.com/2008/04/'> April 2008 </option>
+	<option value='http://www.cynical-c.com/2008/03/'> March 2008 </option>
+	<option value='http://www.cynical-c.com/2008/02/'> February 2008 </option>
+	<option value='http://www.cynical-c.com/2008/01/'> January 2008 </option>
+	<option value='http://www.cynical-c.com/2007/12/'> December 2007 </option>
+	<option value='http://www.cynical-c.com/2007/11/'> November 2007 </option>
+	<option value='http://www.cynical-c.com/2007/10/'> October 2007 </option>
+	<option value='http://www.cynical-c.com/2007/09/'> September 2007 </option>
+	<option value='http://www.cynical-c.com/2007/08/'> August 2007 </option>
+	<option value='http://www.cynical-c.com/2007/07/'> July 2007 </option>
+	<option value='http://www.cynical-c.com/2007/06/'> June 2007 </option>
+	<option value='http://www.cynical-c.com/2007/05/'> May 2007 </option>
+	<option value='http://www.cynical-c.com/2007/04/'> April 2007 </option>
+	<option value='http://www.cynical-c.com/2007/03/'> March 2007 </option>
+	<option value='http://www.cynical-c.com/2007/02/'> February 2007 </option>
+	<option value='http://www.cynical-c.com/2007/01/'> January 2007 </option>
+	<option value='http://www.cynical-c.com/2006/12/'> December 2006 </option>
+	<option value='http://www.cynical-c.com/2006/11/'> November 2006 </option>
+	<option value='http://www.cynical-c.com/2006/10/'> October 2006 </option>
+	<option value='http://www.cynical-c.com/2006/09/'> September 2006 </option>
+	<option value='http://www.cynical-c.com/2006/08/'> August 2006 </option>
+	<option value='http://www.cynical-c.com/2006/07/'> July 2006 </option>
+	<option value='http://www.cynical-c.com/2006/06/'> June 2006 </option>
+	<option value='http://www.cynical-c.com/2006/05/'> May 2006 </option>
+	<option value='http://www.cynical-c.com/2006/04/'> April 2006 </option>
+	<option value='http://www.cynical-c.com/2006/03/'> March 2006 </option>
+	<option value='http://www.cynical-c.com/2006/02/'> February 2006 </option>
+	<option value='http://www.cynical-c.com/2006/01/'> January 2006 </option>
+	<option value='http://www.cynical-c.com/2005/12/'> December 2005 </option>
+	<option value='http://www.cynical-c.com/2005/11/'> November 2005 </option>
+	<option value='http://www.cynical-c.com/2005/10/'> October 2005 </option>
+	<option value='http://www.cynical-c.com/2005/09/'> September 2005 </option>
+	<option value='http://www.cynical-c.com/2005/08/'> August 2005 </option>
+	<option value='http://www.cynical-c.com/2005/07/'> July 2005 </option>
+	<option value='http://www.cynical-c.com/2005/06/'> June 2005 </option>
+	<option value='http://www.cynical-c.com/2005/05/'> May 2005 </option>
+	<option value='http://www.cynical-c.com/2005/04/'> April 2005 </option>
+	<option value='http://www.cynical-c.com/2005/03/'> March 2005 </option>
+	<option value='http://www.cynical-c.com/2005/02/'> February 2005 </option>
+	<option value='http://www.cynical-c.com/2005/01/'> January 2005 </option>
+	<option value='http://www.cynical-c.com/2004/12/'> December 2004 </option>
+	<option value='http://www.cynical-c.com/2004/11/'> November 2004 </option>
+	<option value='http://www.cynical-c.com/2004/10/'> October 2004 </option>
+	<option value='http://www.cynical-c.com/2004/09/'> September 2004 </option>
+	<option value='http://www.cynical-c.com/2004/08/'> August 2004 </option>
+	<option value='http://www.cynical-c.com/2004/07/'> July 2004 </option>
+	<option value='http://www.cynical-c.com/2004/06/'> June 2004 </option>
+	<option value='http://www.cynical-c.com/2004/05/'> May 2004 </option>
+	<option value='http://www.cynical-c.com/2004/04/'> April 2004 </option>
+	<option value='http://www.cynical-c.com/2004/03/'> March 2004 </option>
+	<option value='http://www.cynical-c.com/2004/02/'> February 2004 </option>
+	<option value='http://www.cynical-c.com/2004/01/'> January 2004 </option>
+	<option value='http://www.cynical-c.com/2003/12/'> December 2003 </option>
+	<option value='http://www.cynical-c.com/2003/11/'> November 2003 </option>
+	<option value='http://www.cynical-c.com/2003/10/'> October 2003 </option>
+	<option value='http://www.cynical-c.com/2003/09/'> September 2003 </option>
+
+		</select>
+		</aside><aside id="categories-6" data-name="active fadeIn" class="widget  widget_categories"><h3 class="widget-title">Categories</h3><form action="http://www.cynical-c.com" method="get"><label class="screen-reader-text" for="cat">Categories</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="30">Advertising</option>
+	<option class="level-0" value="17">Art</option>
+	<option class="level-0" value="50">Atheism</option>
+	<option class="level-0" value="83">Awesomeness!</option>
+	<option class="level-0" value="77">Bacon</option>
+	<option class="level-0" value="79">Batshit insanity</option>
+	<option class="level-0" value="119">Bible</option>
+	<option class="level-0" value="2">Blogging</option>
+	<option class="level-0" value="149">Boston</option>
+	<option class="level-0" value="39">Business</option>
+	<option class="level-0" value="139">Captions</option>
+	<option class="level-0" value="33">Cat Blogging</option>
+	<option class="level-0" value="141">Chess</option>
+	<option class="level-0" value="177">Comedy</option>
+	<option class="level-0" value="179">Creativity</option>
+	<option class="level-0" value="5">Crime</option>
+	<option class="level-0" value="37">Culture</option>
+	<option class="level-0" value="67">Cynical-C</option>
+	<option class="level-0" value="178">Deplorable</option>
+	<option class="level-0" value="176">DIY</option>
+	<option class="level-0" value="62">Dose of Ingersoll</option>
+	<option class="level-0" value="72">Economics</option>
+	<option class="level-0" value="69">Education</option>
+	<option class="level-0" value="38">Entertainment</option>
+	<option class="level-0" value="66">Environment</option>
+	<option class="level-0" value="60">Finance</option>
+	<option class="level-0" value="25">Food</option>
+	<option class="level-0" value="152">France</option>
+	<option class="level-0" value="29">Gadgets</option>
+	<option class="level-0" value="45">Games</option>
+	<option class="level-0" value="32">Geek</option>
+	<option class="level-0" value="48">General</option>
+	<option class="level-0" value="74">Google</option>
+	<option class="level-0" value="63">Guest Cat Blogging</option>
+	<option class="level-0" value="143">Guns</option>
+	<option class="level-0" value="10">Hacks</option>
+	<option class="level-0" value="78">Harvard Square</option>
+	<option class="level-0" value="53">Health</option>
+	<option class="level-0" value="9">History</option>
+	<option class="level-0" value="22">Hoaxes</option>
+	<option class="level-0" value="8">How To</option>
+	<option class="level-0" value="12">Humor</option>
+	<option class="level-0" value="20">Info</option>
+	<option class="level-0" value="145">Instagram</option>
+	<option class="level-0" value="44">Internet</option>
+	<option class="level-0" value="147">Languages</option>
+	<option class="level-0" value="18">Literature</option>
+	<option class="level-0" value="89">Lunch</option>
+	<option class="level-0" value="68">Mac</option>
+	<option class="level-0" value="31">Mathematics</option>
+	<option class="level-0" value="144">Media</option>
+	<option class="level-0" value="84">Middle East</option>
+	<option class="level-0" value="54">Military</option>
+	<option class="level-0" value="16">Misc</option>
+	<option class="level-0" value="182">Misogyny</option>
+	<option class="level-0" value="13">Movies</option>
+	<option class="level-0" value="7">Music</option>
+	<option class="level-0" value="52">Myths and Legends</option>
+	<option class="level-0" value="46">Nature</option>
+	<option class="level-0" value="88">Neon</option>
+	<option class="level-0" value="19">News</option>
+	<option class="level-0" value="35">Offbeat</option>
+	<option class="level-0" value="24">Opinion</option>
+	<option class="level-0" value="40">People</option>
+	<option class="level-0" value="21">Photos</option>
+	<option class="level-0" value="4">Politics</option>
+	<option class="level-0" value="55">Pranks</option>
+	<option class="level-0" value="34">Products</option>
+	<option class="level-0" value="42">Propaganda</option>
+	<option class="level-0" value="43">Pseudoscience</option>
+	<option class="level-0" value="150">QOD</option>
+	<option class="level-0" value="56">Racism</option>
+	<option class="level-0" value="3">Religion</option>
+	<option class="level-0" value="148">Restaurants</option>
+	<option class="level-0" value="28">Science</option>
+	<option class="level-0" value="49">SciFi</option>
+	<option class="level-0" value="6">Space</option>
+	<option class="level-0" value="11">Sports</option>
+	<option class="level-0" value="14">Strange</option>
+	<option class="level-0" value="47">Stupidity</option>
+	<option class="level-0" value="15">Tech</option>
+	<option class="level-0" value="70">terrorism</option>
+	<option class="level-0" value="36">Tiki</option>
+	<option class="level-0" value="59">Toys</option>
+	<option class="level-0" value="26">Travel</option>
+	<option class="level-0" value="181">Trumptopia</option>
+	<option class="level-0" value="76">Twitter</option>
+	<option class="level-0" value="61">Two O&#8217;Clock Trailers</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="151">United Kingdom</option>
+	<option class="level-0" value="27">Vegas</option>
+	<option class="level-0" value="41">Video</option>
+	<option class="level-0" value="142">Vine</option>
+	<option class="level-0" value="153">Where is Jesus?</option>
+	<option class="level-0" value="23">Wikipedia</option>
+	<option class="level-0" value="146">Wine</option>
+	<option class="level-0" value="51">World</option>
+	<option class="level-0" value="81">WTF</option>
+	<option class="level-0" value="85">YCPE</option>
+	<option class="level-0" value="58">YouTube</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</aside>	</div><!-- #secondary -->
+	</div><!-- #bodyContent -->
+	</div><!-- #content -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="footer-widget" data-name="none">
+			<div class="foo"></div>
+			<div class="foo"></div>
+			<div class="foo"></div>
+		</div>
+	</footer><!-- #colophon -->
+		<div id="socket-box">
+		<div class="footer-line">
+			<div class="site-info">
+				&copy; 2018 Cynical-C			</div><!-- .site-info -->
+						<div class="site-social-bottom"><div class="theSocialButton"><a href="https://www.facebook.com/CynicalCBlog" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></div><div class="theSocialButton"><a href="https://twitter.com/CynicalCBlog" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></div><div class="theSocialButton"><a href="https://www.instagram.com/cdc530/" target="_blank" title="Instagram"><i class="fa fa-instagram"></i></a></div><div class="theSocialButton"><a href="http://cynicalcblog.tumblr.com/" target="_blank" title="Tumblr"><i class="fa fa-tumblr"></i></a></div></div><!-- .site-social-bottom -->
+					</div><!-- .footer-line -->
+	</div><!-- #socket-box -->
+</div><!-- #page -->
+<a href="#top" id="toTop"><i class="fa fa-angle-up fa-lg"></i></a>
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201804'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/scroll-into-view.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/delicato.jquery.js?ver=1.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var objMenu = {"textMenu":"Select a page..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/menu.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/owl.carousel.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/jquery.li-scroller.1.0.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/jquery.flexslider-min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/jquery.placeholder.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/SmoothScroll.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/themes/delicato/js/jquery.magnific-popup.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/_inc/build/twitter-timeline.min.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-content/plugins/jetpack/modules/likes/queuehandler.js?ver=5.7'></script>
+<script type='text/javascript' src='http://www.cynical-c.com/wordpress/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201804.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.7',blog:'3396405',post:'0',tz:'-5',srv:'www.cynical-c.com'} ]);
+	_stq.push([ 'clickTrackerInit', '3396405', '0' ]);
+</script>
+
+</body>
+</html>

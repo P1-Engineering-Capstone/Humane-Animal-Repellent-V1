@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en-GB" dir="ltr">
+        <head>
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        
+            
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>404 Category not found</title>
+    <link rel="stylesheet" href="/media/gantry5/assets/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css-compiled/nucleus.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_hydrogen/custom/css-compiled/hydrogen__error.css" type="text/css" />
+    <link rel="stylesheet" href="/media/gantry5/assets/css/bootstrap-gantry.css" type="text/css" />
+    <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css-compiled/joomla.css" type="text/css" />
+    <link rel="stylesheet" href="/media/jui/css/icomoon.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_hydrogen/custom/css-compiled/hydrogen-joomla__error.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/g5_hydrogen/custom/css-compiled/custom__error.css" type="text/css" />
+    <script type="text/javascript" src="/media/jui/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/media/jui/js/jquery-noconflict.js"></script>
+    <script type="text/javascript" src="/media/jui/js/jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="/media/jui/js/bootstrap.min.js"></script>
+    <!--[if (gte IE 8)&(lte IE 9)]>
+        <script type="text/javascript" src="/media/gantry5/assets/js/html5shiv-printshiv.min.js"></script>
+        <link rel="stylesheet" href="/media/gantry5/engines/nucleus/css/nucleus-ie9.css" type="text/css"/>
+        <script type="text/javascript" src="/media/gantry5/assets/js/matchmedia.polyfill.js"></script>
+        <![endif]-->
+                    </head>
+
+    <body class="gantry site com_content view-category no-layout no-task dir-ltr itemid-101 outline-_error g-offcanvas-left g-error g-style-">
+        
+                    
+
+        <div id="g-offcanvas"  data-g-offcanvas-swipe="1" data-g-offcanvas-css3="1">
+                        <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="mobile-menu-2687-particle" class="g-content g-particle">            <div id="g-mobilemenu-container" data-g-menu-breakpoint="48rem"></div>
+            </div>
+        </div>
+            </div>
+    </div>
+        <div id="g-page-surround">
+            <div class="g-offcanvas-hide g-offcanvas-toggle" data-offcanvas-toggle aria-controls="g-offcanvas" aria-expanded="false"><i class="fa fa-fw fa-bars"></i></div>                        
+
+                                            
+                <header id="g-header">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-30">
+             <div id="logo-6781-particle" class="g-content g-particle">            <a href="/" target="_self" title="Gantry 5" rel="home" class="gantry-logo">
+                        <img src="/media/gantry5/assets/images/gantry5-logo.png" alt="Gantry 5" />
+            </a>
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-70">
+             <div class="spacer"></div>
+        </div>
+            </div>
+            </div>
+        
+    </header>
+                                
+                <section id="g-navigation">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div id="menu-4481-particle" class="g-content g-particle">            <nav class="g-main-nav" role="navigation" data-g-hover-expand="true">
+    <ul class="g-toplevel">
+                                                                                                    
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-210 g-standard  ">
+            <a class="g-menu-item-container" href="/online-adventure-store">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">OnLine Adventure Store</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-211 g-standard  ">
+            <a class="g-menu-item-container" href="/other-ways-to-donate">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Other Ways to Donate</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-101 active g-standard  ">
+            <a class="g-menu-item-container" href="/">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Home</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-212 g-standard  ">
+            <a class="g-menu-item-container" href="/disaster-relief">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Disaster Relief</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-213 g-standard  ">
+            <a class="g-menu-item-container" href="/pet-recovery">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Pet Recovery</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-214 g-standard  ">
+            <a class="g-menu-item-container" href="/donate-now">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Donate Now</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-215 g-standard  ">
+            <a class="g-menu-item-container" href="/news-releases">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">News Releases</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-216 g-standard  ">
+            <a class="g-menu-item-container" href="/site-map">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Site Map</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+                                                                                        
+        <li class="g-menu-item g-menu-item-type-component g-menu-item-217 g-standard  ">
+            <a class="g-menu-item-container" href="/send-an-hsc-ecard">
+                                                                <span class="g-menu-item-content">
+                                    <span class="g-menu-item-title">Send an HSC ecard</span>
+            
+                    </span>
+                                                </a>
+                                </li>
+    
+    
+    </ul>
+</nav>
+            </div>
+        </div>
+            </div>
+            </div>
+        
+    </section>
+                                
+                <main id="g-main">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-content">
+                                                            <h1>404 Category not found</h1>
+    
+    
+            
+    </div>
+        </div>
+            </div>
+            </div>
+        
+    </main>
+                                
+                <footer id="g-footer">
+                <div class="g-container">                                <div class="g-grid">                        
+
+        <div class="g-block size-100">
+             <div class="g-content">
+                                    <div class="platform-content"><div class="moduletable ">
+						
+
+<div class="custom"  >
+	<div id="citymodule" style="text-align: left;"><a href="index.php/about-hsc/contact-us" class="city"> Victoria</a> <a href="index.php/about-hsc/contact-us" class="city">Vancouver</a> <a href="index.php/about-hsc/contact-us" class="city">Calgary</a> <a href="index.php/about-hsc/contact-us" class="city">Edmonton</a> <a href="index.php/about-hsc/contact-us" class="city">Regina</a> <a href="index.php/about-hsc/contact-us" class="city">Winnipeg</a> <a href="index.php/about-hsc/contact-us" class="city">London</a> <a href="index.php/about-hsc/contact-us" class="city">Toronto</a> <a href="index.php/about-hsc/contact-us" class="city">Coldwater</a> <a href="index.php/about-hsc/contact-us" class="city">Kingston</a> <a href="index.php/about-hsc/contact-us" class="city">Kirkland</a> <a href="index.php/about-hsc/contact-us" class="city">Charlottetown</a> <a href="index.php/about-hsc/contact-us" class="city">Moncton</a> <a href="index.php/about-hsc/contact-us" class="city">Halifax</a> <a href="index.php/about-hsc/contact-us" class="city">St. John’s </a></div></div>
+		</div></div>
+            
+        </div>
+        </div>
+            </div>
+                            <div class="g-grid">                        
+
+        <div class="g-block size-40">
+             <div id="copyright-8906-particle" class="g-content g-particle">            &copy;
+        2018
+            </div>
+        </div>
+                    
+
+        <div class="g-block size-30">
+             <div class="spacer"></div>
+        </div>
+                    
+
+        <div class="g-block size-30">
+             <div id="branding-1553-particle" class="g-content g-particle">            <div class="g-branding branding">
+    Powered by <a href="http://www.gantry.org/" title="Gantry Framework" class="g-powered-by">Gantry Framework</a>
+</div>
+            </div>
+        </div>
+            </div>
+            </div>
+        
+    </footer>
+            
+                        
+
+        </div>
+                    
+
+                        <script type="text/javascript" src="/media/gantry5/assets/js/main.js"></script>
+    <jdoc:include type="modules" name="debug" />
+
+    
+
+        
+    </body>
+</html>

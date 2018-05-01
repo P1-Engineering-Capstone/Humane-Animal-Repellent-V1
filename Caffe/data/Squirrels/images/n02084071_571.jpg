@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="nl-NL" prefix="og: http://ogp.me/ns#">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.sanoma.nl/wp/xmlrpc.php">
+	<link rel="shortcut icon" href="http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/img/favicons/favicon.ico">
+	<title>Home - Sanoma</title>
+<!-- Start Tealium payload -->
+<script type="text/javascript"> var utag_data = {"site_name":"sanoma.nl","site_country":"NL","site_location":"prod","network_type":"internal","site_cts_slug":"sanoma-nl","dc_params":"","dc_keywords":"","page_zone":"home","page_type":"frontpage","article_id":""} </script>
+<!-- no Tealium js filter used -->
+<script src="https://consent.snmmd.nl/js/cookiebar-latest.js"></script>
+<script type="text/javascript">(function(a,b,c,d){a='//tags.tiqcdn.com/utag/sanoma/sanoma-nl/prod/utag.js';b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a)})();</script>
+<!-- End Tealium payload -->
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.sanoma.nl/" />
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Home - Sanoma" />
+<meta property="og:url" content="http://www.sanoma.nl/" />
+<meta property="og:site_name" content="Sanoma" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Home - Sanoma" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.sanoma.nl\/","name":"Sanoma","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.sanoma.nl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Sanoma &raquo; Feed" href="http://www.sanoma.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Sanoma &raquo; Reactiesfeed" href="http://www.sanoma.nl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.sanoma.nl\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5&_deploy=1.3.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.sanoma.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2&#038;_deploy=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/components-font-awesome/css/font-awesome.min.css?ver=1.3.3&#038;_deploy=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='select2-style-css'  href='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/select2/dist/css/select2.min.css?ver=1.3.3&#038;_deploy=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='aos-style-css'  href='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/aos/dist/aos.css?ver=4.8.5&#038;_deploy=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-style-css'  href='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/css/slick.css?ver=1.3.3&#038;_deploy=1.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='sanoma_nl-style-css'  href='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/css/style.css?ver=1.3.3&#038;_deploy=1.3.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.sanoma.nl/wp/wp-includes/js/jquery/jquery.js?ver=1.12.4&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/plugins/sm-consent/public/assets/js/public.js?ver=2.1.1&#038;_deploy=1.3.3'></script>
+<link rel='https://api.w.org/' href='http://www.sanoma.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.sanoma.nl/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.sanoma.nl/wp/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.5" />
+<link rel='shortlink' href='http://www.sanoma.nl/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.sanoma.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sanoma.nl%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.sanoma.nl/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.sanoma.nl%2F&#038;format=xml" />
+<link rel="alternate" href="http://www.sanoma.nl/" hreflang="nl" />
+<link rel="alternate" href="http://www.sanoma.nl/en/" hreflang="en" />
+
+	<!-- OG DATA -->
+			<meta property="og:locale" content="nl_NL" />
+		
+
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="" />
+	<meta property="og:url" content="http://www.sanoma.nl/" />
+	<meta property="og:updated_time" content="2017-10-12T14:31:52+00:00" />
+		<!-- OG DATA -->
+
+				<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function()
+			{ (i[r].q=i[r].q||[]).push(arguments)}
+			,i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-3318107-1', 'auto');
+			ga('set', 'forceSSL', true);
+			ga('set', 'anonymizeIp', true);
+			ga('send', 'pageview');
+		</script>
+		</head>
+
+<body class="home page-template page-template-page-templates page-template-page-homepage page-template-page-templatespage-homepage-php page page-id-433">
+<div id="page" class="site">
+
+	<header id="masthead" class="site-header" role="banner">
+					<div class="site-branding">
+				<a class="logo" href="http://www.sanoma.nl/" rel="home">
+					<img src="http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/img/sanoma-logo.svg">
+				</a>
+			</div><!-- .site-branding -->
+			<nav id="site-navigation" class="c-main-menu" role="navigation">
+				<div class="menu-hoofdmenu-container"><ul id="primary-menu" class="menu"><li id="menu-item-432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-432"><a href="http://www.sanoma.nl/over-sanoma/">Over Sanoma</a></li>
+<li id="menu-item-15168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15168"><a href="http://www.sanoma.nl/adverteren/">Adverteren</a><div class="c-main-menu__sub-menu-toggle"></div>
+
+<ul class="c-main-menu__sub-menu c-main-menu__sub-menu--level-0">
+	<li id="menu-item-18258" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18258"><a href="http://www.sanoma.nl/brand/">Brands</a></li>
+	<li id="menu-item-18265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18265"><a href="http://www.sanoma.nl/solutions/">Solutions</a></li>
+	<li id="menu-item-18260" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18260"><a href="http://www.sanoma.nl/case/">Cases</a></li>
+	<li id="menu-item-18263" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18263"><a href="http://www.sanoma.nl/research/">Insights</a></li>
+	<li id="menu-item-18266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18266"><a href="http://www.sanoma.nl/bereik-formaten-en-tarieven/">Bereik, formaten en tarieven</a></li>
+	<li id="menu-item-18264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18264"><a href="http://www.sanoma.nl/person/">Contact</a></li>
+</ul>
+</li>
+<li id="menu-item-430" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-430"><a href="http://www.sanoma.nl/werken-bij/">Werken bij</a></li>
+<li id="menu-item-429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-429"><a href="http://www.sanoma.nl/nieuws/">Nieuws</a></li>
+<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="http://www.sanoma.nl/contact/">Contact</a></li>
+</ul></div>			</nav><!-- #site-navigation -->
+		
+			<a href="javascript:void(0);" class="hamburger-toggle">
+				<i class="hamburger-toggle__icon">
+					<span class="icon-top"></span>
+					<span class="icon-bottom"></span>
+				</i>
+			</a><!-- .hamburger-toggle -->
+
+							<nav id="language-navigation" class="language-navigation navigation" role="navigation">
+					<ul>	<li class="lang-item lang-item-49 lang-item-nl lang-item-first current-lang"><a lang="nl-NL" hreflang="nl-NL" href="http://www.sanoma.nl/">NL</a></li>
+	<li class="lang-item lang-item-95 lang-item-en"><a lang="en-US" hreflang="en-US" href="http://www.sanoma.nl/en/">EN</a></li>
+</ul>
+				</nav><!-- #language-navigation -->
+			
+			<div class="search-wrapper">
+				<a href="javascript:void(0);" class="search-toggle">
+					<i class="search-toggle__icon">
+						<span class="icon-circle"></span>
+						<span class="icon-line"></span>
+					</i>
+				</a>
+				<form role="search" method="get" class="search-form" action="http://www.sanoma.nl/">
+	<input type="search" class="search-field"
+	    placeholder="Zoeken"
+	    value="" name="s" />
+    <input type="submit" class="search-submit" value=" " />
+    <i class="icon icon-search"></i>
+</form>			</div><!-- .search-wrapper -->
+
+	</header><!-- #masthead -->
+
+
+	<div id="content" class="site-content">
+
+  <div id="primary" class="content-area">
+    <main id="main" class="site-main post-type-archive-contact" role="main">
+
+    		
+	<div class="hero-module">
+		<div class="hero-module__video-container" data-aos="fade-in" data-aos-delay="100" data-aos-duration="2000" data-aos-easing="ease-out">
+							<video playsinline autoplay loop muted class="hero-module__video">
+					<source src="http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/video/SANOMA_BANNER_LOWRESS_small.mp4" type="video/mp4" media="all and (max-width: 480px)">
+					<source src="http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/video/SANOMA_BANNER_LOWRESS_1280.mp4" type="video/mp4" />
+				</video>
+						
+						
+			<div class="hero-module__content">
+									<h1 class="hero-module__title">
+						<span class="hero-module__title-chunk" data-aos="fade-up" data-aos-delay="200" >Welkom</span><span class="hero-module__title-chunk" data-aos="fade-down" data-aos-delay="200" >bij</span><span class="hero-module__title-chunk" data-aos="fade-up" data-aos-delay="300" >Sanoma</span>					</h1>
+				
+									<span class="hero-module__title hero-module__title--sub" data-aos="fade-up" data-aos-delay="600"></span>
+							</div>
+
+							<a href="javascript:void(0);" class="scroll-icon scroll-icon--mobile">
+					<i class="icon icon-arrow-down"></i>
+				</a>
+			
+						
+		</div>
+	</div>
+
+
+		<div class="button-row colour" style="background:#00bfac" data-aos="fade-in">
+	<div class="container">
+		<div class="content-wrapper">
+			<H1 >Wat kunnen we voor je doen?</H1>
+				<div class="button-wrapper items-4">
+
+					
+																			<div class="button-col" data-aos="fade-in" data-aos-delay="100">
+								<a class="btn with-icon" style="" href="https://klantenservice.sanoma.nl/" target=_blank">
+																			<i class="icon icon-book-open-3"></i>
+																		<span>Ik heb een vraag over abonnementen en producten</span>
+								</a>
+							</div>
+						
+					
+																			<div class="button-col" data-aos="fade-in" data-aos-delay="200">
+								<a class="btn with-icon" style="" href="http://www.sanoma.nl/werken-bij/" ">
+																			<i class="icon icon-account-group-5"></i>
+																		<span>Ik heb interesse in vacatures en stages</span>
+								</a>
+							</div>
+						
+					
+																			<div class="button-col" data-aos="fade-in" data-aos-delay="300">
+								<a class="btn with-icon" style="" href="http://www.sanoma.nl/adverteren/" ">
+																			<i class="icon icon-bubble-chat-information-2"></i>
+																		<span>Ik wil informatie over adverteren</span>
+								</a>
+							</div>
+						
+					
+																			<div class="button-col" data-aos="fade-in" data-aos-delay="400">
+								<a class="btn with-icon" style="" href="http://www.sanoma.nl/over-sanoma/" ">
+																			<i class="icon icon-group-chat"></i>
+																		<span>Vertel me meer over sanoma</span>
+								</a>
+							</div>
+						
+					
+				</div>
+
+					</div>
+	</div>
+</div>
+	<div class="news-row">
+		<div class="container">
+			<h2 style="color:#00bfac">Het laatste nieuws</h2>
+							<a href="http://www.sanoma.nl/nieuws" class="more-button">Meer nieuws</a>
+						<div class="article-grid article-grid--items-4 equal-height-grid">
+									<article class="card article-wrapper" data-aos="fade-in" data-aos-delay="100">
+						<a href="http://www.sanoma.nl/frans-bauer-deze-week-gasthoofdredacteur-van-story/">
+							<div class="img-wrapper">
+																	<img src="https://bin.snmmd.nl/m/ps3ypu6uih0m_san_rectangle_small.png/story.png" alt="Frans Bauer deze week gasthoofdredacteur van Story">
+															</div>
+							<div class="card__content">
+								<h3>Frans Bauer deze week gasthoofdredacteur van Story</h3>
+							</div>
+						</a>
+					</article>
+									<article class="card article-wrapper" data-aos="fade-in" data-aos-delay="200">
+						<a href="http://www.sanoma.nl/sanoma-heeft-intentie-om-belgisch-vrouwen-mediamerken-portfolio-aan-roularta-media-group-te-verkopen/">
+							<div class="img-wrapper">
+																	<img src="https://bin.snmmd.nl/m/e32ysudusu75_san_rectangle_small.jpg/placeholder.jpg" alt="Sanoma heeft intentie om Belgisch vrouwen mediamerken portfolio aan Roularta Media Group te verkopen">
+															</div>
+							<div class="card__content">
+								<h3>Sanoma heeft intentie om Belgisch vrouwen mediamerken portfolio aan Roularta Media Group te verkopen</h3>
+							</div>
+						</a>
+					</article>
+									<article class="card article-wrapper" data-aos="fade-in" data-aos-delay="300">
+						<a href="http://www.sanoma.nl/kolfruimtes-belabberd-geregeld-door-werkgevers/">
+							<div class="img-wrapper">
+																	<img src="https://bin.snmmd.nl/m/j2bypeuue7ma_san_rectangle_small.png/oudersvannu-logo.png" alt="Kolfruimtes belabberd geregeld door werkgevers">
+															</div>
+							<div class="card__content">
+								<h3>Kolfruimtes belabberd geregeld door werkgevers</h3>
+							</div>
+						</a>
+					</article>
+									<article class="card article-wrapper" data-aos="fade-in" data-aos-delay="400">
+						<a href="http://www.sanoma.nl/tonen-van-producten-beste-manier-om-beursbezoekers-te-verleiden/">
+							<div class="img-wrapper">
+																	<img src="https://bin.snmmd.nl/m/iwfyfktucucp_san_rectangle_small.jpg/persbericht-dennis-onderzoek-vtwonen.jpg" alt="Tonen van producten beste manier om beursbezoekers te verleiden">
+															</div>
+							<div class="card__content">
+								<h3>Tonen van producten beste manier om beursbezoekers te verleiden</h3>
+							</div>
+						</a>
+					</article>
+							</div>
+		</div>
+	</div>
+
+<div class="spacer-row small" style="background: #00bfac;"></div>
+<div class="content-row  align-left  image-fullwidth colour" style="background:#00bfac" data-aos="fade-in">
+	<div class="container">
+		<div class="content-wrapper">
+			
+				<div class="content-wrapper items-1">
+
+					
+						<div class="content-col" style="color:#ffffff" data-aos="fade-in" data-aos-delay="100">
+
+							<h2>Geïnteresseerd in het laatste B2B nieuws?</h2>
+<p>Schrijf je dan hier in voor de B2B nieuwsbrief van Sanoma</p>
+<p><span style="color: #00bfac;"><a class="btn" style="background-color: #ffffff; color: #00bfac;" href="http://www.sanoma.nl/b2b-nieuwsbrief/">Inschrijven nieuwsbrief</a></span></p>
+
+						</div>
+
+					
+				</div>
+
+					</div>
+	</div>
+</div>
+<div class="spacer-row small" style="background: #00bfac;"></div>
+    </main><!-- #main -->
+  </div><!-- #primary -->
+  
+	</div><!-- #content -->
+
+	<footer class="site-footer">
+
+		<div class="container">
+			<nav id="footer-navigation" class="footer-navigation navigation" role="navigation">
+				<div class="menu-footermenu-container"><ul id="footer" class="menu"><li id="menu-item-14204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14204"><a href="http://www.sanoma.nl/privacy-en-cookiebeleid/">Privacy- en cookiebeleid</a></li>
+<li id="menu-item-14197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14197"><a href="http://www.sanoma.nl/copyright/">Copyright</a></li>
+<li id="menu-item-14205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14205"><a href="http://www.sanoma.nl/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-766" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-766"><a href="http://www.sanoma.nl/contact/">Contact</a></li>
+<li id="menu-item-17215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17215"><a href="http://www.sanoma.nl/adverteren/">Adverteren</a></li>
+</ul></div> 
+			</nav><!-- #language-navigation -->
+
+			<p class="copyright">Copyright 2016 | Sanoma Media Netherlands B.V.</p>
+			<p class="copyright"><a href="http://www.sanoma.nl">www.sanoma.nl</a> | Onderdeel van Sanoma Media Nederland groep</p>
+		</div>
+		
+	</footer><!-- .site-footer -->
+</div><!-- #page -->
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/www.sanoma.nl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/plugins/sm-social-share/public/assets/js/public.js?ver=2.2.7&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/jquery/dist/jquery.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/select2/dist/js/select2.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/aos/dist/aos.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/masonry/dist/masonry.pkgd.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/bower_components/slick-carousel/slick/slick.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var remote_addr = {"remote_addr":"10.164.24.122"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/js/main.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/js/home.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/js/radialSlider.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var config = {"home_url":"http:\/\/www.sanoma.nl","is_advertisingtool":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp-content/themes/sanoma_nl/assets/js/filters.min.js?ver=1.3.3&#038;_deploy=1.3.3'></script>
+<script type='text/javascript' src='http://www.sanoma.nl/wp/wp-includes/js/wp-embed.min.js?ver=4.8.5&#038;_deploy=1.3.3'></script>
+
+</body>
+</html>

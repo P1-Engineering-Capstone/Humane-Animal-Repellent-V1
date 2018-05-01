@@ -1,0 +1,490 @@
+
+<!DOCTYPE html>
+
+<!--[if lt IE 9]>
+<html class="no-js lt-ie9">
+	<![endif]-->
+	<!--[if IE 9]>
+	<html class="no-js ie9 ie">
+		<![endif]-->
+		<!--[if gt IE 9]>
+		<!-->
+		<html class="no-js ie">
+			<!--<![endif]-->
+<head>
+		<meta charset="utf-8">
+		<title>Harmony Animal Hospital</title>
+        <meta name="description" content="Award-winning veterinary, surgical &amp; wellness care for dogs, cats, birds, reptiles &amp; pocket pets at Harmony Animal Hospital in Jupiter, FL." />
+		<meta name="viewport" content="width=device-width , initial-scale=1.0">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
+		<link rel="stylesheet" href="/styles/default.css">
+		<link rel="stylesheet" href="/styles/main.css">
+        		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="shortcut icon" href="/favicon.png">
+		<link rel="shortcut icon" sizes="196x196" href="/apple-touch-icon-196.png">
+		<link rel="shortcut icon" sizes="128x128" href="/apple-touch-icon-128.png">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png">
+		<link rel="apple-touch-icon" sizes="128x128" href="/apple-touch-icon-128.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png">
+		<meta name="msapplication-TileColor" content="#fff"/>
+		<meta name="msapplication-TileImage" content="/tileimage-144.png"/>
+		<meta name="msapplication-square70x70logo" content="/tileimage-70.png"/>
+		<meta name="msapplication-square150x150logo" content="/tileimage-150.png"/>
+		<meta name="msapplication-wide310x150logo" content="/tileimage-310-150.png"/>
+		<meta name="msapplication-square310x310logo" content="/tileimage-310.png"/>
+		<meta http-equiv="cleartype" content="on">
+		<script src="/scripts/modernizr-2.6.1-respond-1.1.0.min.js"></script>
+		<script src="/scripts/addtohome.min.js"></script>
+         <!-- fixing petpics load TABBY 07.21.2014 -->
+		 <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54297903-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body class="page inner-page ">
+
+
+<header class="siteheader grid-whole clearfix">	
+<!-- top.inc file start -->	
+<div class="header-content ">
+											
+				<section class="logo l-grid-6 m-grid-9 s-grid-whole padded ">
+					<a href="/">
+						<img src="/images/logo-harmony-animal-hospital-horizontal.svg" alt="Harmony Animal Hospital"></a>
+				</section>
+				
+				<!-- contact info -->
+				<section class="contact l-grid-2 m-grid-half s-grid-half padded " itemscope itemtype="http://schema.org/VeterinaryCare">					
+					<div class="contact-content m-grid-whole ">						
+						<p class="contact-info" itemprop="address">						
+							1401 W. Indiantown Rd<br/>
+							<span class="break">,</span>
+							 Jupiter, FL 33458						
+						</p>
+						<p class="contact-info" itemprop="telephone">
+							Phone:
+							<span class="mobileonly">
+								<a href="tel:">(561) 746-5501</a>					
+							</span>
+							<span class="nonmobile">(561) 746-5501</span>
+							<br/>
+							<span >Fax: (561) 746-6114</span>						
+						</p>						
+						<nav class="contactbuttons emergency-contact-links  left inline-list">		
+							<ul>
+																<li><a class="contact-buttons" href="https://connect.allydvm.com/pet/harmony/sign_in" target="_blank">Pet Records Login</a></li>		
+							</ul>							
+						</nav>														
+					</div>
+				</section>
+				<!-- contact info end-->				
+				<!-- social media / hours of operation -->				
+				<section class="contact  l-grid-2 m-grid-half s-grid-whole padded ">
+					<div class="contact-content l-grid-whole m-grid-whole left ">
+						<p class="contact-info ">			
+                        		<time itemprop="openingHours" datetime="Mo-Fr 7:30-20:00">Mon &ndash; Thur: 7:30 a.m. &ndash; 7 p.m.</time> <span class="break">,</span><br/>
+								<time itemprop="openingHours" datetime="Sa 7:30-18:00">Fri: 7:30 a.m. &ndash; 6 p.m.</time> <span class="break">,</span><br/>
+								<time itemprop="openingHours" datetime="Su 8:00-14:00">Sat: 8 a.m. &ndash; 2 p.m.</time> <span class="break">,</span><br/>
+								Sunday: Closed							 
+						</p>							
+						<nav class="social contactbuttons left">		
+							<ul >
+								<li>
+									<a class="contact-buttons" href="http://www.facebook.com/HarmonyAnimalHospital" target="_blank">
+										<img src="/images/icon-Facebook.svg" alt="Facebook"></a>
+								</li>
+								<li>
+									<a class="contact-buttons" href="https://www.instagram.com/harmonyanimalhospital/" target="_blank">
+										<img src="/images/icon-Instagram.png" alt="Instagram"></a>
+								</li>
+								<li>
+									<a class="contact-buttons" href="https://twitter.com/HarmonyVetJup" target="_blank">
+										<img src="/images/icon-Twitter.svg" alt="Twitter"></a>
+								</li>
+																					
+																<li>
+									<a class="contact-buttons" href="http://pinterest.com/harmonyah/" target="_blank">
+										<img src="/images/icon-Pinterest.svg" alt="Pinterest"></a>
+								</li>
+								<li>
+									<a class="contact-buttons" href="https://www.youtube.com/c/HarmonyAnimalHospitalJupiter" target="_blank">
+										<img src="/images/icon-YouTube.png" alt="Youtube"></a>
+								</li>								
+							</ul>					
+						</nav>	
+					</div>	
+				</section>				
+				<div class="clearfix"></div>
+				<!-- social media / hours of operation end-->
+				<div class="contactshow clearfix padded-sides">
+					<span class="button">Contact Information</span>					
+				</div>				
+				<div class="clearfix"></div>	
+
+
+</div>		
+<!-- top.inc file end --><div class="nav-container">	
+<div class="navshow ">
+						Menu
+						<img src="/images/icon-nav.svg" alt="Show Navigation">
+					</div>
+					<nav class="nav sitenav grid-whole l-padded-sides clearfix">
+						<div class="navhide">
+							Close Menu
+							<img src="/images/icon-close.svg" alt="Hide Navigation"></div>
+						<ul class="sf-menu mainnav padded-sides clearfix">
+							<li>
+								<a href="/" >Home</a>
+							</li>
+							<li>
+								<a href="/about-us/" >About Us</a>
+								<ul class="subnav">
+									<li>
+										<a href="/about-us/veterinarians.html" >Veterinarians </a>
+									</li>
+									<li>
+										<a href="/about-us/staff.html" >Staff</a>
+									</li>
+                                   <li>
+										<a href="/about-us/hospital-tour.html" >Hospital Tour</a>
+									</li>
+								</ul>
+							</li>
+							<li>
+								<a href="/services/" >Services</a>
+								<ul class="subnav wide-sub-nav">
+									<ul class="col-nav">
+										<li>
+											<a href="/services/acupuncture.html" >Acupuncture</a>
+										</li>
+										<li>
+											<a href="/services/behavioral-training-and-nutritional-counseling.html" >Behavioral Training &amp; Nutritional Counseling</a>
+										</li>
+										<li>
+											<a href="/services/boarding-and-grooming.html" >Boarding &amp; Grooming</a>
+										</li>
+										<li>
+											<a href="/services/cold-laser-and-massage-therapy.html" >Cold Laser Therapy</a>
+										</li>
+										<li>
+											<a href="/services/pet-dermatology.html" >Pet Dermatology</a>
+										</li>
+										<li>
+											<a href="/services/emergency-and-critical-care.html" >Emergency &amp; Critical Care</a>
+										</li>
+										<li>
+											<a href="/services/end-of-life-care.html" >End-of-Life Care</a>
+										</li>
+									</ul>									
+									<ul class="col-nav">		
+											<li>
+												<a href="/services/exotic-pet-care.html" >Exotic Pet Care</a>
+											</li>
+											<li>
+												<a href="/services/in-house-laboratory.html" >In-House Laboratory</a>
+											</li>
+											<li>
+												<a href="/services/internal-medicine.html" >Internal Medicine</a>
+											</li>
+											<li>
+												<a href="/services/dental-care.html" >Dental Care</a>
+											</li>
+											<li>
+												<a href="/services/pain-management.html" >Pain Management</a>
+											</li>
+											<li>
+												<a href="/services/veterinary-diagnostics.html" >Veterinary Diagnostics</a>
+											</li>
+											<li>
+												<a href="/services/veterinary-surgery.html" >Veterinary Surgery</a>
+											</li>
+										</ul>									
+								</ul>
+							</li>							
+							<li>
+								<a href="/pet-health/" >Pet Health</a>
+									<ul class="subnav">
+									    <li><a href="/pet-health/pet-health-library.html">Pet Health Library</a>
+										<li>
+											<a href="/pet-health/puppy-and-kitten-care.html" >Puppy &amp; Kitten Care</a>
+										</li>
+										<li>
+											<a href="/pet-health/senior-pet-care.html" >Senior Pet Care</a>
+										</li>
+									</ul>
+							</li>														
+							<li>
+								<a href="/pet-resources/" >Pet Resources</a>
+								<ul class="subnav wide-sub-nav">
+									<ul class="col-nav">
+									
+									<li>
+										<a href="/specials/"  title="Coupons &amp; Promotions">Coupons &amp; Promotions</a>
+									</li>
+									<li>
+										<a href="/links/" >Links</a>
+									</li>
+									<li>
+										<a href="/news/" >News &amp; Events</a>
+									</li>
+									<!--<li>
+										<a href="/newsletters/" >Newsletter</a>
+									</li>-->
+                                   
+									<li>
+										<a href="/adoptions/" >Online Pet Adoptions</a>
+									</li>
+                                     </ul>
+                                    <ul class="col-nav">	
+									<li>
+										<a href="/petpics/" >Pet Picture Galley</a>
+									</li>
+									<li>
+										<a href="/candles/" >Light a Candle </a>
+									</li>
+									<li>
+										<a href="/petmems/" >Online Pet Memorials</a>
+									</li>
+									<li>
+										<a href="/petloss/" >Pet Loss Library</a>
+									</li>
+									<li>
+										<a href="/petwall/" >Pet Memorial Wall</a>
+									</li>
+									</ul>
+
+								</ul>
+							</li>
+							<li>
+								<a href="/blog/" >Blog</a>								
+							</li>
+							<li>
+								<a href="/new-clients/" >Client Resources</a>				
+                                <ul class="subnav">
+										<li><a href="/forms/new-client.html">New Client Information Form</a></li>
+										<li><a href="/forms/boarding.html">Boarding Release Form </a></li>
+										<li><a href="/forms/rx-refill.html">Prescription Refill Form</a></li>
+										<li><a href="/forms/appointment.html">Medical Appointment Request Form</a></li>
+										<li><a href="/forms/cpr-class.html">Pet CPR/First Aid Class Registration Form</a></li>
+										<li><a href="/forms/records-request.html">Request for Release of Medical Records</a></li>		
+                                 </ul>       		
+							</li>
+							<li>
+								<a href="http://harmonyanimalhospital3.vetsourceweb.com/site/view/site/view/HomeDelivery.pml" target="_blank">Online Pharmacy</a>
+							</li>							
+							<li>
+								<a href="/emergencies/" >Emergencies</a>
+							</li>
+							<li>
+								<a href="/contact-us/" >Contact Us</a>
+							</li>
+
+
+
+							
+						</ul>
+					</nav>								
+</div></header>			
+
+<div class="clearfix"></div>
+<article class="content grid-whole padded-vertical">
+<div class="clearfix">
+<section class="bodytext l-grid-half m-grid-whole s-grid-whole padded-sides"><div class="pagetitle">										
+<h1>  </h1>
+</div>					
+    
+ <h3>Page Not Found</h3>
+ <p>We're sorry, but the page you requested is not available. It may have moved. Please browse our site to find the page you are looking for. If you require further assistance, please email us at <a href="mailto:fetch@petvets.com">fetch@petvets.com</a></p>
+   </section>
+ <aside class="side l-grid-half m-grid-half s-grid-whole padded-sides"><!-- defaultside.INC start -->
+
+<nav class="sidenav">
+							
+							
+												
+
+											
+
+
+
+</nav>
+
+                         
+
+
+<!-- removed per client -->
+<!--<nav class="sidenav">
+<ul>
+<li class="forms">
+<a href="http://visitor.r20.constantcontact.com/d.jsp?llr=hfwxjycab&p=oi&m=1102474631335&sit=nq6pix5db&f=49dca7c1-b76d-4cd9-bd47-70905837a3a8" target="_blank" >Sign Up for our Newsletter</a>
+</li>
+
+</ul>
+</nav>-->
+
+<!-- defaultside.INC end -->
+							
+													
+																				
+							</aside>  </div>
+  <!-- FOOTER.INC FILE start -->
+
+<section id="quotes">
+        <p class="quotes">                
+          <span class="copy">
+            &ldquo;Your front desk staff is fabulous! They made me feel like Lola and I were the best duo in town. The service was very good and they completed it in record time.&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Elyse Rose-Trupiano
+            </span>                
+        </p>
+        <p class="quotes">                
+          <span class="copy">
+           &ldquo;Great facility and feel very comfortable leaving Sam (our Bengal cat) there. Highly recommend to anyone who wants their loved pet in capable and pet friendly hands!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Michael &amp; Ellen Rierson
+
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;We&rsquo;ve loved you guys for 12 years!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Bob Olson
+
+
+            </span>                
+        </p>
+        <p class="quotes">                
+          <span class="copy">
+            &ldquo;Dr. Rogers has terrific bedside manner, diagnosed the problem quickly and accurately, and addressed all of our concerns. Muffin sends her thanks to Dr. Rogers for her chicken puree recipe. Yum!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Jack  Holcomb
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;Your staff was very helpful and good with my cat I would for sure bring her back for boarding she was very good when I picked her up she was not stressed out all that is very important to me. Thanks to
+all the staff that took care of her when u have people that care it makes me feel less stressed about leaving her...Thank u everyone.&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Cherie Wade
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;Everyone there took the time to calm and reassure both myself and my nervous dog. We cannot thank you enough for being warm, helpful, and concerned. We love you guys!!!!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Jeff Farwell
+
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;I have been coming to Harmony Animal Hospital for years. Very, well satisfied. All of the Staff are helpful and very kind and polite.&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Normal &amp; Willard Johnson
+
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;I have not have had a problem with any member of the staff. All our pets have been patients of harmony since 1996. Good job.&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Fauvette Nudleman
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;Excellent service! Clean facility! I will not trust any other vet with my pup;)&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Rhenna &amp; Emilo Pages
+
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;We find everyone at Harmony to be extremely helpful. Nice, caring people!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Robin Monserrat
+
+            </span>                
+        </p>
+         <p class="quotes">                
+          <span class="copy">
+            &ldquo;I am very happy with the level of care my &quot;fury&quot; children receive at Harmony. It keeps me coming back. Thank you!&rdquo;
+          </span>                
+             <span class="client-name"><br />
+              &ndash; Kristen Wagner
+            </span>                
+        </p>
+        
+        
+        
+        
+        
+      </section>		
+      </article>					
+<footer class="sitefooter grid-whole padded ">
+				<div class="content">									
+
+					<section class="copyright l-grid-10">
+					<!--<div class="callout-aaha" >					
+						<a href="http://www.aaha.org/pet_owner/about_aaha/why_accreditation_matters/default.aspx" target="_blank">
+							<img src="/images/logo-AAHA.svg" alt="AAHA">
+						</a>					
+
+
+								
+					</div>-->																
+						<p>
+							The materials offered on this website are intended for educational purposes only. Harmony Animal Hospital does not provide veterinary medical services or guidance via the Internet. Please consult your pets&rsquo; veterinarian in matters regarding the care of your animals.
+						</p>
+						<p>
+							Copyright &copy; 2018  Harmony Animal Hospital. All rights reserved.
+							 <a href="http://www.beyondindigopets.com" title="Beyond Indigo Pets" target="_blank">Veterinary Website</a> by Beyond Indigo Pets.
+						</p>
+					</section>					
+				</div>
+			</footer>
+ 
+<!-- FOOTER.INC FILE end -->  
+			<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+			<script>window.jQuery || document.write('<script src="/scripts/jquery-1.8.2.min.js"><\/script>')</script>
+			<script src="/scripts/jquery.flexslider-min.js"></script>
+			<script src="/scripts/main.js"></script>			
+			<script src="/scripts/waypoints.js"></script>
+			<script src="/scripts/waypoints-sticky.js"></script>
+			<script> 
+				$(document).ready(function(){ 
+					$("ul.sf-menu").superfish({
+						delay: 500,
+						speed: 'fast',
+						autoArrows: false,
+						dropShadows: false
+					});
+					 					 					$('.nav-container').waypoint('sticky', {
+						offset: 0
+					});
+				});
+			</script>
+  
+</body>
+</html>

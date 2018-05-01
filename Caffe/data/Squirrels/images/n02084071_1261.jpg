@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" href="http://www.worthprotectionsecurity.com/wp-content/thesis/skins/classic-r/css.css" />
+<title>Page not found</title>
+<meta name="robots" content="noindex, nofollow, noarchive, noodp, noydir" />
+<link rel="alternate" type="application/rss+xml" title="Prevent Burglary By Tightening Home Security feed" href="http://www.worthprotectionsecurity.com/feed/" />
+<link rel="pingback" href="http://www.worthprotectionsecurity.com/xmlrpc.php" />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.worthprotectionsecurity.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=67df0d02f2740c7987a2f611f043f439"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='crp-style-rounded-thumbs-css'  href='http://www.worthprotectionsecurity.com/wp-content/plugins/contextual-related-posts/css/default-style.css?ver=67df0d02f2740c7987a2f611f043f439' type='text/css' media='all' />
+<style id='crp-style-rounded-thumbs-inline-css' type='text/css'>
+
+.crp_related a {
+  width: 150px;
+  height: 150px;
+  text-decoration: none;
+}
+.crp_related img {
+  max-width: 150px;
+  margin: auto;
+}
+.crp_related .crp_title {
+  width: 150px;
+}
+                
+</style>
+<link rel='stylesheet' id='ssb-front-css-css'  href='http://www.worthprotectionsecurity.com/wp-content/plugins/simple-social-buttons/assets/css/front.css?ver=2.0.4' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.worthprotectionsecurity.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.worthprotectionsecurity.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.worthprotectionsecurity.com/wp-content/plugins/simple-social-buttons/assets/js/front.js?ver=2.0.4'></script>
+<link rel='https://api.w.org/' href='http://www.worthprotectionsecurity.com/wp-json/' />
+ <style media="screen">
+   
+   
+   
+   
+   
+   
+
+   
+   
+   
+   
+ 	    div[class*="simplesocialbuttons-float"].simplesocialbuttons.simplesocial-round-icon a{
+      margin: ;
+    }
+   </style>
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.worthprotectionsecurity.com/?wordfence_lh=1&hid=A21F2C53737A250EB4FF036942524B27');
+</script><link rel="icon" href="http://www.worthprotectionsecurity.com/wp-content/uploads/2014/05/cropped-rsz_security-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://www.worthprotectionsecurity.com/wp-content/uploads/2014/05/cropped-rsz_security-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://www.worthprotectionsecurity.com/wp-content/uploads/2014/05/cropped-rsz_security-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://www.worthprotectionsecurity.com/wp-content/uploads/2014/05/cropped-rsz_security-1-270x270.jpg" />
+<link rel="shortcut icon" href="http://www.worthprotectionsecurity.com/wp-content/themes/thesis/lib/images/favicon.ico" />
+</head>
+<body class="template-fourohfour">
+<div class="container">
+	<span class="menu_control">≡ Menu</span>
+<ul id="menu-menu" class="menu"><li id="menu-item-53" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-53"><a href="http://worthprotectionsecurity.com">Home</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://www.worthprotectionsecurity.com/about-worth-protection-security/">About Us</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15"><a href="http://www.worthprotectionsecurity.com/privacy-statement/">Privacy Statement</a></li>
+<li id="menu-item-16" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16"><a href="http://www.worthprotectionsecurity.com/reach-us/">Reach Us</a></li>
+</ul>
+	<div id="header" class="header">
+		<div id="site_title"><a href="http://www.worthprotectionsecurity.com">Prevent Burglary By Tightening Home Security</a></div>
+		<div id="site_tagline">Choose The Best Security Equipment</div>
+<a id="thesis_header_image_link" href="http://www.worthprotectionsecurity.com"><img id="thesis_header_image" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2014/05/rsz_worthsec-1.png" alt="Prevent Burglary By Tightening Home Security header image" width="768" height="110" title="click to return home" /></a>
+	</div>
+	<div class="columns">
+		<div class="content">
+			<div class="post_box grt top" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">Security Equipment for Your House</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2018-01-07" />
+						<meta itemprop="dateModified" content="2018-01-04" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2018-01-07">January 7, 2018</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>Even though your house and expensive things you own are insured and in case of any burglary all the expenses will be taken care of but as the cliché says “prevention is better than cure”. Leaving loopholes in the security of your house might end up as your worst mistake. Even if insurance replaces everything, the trauma that your family faces will always stay with them.</p>
+<div id="attachment_898" style="max-width: 610px" class="wp-caption aligncenter"><a href="http://www.worthprotectionsecurity.com/security-equipment-for-your-house/" target="_blank" rel="noopener"><img class="wp-image-898 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2018/01/house.jpg" alt="Security Equipment for Your House" width="600" height="354" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2018/01/house.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2018/01/house-300x177.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Security Equipment for Your House</p></div>
+<p>Just a few inexpensive measures can turn your house into a secure place to live. You don’t have to install expensive security alarms and surveillance cameras for securing your house. Some of the <a href="http://familyandhomesecurity.com/diy-house-safety-and-security-equipment-install-your-own-residence-alarm-system/" target="_blank" rel="noopener">measures</a> you can take are:</p>
+<p><strong><u>Motion sensors:</u></strong></p>
+<p>Motion detectors are an ideal way to spot a burglar before he/she tries to enter your house. They not only inform you of the incoming security threat but also scare the burglar away. These motion sensors can be lights as well as alarms. The good thing about motion sensors with alarms is you cannot only detect the burglar at night but also during the day.</p>
+<p><strong><u>Security camera:</u></strong></p>
+<p>A security camera is a must nowadays. Only in the UK, there are about 7.3 million thefts every year. The security camera helps you keep an eye on your house even though you are not home. It also helps you keep an eye on your children while you are away on business.</p>
+<p>If you don’t want to invest in high-end security cameras due to the price at which they come you can turn your old phones into security cameras. There are many DIY projects on the internet, which you can use as a reference for securing your house using old phones.</p>
+<p><strong><u>Locking your doors and windows:</u></strong></p>
+<p>It has been seen that people don’t utilize the locks present on their windows and doors. 30 percent of burglaries happen due to doors left unlocked. The thieves enter the house without having to break the locks or forcing anyone to let them in. Hence, make locking the doors and windows a habit. Also, teach your children to lock the doors behind them.</p>
+<p><strong><u>Secure structure:</u></strong></p>
+<p>A secure house structure can keep the burglars out of the house. Survey has shown that people usually tend to focus on nighttime security measures while most burglaries happen during the day. For keeping your house safe a secure structure is very important. The windows of your house should be secured with a grill. It has been seen that sometimes burglars enter the house using chimneys and roof area, for that you can hire roof contractors and make the roof of your house secure.</p>
+<p>The <a href="http://www.rooftimegc.com/category/grand-prairie/" target="_blank" rel="noopener">Grand Prairie roofing</a> is one of the best on the market. They provide you with all kinds of roof services. Having a secure and sturdy roof is very important, which is exactly what the Grand Prairie roofing strives to provide you with. All the construction companies trust the Grand Prairie roofing because of its marvelous reputation and years of experience.</p>
+<p>They are here to solve all your problems, whether you have a security breach or a leak in your roof. They provide full roofing service for repairing commercial roofs as well as residential roofing. If you live in a flat and are experiencing problems with the roof they can even help eradicate that. Apart from this they also excel in multifamily installations.</p>
+<p>They have been working as roofing contractors since 2005 and have installed the beautiful, durable and secure roof in a large number of houses in Ellis County, Collin County, and their suburbs. The material used is of high quality from renowned material manufacturing companies like Atlas roofing and GAF. Anyone who has hired their services has reviewed them as one of the best companies on the market. Their staff is extremely cooperative and proficient.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">How To Legally Protect Yourself</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-12-12" />
+						<meta itemprop="dateModified" content="2017-11-29" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-12-12">December 12, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>Whenever you land yourself into a deep legal case or problem, it becomes apparent to you that it could have been easily avoided if you had been smarter. Our choices and everyday tasks can lead to dire consequences. For example, you find yourself being sued for copying another brand; this can be avoided if you had paid more attention to the similarities between the two brands. There is a thin line between taking inspiration and copying someone.</p>
+<p>Situations like these can be further averted by smartly approaching these problems. Countless folks get themselves into deeper trouble with the law just because they didn’t co-operate when they should have or said and did the wrong thing.</p>
+<div id="attachment_886" style="max-width: 610px" class="wp-caption aligncenter"><a href="http://www.worthprotectionsecurity.com/how-to-legally-protect-yourself/" target="_blank" rel="noopener"><img class="wp-image-886 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/12/legal-protection.jpg" alt="How To Legally Protect Yourself" width="600" height="411" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/12/legal-protection.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/12/legal-protection-300x206.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">How To Legally Protect Yourself</p></div>
+<p>Therefore, if you wish to protect yourself in such cases, try a few <a href="https://www.webmd.com/a-to-z-guides/features/how-protect-yourself-against-crime" target="_blank" rel="noopener">ways</a>:</p>
+<p><strong>Always Speak Less Than Necessary:</strong></p>
+<p>It is often said, “The more you speak, the more foolish you appear.” No more exact words have been said. More than half of the legal trouble folks get themselves into, is because they said something incredibly stupid. For example, if you get into a car accident and an officer asks you if you’re okay. You tell them you’re fine. The next day when you wake up, you realize your back is killing you. However, the insurance company can refuse your claims as you had already stated you were alright. In these cases, it is better not to talk to any police officers on the scene, as you have no idea how your statement can be used against you. You should always lawyer up and let him do the talking.</p>
+<p><strong>Always Confirm in Writing:</strong></p>
+<p>One of the best ways to avoid legal confrontation is to have all your deals in writing. This guarantees that you have full information of all the terms and conditions involved in your deals. Something as simple as sending an email can save you months of expenses and litigation. For instance, if you have found a sponsor willing to fund your project, have him sign a written contract to ensure he is bound to do as he has said.</p>
+<p><strong>Be Ambiguous:</strong></p>
+<p>Whenever making a statement, do not be too direct and clear in your writings or speech. Using ambiguous words like ‘it appears to be’ or, ‘it seems to me’ can allow you some room change, remove or add parts of your statement. People usually think to explain themselves will clear up their name, when, they create an even more significant loop hole for themselves.</p>
+<p><strong>Hire A Criminal Lawyer:</strong></p>
+<p>Let us say you got yourself into deep trouble with the cops and you have no idea what to do. It is highly recommended that you hire a criminal lawyer, as they are the experts when it comes to dealing with criminal charges. Whether you were driving under the influence or found in possession, consultation with a criminal lawyer can help your case immensely. They represent your defense and help you eliminate or reduce your charges.</p>
+<p>A criminal charge on your record can ruin your job opportunities as well as your reputation. Driving under the influence can cost you thousands of dollars in insurance money. Under these dire circumstances, it is essential that you choose a representative with experience in cases like yours and who knows the best strategies for dealing with cases like yours. One such firm that represents the most experienced lawyers is Ted Yoannou’s Law firm. They offer a free consultation for anyone with criminal charges. You can visit their website at <a href="http://criminallawyersbarrie.ca/" target="_blank" rel="noopener">criminallawyersbarrie.ca</a> and make use of the variety of criminal charges consultation they provide. If you choose to retain them, they will fight all the way to reduce your charges and even eliminate them.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">Having A Secure Financial Future</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-11-21" />
+						<meta itemprop="dateModified" content="2017-11-16" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-11-21">November 21, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>Financial security is a dream of everyone in the world now as it is very hard to achieve. As you are living in a world where you are not at all sure about what is going to happen with you tomorrow. The expenses are increasing day by day, so there is no chance of saving an ample amount for yourself and family. The matter you care about the most is the financial future of yourself and family. It is very important to secure your financial future. There is no surety of that, but still, you can make efforts towards its safety. Folks consider countless options to have a secure financial future, some think that investing is a good option, others buy property, gold, and stocks as safety measures. Everyone has its own way of thinking. There is no surety of a good financial life ahead. People start a business, as they think investing in one’s own business will be more fruitful than working for someone else.</p>
+<div id="attachment_871" style="max-width: 610px" class="wp-caption aligncenter"><a href="http://www.worthprotectionsecurity.com/having-a-secure-financial-future/" target="_blank" rel="noopener"><img class="wp-image-871 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/straddle-option-strategy.jpg" alt="Having A Secure Financial Future" width="600" height="355" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/straddle-option-strategy.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/straddle-option-strategy-300x178.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Having A Secure Financial Future</p></div>
+<p><a href="https://economictimes.indiatimes.com/wealth/plan/11-steps-to-a-secure-financial-future/articleshow/53822090.cms" target="_blank" rel="noopener">Options</a> you can consider while thinking about a secure financial future are:</p>
+<h3>Investment</h3>
+<p>As mentioned above, many folks around the world consider the investment a safe option when it comes to having a safe financial future. The investment can be made anywhere, for example, in a construction project, starting a new side business or financing in someone else’s business. There are several ways when it comes to making investments. However, there is no surety of success, as a businessperson himself is not sure whether he will make required sales on today’s date or not. Therefore, keeping these above pointers in view, investment is at times a safe option for securing your financial future.</p>
+<h3>Buying Assets</h3>
+<p>Assets can also be considered as an option for securing your financial future. Numerous people out there consider buying assets a better option than investments. Likewise, it is a kind of investments but maybe better than that, because when you are spending money, you are at least getting something in return unlike investing. People usually buy gold, property and expensive products, whose prices in near future are said to be higher. Most people also buy dollars as an asset. Everyone has his own strategies when it comes to securing their financial futures.</p>
+<h3>Straddle Option Strategy</h3>
+<p>The straddle options strategy works wonders and embrace a minimal risk. An impartial trading strategy involves the simultaneous purchasing of a put and a call, strike and its cessation. The trade has a limited risk and unlimited profit potential. Not only this, you can also deal with a different strike at once. All you have to do is learn this strategy. When thinking about a secure financial position, you think about trying Straddle Option Strategy, and you can always trust on steadyoptions.com in this matter. They will provide you with the complete guidance regarding this strategy. Not only guidance but provides you the <a href="https://steadyoptions.com/articles/straddle-option/" target="_blank" rel="noopener">options Greeks</a> with all cons and pros of the straddle options strategy. From this website, you will get to know that how this strategy is the best for secure financial future with a minimal amount of risk involved in it.</p>
+<h3>Conclusion</h3>
+<p>Having a secure financial future is today’s need. No one wants to get himself involved in risk. Everyone is looking for the best technique with a minimum amount of risk involved in it. Considering this factor in mind, above-mentioned methods can help you in having a secure financial life ahead.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">The Best Guard Dog Breeds</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-11-14" />
+						<meta itemprop="dateModified" content="2017-11-19" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-11-14">November 14, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>You would like your home to be protected from intruders at all times but aside from your home security system, it will help if you have a dog that you can care for that will also help in protecting your home at the same time.</p>
+<p>A guard dog can:</p>
+<ul>
+<li>Alert you if there is an intruder or an unwanted person lurking near your house.</li>
+<li>Protect you from possible robbers that may enter your home.</li>
+</ul>
+<p>Take note that a guard dog does not necessarily equate to being an attack dog. There are different dog breeds that are known to attack your intruders. For now, you will be given information about the best dog breeds that can protect your home. You can <a href="https://www.flawlesskennels.com/blog/" target="_blank" rel="noopener">read about dogs</a> more and the various dog breeds to find the right details.</p>
+<div id="attachment_881" style="max-width: 610px" class="wp-caption aligncenter"><a href="http://www.worthprotectionsecurity.com/the-best-guard-dog-breeds/" target="_blank" rel="noopener"><img class="wp-image-881 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/doberman-pinscher.jpg" alt="The Best Guard Dog Breeds" width="600" height="366" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/doberman-pinscher.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/11/doberman-pinscher-300x183.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">The Best Guard Dog Breeds</p></div>
+<p>These are the dog breeds that will guard your house fervently:</p>
+<ol>
+<li>Doberman Pinscher</li>
+</ol>
+<p>This is a dog breed that is known to be very loyal. You can train it easily and it will help you in protecting your home in no time. This dog becomes alert easily especially when it hears other people within your property who should not be there. Expect this fearless dog breed to give the extra protection your home needs.</p>
+<ol start="2">
+<li>Giant Schnauzer</li>
+</ol>
+<p>You have to look at the giant schnauzer and know that it is meant to guard your home. It looks pretty intimidating because of the way that it looks. This dog breed is known to be a bit menacing and they are not too sociable. Make sure that you will train your dog in such a way that it will not be a hindrance to have guests over at home.</p>
+<ol start="3">
+<li>Akita</li>
+</ol>
+<p>This dog breed is known to be very loyal to its owner. It will stay with you through thick and thin and will protect your home from possible intruders. This dog breed is courageous and will always look dignified.</p>
+<ol start="4">
+<li>German Shepherd</li>
+</ol>
+<p>If you would like a dog breed that you could love and will protect your home at the same time, this is the one that you need. This is a smart dog with a steady temperament. It has the courage to protect you from possible intruders and it will be loyal to you as well.</p>
+<ol start="5">
+<li>Chow Chow</li>
+</ol>
+<p>Do not be fooled by the chow chow’s hairy exterior because this is a guard dog through and through. This dog breed is known to protect various places in Asia so it will not be surprising that they will also help in protecting your home. At the same time, they can show their affectionate side to you too.</p>
+<ol start="6">
+<li>Chinese Shar-Pei</li>
+</ol>
+<p>The moment that you see the wrinkles of this dog, you cannot help but fall in love but do not be deceived by its cuteness. This is a protector through and through. They are known to protect the whole property so you do not have it put in a cage all the time. Let it roam around and it can protect your home not only from intruders but also from vermin.</p>
+<p>Out of all the <a href="http://www.akc.org/dog-breeds/best-guard-dogs/" target="_blank" rel="noopener">dog breeds</a> that are mentioned above, which one are you most excited to have at home to give you extra protection? Take good care of your dog so that you will form an irreplaceable bond with it.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">Some Dope on Investing in A Safe Apartment!</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-10-30" />
+						<meta itemprop="dateModified" content="2017-10-29" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-10-30">October 30, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>Purchasing an apartment is an important decision that requires lots of things to consider before making the deal final. Safety of the place comes before anything else as crime rates are on the rise these days. Finding a place that provides all the amenities along with security is a hard nut to crack.</p>
+<p>You can keep <a href="http://e2condos.ca/" target="_blank" rel="noopener">E Condos</a> in the options for your investment. These are Toronto’s first towers that provide the direct indoor connection to Eglinton Subway station. This is quite a fascinating place that offers an indoor connection to wonderful shopping and dining at RioCan Yonge Eglinton Centre which has 60 additional shops and restaurants. This luxurious building is comprised of 44 stories bringing forward over 450 units.</p>
+<div id="attachment_861" style="max-width: 610px" class="wp-caption aligncenter"><a href="http://www.worthprotectionsecurity.com/some-dope-on-investing-in-a-safe-apartment/" target="_blank" rel="noopener"><img class="wp-image-861 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/10/apartment-towers.jpg" alt="Some Dope on Investing in A Safe Apartment!" width="600" height="364" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/10/apartment-towers.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/10/apartment-towers-300x182.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a><p class="wp-caption-text">Some Dope on Investing in A Safe Apartment!</p></div>
+<p>This is a project by Metropia &amp; Capital Developments, and Roy Varacalli is its architect. Whereas, Mike Niven is responsible for the interior designing. It is presently under construction, and they will be launching the tower this fall. It has a desirable location and highly coveted neighborhood. You can be one of the occupants by the end of 2017. E2 Condos is a visionary new live, work, play community with exclusive luxuries that is expected to be completed in 2021. Register yourself on their website and keep yourself updated for your invitation to E2 Platinum Access Preview Event. This place wouldn’t only satisfy your safety concerns but also help you carry you lavishing lifestyle.</p>
+<p>If you are considering another place, the following <a href="https://www.creonline.com/blog/factors-to-consider-when-buying-apartments/" target="_blank" rel="noopener">tips</a> can help you know how secure the place is:</p>
+<p><strong>Don&#8217;t Invest on the First Floor:</strong></p>
+<p>The first floor is an entrance point of the building and the most accessible to criminals. That is why they are more vulnerable to being vandalized than the other floors. It is better to invest in the higher places if you want to own one of the safe units in a building.</p>
+<p><strong>Do a little Research of the Area:</strong></p>
+<p>Make as sure as possible that the building you are considering for purchasing an apartment is located in a safe neighborhood. For that, do some research online and look for the crime rate in that area. Moreover, you can ask from a few people from a neighbor about the safety of the place and how they feel living there.</p>
+<p><strong>Take a Look Around:</strong></p>
+<p>Look for the folks in the neighborhood who have certain clues about the incidents that happened in the past regarding security. You can also look at the condition of the vicinity, how involved people are in the community, the eminence of schools nearby, or how many green spaces are there. It would give you an idea of the protection of that area.</p>
+<p><strong>Inspect Doors and Windows:</strong></p>
+<p>Burglars usually break in through windows. They would try to force door or windows to pave their way on. For that reason, focus on the access points of the apartment and the building. Inspect doors and windows properly and see if they are sturdy and able to withstand a crime.</p>
+<p><strong>Hire a Home Inspector</strong>:</p>
+<p>Property sellers often provide a home inspection report to corroborate the condition of the apartment. However, it is better to hire your own home inspector. There will be no worries left about the lace if your inspector declares it a good place to live.</p>
+<p><strong>Opt for Safety Features:</strong></p>
+<p>Look for a building that offers certain safety features if it is in your possibilities. For instance, look if there are security cameras all around the building. A doorman or a security guard should be alert of the people who walk in and out of the building.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">Ways of Increasing Financial Security</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-10-05" />
+						<meta itemprop="dateModified" content="2017-10-12" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-10-05">October 5, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>With the rise in cost of living, financial security is a major concern. With the economic turmoil happening, it is hard creating a balance and without being careful financial security will be a farfetched dream. While financial security has different definitions depending on an individual, most people will agree that financial security is whereby they have financial freedom and they can easily create a financial balance. Living in an era where loans and mortgages, it is hard to be completely debt free. Luckily with the right tips, financial security is still achievable. Some of <a href="http://www.investopedia.com/articles/younginvestors/08/generation-y.asp" target="_blank" rel="noopener">the ways</a> of ensuring financial security include:</p>
+<p><a href="http://www.worthprotectionsecurity.com/ways-of-increasing-financial-security/" target="_blank" rel="noopener"><img class="aligncenter wp-image-838 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/financial-security.jpg" alt="Ways of Increasing Financial Security" width="600" height="338" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/financial-security.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/financial-security-300x169.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h3>Operating on a budget</h3>
+<p>It is only through having budget that we can have a certain amount of money allocated for a certain thing and that will help prevent over spending. Without a budget we can lose focus on spending and we can over spend or impulse buy which may make us be in debts.</p>
+<h3>Saving</h3>
+<p>Saying is a good way of ensuring financial security. By saving we cut down on our expenditures which help us to have extra cash that we can use in other things or we can invest with. Having savings can take care of a rainy day or help up prevent taking unnecessary loans.</p>
+<h3>Investing</h3>
+<p>This is one of the sure ways for ensuring financial security and has been used by many people successfully. There are many investment channels and the channel one chooses has a big influence on the income they get. Some investments are more profitable than others. You don’t have to invest in real estate to make it, there are those who make it from stocks, it just depends on the strategy that you use. From a site such as <a href="http://www.regionvavid.org/rocket-spanish-review/" target="_blank" rel="noopener">Rocket Spanish</a>, you can learn a new language that is beneficial to your knowledge base and your ability to advance yourself within your business. Many businesses invest and in foreign markets and this could include markets in Europe and in South America.</p>
+<h3>Looking for part time jobs</h3>
+<p>If you are looking for extra income, you can opt for looking for a part time job. As much as having two or more jobs is a lot of demanding, the returns are worth it. You don’t have to do an employed part time job, you can opt for a business or your own company where you can sell your skills and that will help increase your returns.Achieving a secondary part-time job is easy when you have learned a second language at regionvavid.org. Many employers are always looking for employees that can speak multiple languages. So get onto regionvavid and get learning to better your life.</p>
+<h3>Have the right priorities</h3>
+<p>Priorities are in all sectors of life including when it comes to finances. You should have the right spending priorities, if you don’t have a lot of financial literacy take financial literacy classes, do the right research on investment, and have the right financial goals. Most people don’t realize that financial security requires a lot of effort and commitment and doesn’t just happen. When it comes to financial goals it is good to have both short term and long-term goals. In some cases it would be helpful to get a financial coach.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">How to Protect Your Art From Damage</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-09-21" />
+						<meta itemprop="dateModified" content="2017-08-22" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-09-21">September 21, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>Wall art just like many other possessions have to be protected from damage. If they are not protected then they will have a short life span and will get damaged. Since art is sometimes expensive and serves different purposes in our lives, it is important that the right care and protection is given to it to make sure that it is long lasting and stays in good shape. Most people are not keen about taking care of their art work; all they care about is the wall art being in its position.</p>
+<p>The kind of protection your wall art will need will depend on the kind of painting that you have. The most common are oil or acrylic on canvas and paper painting. Some of the things <a href="http://www.sternart.com/news/tips-care-of-your-art-collection/" target="_blank" rel="noopener">one can do</a> to take care of their wall art may include:</p>
+<p><a href="http://www.worthprotectionsecurity.com/how-to-protect-your-art-from-damage/" target="_blank" rel="noopener"><img class="aligncenter wp-image-790 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/wall-art3.jpg" alt="How to Protect Your Art From Damage" width="600" height="392" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/wall-art3.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/wall-art3-300x196.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<h3>Framing</h3>
+<p>Framing not only makes the painting look better but also makes it last longer. It is therefore a worth investment if you really treasure your wall art and it is not framed. Good thing is that framing is not complicated and can be done by anyone.</p>
+<h3>Placing it the right place</h3>
+<p>When the wall art is placed in the right way, then it can help it to last longer. It should be placed away from direct sunlight or humidity since that will spoil it. It should be placed away from smoke such as just above the fireplace if the fireplace is normally in use.</p>
+<h3>Cleaning it the right way</h3>
+<p>Most wall art will need cleaning at some point. This will depend on the kind of wall art as different types of art will need different types of cleaning. Accumulation of dirt and dust may contribute to faster aging and damaging of the wall art. In some cases it may need professional cleaning.</p>
+<h3>Proper storage</h3>
+<p>If you have temporarily removed the wall art, you should make sure that you store it properly in the right conditions to protect it from damage. In case of a painting, the conditions in which you store it should not be so different from the conditions in which you will hang it. Wall art should be placed away from places that have high humidity or mold. It should also be placed away from the floor, away from a situation that will expose the wall art from moisture which will be absorbed by the art work making it to be damaged.</p>
+<h3>Conclusion</h3>
+<p>Since there are many types of wall arts and it may be confusing the kind of care your particular wall art needs, when you are doing the purchase try as much as possible to find as much information about the care needed as possible. Most wall arts will come with <a href="https://housedecorio.com/best-wall-art/" target="_blank" rel="noopener">wall art guide</a> which is very handy and will help your art work to last longer. The good thing is that the internet is a rich resource and from it you can find any kind of information that you may need.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">The Newest and Best Security Gadgets for Our Homes</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-09-18" />
+						<meta itemprop="dateModified" content="2017-09-17" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-09-18">September 18, 2017</span>
+					</div>
+				</div>
+				<div class="post_content" itemprop="articleBody">
+<p>We all stress about how to keep our homes safe from intruders and would-be robbers. For whatever reason, we place significant value on the things we possess regardless of what their true monetary worth may be. This is why we look for the newest and best security gadgets for our homes. We want to feel secure and know that those things that mean the most to us are equally so.</p>
+<p>What we don’t often realize is that there are features about our homes that can add to our security and protection. We tend to neglect these things far longer than we should. One such aspect is our roof. The truth is we need to have a <a href="https://aaroofingandrestoration.com/roofing/roofing-companies/" target="_blank" rel="noopener">local roofing company</a> at the ready to inspect, repair, or replace our roofs. Without a good roof, nothing inside our homes is safe. It’s that simple. In fact, the gadgets on our list will be utterly useless if our home leaks or the roof falls in.</p>
+<p><a href="http://www.worthprotectionsecurity.com/the-newest-and-best-security-gadgets-for-our-homes/" target="_blank" rel="noopener"><img class="aligncenter wp-image-843 size-full" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/roofing-company.jpg" alt="The Newest and Best Security Gadgets for Our Homes" width="600" height="412" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/roofing-company.jpg 600w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/roofing-company-300x206.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p>Consider the physical and structural safety of your home before you worry about added security features.</p>
+<h3>The Next Steps in Home Security</h3>
+<p>The gadgets on this list are designed to add to your already existent security and protection options. Whether you are the old-school type who intends to use weaponry as your source of safety or, the kind who installs a system, these gadgets will be useful to you. They are the next steps in home security:</p>
+<ul>
+<li><strong>Burton Torino NMK/4 Safe</strong>&#8211; We all know that keeping your documents under lock and key is highly advisable. Given the ability of thieves to wholly steal our identities, protecting these things is a big deal. Plus, if you have extra cash, it’s not safe under the mattress. Neither are your diamonds and other expensive valuables. Apparently, this safe couldn’t be broken into even when the experts tried. <a href="http://www.safeoptions.co.uk/blog/burton-torino-gold-nmk4-key-lock-security-cash-safe/" target="_blank" rel="noopener">Learn more</a> about this safe.</li>
+<li><strong>Barking Dog Alarm</strong>&#8211; If you are looking for the scare factor of a vicious dog but not the added expense or energy of having to feed and care for one, this is a great option. When this alarm is triggered, it sounds like a vicious guard dog is ready to eat the intruder should he take one more step. It’s got a 360-degree radar detector that is powerful enough to see through walls. Plus, it’s hugely affordable.</li>
+<li><strong>Siren Padlock</strong>&#8211; Sometimes we forget that we need to protect our sheds and out buildings. They often house some of our most valuable home maintenance equipment and tools. The siren padlock will set off an intense siren sounding alarm when it’s touched, moved, or knocked. That should scare the potential thief right out of there. <a href="https://www.ctccommunications.com.au/siren-alarmed-padlock-110db.html.html" target="_blank" rel="noopener">Read this</a> for more information about the padlock.</li>
+<li><strong>Pure DAB Radio Wi-Fi Camera with Night Vision</strong>&#8211; If you really want to know what is happening at your house when you are away, this is an excellent option. It looks like a radio, and it actually is one, but it’s also got a built-in camera that can help you survey your home secretly in this cleverly disguised security gadget.</li>
+</ul>
+<p>We know this is just a taste of what you could be utilizing for your home. But, if you found any of these gadgets at least slightly intriguing, we suggest you read some more about them by <a href="http://www.independent.co.uk/life-style/gadgets-and-tech/features/the-10-best-security-gadgets-8884881.html" target="_blank" rel="noopener">clicking this</a>.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">Security Threat: Protect Your Law Firm&#8217;s Data</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-09-14" />
+						<meta itemprop="dateModified" content="2017-10-17" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-09-14">September 14, 2017</span>
+					</div>
+				</div>
+				<img width="750" height="496" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/image2.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/image2.jpg 750w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/image2-300x198.jpg 300w" sizes="(max-width: 750px) 100vw, 750px" />
+				<div class="post_content" itemprop="articleBody">
+<p>As more law firms look to store information on computers and servers, they have become more vulnerable to security breaches. Hackers are always looking for sensitive information to steal and that is why law firms are a target. They have the most sensitive and confidential information about their clients. For example: <a href="http://stingerlawkc.com/">Kansas City DUI lawyers</a> have confidential information about their clients that they cannot let out. Their client&#8217;s reputation and their law firm’s would be at stake if information is stolen and then leaked. That is why it is important that law firms must beef up their security so that data is not stolen. We have some tips for law firms to reduce the risk of data theft.</p>
+<p><b>Be very vigilant</b></p>
+<p>Most hackers entice you through random links online, be it through email, websites, social media, or chat. You need to be careful about what links you click on, never open random links or download attachments from senders you are not familiar with. You can train your staff also to do the same, since you are all connected through the same network even if one person accidentally makes the mistake of opening an unknown link the whole network would be under attack.</p>
+<p><b>Regularly backup data</b></p>
+<p>This isn’t a way to prevent data breach and <a href="https://en.wikipedia.org/wiki/Ransomware">ransomware</a>, however it is important for you to backup your data in different locations. This ensures that if data is stolen and wiped out then you will have a backup file to retrieve it. To protect your backup data, you can keep it stored outside the network so hackers won’t be able to get to it when they gain access to your network.</p>
+<p><b>Stay updated</b></p>
+<p>As more law firms and businesses come under attack from hackers, people are sharing more and more information with each other. There are immediate release of news when a big firm or business is hacked and others are warned to take proper measures. It is important that you follow the news and are on your toes to take the necessary measures to prevent your firm from getting hacked when there is a threat.</p>
+<p><b>Have the right technology and personnel to fight any threat</b></p>
+<p>Being lawyers, it is understandable that you do not have the proper knowledge to fight any attack on data. You can hire IT professionals that can ensure your firm is free from any threat. They will purchase the proper technology and encrypt the data so that it is not easily available for hackers. When under attack, they can also protect data while prevent hackers from stealing information. Making them quite valuable for your firm.</p>
+<p>Law firms that have big clients are more likely to be target for data thefts. That doesn’t mean that smaller law firms aren’t. You never know when you can be a target so it is important to take the precautionary measures at your end so that you are protected.</p>
+				</div>
+			</div>
+			<div class="post_box grt" itemscope itemtype="http://schema.org/Article">
+				<div class="headline_area">
+					<h1 class="headline" itemprop="headline">HOW TO PROTECT YOUR BIKE</h1>
+					<div class="byline small">
+						<span class="post_author_intro">by</span> <span class="post_author" itemprop="author">Corey</span>
+						<meta itemprop="datePublished" content="2017-09-08" />
+						<meta itemprop="dateModified" content="2017-09-05" />
+						<span class="post_date_intro">on</span> <span class="post_date" title="2017-09-08">September 8, 2017</span>
+					</div>
+				</div>
+				<img width="530" height="485" src="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/bike-stolen.jpg" class="attachment-full size-full wp-post-image" alt="" itemprop="image" srcset="http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/bike-stolen.jpg 530w, http://www.worthprotectionsecurity.com/wp-content/uploads/2017/09/bike-stolen-300x275.jpg 300w" sizes="(max-width: 530px) 100vw, 530px" />
+				<div class="post_content" itemprop="articleBody">
+<p>It is not enough to <a href="https://bikesreviewed.com/fun/choose-best-bicycle/">find a bike</a>, you should also think of ways of protecting your bike so that it has more security. If you do not protect your bike, it is susceptible to theft especially if it is a high end bike. Most people do not give serious consideration the protection of their bikes and yet it is equally important. Some of the ways you can <a href="https://www.bikeregister.com/advice/top-tips-to-protect-your-bike">protect</a> your bike may include:</p>
+<p><strong>Getting a decent lock</strong></p>
+<p>As much as there are many kinds of bike locks in the market, not all of them are good enough. Since most thieves are normally in a hurry and do not want to get caught, a decent lock will do the trick. They will find it complicated and give up on it and that will leave your bike safe. As much as it is more expensive, it is a worth it buy and will give you value for money. It is advisable to have at least two just in case of anything you have a spare.</p>
+<p><strong>Mark your bike</strong></p>
+<p>There are many ways of marking your bike and the common way of doing it is by registering it with a police approved marking system. You will be given a bike register kit that you will use for marking your bike. By marking it, you will get a unique code that will enable the police to be able to track the bike in case it is stolen and get it back to you. There are people who will opt for marking the bike themselves and if you decide to take this route, make sure that the security mark is visible, have a tamper proof sticker on the frame to warn on the bike being marked and also make sure that you still register the bike online at BikeRegister and download a log book as a proof for ownership.</p>
+<p><strong>Insure the bike</strong></p>
+<p>If it’s a high end bike, you might opt to insure it since it is not very cheap. At least with insurance in case of theft, you will be compensated.</p>
+<p><strong>Be safe</strong></p>
+<p>Thieves use a certain strategy to steal bikes and if you know them then your bike will be safe. Park your bike in the right place which is well lit and not a hidden place. When parking your bike, make sure that you lock both wheels and if possible use a designated parking area. The locks should be n such as way that it secures both the wheels and the frame to reduce chances of the thief stealing the bike and leaving the wheels behind. The lock should also not touch the ground as that will be easier for the thief to knock it off. It is also not advisable not to park on the same spot everyday just in case someone has an interest in that particular bike. When at home, store the bike in a garage or a locked shed where it is safer. Make sure that you secure it to an immovable object.</p>
+				</div>
+			</div>
+		</div>
+		<div class="sidebar">
+			<div class="text_box">
+				<p>Hi &#8211; Welcome to the site. My name is Corey and I&#8217;m here to help you learn all about different types of home security. </p>
+			</div>
+		<div class="widget widget_recent_entries" id="recent-posts-2">		<p class="widget_title">Recent Posts</p>		<ul>
+											<li>
+					<a href="http://www.worthprotectionsecurity.com/security-equipment-for-your-house/">Security Equipment for Your House</a>
+									</li>
+											<li>
+					<a href="http://www.worthprotectionsecurity.com/how-to-legally-protect-yourself/">How To Legally Protect Yourself</a>
+									</li>
+											<li>
+					<a href="http://www.worthprotectionsecurity.com/having-a-secure-financial-future/">Having A Secure Financial Future</a>
+									</li>
+											<li>
+					<a href="http://www.worthprotectionsecurity.com/the-best-guard-dog-breeds/">The Best Guard Dog Breeds</a>
+									</li>
+											<li>
+					<a href="http://www.worthprotectionsecurity.com/some-dope-on-investing-in-a-safe-apartment/">Some Dope on Investing in A Safe Apartment!</a>
+									</li>
+					</ul>
+		</div><div class="widget widget_archive" id="archives-2"><p class="widget_title">Archives</p>		<ul>
+			<li><a href='http://www.worthprotectionsecurity.com/2018/01/'>January 2018</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/12/'>December 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/11/'>November 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/10/'>October 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/09/'>September 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/08/'>August 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/07/'>July 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/06/'>June 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/05/'>May 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/04/'>April 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/03/'>March 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/02/'>February 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2017/01/'>January 2017</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/12/'>December 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/11/'>November 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/10/'>October 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/09/'>September 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/08/'>August 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/07/'>July 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/06/'>June 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/05/'>May 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/04/'>April 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/03/'>March 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/02/'>February 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2016/01/'>January 2016</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/12/'>December 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/11/'>November 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/10/'>October 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/08/'>August 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/07/'>July 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/06/'>June 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/05/'>May 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/04/'>April 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/03/'>March 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/02/'>February 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2015/01/'>January 2015</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2014/11/'>November 2014</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2014/10/'>October 2014</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2014/08/'>August 2014</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2014/06/'>June 2014</a></li>
+	<li><a href='http://www.worthprotectionsecurity.com/2014/05/'>May 2014</a></li>
+		</ul>
+		</div>		</div>
+	</div>
+	<div class="footer">
+		<p class="attribution">This site rocks the Classic Responsive Skin for <a href="http://diythemes.com/">Thesis</a>.</p>
+		<p><a href="http://www.worthprotectionsecurity.com/wp-admin/"><abbr title="WordPress">WP</abbr> Admin</a></p>
+	</div>
+</div>
+<script type='text/javascript' src='http://www.worthprotectionsecurity.com/wp-includes/js/comment-reply.min.js?ver=67df0d02f2740c7987a2f611f043f439'></script>
+<script type='text/javascript' src='http://www.worthprotectionsecurity.com/wp-includes/js/wp-embed.min.js?ver=67df0d02f2740c7987a2f611f043f439'></script>
+<script type="text/javascript">		var ssb_admin_ajax = 'http://www.worthprotectionsecurity.com/wp-admin/admin-ajax.php';
+		var is_ssb_used = jQuery('.simplesocialbuttons');
+		var postID = 832 ;
+		if( is_ssb_used ) {
+
+			var data = {
+			'action': 'ssb_fetch_data',
+			'postID': postID
+		};
+			jQuery.post(ssb_admin_ajax, data, function(data, textStatus, xhr) {
+				var array = JSON.parse(data);
+
+				jQuery.each( array, function( index, value ){
+
+					if( index == 'total' ){
+						jQuery('.ssb_'+ index +'_counter').html(value + '<span>Shares</span>');
+					}else{
+						jQuery('.ssb_'+ index +'_counter').html(value);
+					}
+				});
+
+
+			});
+		}
+
+		</script><script type="text/javascript">(function(d,g){d[g]||(d[g]=function(g){return this.querySelectorAll("."+g)},Element.prototype[g]=d[g])})(document,"getElementsByClassName");(function(){var classes = document.getElementsByClassName('menu_control');for (i = 0; i < classes.length; i++) {classes[i].onclick = function() {var menu = this.nextElementSibling;if (/show_menu/.test(menu.className))menu.className = menu.className.replace('show_menu', '').trim();else menu.className += ' show_menu';if (/menu_control_triggered/.test(this.className))this.className = this.className.replace('menu_control_triggered', '').trim();else this.className += ' menu_control_triggered';};}})();</script>
+<noscript><style type="text/css" scoped>.menu { display: block; }</style></noscript>
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced
+
+ Served from: www.worthprotectionsecurity.com @ 2018-01-22 22:07:44 by W3 Total Cache -->

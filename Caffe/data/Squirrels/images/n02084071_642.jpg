@@ -1,0 +1,556 @@
+
+<!DOCTYPE html>
+<html lang="es" itemscope="" itemtype="http://schema.org/WebPage">
+	<head>
+		            <title itemprop="name">ANTENA 3 TV | Noticias, Series online, Programación, Atresplayer</title>
+<meta charset="UTF-8"/>
+<meta name="theme-color" content="#ff5300">
+<meta name="robots" content="index, follow" />
+<meta name="GOOGLEBOT" content="index follow" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+
+<!--metadatos para Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="" />
+<meta name="twitter:site" content="@antena3com">
+
+
+<!--metadatos para Facebook -->
+<meta property="og:type" content="article" />
+<meta name="description" content=""/>
+<meta name="title" content="" />
+<meta property="og:title" content=""/>	
+<meta name="DC.Title" content="" />
+<meta property="og:description" content=""/>
+<meta property="og:url" content="">
+<meta property="og:image" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.antena3.com/rss/348680.xml" />
+
+<!-- Carga de Favicon -->
+<link rel="apple-touch-icon" sizes="57x57" href="/public/img/antena3/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/public/img/antena3/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/public/img/antena3/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/public/img/antena3/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/public/img/antena3/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/public/img/antena3/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/public/img/antena3/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/public/img/antena3/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/public/img/antena3/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/public/img/antena3/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/public/img/antena3/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/public/img/antena3/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/public/img/antena3/favicon-16x16.png" sizes="16x16">
+<link rel="mask-icon" href="/public/img/antena3/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="/public/img/antena3/favicon.ico">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+
+<!--TAGS VERIFICADORES-->
+<meta name="google-site-verification" content="VLHfX-MQZKK3w-THWLc2fLxK0IIlf2eIOkOII6MWiNc" />
+<meta name="google-site-verification" content="omMTJSHzhpuE1NeJqNVaYEVIODAnHkcpcXEMR5CnlXo" />
+<meta name="y_key" content="8f9e10c7bca1e10c" />
+<meta name="msvalidate.01" content="DDBC2D36D801A1BEEF59505F4B1610AF" />
+<meta name="alexaVerifyID" content="dxokSiRchRiSVONySe4tHAeoWQc" />
+<meta property="og:site_name" content="Antena3.com"/>
+<link rel="stylesheet" href="http://static.antena3.com/css/style2.css">
+<link rel="stylesheet" href="http://static.antena3.com/css/antena3/skin2.css">
+
+<script type="text/javascript">
+	var staticDomain = 'http://static.antena3.com/';	
+	var comunidadDomain = 'http://comunidad.antena3.com/';
+	var jsDomain = 'http://cdnjs.atresmedia.com/atresmedia-js/latest/';
+	document.domain = 'antena3.com';
+</script>
+
+<script src="http://cdnjs.atresmedia.com/atresmedia-js/latest/app3.js"></script>
+
+<!-- VIDEOPLAZA -->
+<script src="https://es-antena3.videoplaza.tv/proxy/pulse-sdk-html5/2.1/latest.min.js"></script> 
+<script src="https://vp.videoplaza.tv/contrib/es-antena3/videojs-adplayer/adplayer-skin.js"></script> 
+<script src="http://cdnjs.atresmedia.com/vendor-cdn/latest/videojs.ads.js"></script> 
+<script src="http://cdnjs.atresmedia.com/vendor-cdn/latest/a3-plugin.js"></script>
+
+<script type="text/javascript">
+	var evt_agr = _.clone(Backbone.Events);
+</script>
+
+<!--        CODIGO PUBLICIDAD CRITEO      -->
+
+<script type='text/javascript'>
+var crtg_nid = '4010';
+var crtg_cookiename = 'crtg_rta_a3';
+var crtg_varname = 'crtg_content';
+function crtg_getCookie(c_name){ var i,x,y,ARRCookies=document.cookie.split(";");for(i=0;i<ARRCookies.length;i++){x=ARRCookies[i].substr(0,ARRCookies[i].indexOf("="));y=ARRCookies[i].substr(ARRCookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if(x==c_name){return unescape(y);} }return'';}
+var crtg_content = crtg_getCookie(crtg_cookiename);
+var crtg_rnd=Math.floor(Math.random()*99999999999);
+(function(){
+var crtg_url=location.protocol+'//rtax.criteo.com/delivery/rta/rta.js?netId='+escape(crtg_nid);
+crtg_url +='&cookieName='+escape(crtg_cookiename);
+crtg_url +='&rnd='+crtg_rnd;
+crtg_url +='&varName=' + escape(crtg_varname);
+var crtg_script=document.createElement('script');crtg_script.type='text/javascript';crtg_script.src=crtg_url;crtg_script.async=true;
+if(document.getElementsByTagName("head").length>0)document.getElementsByTagName("head")[0].appendChild(crtg_script);
+else if(document.getElementsByTagName("body").length>0)document.getElementsByTagName("body")[0].appendChild(crtg_script);
+})();
+</script>
+ 
+
+   
+<!--        CODIGO PUBLICIDAD       -->
+<script src='http://www3.smartadserver.com/config.js?nwid=1507' onerror="error" type="text/javascript"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'http://www3.smartadserver.com', async: true, renderMode: 0});
+</script>
+<script type="text/javascript">
+	sas.call("onecall", {
+		siteId:	81320,	 
+		pageId:	657030,	
+		formatId:	'35213,35211,35214,40120,35212,40121',
+		target:	crtg_content			// Segmentacion para Criteo
+	}, { 
+	beforeRender : function (data){
+    if (!sas_manager.exists(data.formatId)) {
+     el = document.getElementById("sas_" + data.formatId)
+     if (typeof el != "undefined" && el) {
+         if (data.formatId != "35214" && data.formatId != "35213" && data.formatId != "40121" && data.formatId != "43352") { //si es un inter o fondo no ocultamos porque ocultar�a toda la web
+              //todo los demas tienen solo estructura de 1 padre
+                 $('#sas_' + data.formatId).parent().parent().css("display", "none");
+             console.log("remove div: sas_" + data.formatId);
+         }
+     } else {
+         $('#sas_' + data.formatId).parent().parent().removeAttr("style");
+     }
+ }
+}
+	});
+</script>    
+
+<script src="//assets.adobedtm.com/864b14ef9cad42a561171090a25081d559d57e24/satelliteLib-0447839ef6cf3cf43a43b69f16ae6b2f7a3ced92.js"></script>
+
+<script src="http://cdnjs.atresmedia.com/vendor-cdn/latest/streamsense.5.0.2.160107.min.js"></script>
+
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=9270510&cv=2.0&cj=1" />
+</noscript>
+<script>
+	var sp = "347795,348680";
+</script>
+	<script>
+		$.ajax({
+	  		url: "http://hits.antena3.com/antena3//58fda3140cf2461b6de55930/2/"+sp+"/",
+	  		dataType: "jsonp"
+		});
+	</script>
+		    
+	</head>
+
+
+
+	<body class="verticales error404">
+<header class="header-principal" role="header">
+    <nav class="navbar container row navbar-default" role="navigation">
+        <div class="navbar-header" itemscope itemtype="http://schema.org/Organization">
+            <button type="button" class="navbar-toggle collapsed" data-target=".navbar-ex1-collapse" role="button" aria-expanded="false">
+                <span class="sr-only">Desplegar navegación</span>
+                <div class="b-menu"><div class="icon"></div></div>
+            </button>
+            <h1><a class="navbar-brand" title="Antena 3" href="/"><img src="/public/img/antena3-television.svg" alt="Antena 3"></a></h1>
+        </div><!-- navbar-header -->
+ 
+        <div class="box-menu">
+            <div class="menu">
+                <ul class="nav navbar-nav nav-tertiary">
+                    	<li class="hot-links">
+        <ul>
+        	<li itemprop="name"><span class="icon-ico-tag"></span></li>
+						<li itemprop="name"><a itemprop="url" title="El Clásico" href="/temas/el_clasico-1">El Clásico</a></li>
+						<li itemprop="name"><a itemprop="url" title="Elecciones Francia" href="http://www.antena3.com/temas/elecciones_francia-1">Elecciones Francia</a></li>
+						<li itemprop="name"><a itemprop="url" title="Día del Libro" href="/temas/dia_del_libro-1">Día del Libro</a></li>
+						<li itemprop="name"><a itemprop="url" title="Ignacio González" href="/temas/ignacio_gonzalez-1">Ignacio González</a></li>
+
+				<li class="dropdown">
+	              <a href="" class="dropdown-toggle" data-toggle="dropdown">
+	               <span>Ver más</span><b class="caret"></b>
+	              </a>
+	              <ul class="dropdown-menu">
+
+							<li itemprop="name"><a itemprop="url" title="Atentado Campos Elíseos" href="/temas/atentado_campos_eliseos-1">Atentado Campos Elíseos</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Esperanza Aguirre" href="/temas/esperanza_aguirre-1">Esperanza Aguirre</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Rajoy" href="http://www.antena3.com/noticias/espana/rajoy-tendra-que-declarar-como-testigo-juicio-caso-gurtel_2017041858f5f1a70cf2e7235e5db10a.html">Rajoy</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="elecciones Reino Unido" href="http://www.antena3.com/noticias/mundo/theresa-may-hara-importante-declaracion-downing-street_2017041858f5e4840cf227874117e0bd.html">elecciones Reino Unido</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="tramabús" href="http://www.antena3.com/noticias/espana/podemos-pone-circular-madrid-autobus-poner-nombres-caras-miembros-trama_2017041758f46bb40cf2f2c8756fccfa.html">tramabús</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="primarias PSOE" href="http://www.antena3.com/noticias/espana/arrancan-las-primarias-del-psoe-con-el-registro-de-precandidaturas-este-lunes_2017041758f452b90cf2f2c8756f70aa.html">primarias PSOE</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Día Mundial de los Simpson" href="http://www.antena3.com/series/los-simpson/the-simpsons-day">Día Mundial de los Simpson</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Turquía" href="/temas/turquia-1">Turquía</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Siria" href="http://www.antena3.com/noticias/mundo/rusia-afirma-que-aviacion-siria-bombardeo-arsenal-armas-toxicas-rebeldes-que-causo-muerte-decenas-personas_2017040558e4a2340cf2f2c87557cfcb.html">Siria</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Donald Trump" href="http://www.antena3.com/noticias/mundo/donald-trump/">Donald Trump</a></li>
+
+							<li itemprop="name"><a itemprop="url" title="Brexit" href="/temas/brexit-1">Brexit</a></li>
+	              </ul>
+	            </li>
+        	
+            
+          </ul>
+    </li>
+     
+                    <li class="search">
+                         <form class="navbar-form" method="get" action="/buscador-site/index.html">
+						    <input id="search" class="input-text" name="q" value="" placeholder="Buscar..." type="text">
+						    <label for="search"><span class="text">Buscar</span><span class="icon-search"></span></label>
+						    <input class="search-button" value="Buscar" type="submit">
+						</form>
+                    </li>
+                     
+                    <li class="login" data-mod="a3mod_login" data-theme="simple"></li>
+                </ul>
+                 
+                <ul class="nav navbar-nav nav-principal" role="menubar">
+                    <li class="series" role="menuitem">
+                        <a href="/series" title="Series" class="dropdown-toggle" data-toggle="dropdown"  aria-expanded="false">SERIES <span class="icon-direction-right"></span></a>
+                        <div class="list-series" aria-hidden="true" aria-label="submenu">
+                            <div class="container row">
+                                <h2>SERIES <span class="icon-direction-left"></span></h2>
+                                <div>
+                                    <ul>
+                                        <li itemprop="name"><a title="Allí abajo" itemprop="url" href="/series/alli-abajo/" role="menuitem">ALLÍ ABAJO</a></li>
+                                        <li itemprop="name"><a title="La casa de papel" itemprop="url" href="/series/casa-de-papel/" role="menuitem">LA CASA DE PAPEL</a></li>
+                                        <li itemprop="name"><a title="El secreto de puente viejo" itemprop="url" href="/series/el-secreto-de-puente-viejo/" role="menuitem">EL SECRETO DE PUENTE VIEJO</a></li>
+                                        <li itemprop="name"><a title="Amar es para siempre" itemprop="url" href="/series/amar/" role="menuitem">AMAR ES PARA SIEMPRE</a></li> 
+                                        <li itemprop="name"><a title="Pulsaciones" itemprop="url" href="/series/pulsaciones/" role="menuitem">PULSACIONES</a></li>
+                                        <li itemprop="name"><a title="La catedral del mar" itemprop="url" href="/series/la-catedral-del-mar/" role="menuitem">LA CATEDRAL DEL MAR</a></li>
+                                        <li itemprop="name"><a title="Velvet" itemprop="url" href="/series/velvet/" role="menuitem">VELVET</a></li>
+                                        <li itemprop="name"><a title="Mar de plastico" itemprop="url" href="/series/mar-de-plastico/" role="menuitem">MAR DE PLÁSTICO</a></li>                                                                                                                                                                                   
+                                        <li itemprop="name"><a title="Apaches" itemprop="url" href="/series/apaches/" role="menuitem">APACHES</a></li>
+                                        <li itemprop="name"><a title="Los Simpson" itemprop="url" href="/series/los-simpson/" role="menuitem">LOS SIMPSON</a></li>
+                                        <li itemprop="name"><a title="La embajada" itemprop="url" href="/series/la-embajada/" role="menuitem">LA EMBAJADA</a></li>
+                                        <li itemprop="name"><a title="Vis a vis" itemprop="url" href="/series/vis-a-vis/" role="menuitem">VIS A VIS</a></li>                                     
+                                    </ul>
+                                </div>
+                                 <a title="Series" href="/series" class="link-distributiva"><button type="button" class="btn btn-default" role="link">Ver todas</button></a>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="programs" role="menuitem">
+                        <a href="/programas" title="Programas" class="dropdown-toggle" data-toggle="dropdown"  aria-expanded="false">PROGRAMAS <span class="icon-direction-right"></span></a>
+                        <div class="list-programs" aria-hidden="true" aria-label="submenu">
+                            <div class="container row">
+                                <h2>PROGRAMAS <span class="icon-direction-left"></span></h2>
+                                <div>
+                                    <ul>
+                                        <li itemprop="name"><a title="El hormiguero 3.0" itemprop="url" href="/programas/el-hormiguero/" role="menuitem">EL HORMIGUERO 3.0</a></li>
+                                        <li itemprop="name"><a title="Tu cara no me suena todavía" itemprop="url" href="/programas/tu-cara-no-me-suena-todavia/" role="menuitem">TU CARA NO ME SUENA TODAVÍA</a></li>
+                                        <li itemprop="name"><a title="Top chef" itemprop="url" href="/programas/top-chef/" role="menuitem">TOP CHEF</a></li>
+                                        <li itemprop="name"><a title="Espejo público" itemprop="url" href="/programas/espejo-publico/" role="menuitem">ESPEJO PÚBLICO</a></li>
+                                        <li itemprop="name"><a title="El árbol de tu vida" itemprop="url" href="/programas/arbol-vida/">EL ÁRBOL DE TU VIDA</a></li>
+                                        <li itemprop="name"><a title="Ninja warrior" itemprop="url" href="/programas/ninja-warrior/" role="menuitem">NINJA WARRIOR</a></li>
+                                        <li itemprop="name"><a title="Casados a primera vista" itemprop="url" href="/programas/casados-primera-vista/" role="menuitem">CASADOS A PRIMERA VISTA</a></li>
+                                        <li itemprop="name"><a title="Arguiñano en tu cocina" itemprop="url" href="/programas/karlos-arguinano/" role="menuitem">ARGUIÑANO EN TU COCINA</a></li>
+                                        <li itemprop="name"><a title="¡Boom!" itemprop="url" href="/programas/boom/" role="menuitem">¡BOOM!</a></li>
+                                        <li itemprop="name"><a title="¡Ahora caigo!" itemprop="url" href="/programas/ahora-caigo/" role="menuitem">¡AHORA CAIGO!</a></li>
+                                        <li itemprop="name"><a title="La ruleta de la suerte" itemprop="url" href="/programas/la-ruleta-de-la-suerte/" role="menuitem">LA RULETA DE LA SUERTE</a></li>
+                                        <li itemprop="name"><a title="Tu cara me suena" itemprop="url" href="/programas/tu-cara-me-suena/" role="menuitem">TU CARA ME SUENA</a></li>
+                                    </ul>
+                                </div>
+                                <a class="link-distributiva" title="Programas" href="/programas"> <button type="button" class="btn btn-default" role="link">Ver todas</button></a>
+                            </div>
+                        </div>       
+                    </li>        
+                    <li class="news" role="menuitem"><a title="Noticias" href="/noticias">NOTICIAS</a></li>
+                    <li class="follow" role="menuitem">Síguenos</li>
+                    <li class="twitter" role="menuitem"><a title="Twitter" href="http://twitter.com/antena3com" target="_blank"><span class="icon-twitter"></span></a></li>
+                    <li class="facebook" role="menuitem"><a title="Facebook" href="http://www.facebook.com/antena3" target="_blank"><span class="icon-facebook"></span></a></li>
+                </ul> <!-- nav-principal -->
+          
+ 
+                <ul class="nav navbar-nav nav-secundary" role="menubar">
+                    <li data-mod="a3mod_live" data-interval="120"><a title="Directo" href="http://www.atresplayer.com/directos/television/antena3/" target="_blank"><img src="/public/img/television_directo.gif">En directo <span data-title="title"></span></a></li>
+                    <li><a title="Programación" href="/programacion/">Programación</a></li>
+                    <li><a title="Atresplayer" href="http://www.atresplayer.com/" target="_blank">Atresplayer</a></li>
+                </ul>
+     			<div class="nav navbar-nav channels" role="menubar">
+    <div class="container row">       
+        <a href="#" class="dropdown-toggle tit" data-toggle="dropdown" aria-expanded="false">
+            <div class="b-menu"><div class="icon"></div></div>
+            <img id="logo-atresmedia" src="/public/img/grupo-atresmedia.svg" alt="Atresmedia" width="100"/>
+            <span class="icon-direction-right"></span>
+        </a>
+                                 
+        <div class="list-atresmedia" aria-hidden="true" aria-label="submenu" itemscope itemtype="http://schema.org/Organization">
+            <h2 role="link">LA RED DE <strong>ATRESMEDIA</strong> <span class="icon-direction-left"></span></h2>
+            <div>
+                <dl>
+                    <dt>CANALES TV Y RADIO</dt>
+                    <dd><a rel="me" title="Antena 3" href="http://www.antena3.com/" class="antena3" role="menuitem">Antena 3</a></dd>
+                    <dd><a rel="me" title="La Sexta" href="http://www.lasexta.com/" class="lasexta" role="menuitem">La Sexta</a></dd>
+                    <dd><a rel="me" title="Neox" href="http://neox.atresmedia.com/" class="neox" role="menuitem">Neox</a></dd>
+                    <dd><a rel="me" title="Nova" href="http://nova.atresmedia.com/" class="nova" role="menuitem">Nova</a></dd>
+                    <dd><a rel="me" title="Mega" href="http://mega.atresmedia.com/" class="mega" role="menuitem">Mega</a></dd>
+                    <dd><a rel="me" title="Atreseries" href="http://atreseries.atresmedia.com/" class="atreseries" role="menuitem">Atreseries</a></dd>
+                    <dd><a rel="me" title="Onda Cero" href="http://www.ondacero.es/" class="ondacero" role="menuitem">Onda Cero</a></dd>
+                    <dd><a rel="me" title="Europa FM" href="http://www.europafm.com/" class="europafm" role="menuitem">Europa FM</a></dd>
+                    <dd><a rel="me" title="Melodía FM" href="http://www.melodia-fm.com/" class="melodiafm" role="menuitem">Melodía FM</a></dd>
+                    <dd><a rel="me" title="Atresplayer" href="http://www.atresplayer.com/" class="atresplayer" role="menuitem">Atresplayer</a></dd>
+                    <dd><a rel="me" title="Flooxer" href="http://www.flooxer.com/" class="flooxer" role="menuitem">Flooxer</a></dd>
+                </dl>
+                <dl>
+                    <dt>VERTICALES</dt>
+                    <dd><a rel="me" title="Tribus Ocultas" href="http://www.tribusocultas.com/" class="tribus-ocultas" role="menuitem">Tribus Ocultas</a></dd>
+                    <dd><a rel="me" title="Champions Total" href="http://www.antena3.com/champions-total/" class="champions_total" role="menuitem">Champions Total</a></dd>
+                    <dd><a rel="me" title="Celebrities" href="http://www.antena3.com/celebrities/" class="celebrities" role="menuitem">Celebrities</a></dd>
+                    <dd><a rel="me" title="Se estrena" href="http://www.antena3.com/se-estrena/" class="seestrena" role="menuitem">Se estrena</a></dd>
+                    <dd><a rel="me" title="Líopardo" href="http://humor.atresmedia.com/liopardo/" class="liopardo" role="menuitem">Líopardo</a></dd>
+                    <dd><a rel="me" title="TecnoXplora" href="http://www.tecnoxplora.com/" class="tecnoexplora" role="menuitem">TecnoXplora</a></dd>
+                    <dd><a rel="me" title="Cocinatis" href="http://www.cocinatis.com/" class="cocinatis" role="menuitem">Cocinatis</a></dd>
+                    <dd><a rel="me" title="Objetivo TV" href="http://www.antena3.com/objetivotv/" class="objetivo-tv" role="menuitem">Objetivo tv</a></dd>
+                    <dd><a rel="me" title="No sólo manga" href="http://anime-manga.atresmedia.com/" class="manga" role="menuitem">No sólo manga</a></dd>
+                    <dd><a rel="me" title="Centímetros Cúblicos" href="http://motor.atresmedia.com/" class="centimetros-cubicos" role="menuitem">Centímetros Cúblicos</a></dd>
+                    <dd><a rel="me" title="Neox Games" href="http://neox.atresmedia.com/games/" class="neox-games" role="menuitem">Neox Games</a></dd>
+                    <dd><a rel="me" title="El Sextante" href="http://consejos-sexo.atresmedia.com/" class="el-sextante" role="menuitem">El Sextante</a></dd>
+                    <dd><a rel="me" title="Viajestic" href="http://viajestic.atresmedia.com/" class="viajestic" role="menuitem">Viajestic</a></dd>
+                    <dd><a rel="me" title="Correr y Fitness" href="http://www.correryfitness.com/" class="correr-fitness" role="menuitem">Correr y Fitness</a></dd>
+                    <dd><a rel="me" title="Neox Kidz" href="http://www.neoxkidz.com/" class="neox-kidz" role="menuitem">Neox Kidz</a></dd>
+                    <dd><a rel="me" title="Guía infantil" href="http://www.guiainfantil.com/" class="guia-infantil" role="menuitem">Guíainfantil</a></dd>
+                    <!-- <dd><a rel="me" title="Deportes" href="http://deportes.atresmedia.com/" class="deportes" role="menuitem">Deportes</a></dd> -->
+                    <!-- <dd><a rel="me" title="Series Atresmedia" href="http://www.antena3.com/ficcion/" class="ficcion" role="menuitem">Series Atresmedia</a></dd>-->
+                    <!-- <dd><a rel="me" title="CienciaXplora" href="http://www.cienciaxplora.com/" class="cienciaexplora" role="menuitem">CienciaXplora</a></dd>-->
+                    <!--<dd><a rel="me" title="Fundación Atresmedia" href="http://fundacion.atresmedia.com/" class="fundacion" role="menuitem">Fundación Atresmedia</a></dd>-->
+                    </dl>
+                <dl>
+                    <dt>CORPORATIVOS Y MÁS</dt>
+                    <dd><a rel="me" title="Área Corporativa" href="http://www.atresmedia.com/" class="corporativa" role="menuitem">Área Corporativa</a></dd>
+                    <dd><a rel="me" title="Accionistas e Inversores" href="http://www.atresmediacorporacion.com/" class="accionistas" role="menuitem">Accionistas e Inversores</a></dd>
+                    <dd><a rel="me" title="Atresmedia Publicidad" href="http://www.atresmediapublicidad.com/" class="a3-publicidad" role="menuitem">Atresmedia Publicidad</a></dd>
+                    <dd><a rel="me" title="Ventas Internacionales" href="http://international-sales.atresmedia.com/" class="ventas-internacionales" role="menuitem">Ventas Internacionales</a></dd>
+                    <dd><a rel="me" title="Oficina de Prensa" href="https://oficinaprensavirtual.antena3tv.es/" class="oficina-prensa" role="menuitem">Oficina de Prensa</a></dd>
+                    <dd><a rel="me" title="Atresmedia Cine" href="http://cine.atresmedia.com/" class="a3-cine" role="menuitem">Atresmedia Cine</a></dd>
+                	<dd><a rel="me" title="Ponle Freno" href="http://compromiso.atresmedia.com/ponlefreno/" class="ponle-freno" role="menuitem">Ponle Freno</a></dd>
+                	<dd><a rel="me" title="Fundación Atresmedia" href="http://fundacion.atresmedia.com/" class="fundacion" role="menuitem">Fundación Atresmedia</a></dd>             
+                    <dd><a rel="me" title="Objetivo Bienestar" href="http://www.objetivobienestar.com/A3/" class="objetivo-bienestar" role="menuitem">Objetivo Bienestar</a></dd>
+                    <dd><a rel="me" title="Objetivo Bienestar Junior" href="http://www.antena3.com/objetivo-bienestar-junior/" class="objetivo-bienestar-j" role="menuitem">Objetivo Bienestar Junior</a></dd>
+                    <dd><a rel="me" title="Crea Cultura" href="http://creacultura.atresmedia.com/" class="crea-cultura" role="menuitem">Crea Cultura</a></dd>
+                    <dd><a rel="me" title="Constantes y Vitales" href="http://www.lasexta.com/constantes-vitales/" class="constantes-vitales" role="menuitem">Constantes y Vitales</a></dd>
+                    <dd><a rel="me" title="Tolerancia Cero" href="http://www.antena3.com/noticias/tolerancia-cero/" class="tolerancia-cero" role="menuitem">Tolerancia Cero</a></dd> 
+                    <dd><a rel="me" title="Hazte Eco" href="http://www.antena3.com/especiales/noticias/ciencia/hazte-eco/" class="hazte-eco" role="menuitem">Hazte Eco</a></dd>                 
+                </dl>
+            </div>
+        </div> <!-- list-atresmedia -->
+    </div> <!-- container row -->
+</div> <!-- channels -->                    
+            </div> <!-- div class menu -->
+        </div> <!-- div class box-menu -->
+    </nav>
+</header>
+
+<!-- <script type="text/javascript">//sas_manager.render(35214);
+	sas.render('35214');
+</script> -->
+			    	
+    		<main>
+	
+	<!-- <script type="text/javascript">//sas_manager.render(35213);
+		sas.render('35213');
+	</script> -->
+				
+	<section class="container-fluid">
+
+
+
+	<section class="container row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+	</div>
+	</section>
+	<section class="container row">
+	<div class="col-xs-12 col-sm-12 col-md-8 col-lg-9">
+
+	
+	</div>
+	<div class="col-xs-12 col-sm-12 col-md-4 col-lg-3">
+
+	<script src="http://ns.sascdn.com/diff/templates/js/banner/sas-clicktag-2.0.js"></script>
+
+<style type="text/css">
+
+   .fondologopubli {
+       width: 60%;
+       height: 40px;
+       background-color: #b19400;
+   }
+
+   .contenedorpubliglobal {
+       width: 300px;
+       position: relative; /* 16:9 */
+       height: auto;
+       overflow: hidden;
+       top: 2px;
+       margin: auto;
+   }
+   .contenedorpubli {
+       position: relative;
+       padding-bottom: 56.25%; /* 16:9 */
+       height: 0;
+       overflow: hidden;
+   }
+
+   .contenedorpubli iframe {
+       position: absolute;
+       width: 100%;
+       height: 100%;
+   }
+
+   .titulopubli {
+       font-family: 'Roboto', sans-serif;
+       font-weight: 400;
+       font-size: 1.3rem;
+       text-transform: uppercase;
+       padding-top: 5px;
+       padding-left: 22px;
+       margin: 0px;
+       color: white;
+   }
+
+   .contenedortextopubli{
+       width: 300px;
+       height: auto;
+       padding-bottom: 20px;
+       background-color: #b19400;
+   }
+
+   .h1publi {
+       font-family: 'Roboto', sans-serif;
+       /*font-weight: 800;*/
+       font-size: 1.0rem;
+       padding-top: 12px;
+       padding-left: 18px;
+       margin: 0px;
+       color: white;
+   }
+
+   .h2publi {
+       font-family: 'Roboto', sans-serif;
+       font-weight: 400;
+       font-size: .8125rem;
+       padding-top: 12px;
+       padding-left: 18px;
+       padding-right: 18px;
+       margin: 0px;
+       color: white;
+   }
+
+   .contenedorpubli img {
+       transition:0.5s;
+   }
+
+   .contenedorpubliglobal:hover  .contenedorpubli img{
+       transform:scale(1.1);
+       overflow: hidden;
+       transition:0.5s;
+       opacity: 0.8;
+   }
+
+</style>
+
+<script>
+       var clickTag = "http://www3.smartadserver.com/h/cc?imgid=18746439&tmstp=[timestamp]&tgt=[reference]";
+</script>
+
+	</div>
+	</section>
+	<section class="container row">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+	<!-- Módulo ligatus -->
+<!-- /Módulo ligatus -->
+	</div>
+	</section>
+	</section>
+				
+				
+
+<section class="container-fluid">       
+    
+    <section class="cintillo-titular mode-2">
+        <section class="container row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" >
+                <h1 class="cintillo-titulo">PÁGINA NO ENCONTRADA</h1>
+            </div>
+        </section>
+    </section>
+
+    <!-- inicio de módulo para la pagina de error 404-->
+    <div class="mod-404">
+        <section class="container row">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="wrap404">
+                    <h4>¡Lo sentimos!</h4>
+                    <p>No hemos podido encontrar la pagina a la que intentas acceder. Para seguir navegando en nuestra web puedes utilizar nuestro navegador o probar con nuestro contenido mas popular en estos momentos</p>
+                </div>
+            </div>
+        </section>
+    </div>
+<!-- fin de módulo para la pagina de error 404-->
+</section>
+
+</main>
+<footer class="footer">
+    <section class="container-fluid">
+        <div class="container row" itemscope itemtype="http://schema.org/Organization">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <div class="logo-footer">
+                    <a itemprop="url" rel="me" title="ATRESMEDIA" href="http://www.atresmedia.com/" target="_blank">Atresmedia</a>
+                </div>
+                <ul class="listado-footer">
+                    <li><a itemprop="url" rel="me" title="Antena 3 Televisión" href="http://www.antena3.com/" class="antena3">Antena 3</a></li>
+                    <li><a itemprop="url" rel="me" title="La Sexta" href="http://www.lasexta.com/" class="lasexta">La Sexta</a></li>
+                    <li><a itemprop="url" rel="me" title="Neox" href="http://neox.atresmedia.com/" class="neox">Neox</a></li>
+                    <li><a itemprop="url" rel="me" title="Nova" href="http://nova.atresmedia.com/" class="nova">Nova</a></li>
+                    <li><a itemprop="url" rel="me" title="Mega" href="http://mega.atresmedia.com/" class="mega">Mega</a></li>
+                    <li><a itemprop="url" rel="me" title="Atreseries" href="http://atreseries.atresmedia.com/" class="atreseries">Atreseries</a></li>
+                    <li><a itemprop="url" rel="me" title="Onda Cero" href="http://www.ondacero.es/" class="ondacero">Onda Cero</a></li>
+                    <li><a itemprop="url" rel="me" title="Europa FM" href="http://www.europafm.com/" class="europafm">Europa FM</a></li>
+                    <li><a itemprop="url" rel="me" title="Melodía FM" href="http://www.melodia-fm.com/" class="melodiafm">Melodía FM</a></li>
+                    <li><a itemprop="url" rel="me" title="Atresplayer" href="http://www.atresplayer.com/" class="atresplayer">Atresplayer</a></li>
+                    <li><a itemprop="url" rel="me" title="Flooxer" href="http://www.flooxer.com/" class="flooxer">Flooxer</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <section class="container-fluid">
+        <div class="container row" itemscope itemtype="http://schema.org/LocalBusiness">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                <p itemprop="description">© Atresmedia Corporación de Medios de Comunicación, S.A - A. Isla Graciosa 13, 28703, S.S. de los Reyes, Madrid. Reservados todos los derechos</p>
+                <ul class="listado-legal">
+                    <li><a rel="nofollow" title="Aviso Legal" href="http://www.antena3.com/advertencia-legal.html" target="_blank">Aviso legal</a></li>
+                    <li><a rel="nofollow" title="Política de privacidad" href="http://www.antena3.com/politica-proteccion-datos-privacidad.html" target="_blank">Política de privacidad</a></li>
+                    <li><a rel="nofollow" title="Política de cookies" href="http://www.antena3.com/static/html/legal/politica_cookies_atresmedia.pdf" target="_blank">Política de cookies</a></li>
+                    <li><a rel="nofollow" title="Cond. de participación" href="http://www.antena3.com/bases-participacion-concursos.html" target="_blank">Cond. de participación</a></li>
+                </ul>
+            </div>
+        </div>
+    </section>
+    <meta itemprop="keywords" content="antena3" />
+    <meta itemprop="keywords" content="videos" />
+    <meta itemprop="keywords" content="series" />
+    <meta itemprop="keywords" content="noticias" />
+    <meta itemprop="keywords" content="programas" />   
+</footer>
+<div class="mod-cookies">
+    <a title="Cerrar ventana" class="btn-cerrar" href="#"></a>
+    <p class="texto">Utilizamos cookies propias y de terceros para mejorar, recoger datos estadísticos y mostrarle publicidad relevante. Si continúa navegando, está aceptando su uso. Puede obtener más información o cambiar la configuración en <a class="politica_cookies" href="http://www.antena3.com/static/html/legal/politica_cookies_atresmedia.pdf" target="_blank">política de cookies.</a></p>
+</div><script src="http://cdnjs.atresmedia.com/atresmedia-js/latest/app.footer3.js"></script>
+
+
+<script type="text/javascript">
+sas.render();
+</script>
+
+<script type="text/javascript">_satellite.pageBottom();</script>	</body>
+</html>

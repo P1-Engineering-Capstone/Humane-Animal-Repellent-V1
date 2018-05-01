@@ -1,0 +1,989 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script id="f5_cspm">(function(){var f5_cspm={f5_p:'IHIEGGEEHLHFCIIIKEMLHOLGHEDBDGNHGPBEHHDNFOJBGCHPDFFDJMLINHLALCMJAJLHCLDPMCJMMABMBDIMEMJLOJHLALONKAHKJNFHMMDBNEPLDAGGLFFFFHBMCBMB',setCharAt:function(str,index,chr){if(index>str.length-1)return str;return str.substr(0,index)+chr+str.substr(index+1);},get_byte:function(str,i){var s=(i/16)|0;i=(i&15);s=s*32;return((str.charCodeAt(i+16+s)-65)<<4)|(str.charCodeAt(i+s)-65);},set_byte:function(str,i,b){var s=(i/16)|0;i=(i&15);s=s*32;str=f5_cspm.setCharAt(str,(i+16+s),String.fromCharCode((b>>4)+65));str=f5_cspm.setCharAt(str,(i+s),String.fromCharCode((b&15)+65));return str;},set_latency:function(str,latency){latency=latency&0xffff;str=f5_cspm.set_byte(str,32,(latency>>8));str=f5_cspm.set_byte(str,33,(latency&0xff));str=f5_cspm.set_byte(str,27,2);return str;},wait_perf_data:function(){try{var wp=window.performance.timing;if(wp.loadEventEnd>0){var res=wp.loadEventEnd-wp.navigationStart;if(res<60001){var cookie_val=f5_cspm.set_latency(f5_cspm.f5_p,res);window.document.cookie='aaaaaaaaaaaaaaa='+encodeURIComponent(cookie_val)+';path=/';}
+return;}}
+catch(err){return;}
+setTimeout(f5_cspm.wait_perf_data,100);return;},go:function(){var chunk=window.document.cookie.split(/\s*;\s*/);for(var i=0;i<chunk.length;++i){var pair=chunk[i].split(/\s*=\s*/);if(pair[0]=='f5_cspm'){if(pair[1]=='1234'){var d=new Date();d.setTime(d.getTime()-1);window.document.cookie='f5_cspm=;expires='+d.toUTCString()+';path=/;';setTimeout(f5_cspm.wait_perf_data,100);}}}}}
+f5_cspm.go();}());</script>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <meta name="google-site-verification" content="tviXOvnszIZthrqd5sIRPRBYrF3aLHqNOzMZZQcsZSs" />
+    <meta name="google-site-verification" content="v3JUEyJj-ujLBTrwJdvCLZVZpFg1N-mw7B91TsaAOn8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+        
+        <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://news.wfu.edu/feed/" />
+    <link rel="alternate" type="text/xml" title="RSS .92" href="http://news.wfu.edu/feed/rss/" />
+    <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://news.wfu.edu/feed/atom/" />
+
+    <link rel="pingback" href="http://news.wfu.edu/xmlrpc.php" />
+    <link rel="shortcut icon" href="http://news.wfu.edu/wp-content/themes/foundation_main/favicon.ico" />
+    
+<!-- This site is optimized with the Yoast SEO plugin v5.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Wake Forest News | Wake Forest University</title>
+<meta name="description" content="We are Wake Forest University’s primary news source and first point of contact for reporters. We help media by facilitating interviews, connecting with..."/>
+<link rel="canonical" href="http://news.wfu.edu/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Wake Forest News | Wake Forest University" />
+<meta property="og:description" content="We are Wake Forest University’s primary news source and first point of contact for reporters. We help media by facilitating interviews, connecting with..." />
+<meta property="og:url" content="http://news.wfu.edu/" />
+<meta property="og:site_name" content="Wake Forest News" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="We are Wake Forest University’s primary news source and first point of contact for reporters. We help media by facilitating interviews, connecting with..." />
+<meta name="twitter:title" content="Wake Forest News | Wake Forest University" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/news.wfu.edu\/","name":"Wake Forest News","potentialAction":{"@type":"SearchAction","target":"http:\/\/news.wfu.edu\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdn.polyfill.io' />
+<link rel='dns-prefetch' href='//jonathantneal.github.io' />
+<link rel='dns-prefetch' href='//cloud.typography.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/news.wfu.edu\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='http://news.wfu.edu/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cloud-typography-css'  href='https://cloud.typography.com/7472334/7046972/css/fonts.css' type='text/css' media='all' />
+<link rel='stylesheet' id='slick-slider-style-css'  href='https://cdn.jsdelivr.net/jquery.slick/1.3.6/slick.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='weather-icons-css'  href='https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.10/css/weather-icons.css' type='text/css' media='all' />
+<link rel='stylesheet' id='oreo-css-css'  href='http://news.wfu.edu/wp-content/themes/foundation_main/dist/css/oreo.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css'  href='http://news.wfu.edu/wp-content/plugins/wordpress-popular-posts/style/wpp.css?ver=3.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='news-style-css'  href='http://news.wfu.edu/wp-content/themes/foundation_news/style.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://cdn.polyfill.io/v2/polyfill.min.js'></script>
+<script type='text/javascript' src='https://jonathantneal.github.io/svg4everybody/svg4everybody.min.js'></script>
+<script type='text/javascript' src='http://news.wfu.edu/wp-content/themes/foundation_main/dist/js/oreo.min.js'></script>
+<script type='text/javascript' src='http://news.wfu.edu/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://news.wfu.edu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://news.wfu.edu/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://news.wfu.edu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://news.wfu.edu/wp-includes/wlwmanifest.xml" /> 
+
+<link rel='shortlink' href='http://news.wfu.edu/' />
+<link rel="alternate" type="application/json+oembed" href="http://news.wfu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.wfu.edu%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://news.wfu.edu/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fnews.wfu.edu%2F&#038;format=xml" />
+<meta name="editId" content="398"/>		<style type="text/css">
+		span.oe_textdirection { unicode-bidi: bidi-override; direction: rtl; }
+		span.oe_displaynone { display: none; }
+		</style>
+
+            <!-- GOOGLE ANALYTICS -->
+        <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-128808-1']);
+            _gaq.push(['_setDomainName', 'wfu.edu']);
+            _gaq.push(['_trackPageview']);
+                        _gaq.push(['b._setAccount', 'UA-23001323-1']);
+            _gaq.push(['b._setDomainName', 'wfu.edu']);
+            _gaq.push(['b._trackPageview']);
+                    </script>
+    </head>
+<!-- DEV BANNER -->
+
+<script type="text/javascript" src ="http://static.wfu.edu/js/alert.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+    bTestMode = false;
+    $.getJSON("http://static.wfu.edu/js/alert.php?bTestMode=" + bTestMode + "&callback=?",
+        function(data) {
+            $(this).add_alert(data.html);
+    });
+});
+</script>
+<div id="wfualert"></div>
+
+<body>
+<div id="skip"><a href="#skip_to_main_content" class="skip">Skip to main content</a></div>
+<div id="header">
+    <div class="heater_container">
+    <header class="global-header">
+        <div class="row">
+            <div class="small-14 columns brand left">
+                <a href="http://www.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' WFULogo']);"><img src="https://static.secure.wfu.edu/images/_heater/wfu-logo.svg" alt="Wake Forest University"></a>
+            </div>
+            <nav class="small-10 columns">
+                <ul class="main-menu right">
+                    <li class="trigger menu-item closed" data-trigger="primary-mega" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'menu_click', ' Menu Primary']);"><i data-icon="fa-bars" class="bars" ></i><span class="show-for-large-up">Menu</span></li>
+                    <li class="trigger menu-item closed" data-trigger="student-mega" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'menu_click', ' Menu Audience']);"><i data-icon="fa-user" class="user" ></i><span class="show-for-large-up">I am a...</span></li>
+                    <li class="trigger menu-item closed" data-trigger="search-mega" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'menu_click', ' Menu Search']);"><i data-icon="fa-search" class="search" ></i><span class="show-for-large-up">Search</span></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <div class="primary-mega mega-menu">
+        <div class="row row-one">
+            <div class="small-24 medium-24 large-8 columns">
+                <div class="inset-content">
+                    <div class="menu-title">
+                        <a href="http://admissions.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Admissions']);">Admissions</a>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                    </div>
+                    <ul class="link-list">
+                        <li class="hide-for-large-up"><a href="http://admissions.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu AdmissionsOverview']);"><span>Overview</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/visit/schedule-a-visit/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Admissions ScheduleVisit']);"><span>Schedule a Visit</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/financial-aid/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Admissions FinancialAid']);"><span>What it Costs</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/campus-life/housing/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Admissions Housing']);"><span>Living on Campus</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/apply/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu AdmissionsApply']);"><span>How to Apply</span></a></li>
+                        <li><a href="http://wakedowntown.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu WakeDowntown']);"><span>Wake Downtown</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-24 large-8 columns">
+                <div class="inset-content">
+                    <div class="menu-title">
+                        <a href="http://about.wfu.edu/academics/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Academics']);">Academics</a>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                    </div>
+                    <ul class="link-list">
+                        <li class="hide-for-large-up"><a href="http://about.wfu.edu/academics/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu AcademicsOverivew']);"><span>Overview</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/majors/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Majors']);"><span>Majors &amp; Minors</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/academic-calendars/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu AcademicCalendars']);"><span>Academic Calendar</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/libraries/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Libraries']);"><span>Libraries</span></a></li>
+                        <li><a href="http://research.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Research']);"><span>Research</span></a></li>
+                        <li><a href="http://global.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu GlobalStudies International']);"><span>Global Studies</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-24 large-8 columns">
+                <div class="inset-content">
+                    <div class="menu-title">
+                        <a href="http://about.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu About']);">University Life</a>
+                        <i class="fa fa-caret-right" aria-hidden="true"></i>
+                    </div>
+                    <ul class="link-list">
+                        <li class="hide-for-large-up"><a href="http://about.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu AboutOverview']);"><span>Overview</span></a></li>
+                        <li><a href="http://about.wfu.edu/athletics/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Athletics']);"><span>Athletics</span></a></li>
+                        <li><a href="http://diversity.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Diversity']);"><span>Diversity &amp; Inclusion</span></a></li>
+                        <li><a href="http://opcd.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu OPCD CareerDevelopment']);"><span>Personal &amp; Career Development</span></a></li>
+                        <li><a href="http://campuslife.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu CampusLife']);"><span>Campus Life</span></a></li>
+                        <li><a href="http://arts.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Arts']);"><span>Arts</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row row-two" data-equalizer data-equalizer-mq="large-up">
+            <div class="small-24 medium-24 large-8 columns column collapse-bottom" data-equalizer-watch>
+                <div class="inset-content no-bg news">
+                    <div class="menu-title">News &amp; Events <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                                                <li><a href="http://news.wfu.edu/2018/01/21/wfu-statement-troubling-video-social-media/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu News - WFU statement about troubling video on social media']);"><span>WFU statement about troubling video on social media</span></a></li>
+                                                <li><a href="http://news.wfu.edu/2018/01/12/scientists-study-mercury-poisoning-peruvian-forest-popes-itinerary/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu News - Scientists study mercury poisoning in Peruvian forest on pope’s itinerary']);"><span>Scientists study mercury poisoning in Peruvian forest on pope’s itinerary</span></a></li>
+                                                <li><a href="http://news.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu News']);"><button class="button gold">WFU News</button></a></li>
+                        <li><a href="https://events.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Events']);"><button class="button gold">Events</button></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-24 large-8 columns column" data-equalizer-watch>
+                <div class="inset-content image-grid no-bg">
+                    <div class="menu-title">Visitors<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                        <li>
+                            <a href="http://about.wfu.edu/visiting/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Visiting']);">
+                                <figure>
+                                    <div class="icon map"></div>
+                                    <figcaption>Visitor Information</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://about.wfu.edu/visiting/photos/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu CampusPhotos']);">
+                                <figure>
+                                    <div class="icon camera"></div>
+                                    <figcaption>Campus Photos</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://webcam.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Webcam']);">
+                                <figure>
+                                    <div class="icon chapel"></div>
+                                    <figcaption>Quad Cam</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.wfu.edu/weather/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Weather']);">
+                                <figure>
+                                    <div class="icon">
+                                        <span class="temp">61<sup>&deg;</sup></span>
+                                        <span class="weather"><i class="wi wi-partly-cloudy-day"></i></span> <!-- Font Awesome placeholder for weather font -->
+
+                                    </div>
+                                    <figcaption>Weather</figcaption>
+                                </figure>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-24 large-8 columns column collapse-bottom column-three" data-equalizer-watch>
+                <div class="inset-content no-bg">
+                    <div class="menu-title">Support Wake Forest<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <div class="toggle-wrapper">
+                        <div class="row">
+                            <div class="medium-24 large-10 columns">
+                                <a href="https://secure.www.wfu.edu/giving" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu WakeWillLead Giving']);"><img src="https://static.secure.wfu.edu/images/_heater/wake-sheild@1x.svg" alt="Wake Will Lead logo"></a>
+                            </div>
+                            <div class="medium-24 large-14 columns">
+                                <p>Wake Will Lead represents the next step forward in our mission to develop dynamic young leaders who thrive in an unpredictable world.</p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="give_container">
+                                <a href="https://secure.www.wfu.edu/giving" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu MakeAGift GiveButton']);"><button class="button uppcase gold gift">Make a gift</button></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="heater">
+            <div class="row">
+                <div class="small-24 medium-24 large-8 columns">
+                    <div class="heater-header">College &amp; Schools<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <div class="lists">
+                        <ul>
+                            <li><a href="http://college.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Undergraduate']);"><span>Undergraduate</span></a></li>
+                            <li><a href="http://graduate.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Graduate']);"><span>Graduate</span></a></li>
+                            <li><a href="http://business.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Schools Business']);"><span>Business</span></a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://divinity.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Schools Divinity']);"><span>Divinity</span></a></li>
+                            <li><a href="http://law.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Schools Law']);"><span>Law</span></a></li>
+                            <li><a href="http://medicine.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Schools Medicine']);"><span>Medicine</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="small-24 medium-24 large-8 columns">
+                    <div class="heater-header">Quick Links<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <div class="lists">
+                        <ul>
+                            <li><a href="http://www.wfu.careers" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Careers StaffEmployment']);"><span>Job Opportunities</span></a></li>
+                            <li><a href="http://about.wfu.edu/directories" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Directory Directories']);"><span>Directories</span></a></li>
+                            <li><a href="http://magazine.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Magazine']);"><span>WFU Magazine</span></a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="http://about.wfu.edu/leadership/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Administration']);"><span>Administration</span></a></li>
+                            <li><a href="http://about.wfu.edu/visiting/affiliates/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Affiliates']);"><span>Affiliates</span></a></li>
+                            <li><a href="http://about.wfu.edu/privacy-policy" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu PrivacyPolicy']);"><span>Privacy Policy</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="small-24 medium-24 large-8 columns">
+                    <p>&copy; Wake Forest University<br>
+                        Winston-Salem, NC 27109<br>
+                        <a href="tel:336-758-5000"><span>336.758.5000</span></a> | <a href="http://about.wfu.edu/contact-us/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu ContactUs']);"><span>Contact Us</span></a> | <a href="http://wakeready.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu WakeReady']);"><span>Emergency</span></a></p>
+                    <ul class="footer-social">
+                        <li><a target="_blank" href="https://www.facebook.com/wfuniversity" aria-label="Wake Forest University on Facebook" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Social Facebook']);"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a target="_blank" href="https://twitter.com/WakeForest" aria-label="Wake Forest University on Twitter" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Social Twitter']);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/wfuniversity/" aria-label="Wake Forest University on Instagram" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Social Instagram']);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                        <li> | </li>
+                        <li><a href="http://social.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Menu Social']);"><span>social.wfu.edu</span></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="student-mega mega-menu" data-equalizer>
+        <div class="row menu-controls">
+            <ul>
+                <li class="active" data-target="current-students"><button class="button">Current Students</button><div class="menu_dots"></div></li>
+                <li data-target="parents-families"><button class="button">Parents &amp; Families</button><div class="menu_dots"></div></li>
+                <li data-target="alumni-friends"><button class="button">Alumni &amp; Friends</button><div class="menu_dots"></div></li>
+                <li data-target="faculty-staff"><button class="button">Faculty &amp; Staff</button><div class="menu_dots"></div></li>
+            </ul>
+            </div>
+        <div class="row menu-row">
+            <div class="custom-menu active" data-menu="current-students">
+                <div class="root-menu-title small-24 medium-24 columns column"><span>Current Students <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header">Accounts &amp; Tools<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul class="account-list">
+                        <li><a href="https://mail.google.com" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Email']);"><div class="sprite gmail_icon"></div> Email</a></li>
+                        <li><a href="https://sakai.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Sakai']);"><div class="sprite sakai_icon"></div> Sakai</a></li>
+                        <li><a href="https://win.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students WIN']);"><div class="sprite win_icon"></div> WIN</a></li>
+                        <li><a href="http://finance.wfu.edu/sfs/deac" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students DEAC']);"><div class="sprite deac_icon"></div> DEAC</a></li>
+                        <li><a href="https://wfu.joinhandshake.com/login" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Handshake']);"><div class="sprite handshake_icon"></div> Handshake</a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle">Popular Pages <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                        <li><a href="http://advising.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Advising']);"><span>Academic Advising</span></a></li>
+                        <li><a href="http://www.bkstr.com/deaconshopstore/home" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Bookstore']);"><span>Bookstore</span></a></li>
+                        <li><a href="http://wakeforest.campusdish.com/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students DeaconDining']);"><span>Deacon Dining</span></a></li>
+                        <li><a href="http://about.wfu.edu/directories/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Directories']);"><span>Departments: A-Z</span></a></li>
+                        <li><a href="http://finance.wfu.edu/sfs/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students FinancialServices']);"><span>Financial Services</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/libraries/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Libraries']);"><span>Libraries</span></a></li>
+                        <li><a href="http://parking.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Parking']);"><span>Parking &amp; Shuttle Services</span></a></li>
+                        <li><a href="http://shs.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students StudentHealthServices']);"><span>Student Health Services</span></a></li>
+                        <li><a href="http://studentengagement.wfu.edu/student-organizations/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students StudentOrganizations']);"><span>Student Organizations</span></a></li>
+                        <li><a href="http://wakeready.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students WakeReady']);"><span>Wake Ready</span></a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle spotlight_header">Spotlight <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                        <ul class="student_spotlight_list">
+                            <li><a href="http://opcd.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students OPCD CareerDevelopment SpotlightList']);"><span>Personal &amp; Career Development</span></a></li>
+                            <li><a href="http://about.wfu.edu/academics/academic-calendars/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students AcademicCalendars SpotlightList']);"><span>Academic Calendar</span></a></li>
+                            <li><a href="http://about.wfu.edu/academics/majors/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Majors SpotlightList']);"><span>Majors &amp; Minors</span></a></li>
+                        </ul>
+                        <div class="student_spotlight">
+                            <div class="spotlight_overlay_container">
+                                <a href="http://opcd.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students OPCD CareerDevelopment SpotlightOverlay']);"><img src="https://static.secure.wfu.edu/images/_heater/OPCD.jpg" alt="meeting with mentor"></a>
+                                <div class="spotlight_overlay">
+                                    <a href="http://opcd.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students OPCD CareerDevelopment SpotslightOverlay']);"><h4>Personal &amp; Career Development</h4></a>
+                                </div>
+                            </div>
+                            <div class="spotlight_buttons">
+                                <div class="button spotlight_half_button"><a href="http://about.wfu.edu/academics/academic-calendars/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students AcademicCalendars SpotlightButton']);">Academic<br />Calendar</a><span></span></div><div class="button spotlight_half_button"><a href="http://about.wfu.edu/academics/majors/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students Majors SpotlightButton']);">Majors &amp;<br />Minors</a><span></span></div>
+                            </div>
+                        </div>
+
+                </div>
+                <div class="large-24 columns column more_user_button_container">
+                    <ul class="more_user_button">
+                        <li><a href="http://www.wfu.edu/students/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Students CurrentStudents']);"><img src="https://static.secure.wfu.edu/images/_heater/_icons/user-button.svg" alt="User Icon"> More For Current Students</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="custom-menu" data-menu="parents-families">
+                <div class="root-menu-title small-24 medium-24 columns column"><span>Parents &amp; Families <i class="fa fa-caret-right" aria-hidden="true"></i></span></div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header">Accounts &amp; Tools<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul class="account-list">
+                        <li><a href="http://www.deac.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents DEAC']);"><div class="sprite deac_icon"></div> DEAC</a></li>
+                        <li><a href="https://wakeforest.campusdish.com/Commerce/MyAccount.aspx" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents DeaconDining']);"><div class="sprite dining_icon"></div> Deacon Dining</a></li>
+                        <li><a href="http://parents.wfu.edu/engage/update-your-info/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents UpdateYourInfo']);"><div class="sprite update_icon"></div> Update Your Info</a></li>
+                        <li><a href="https://wakenetwork.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents WakeReady']);"><div class="sprite network_icon"></div> WAKENetwork</a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle">Popular Pages <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                        <li><a href="http://parents.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents Website']);"><span>Parents &amp; Families Website</span></a></li>
+                        <li><a href="http://parents.wfu.edu/my-student-is/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents StudentIs']);"><span>My Student is a(n)...</span></a></li>
+                        <li><a href="http://newstudents.wfu.edu/parents-and-families/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents NewStudent']);"><span>Parents &amp; Families of New Students</span></a></li>
+                        <li><a href="http://parents.wfu.edu/resources/contact/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents ContactUs']);"><span>Contact Us</span></a></li>
+                        <li><a href="http://familyweekend.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents FamilyWeekend']);"><span>Family Weekend</span></a></li>
+                        <li><a href="http://parents.wfu.edu/faq/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents FAQ']);"><span>FAQ</span></a></li>
+                        <li><a href="http://parents.wfu.edu/resources/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents Resources']);"><span>Resources &amp; Deadlines</span></a></li>
+                        <li><a href="http://wakecommunities.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents WakeCommunities']);"><span>WAKECommunities</span></a></li>
+                        <li><a href="http://magazine.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents Magazine']);"><span>Wake Forest Magazine</span></a></li>
+                        <li><a href="http://wakewill.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents WakeWillLead']);"><span>Wake Will Lead</span></a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle spotlight_header">Spotlight <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                        <ul class="student_spotlight_list">
+                            <li><a href="http://parents.wfu.edu/communications/daily-deac/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents DailyDeac SpotlightList']);"><span>The Daily Deac</span></a></li>
+                        </ul>
+                        <div class="student_spotlight">
+                        <a href="http://parents.wfu.edu/communications/daily-deac/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents DailyDeac SpotlightOverlay']);"><img src="https://static.secure.wfu.edu/images/_heater/DailyDeac.jpg" alt="Students Walking on Campus"></a>
+                        <h4 class="spotlight_header">The Daily Deac</h4>
+                        <p>The Office of Family Engagement&rsquo;s blog is a snapshot of life at Wake Forest.</p>
+                        <a href="http://parents.wfu.edu/communications/daily-deac/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents DailyDeac SpotlightButton']);"><button class="button gold">Check out The Daily Deac</button></a>
+                    </div>
+                </div>
+                <div class="large-24 columns column more_user_button_container">
+                    <ul class="more_user_button">
+                        <li><a href="http://parents.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Parents ParentsFamilies']);"><img src="https://static.secure.wfu.edu/images/_heater/_icons/user-button.svg" alt="User Icon"> More For Parents &amp; Families</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="custom-menu" data-menu="alumni-friends">
+                <div class="root-menu-title small-24 medium-24 columns column"><span>Alumni &amp; Friends <i class="fa fa-caret-right" aria-hidden="true"></i></span></div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header">Accounts &amp; Tools<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul class="account-list">
+                        <li><a href="https://wakenetwork.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni WakeNetwork']);"><div class="sprite network_icon"></div> WAKENetwork</a></li>
+                        <li><a href="http://alumni.wfu.edu/stay-connected/update-your-info/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni UpdateYourInfo']);"><div class="sprite update_icon"></div> Update Your Info</a></li>
+                        <li><a href="http://alumni.wfu.edu/stay-connected/alumni-gmail/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni AlumniGmail']);"><div class="sprite gmail_icon"></div> WFU Alumni Gmail</a></li>
+                        <li><a href="https://win.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni WIN']);"><div class="sprite win_icon"></div> WIN</a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle">Popular Pages <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                        <li><a href="https://itunes.apple.com/us/app/deacon-for-wfu-alumni-parents/id1166204716?mt=8" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni DeacOnApp iOS']);"><span>DeacOn App</span></a></li>
+                        <li><a href="http://homecoming.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni Homecoming']);"><span>Homecoming</span></a></li>
+                        <li><a href="http://loyaldeac.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni LoyalDeac']);"><span>Loyal DEAC</span></a></li>
+                        <li><a href="http://alumni.wfu.edu/events/pro-humanitate-day/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni ProHumanitateDay']);"><span>Pro Humanitate Day</span></a></li>
+                        <li><a href="http://streakindeacon.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni Streakin\'Deacon']);"><span>Streakin&rsquo; Deacon</span></a></li>
+                        <li><a href="http://alumni.wfu.edu/stay-connected/this-month-at-wake-forest/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni ThisMonthAtWFU']);"><span>This Month on Campus</span></a></li>
+                        <li><a href="http://alumni.wfu.edu/programs/travel/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni Travel']);"><span>Travel</span></a></li>
+                        <li><a href="http://wakecommunities.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni WakeCommunities']);"><span>WAKECommunities</span></a></li>
+                        <li><a href="http://magazine.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni Magazine']);"><span>Wake Forest Magazine</span></a></li>
+                        <li><a href="http://wakewill.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni WakeWillLead']);"><span>Wake Will Lead</span></a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle spotlight_header">Spotlight <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                        <ul class="student_spotlight_list">
+                            <li><a href="http://loyaldeac.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni LoyalDeac SpotlightList']);"><span>Become a Loyal DEAC!</span></a></li>
+                        </ul>
+                        <div class="student_spotlight">
+                        <a href="http://loyaldeac.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni LoyalDeac SpotlightOverlay']);"><img src="https://static.secure.wfu.edu/images/_heater/LoyalDEACnav.jpg" alt="Loyal DEAC"></a>
+                        <h4 class="spotlight_header">Become a Loyal DEAC!</h4>
+                        <p>Join Loyal DEAC and discover all the ways you can become more involved with Wake Forest.</p>
+                        <a href="http://loyaldeac.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni LoyalDeac SpotlightButton']);"><button class="button gold">Learn how to Participate</button></a>
+                    </div>
+                </div>
+                <div class="large-24 columns column more_user_button_container">
+                    <ul class="more_user_button">
+                        <li><a href="http://alumni.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience Alumni AlumniFriends']);"><img src="https://static.secure.wfu.edu/images/_heater/_icons/user-button.svg" alt="User Icon"> More For Alumni &amp; Friends</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="custom-menu" data-menu="faculty-staff">
+                <div class="root-menu-title small-24 medium-24 columns column"><span>Faculty &amp; Staff <i class="fa fa-caret-right" aria-hidden="true"></i></span></div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header">Accounts &amp; Tools<i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul class="account-list">
+                        <li><a href="https://win.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff WIN']);"><div class="sprite win_icon"></div> WIN</a></li>
+                        <li><a href="https://mail.google.com" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Email']);"><div class="sprite gmail_icon"></div> Email</a></li>
+                        <li><a href="http://novatime.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Novatime']);"><div class="sprite novatime_icon"></div> NOVAtime</a></li>
+                        <li><a href="https://rooms.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff DeaconSpace']);"><div class="sprite space_icon"></div> Deacon Space</a></li>
+                        <li><a href="http://deacondepot.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff DeaconDepot']);"><div class="sprite depot_icon"></div> Deacon Depot</a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle">Popular Pages <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                    <ul>
+                        <li><a href="http://wakeforest.campusdish.com/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff DeaconDining']);"><span>Deacon Dining</span></a></li>
+                        <li><a href="http://www.wfu.careers/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Careers StaffEmployment']);"><span>Employment</span></a></li>
+                        <li><a href="http://facilities.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Facilities']);"><span>Facilities</span></a></li>
+                        <li><a href="http://is.wfu.edu/help/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff HelpDesk']);"><span>Help Desk</span></a></li>
+                        <li><a href="http://hr.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff HR']);"><span>Human Resources</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/libraries/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Libraries']);"><span>Libraries</span></a></li>
+                        <li><a href="http://parking.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Parking']);"><span>Parking &amp; Shuttle Services</span></a></li>
+                        <li><a href="http://pdc.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff OPCD CareerDevelopment']);"><span>Professional Development Center</span></a></li>
+                        <li><a href="http://wakeready.wfu.edu" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff WakeReady']);"><span>Wake Ready</span></a></li>
+                        <li><a href="http://thrive.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Thrive']);"><span>Wellbeing</span></a></li>
+                    </ul>
+                </div>
+                <div class="small-24 medium-24 large-8 columns column">
+                    <div class="student-header student-toggle spotlight_header">Spotlight <i class="fa fa-caret-right" aria-hidden="true"></i></div>
+                        <ul class="student_spotlight_list">
+                            <li><a href="http://inside.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff InsideWFU SpotlightList']);"><span>Inside WFU</span></a></li>
+                            <li><a href="http://news.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff News SpotlightList']);"><span>Wake Forest News</span></a></li>
+                            <li><a href="http://events.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Events SpotlightList']);"><span>Events Calendar</span></a></li>
+                        </ul>
+                        <div class="student_spotlight">
+                        <div class="spotlight_overlay_container">
+                            <a href="http://inside.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff InsideWFU SpotlightOverlay']);"><img src="https://static.secure.wfu.edu/images/_heater/FacultyStaff.jpg" alt="Faculty during Commencement"></a>
+                            <div class="spotlight_overlay">
+                                <a href="http://inside.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff InsideWFU SpotlightOverlay']);"><h4>Inside WFU</h4></a>
+                            </div>
+                        </div>
+                        <div class="spotlight_buttons">
+                            <div class="button spotlight_half_button"><a href="http://news.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff News SpotlightButtons']);">Wake Forest<br />News</a><span></span></div><div class="button spotlight_half_button"><a href="http://events.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff Events SpotlightButtons']);">Events<br />Calendar</a><span></span></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="large-24 columns column more_user_button_container">
+                    <ul class="more_user_button">
+                        <li><a href="http://www.wfu.edu/faculty-staff/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' Audience FacultyStaff FacultyStaff']);"><img src="https://static.secure.wfu.edu/images/_heater/_icons/user-button.svg" alt="User Icon"> More For Faculty &amp; Staff</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="search-mega mega-menu">
+        <div class="row">
+            <div class="small-24 medium-24 large-12 large-offset-12 columns column search-root">
+                <div class="row">
+                    <div class="field">
+                        <form id="search_form" onsubmit="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu Search']);" action="http://www.wfu.edu/search" name="search_form">
+                            <label class="search-label" for="search-header">Search our site:</label>
+                            <input type="text" id="search-header" placeholder="WHAT ARE YOU LOOKING FOR?" name="q">
+                            <input type="submit" class="fa-search button" value="&#xf002;">
+                            <input type="hidden" value="015585440025783393418:puaf24vyryy" name="cx">
+                            <input type="hidden" value="FORID:11" name="cof">
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="small-8 medium-8 large-8 columns column icon-group">
+                        <a href="http://about.wfu.edu/directories/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu Directories']);">
+                            <div class="icon-image directory_icon"></div>
+                            <span>Directories</span>
+                        </a>
+                    </div>
+                    <div class="small-8 medium-8 large-8 columns column icon-group">
+                        <a href="http://about.wfu.edu/directories/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PeopleDirectory']);">
+                            <div class="icon-image find_someone"></div>
+                            <span>Search People</span>
+                        </a>
+                    </div>
+                    <div class="small-8 medium-8 large-8 columns column icon-group">
+                        <a href="http://social.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu Social']);">
+                            <div class="icon-image social_icon"></div>
+                            <span>Social Media</span>
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="search-header">Popular Searches <i class="fa fa-caret-right" aria-hidden="true"></i></span></div>
+                    <div class="small-24 medium-24 large-8 columns">
+                        <ul class="lists">
+                            <li><a href="http://about.wfu.edu/academics/majors/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Majors']);"><span>Majors and Minors</span></a></li>
+                            <li><a href="http://financialaid.wfu.edu/cost-of-attendance/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Tuition']);"><span>Tuition and Fees</span></a></li>
+                            <li><a href="http://about.wfu.edu/academics/academic-calendars/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches AcademicCalendars']);"><span>Academic Calendar</span></a></li>
+                        </ul>
+                    </div>
+                    <div class="small-24 medium-24 large-8 columns">
+                        <ul class="lists">
+                            <li><a href="http://www.wakeforestsports.com/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Athletics']);"><span>Athletics</span></a></li>
+                            <li><a href="http://www.wfu.careers/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Careers StaffEmployment']);"><span>Employment</span></a></li>
+                            <li><a href="http://hr.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches HR']);"><span>Human Resources</span></a></li>
+                        </ul>
+                    </div>
+                    <div class="small-24 medium-24 large-8 columns">
+                        <ul class="lists">
+                            <li><a href="http://events.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Events']);"><span>Event Calendar</span></a></li>
+                            <li><a href="http://www.bkstr.com/deaconshopstore/home" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches Bookstore']);"><span>Bookstore</span></a></li>
+                            <li><a href="https://studyabroad.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'HeaderOreo', 'LinkClick', ' SearchMenu PopularSearches StudyAbroad']);"><span>Study Abroad</span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>    <div id="sitenav" class="width_container">
+        <div class="title_area">
+            <div class="row">
+                <h2><a href="http://news.wfu.edu/">Wake Forest News</a></h2>
+                <ul class="dept_menu_burger hide-for-large-up">
+                    <li class="toggle_topbar"><a href="#"><i class="fa fa-bars" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+        </div>
+            
+        <nav class="nav_items" role="navigation">
+            <section class="nav_items_section">
+                <ul class="float_left">
+                    <li class="page_item page-item-38199"><a href="http://news.wfu.edu/archive/">Headlines</a></li>
+<li class="page_item page-item-37772"><a href="http://news.wfu.edu/experts/">Experts</a></li>
+<li class="page_item page-item-38196"><a href="http://news.wfu.edu/resources/">Resources</a></li>
+                </ul>
+            </section>
+        </nav>
+    </div>
+</div>
+<div class="row general-page-breadcrumb-and-header">
+
+    <div class="columns medium-24 header_row">
+                        </div>
+
+</div>
+<a name="skip_to_main_content" id="skip_to_main_content" class="skip">Main Content</a>
+<div class="container">
+
+<div class="home_container">
+<div class="row">
+    <div class="medium-24 columns">
+        <div class="home_header" style="background: rgba(0, 0, 0, 0) url('http://news.wfu.edu/files/2016/04/NewsHeader-2.jpg') no-repeat scroll center center cover;">
+            <div class="home_caption">
+                <h1 class="general-hero-h1">Wake Forest News</h1>
+                <p class="social_contact">
+                    <a href="https://twitter.com/WakeForestNews" target="_blank" aria-label="News Twitter Link"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>&nbsp;
+                    <a href="https://www.flickr.com/photos/wfunews/sets/72157625114635160" target="_blank" aria-label="News Flickr Link"><i class="fa fa-flickr" aria-hidden="true"></i></a>&nbsp;
+                    <a href="https://www.youtube.com/user/wfnewscenter" target="_blank" aria-label="News YouTube Link"><i class="fa fa-youtube-square" aria-hidden="true"></i></a></p>
+            </div>
+            <p class="home_contact">
+                <a href="tel:336.758.5237">336.758.5237</a><br />
+                <a href="mailto:media@wfu.edu">media@wfu.edu</a><br />
+                <a href="http://news.wfu.edu/meet-the-news-team/">Meet the News Team</a>
+            </p>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="medium-24 columns">
+        <div class="row">
+            <div class="medium-16 columns">
+                <h3>HEADLINES</h3>
+            </div>
+            <div class="medium-8 columns">
+                <div class="search_news">
+                    <form method="post" action="/">
+                        <input type="search" aria-label="search" placeholder="Search Headlines" name="s">
+                        <input type="submit" class="fa-search" value="&#xf002;">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+    
+<div class="row">
+    <div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2018/01/21/wfu-statement-troubling-video-social-media/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/21145349/20120910seal0249.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/21145349/20120910seal0249.featured-303x247.jpg, (medium)]" alt="Wake Forest University seal"></a>
+        <div class="type_box">
+            <p>News</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2018/01/21/wfu-statement-troubling-video-social-media/"><p>WFU statement about troubling video on social media</p></a>
+        </div>    
+    </div>
+</div><div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2018/01/12/scientists-study-mercury-poisoning-peruvian-forest-popes-itinerary/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/12050524/cincia.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/12050524/cincia.featured-303x247.jpg, (medium)]" alt="A gold miner in Peru"></a>
+        <div class="type_box">
+            <p>News</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2018/01/12/scientists-study-mercury-poisoning-peruvian-forest-popes-itinerary/"><p>Scientists study mercury poisoning in Peruvian forest on pope’s itinerary</p></a>
+        </div>    
+    </div>
+</div><div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2018/01/09/hidden-figures-author-margot-shetterly-speak-wake-forest/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/09055346/shetterly.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/09055346/shetterly.featured-303x247.jpg, (medium)]" alt="Margot Lee Shetterly"></a>
+        <div class="type_box">
+            <p>News</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2018/01/09/hidden-figures-author-margot-shetterly-speak-wake-forest/"><p>'Hidden Figures' author Margot Shetterly to speak at Wake Forest</p></a>
+        </div>    
+    </div>
+</div></div>
+<div class="row">
+    <div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2018/01/05/michael-eric-dyson-speak-wake-forest-university/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/04113729/dyson_michael-ericNEW300-2-1.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/04113729/dyson_michael-ericNEW300-2-1.featured-303x247.jpg, (medium)]" alt="Michael Eric Dyson"></a>
+        <div class="type_box">
+            <p>News</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2018/01/05/michael-eric-dyson-speak-wake-forest-university/"><p>MLK Day: Michael Eric Dyson to speak at Wake Forest University</p></a>
+        </div>    
+    </div>
+</div><div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2018/01/03/women-can-seek-male-mentors-post-metoo-workplace/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/03041437/busy-2884018_1920.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2018/01/03041437/busy-2884018_1920.featured-303x247.jpg, (medium)]" alt="Two colleagues work on a project using a laptop."></a>
+        <div class="type_box">
+            <p>Expert Pitch</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2018/01/03/women-can-seek-male-mentors-post-metoo-workplace/"><p>Women can (and should) seek male mentors in the post-#MeToo workplace</p></a>
+        </div>    
+    </div>
+</div><div class="medium-8 columns">
+    <div class="full_width_image story_box">
+        <a href="http://news.wfu.edu/2017/12/22/wake-forest-top-value-among-private-schools/">
+            <img data-interchange="[http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2017/12/19033343/20171102campus4855.featured-597x487.jpg, (default)], [http://wp-cdn.aws.wfu.edu/wp-content/uploads/sites/22/2017/12/19033343/20171102campus4855.featured-303x247.jpg, (medium)]" alt="Wake Forest University"></a>
+        <div class="type_box">
+            <p>News</p>
+        </div>
+        <div class="full_left_caption headline_box">
+            <a href="http://news.wfu.edu/2017/12/22/wake-forest-top-value-among-private-schools/"><p>Wake Forest a top value among private schools</p></a>
+        </div>    
+    </div>
+</div></div>
+
+<div class="row">
+    <div class="medium-24 columns">
+        <h5 class="headlines_link"><a href="/archive">More Headlines</a></h5>
+    </div>
+</div>
+<div class="row">
+    <div class="medium-24 columns">
+        <div class="panel">
+            <div class="row">
+                <div class="medium-8 columns">
+                    <h3>EXPERTS</h3>
+                    <div class="search_experts">
+                        <form name="e" method="post" action="/experts/">
+                            <input type="search" aria-label="search" name="expert_file_search" placeholder="Search by Keyword or Name">
+                            <input type="submit" class="fa-search" value="&#xf002;">
+                        </form>
+                    </div>    
+                </div>
+                <div class="medium-16 home_expert columns">
+                    <div class="slider">
+
+                        <div class="expert_slide">
+    <a href="/experts/rebecca-alexander"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/0bac8fba603ada15ae2ce83a34de4d621494514488_m.jpg" alt="Rebecca Alexander"></a>
+    <h4 class="expert_name"><a href="/experts/rebecca-alexander">Rebecca Alexander</a></h4>
+    <p class="expert_title">Director of Academic Planning, Wake Downtown & Professor, Department of Chemistry</p>
+    <p class="expert_description">Alexander combines scientific expertise and creativity to apply science across the curriculum.</p>
+</div><div class="expert_slide">
+    <a href="/experts/martha-allman"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/be21461b6faeece5cee4835f055b21621498156579_m.jpg" alt="Martha Allman"></a>
+    <h4 class="expert_name"><a href="/experts/martha-allman">Martha Allman</a></h4>
+    <p class="expert_title">Dean of Undergraduate Admissions</p>
+    <p class="expert_description">Allman has become an expert on test-optional admissions, interviews in the admissions process and other admissions trends.</p>
+</div><div class="expert_slide">
+    <a href="/experts/andy-chan"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/4cd4a428baec48c43cd97caa3bf533601449164371_m.jpg" alt="Andy Chan"></a>
+    <h4 class="expert_name"><a href="/experts/andy-chan">Andy Chan</a></h4>
+    <p class="expert_title">Vice President, Innovation & Career Development</p>
+    <p class="expert_description">Chan inspires the innovation in higher ed career development that helps students develop the mindset needed for a lifetime of employability.</p>
+</div><div class="expert_slide">
+    <a href="/experts/mary-dalton"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/9d3fcea61ace3c749b73ddd5db77fb991498159097_m.jpg" alt="Mary Dalton"></a>
+    <h4 class="expert_name"><a href="/experts/mary-dalton">Mary Dalton</a></h4>
+    <p class="expert_title">Professor of Communication</p>
+    <p class="expert_description">Dalton can put new TV shows in perspective and provide insightful comments about the latest feature films.</p>
+</div><div class="expert_slide">
+    <a href="/experts/katy-harriger"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/93f9f41d83c44ae9ff75fff16b1108d41450295026_m.jpg" alt="Katy Harriger"></a>
+    <h4 class="expert_name"><a href="/experts/katy-harriger">Katy Harriger</a></h4>
+    <p class="expert_title">Professor of Political Science</p>
+    <p class="expert_description">Harriger is an expert on political participation and voting among college-age people. She is also an expert on federal special prosecutors.</p>
+</div><div class="expert_slide">
+    <a href="/experts/barry-trachtenberg"><img src="//media-speakerfile-pre.s3.amazonaws.com/images_avatars/c1a328f34230bd729e7c46b36077abc61502292933_m.jpg" alt="Barry Trachtenberg"></a>
+    <h4 class="expert_name"><a href="/experts/barry-trachtenberg">Barry Trachtenberg</a></h4>
+    <p class="expert_title">Rubin Presidential Chair of Jewish History and Director of Jewish Studies Program</p>
+    <p class="expert_description">Trachtenberg can comment on the Holocaust and the Israeli-Palestinian conflict, as well as a range of issues facing Jews around the world.</p>
+</div>                    </div>
+
+                    <h5><a href="/experts/">More Experts</a></h5>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="news_home_flex">
+    </div>
+    <div class="row">
+    <div class="medium-24 columns">
+        <div class="row">
+            <div class="medium-16 columns">
+                <h3>POPULAR STORIES</h3>
+                <div class="row">
+                <div class="medium-12 popular_box columns">
+    <div class="popular_text_background">
+    <img data-interchange="[http://news.wfu.edu/files/2010/07/test-optional-597x394.jpg, (default)], [http://news.wfu.edu/files/2010/07/test-optional-303x200.jpg, (medium)]" alt="bubble sheet">
+        <div class="popular_text">
+        <h3><a href="http://news.wfu.edu/test-optional-admissions/">Test-Optional Admissions</a></h3>
+        </div>
+    </div>
+</div><div class="medium-12 popular_box columns">
+    <div class="popular_text_background">
+    <img data-interchange="[http://news.wfu.edu/files/2010/07/20150518commencement0198-1-597x394.jpg, (default)], [http://news.wfu.edu/files/2010/07/20150518commencement0198-1-303x200.jpg, (medium)]" alt="Two students processing in for Commencement">
+        <div class="popular_text">
+        <h3><a href="http://news.wfu.edu/college-to-career/">College to Career</a></h3>
+        </div>
+    </div>
+</div>                </div>
+                <div class="row">
+                    <div class="medium-12 popular_box columns">
+    <div class="popular_text_background">
+    <img data-interchange="[http://news.wfu.edu/files/2010/07/20160907downtown1373.popularstory-597x394.jpg, (default)], [http://news.wfu.edu/files/2010/07/20160907downtown1373.popularstory-303x200.jpg, (medium)]" alt="Wake Downtown">
+        <div class="popular_text">
+        <h3><a href="http://news.wfu.edu/wake-downtown/">Wake Downtown</a></h3>
+        </div>
+    </div>
+</div><div class="medium-12 popular_box columns">
+    <div class="popular_text_background">
+    <img data-interchange="[http://news.wfu.edu/files/2010/07/20140905thrive6781-1-597x394.jpg, (default)], [http://news.wfu.edu/files/2010/07/20140905thrive6781-1-303x200.jpg, (medium)]" alt="THRIVE leaves on Manchester Plaza">
+        <div class="popular_text">
+        <h3><a href="http://news.wfu.edu/wellbeing/">Wellbeing</a></h3>
+        </div>
+    </div>
+</div>                </div>
+            </div>
+            
+
+<div class="inthenews_side medium-8 columns">
+    <h2 class="section_header">Wake In The News</h2>
+    <div class="inthenews_story">
+    <p class="inthenews_source">The Chicago Tribune</p>
+    <p class="inthenews_title"><a href="http://www.chicagotribune.com/sns-more-colleges-than-ever-have-test-optional-admissions-policies-and-thats-a-good-thing-89852-20180111-story.html" target="_blank">More colleges than ever have test-optional admissions policies - and that's a good thing</a></p>
+</div><div class="inthenews_story">
+    <p class="inthenews_source">The Christian Science Monitor</p>
+    <p class="inthenews_title"><a href="https://www.csmonitor.com/USA/Justice/2018/0111/Cliven-Bundy-case-How-big-a-problem-is-prosecutorial-misconduct" target="_blank">Cliven Bundy case: How big a problem is prosecutorial misconduct?</a></p>
+</div><div class="inthenews_story">
+    <p class="inthenews_source">New York Post</p>
+    <p class="inthenews_title"><a href="https://nypost.com/2018/01/15/writing-a-to-do-list-will-help-you-sleep-better/?utm_content=buffera909a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer" target="_blank">Writing a to-do list will help you sleep better</a></p>
+</div><div class="inthenews_story">
+    <p class="inthenews_source">The Washington Post</p>
+    <p class="inthenews_title"><a href="https://www.washingtonpost.com/news/made-by-history/wp/2018/01/03/what-japan-can-teach-us-about-the-future-of-the-nationalism/?utm_term=.c39fcc6353f3" target="_blank">What Japan can teach us about the future of nationalism</a></p>
+</div><div class="inthenews_story">
+    <p class="inthenews_source">WFU News & Communications</p>
+    <p class="inthenews_title"><a href="http://mailchi.mp/wfu/wake-forest-news-media-report-u8kn7ajk22?e=22b9eda742" target="_blank">Media Report for Jan. 6-15, 2018</a></p>
+</div>        <h5><a href="http://news.wfu.edu/wake-in-the-news/">More in the News</a></h5>
+</div>        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="medium-24 columns">
+        <ul class="button-group even-4 stack-for-small">
+          <li><a href="http://admissions.wfu.edu/facts/" class="button secondary" target="_blank">Quick Facts</a></li>
+          <li><a href="http://news.wfu.edu/broadcast-television-studio/" class="button secondary" target="_self">TV Studio</a></li>
+          <li><a href="http://events.wfu.edu/" class="button secondary" target="_blank">University Calendar</a></li>
+          <li><a href="http://news.wfu.edu/resources/" class="button secondary" target="_self">Additional Resources</a></li>
+        </ul>
+    </div>
+</div>
+</div>
+
+</div> <!-- Opening container div in header -->
+<div class="footer_container">
+    <div class="row">
+        <div class="medium-16 footer_left columns">
+            <h5>ABOUT WAKE FOREST NEWS</h5>
+            <p>We are Wake Forest University’s primary news source and first point of contact for reporters. We help media by facilitating interviews, connecting with faculty experts or providing interesting story ideas. A staff member is on call 24/7 for media requests at <a href="tel:336.758.5237" target="_blank" rel="noopener noreferrer">336.758.5237</a>. <a href="http://news.wfu.edu/meet-the-news-team/">Our team</a> also offers a variety of communications resources for Wake Forest students, faculty and staff.</p>        </div>
+        <div class="medium-8 footer_right columns">
+            <a class="button secondary expand" href="http://news.wfu.edu/subscribe/">Subscribe to Updates</a>
+        </div>
+    </div>
+</div>
+
+
+<div class="footer_main">
+<footer>
+    <div class="primary-footer">
+        <div class="row">
+            <div class="small-24 medium-24 large-24 columns">
+                <div class="field">
+                    <form id="search_form" onsubmit="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Search']);" action="http://www.wfu.edu/search" name="search_form">
+                        <label class="search-label" for="search-footer">Search our site:</label>
+                        <input type="text" id="search-footer" placeholder="WHAT ARE YOU LOOKING FOR?" name="q">
+                        <input type="submit" class="fa-search button" value="&#xf002;">
+                        <input type="hidden" value="015585440025783393418:puaf24vyryy" name="cx">
+                        <input type="hidden" value="FORID:11" name="cof">
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="small-24 medium-12 large-6 columns">
+                <div class="footer-inset">
+                    <div class="list-header">
+                        <h2>Where to start</h2>
+                    </div>
+                    <ul class="footer-list">
+                        <li><a href="http://admissions.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Admissions']);"><span>Admissions</span></a></li>
+                        <li><a href="http://financialaid.wfu.edu/cost-of-attendance/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Tuition']);"><span>Costs &amp; Financial Aid</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/majors/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Majors']);"><span>Majors &amp; Minors</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/apply/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' AdmissionsApply']);"><span>How to Apply</span></a></li>
+                        <li><a href="http://about.wfu.edu/academics/schools/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Schools']);"><span>College &amp; Schools</span></a></li>
+                        <li><a href="http://admissions.wfu.edu/visit/winston-salem/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' WinstonSalem']);"><span>Winston-Salem</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-12 large-6 columns">
+                <div class="footer-inset">
+                    <div class="list-header">
+                        <h2>Get to know WFU</h2>
+                    </div>
+                    <ul class="footer-list">
+                        <li><a href="http://admissions.wfu.edu/facts/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' QuickFacts']);"><span>Quick Facts</span></a></li>
+                        <li><a href="http://campuslife.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' CampusLife']);"><span>Campus Life</span></a></li>
+                        <li><a href="http://about.wfu.edu/athletics/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Athletics']);"><span>Athletics</span></a></li>
+                        <li><a href="http://wakedowntown.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' WakeDowntown']);"><span>Wake Downtown</span></a></li>
+                        <li><a href="http://alumni.wfu.edu/events/pro-humanitate-day/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' ProHumanitateDay']);"><span>Pro Humanitate</span></a></li>
+                        <li><a href="http://about.wfu.edu/visiting/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' CampusMaps']);"><span>Campus Maps</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-12 large-6 columns">
+                <div class="footer-inset">
+                    <div class="list-header">
+                        <h2>Frequently Visited</h2>
+                    </div>
+                    <ul class="footer-list">
+                        <li><a href="http://about.wfu.edu/academics/libraries/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Libraries']);"><span>Libraries</span></a></li>
+                        <li><a href="http://hr.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' HR']);"><span>Human Resources</span></a></li>
+                        <li><a href="http://thrive.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Thrive']);"><span>Thrive</span></a></li>
+                        <li><a href="http://research.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Research']);"><span>Research</span></a></li>
+                        <li><a href="https://events.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Events']);"><span>Event Calendar</span></a></li>
+                        <li><a href="https://wakenetwork.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' WakeNetwork']);"><span>WAKENetwork</span></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="small-24 medium-12 large-6 columns">
+                <ul class="footer-list">
+                    <li><a href="http://www.wfu.careers/" class="footer-button" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Careers StaffEmployment']);">Work at Wake</a></li>
+                    <li><a href="http://admissions.wfu.edu/visit/schedule-a-visit/" class="footer-button" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' ScheduleVisit']);">Schedule a Visit</a></li>
+                    <li><a href="https://secure.www.wfu.edu/giving" class="footer-button gold" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Giving']);">Make a gift</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="sub-footer">
+        <div class="row">
+            <div class="small-24 medium-24 large-6 columns">
+                <div class="footer-logo">
+                    <a href="http://www.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' WFULogo']);"><img src="https://static.secure.wfu.edu/images/_heater/_footer/wfu-footer-logo.svg" alt="Wake Forest Logo"></a>
+                </div>
+            </div>
+            <div class="small-24 medium-24 large-6 columns">
+                <p>
+                    1834 Wake Forest Road
+                    <br>
+                    Winston-Salem, NC 27109
+                    <br>
+                    336.758.5000
+                </p>
+            </div>
+            <div class="small-24 medium-24 large-6 columns">
+                <ul class="footer-list-inline">
+                    <li><a href="http://about.wfu.edu/contact-us/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' ContactUs']);"><span>Contact Us</span></a></li>
+                    <li><a href="http://wakeready.wfu.edu/" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' WakeReady']);"><span>Emergency</span></a></li>
+                    <li><a href="http://about.wfu.edu/privacy-policy" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' PrivacyPolicy']);"><span>Privacy Policy</span></a></li>
+                </ul>
+            </div>
+            <div class="small-24 medium-24 large-6 columns">
+                <ul class="sub-footer-social">
+                    <li><a href="https://www.facebook.com/wfuniversity" target="_blank" aria-label="Wake Forest University on Facebook" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Social Facebook']);"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="https://twitter.com/WakeForest" target="_blank" aria-label="Wake Forest University on Twitter" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Social Twitter']);"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="https://www.instagram.com/wfuniversity/" target="_blank" aria-label="Wake Forest University on Instagram" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Social Instagram']);"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                    <li><a href="http://social.wfu.edu/" target="_blank" onclick="_gaq.push(['_trackEvent', 'FooterOreo', 'LinkClick', ' Social']);"><span>social.wfu.edu</span></a></li>
+                </ul>
+            </div>
+            <div class="small-24 medium-24 large-6 columns">
+                <p class="footer-copyright">&reg; 2018 Wake Forest University</p>
+            </div>
+        </div>
+    </div>
+</footer>
+</div><script type="text/javascript">setTimeout(function(){var a=document.createElement("script");var b=document.getElementsByTagName("script")[0];a.src=document.location.protocol+"//script.crazyegg.com/pages/scripts/0050/8904.js?"+Math.floor(new Date().getTime()/3600000);a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);</script><script type='text/javascript' src='http://news.wfu.edu/wp-content/themes/foundation_main/js/site_improve_priority.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wfu_load_more_posts = {"ajax_url":"http:\/\/news.wfu.edu\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://news.wfu.edu/wp-content/themes/foundation_news/js/load_more.js?ver=1.0'></script>
+<script type='text/javascript' src='http://news.wfu.edu/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+
+<script type="text/javascript">  (function() {
+    var ga = document.createElement('script');     ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:'   == document.location.protocol ? 'https://ssl'   : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+</body>
+</html>
+<!-- Dynamic page generated in 1.594 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2018-01-22 17:23:36 -->

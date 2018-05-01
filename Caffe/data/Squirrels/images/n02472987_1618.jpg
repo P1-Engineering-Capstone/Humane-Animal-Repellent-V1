@@ -1,0 +1,300 @@
+<!DOCTYPE html><html lang="es"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1"/><title>Página no encontrada (error 404) | Hoy</title><meta name="title" content="Página no encontrada (error 404) | Hoy"/><meta name="description" content="Error 404 | Hoy"/><meta name="robots" content="index,follow"/><meta http-equiv="Content-Security-Policy" content=""><meta name="lang" content="es"/><meta name="keywords"
+      content=""/><link rel="canonical" href="http://www.hoy.es/error404.html"/><meta property="fb:pages" content="85593393832"/><link rel="stylesheet" href="//static3.hoy.es/squido/3.7.6/squido.css"/><script>
+        window.vocento = {
+            __PROVIDER__: {
+                paywall: {
+                                        cookie: '',
+                    meter: '',
+                    result: '',
+                    pid: '',
+                    concurrentSessionLimit: '',
+                    maxConcurrentSessions: '',
+                    count: '',
+                    max: '',
+                    viewed: '',
+                    isExtra: '',
+                    isNewAnonymousSession: '',
+                    isEntitlementRequired: '',
+                    meterExceeded: '',
+                    isTrialActive: ''
+                                    },
+                adbd: {
+                    deviceType: 'desktop',
+                    geo: {
+                        areaCode: '',
+                        city: '',
+                        country: '',
+                        countryCode: 'ES',
+                        dma: '',
+                        fips: '',
+                        lat: '',
+                        lng: '',
+                        msa: '',
+                        pmsa: '',
+                        regionCode: '',
+                        timezone: ''
+                    },
+                    network: {
+                        name: '',
+                        type: '',
+                        throughput: ''
+                    }
+
+                }
+            },
+            config: {
+                adbd: {
+                    disabledUserTypes: ['trial', 'suscriptor'],
+                    disabledCountries: ['ALL', '!ES'], // NOTE: all but Spain
+                    disabledDevices: [],
+                    strategies: [
+                        {
+                            type: 'file',
+                            config: {
+                                traps: [
+                                    '//static.vocento.com/adbd/latest/traps/amzn_ads.js',
+                                    '//static.vocento.com/adbd/latest/traps/prebid-min.js',
+                                    '//static.vocento.com/adbd/latest/traps/pubads.js'
+                                ]
+                            }
+                        }
+                    ],
+                    behavior: {
+                        type: 'embed',
+                        url: '/adbd/',
+                        queryString: '',
+                        delay: 2,        // NOTE: delay in seconds
+                        options: {
+                          layer: 'layer.html',
+                          modal: 'info.html'
+                        }
+                    }
+                },
+                alerts: {
+                    serviceUrl: '//static.hoy.es/www/urgente/alertas.json',
+                    iconUrl: '//static1.hoy.es/squido/latest/assets/icons/hoy/android-chrome-192x192.png'
+                },
+                multimedia: {
+                    videoplayer: {
+                        serviceUrl: '/api/video-player'
+                    }
+                },
+                paywall: {
+                                        enabled: false
+                                    },
+                scribblelive: {
+                    templatesUrl: '//static.vocento.com/scribble-live/latest/templates'
+                },
+                starred: {
+                    serviceUrl: 'https://areapersonal.hoy.es/servicios/api/v1/articulo',
+                    templatesUrl: '//static.vocento.com/starred/latest/templates'
+                },
+                                vocuser: {
+                    comments: {
+                        options: {categoryID: 'hoy'},
+                        templatesUrl: '//static.vocento.com/comments/latest/templates'
+                    }
+                },
+                vtm: {
+                    legacyTracker: false,
+                    trackerUrl: '//metrics.hoy.es',
+                    evdabEnabled: false
+                },
+                relatedContent: {
+                    recommendationId: '',
+                    trackId: ''
+                },
+                lottery: {
+                    serviceUrl: '//loteria.hoy.es/fcgi-bin/premio.pl'
+                }
+            },
+            site: {
+                env: 'pro',
+                group: 'ppll',
+                subdomain: 'www',
+                tlddomain: 'hoy.es',
+                media: 'hoy',
+                name: 'Hoy',
+                editions: {
+                    hasEditions: false,
+                    editions: [],
+                    main: '',
+                    current: '',
+                    queryString: ''
+                },
+                content: {
+                                    }
+            }
+        };
+    </script><script src="//static.vocento.com/voonto/1.1.12/vendors-head.js"></script><script>
+
+    window.ns_site = window.__VOONTO__.lookup('vocento.site').media;
+    window.voc_se = 'failover';
+    window.voc_s1 = '';
+    window.voc_s2 = '';
+    window.voc_s3 = '';
+    window.voc_s4 = '';
+    window.voc_tn = 'pagina-no-encontrada-(error-404)-hoy';
+    window.voc_tc = 'otros';
+    window.voc_tcnew = '';
+    window.voc_ed = window.__VOONTO__.lookup('vocento.site.editions').current;
+    window.voc_au = '';
+    window.voc_or = '';
+    window.voc_pr = 1;
+    window.voc_fep = '';
+    window.voc_fem = '';
+    window.voc_pl = ''; //TODO FIXME: from public fn
+    window.voc_tusr = window.__VOONTO__.getUserType();
+    window.voc_idi = 'es';
+
+</script><script src="//static.vocento.com/k68q7r4u5t/4.0.2/k68q7r4u5t.js"></script><script src="//static.vocento.com/tag-manager/latest/vtm.js" data-property-id="7d7c0790761bf4e65ff128b37ff7d599996ca047"     data-legacy-krux="qxobgd9vm"
+    data-legacy-chartbeat="hoy.es"
+    data-legacy-inspectlet="1181168833"
+    data-legacy-crazyegg="0036/2229"
+    data-legacy-comscore="7715761"
+></script><!-- GTM --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+		{'gtm.start': new Date().getTime(),event:'gtm.js'}
+		);var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-5CWTV9');</script><!-- GTM --><script>
+        TagManager.ready.then(function() {
+            TagManager.update().set({errorPagina: '404'}).track();
+        });
+    </script><link rel="icon" href="//static3.hoy.es/squido/latest/assets/icons/hoy/favicon.ico"/><link rel="shortcut icon" href="//static3.hoy.es/squido/latest/assets/icons/hoy/favicon.ico"
+          type="image/x-icon"/><link rel="apple-touch-icon" sizes="57x57"
+          href="//static3.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60"
+          href="//static1.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72"
+          href="//static2.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76"
+          href="//static3.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114"
+          href="//static.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120"
+          href="//static.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144"
+          href="//static.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152"
+          href="//static3.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180"
+          href="//static.hoy.es/squido/latest/assets/icons/hoy/apple-touch-icon-180x180.png"><link rel="icon" type="image/png"
+          href="//static3.hoy.es/squido/latest/assets/icons/hoy/favicon-16x16.png" sizes="16x16"><link rel="icon" type="image/png"
+          href="//static1.hoy.es/squido/latest/assets/icons/hoy/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png"
+          href="//static.hoy.es/squido/latest/assets/icons/hoy/favicon-96x96.png" sizes="96x96"><link rel="icon" type="image/png"
+          href="//static1.hoy.es/squido/latest/assets/icons/hoy/android-chrome-192x192.png"
+          sizes="192x192"><meta name="msapplication-square70x70logo"
+          content="//static1.hoy.es/squido/latest/assets/icons/hoy/smalltile.png"/><meta name="msapplication-square150x150logo"
+          content="//static3.hoy.es/squido/latest/assets/icons/hoy/mediumtile.png"/><meta name="msapplication-wide310x150logo"
+          content="//static1.hoy.es/squido/latest/assets/icons/hoy/widetile.png"/><meta name="msapplication-square310x310logo"
+          content="//static.hoy.es/squido/latest/assets/icons/hoy/largetile.png"/></head><body class="hoy"><!-- GTM --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5CWTV9"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- End GTM --><noscript><img src="https://vocento.d3.sc.omtrdc.net/b/ss/vocelhoy,voces/1/G.4--NS/123456789?pageName=&g=http://www.hoy.es/error404.html" width="1" height="1" border="0" /></noscript><noscript><p><img src="//b.scorecardresearch.com/p?c1=2&amp;c2=7715761&amp;ns_site=hoy&amp;name=&amp;voc_site=hoy&amp;voc_se=failover&amp;voc_s1=&amp;voc_s2=&amp;voc_s3=&amp;voc_s4=&amp;voc_tn=&amp;voc_ho=0&amp;voc_tc=&amp;voc_ed=&amp;voc_au=&amp;voc_fep=&amp;voc_fem=&amp;voc_or=&amp;voc_pr=1&amp;voc_pl=contenido-web&amp;voc_pu=methode&amp;voc_usrid=&amp;voc_tusr=anonimo&amp;voc_ate=&amp;voc_idi=&amp;voc_usrag=&amp;voc_usrcp=&amp;voc_usrgen=&amp;voc_pw_pid=&amp;voc_pw_meter=&amp;voc_pw_count=&amp;voc_pw_max=&amp;voc_pw_result=&amp;voc_pw_cookie=&amp;voc_adp=0&amp;voc_usrser=&amp;voc_usrsvs=&amp;voc_adb=0" height="1" width="1" alt="*" /></p></noscript><div data-voc-vam data-voc-vam-position="backcss"
+         data-voc-vam-outofpage="true"
+         ></div><div data-voc-vam data-voc-vam-position="layer_inpage"
+         data-voc-vam-outofpage="true"
+         ></div><div data-voc-vam data-voc-vam-position="patrocinio1"
+         data-voc-vam-outofpage="true"
+         ></div><div data-voc-vam data-voc-vam-position="patrocinio2"
+         data-voc-vam-outofpage="true"
+         ></div><div data-voc-vam data-voc-vam-position="patrocinio3"
+         data-voc-vam-outofpage="true"
+         ></div><header class="main-header "><nav class="navbar navbar-default voc-detail-nav navbar-fixed-top" ><div class="voc-header-left"><!--Boton desplegar secciones--><nav class="voc-header-nav"><button type="button" class="voc-header-sections" data-toggle="collapse" data-target="#sections"><i class="voc-icons hamburguer"></i><i class="voc-icons close-x"></i><span class="hidden-xs">Secciones</span></button></nav><!--Boton desplegar buscador--><button type="button" data-toggle="collapse" data-target="#searchBar" class="hidden-xs voc-header-search"><i class="voc-icons search"></i></button><div class="voc-header-searcher collapse" id="searchBar"><form class="voc-search-container" data-voc-krammer-term action="/hemeroteca/" method="get"><input type="search" placeholder="Buscar en Hoy..."
+               data-voc-krammer-term-all-words autofocus/><button type="button" class="voc-collapse close-x"><i class="voc-icons close-x"></i></button></form><div class="voc-search-suggestion"></div></div></div><div class="voc-header-right"><div class="pull-left" data-voc-alerts><button type="button" data-toggle="collapse" data-target="#alerts" class="voc-header-alert hidden-sm hidden-xs"><i class="voc-icons alert-header"></i></button></div><div id="alerts" class="voc-alerts-notifications collapse hidden-sm hidden-xs"><div class="voc-alerts-content"><p class="voc-alerts-txt">
+            Recibe las notificaciones de Hoy en tu navegador
+        </p><button class="voc-button-white-red" type="button">Activar</button><a href="#">Ahora no, gracias</a></div></div><div class="pull-left" data-vocuser-onplus></div><div class="pull-left" data-vocuser><button type="button" class="voc-header-login"><i class="voc-icons user"></i><span class="hidden-sm hidden-xs">Iniciar sesión</span></button></div></div><div class="voc-header-logo "><a href="http://www.hoy.es/"><img src="//static1.hoy.es/squido/latest/assets/images/hoy.svg"
+                 alt="Hoy"></a></div></nav></header><div class="wrapper wrapper--no-background"><div class="container"><div class="col-xs-12 col-sm-12 col-md-9 col-lg-9"><div class="voc-static-404"><h1 class="voc-static-404__title">ERROR 404</h1><p class="voc-static-404__message">Lo sentimos, no encontramos la página que buscas</p><div class="voc-static-404__figure voc-static-404__figure--hoy"></div><!--Search component--><!-- Modifiers
+                      isBig: Sets the big mode of the module, i.e. used in error-404 page
+                      hasBgWhite: Sets the input bg-color to white
+                      hasFocusFx: Changes the border color of the input when it get the focus
+                    --><div class="voc-search "><form class="voc-search__input-container" data-voc-krammer-term="" action="/hemeroteca/" method="get"><input class="voc-search__input
+                              voc-search__input--big
+                              voc-search__input--bg-white
+                              voc-search__input--on-focus" type="search" placeholder="Busca un tema" data-voc-krammer-term-all-words><button class="voc-search__button voc-search__button--big"><i class="voc-icons search"></i></button></form></div><!--Buttons--><!-- NOTE This first wrapper is a workaround for IE10 and IE11 flexbox stretch compatibility  --><div class="voc-static-404__btns-container-wrapper"><div class="voc-static-404__btns-container"><a href="/" class="voc-static-404__flex-btn"><span class="voc-static-404__flex-btn--with-arrow">Volver</span></a><a href="http://www.hoy.es/contacta.html" class="voc-static-404__flex-btn"><span>Contacta con nosotros</span></a></div></div></div></div><div class="col-xs-12 col-sm-8 col-md-3 col-lg-3 voc-static-404__most-readed-tablet"><section
+            class="voc-most-readed voc-most-readed--large-margins voc-detail voc-mt24  voc-most-readed--large-margins"><header><h3><a href="http://www.hoy.es/top-noticias/mas-vistos.html">Lo + leído</a></h3><br/><a class="voc-top" href="http://www.hoy.es/top-noticias/mas-vistos.html" title="Top 50">Top 50</a></header><div class="tab-content"><div id="most-readed-section" ><ul><li><span class="voc-number">1</span><h4><a href="//www.hoy.es/badajoz/muere-atropellado-autobus-20180121173808-nt.html#ns_campaign=mod-lo-mas&ns_mchannel=ver-top-50&ns_source=portada&ns_linkname=portada&ns_fee=1"
+                                   title="Muere atropellado por un autobús un niño de cinco años que iba en un patinete eléctrico">
+                                    Muere atropellado por un autobús un niño de cinco años que iba en un patinete eléctrico
+                                </a></h4></li><li><span class="voc-number">2</span><h4><a href="//www.hoy.es/badajoz/conductor-autobus-atropello-20180122130024-nt.html#ns_campaign=mod-lo-mas&ns_mchannel=ver-top-50&ns_source=portada&ns_linkname=portada&ns_fee=2"
+                                   title="El conductor del autobús que atropelló al niño en Badajoz dio negativo en alcohol y drogas">
+                                    El conductor del autobús que atropelló al niño en Badajoz dio negativo en alcohol y drogas
+                                </a></h4></li><li><span class="voc-number">3</span><h4><a href="//www.hoy.es/badajoz/desped-20180122205509-nt.html#ns_campaign=mod-lo-mas&ns_mchannel=ver-top-50&ns_source=portada&ns_linkname=portada&ns_fee=3"
+                                   title="Multitudinaria despedida en Badajoz del niño atropellado cuando iba en un patinete">
+                                    Multitudinaria despedida en Badajoz del niño atropellado cuando iba en un patinete
+                                </a></h4></li><li><span class="voc-number">4</span><h4><a href="//www.hoy.es/prov-badajoz/finca-extremena-fran-20180122123550-nt.html#ns_campaign=mod-lo-mas&ns_mchannel=ver-top-50&ns_source=portada&ns_linkname=portada&ns_fee=4"
+                                   title="La finca extremeña de Fran Rivera, gancho turístico en Fitur">
+                                    La finca extremeña de Fran Rivera, gancho turístico en Fitur
+                                </a></h4></li><li><span class="voc-number">5</span><h4><a href="//www.hoy.es/prov-caceres/lenceria-malpartidena-visten-20180122001853-ntvo.html#ns_campaign=mod-lo-mas&ns_mchannel=ver-top-50&ns_source=portada&ns_linkname=portada&ns_fee=5"
+                                   title="La lencería malpartideña que visten las estrellas">
+                                    La lencería malpartideña que visten las estrellas
+                                </a></h4></li></ul></div></div></section></div></div></div><footer ><div class="voc-footer-coorp col-xs-12 col-sm-12 col-md-4 col-lg-4"><div class="voc-footer-logo voc-hoy"><a href="http://www.hoy.es">Hoy</a></div><div class="voc-copyadd"><span class="voc-copy">&copy; Ediciones Digitales S.L.U. Diario HOY de Extremadura, 2017</span><address>Avenida del Diario HOY, número 22. 06008 Badajoz</address></div><ul class="voc-social list-inline"><li><a href="https://www.facebook.com/pages/HOYes/85593393832?ref=hl" target="_blank" class="voc-facebook" title="facebook"><i
+                        class="voc-icons facebook"></i></a></li><li><a href="https://twitter.com/hoyextremadura" target="_blank" class="voc-twitter" title="twitter"><i
+                        class="voc-icons twitter"></i></a></li></ul></div><div class="voc-media col-xs-12 col-sm-12 col-md-8 col-lg-8"><div class="voc-footer-logo-blue"><a href="//www.vocento.com/" target="_blank" title="Vocento">Vocento</a><i class="voc-icons downArrow navbar-toggle" data-toggle="collapse" data-target="#media"></i></div><ul id="media" class="navbar-collapse collapse"><li><a href="http://www.abc.es/" target="_blank" title="ABC">ABC</a></li><li><a href="http://sevilla.abc.es/" target="_blank" title="ABC Sevilla">ABC Sevilla</a></li><li><a href="http://www.hoy.es/" target="_blank" title="Hoy">Hoy</a></li><li><a href="http://www.elcorreo.com/" target="_blank" title="El Correo">El Correo</a></li><li><a href="http://www.larioja.com/" target="_blank" title="La Rioja">La Rioja</a></li><li><a href="http://www.elnortedecastilla.es/" target="_blank" title="El Norte de Castilla">El Norte de Castilla</a></li><li><a href="http://www.diariovasco.com/" target="_blank" title="Diario Vasco">Diario Vasco</a></li><li><a href="http://www.elcomercio.es/" target="_blank" title="El Comercio">El Comercio</a></li><li><a href="http://www.ideal.es/" target="_blank" title="Ideal">Ideal</a></li><li><a href="http://www.diariosur.es/" target="_blank" title="Sur">Sur</a></li><li><a href="http://www.lasprovincias.es/" target="_blank" title="Las Provincias">Las Provincias</a></li><li><a href="http://www.eldiariomontanes.es/" target="_blank" title="El Diario Montañés">El Diario Montañés</a></li><li><a href="http://www.lavozdigital.es/" target="_blank" title="La Voz Digital">La Voz Digital</a></li><li><a href="http://www.laverdad.es/" target="_blank" title="La Verdad">La Verdad</a></li><li><a href="http://www.leonoticias.com/" target="_blank" title="Leonoticias.com">Leonoticias</a></li><li><a href="https://www.pisocompartido.com/" target="_blank" title="Piso Compartido">Piso Compartido</a></li><li><a href="https://www.infoempleo.com/" target="_blank" title="Infoempleo">Infoempleo</a></li><li><a href="https://www.guapabox.com/" target="_blank" title="Guapabox">Guapabox</a></li><li><a href="http://www.finanzas.com/" target="_blank" title="Finanzas">Finanzas</a></li><li><a href="https://www.autocasion.com/" target="_blank" title="Autocasión">Autocasión</a></li><li><a href="http://oferplan.com/" target="_blank" title="Oferplan">Oferplan</a></li><li><a href="https://www.pisos.com/" target="_blank" title="Pisos.com">Pisos.com</a></li><li><a href="http://www.mujerhoy.com/" target="_blank" title="Mujerhoy">Mujerhoy</a></li><li><a href="http://www.xlsemanal.com/" target="_blank" title="XL Semanal">XL Semanal</a></li><li><a href="http://www.codigounico.com/" target="_blank" title="Código Único">Código Único</a></li><li><a href="http://www.eslang.es/" target="_blank" title="Eslang">Eslang</a></li></ul></div><ul class="voc-footer-links list-inline"><li><a href="http://www.hoy.es/contacta.html" title="Contactar">Contactar</a></li><li><a href="http://www.hoy.es/aviso-legal.html" title="Aviso legal">Aviso legal</a></li><li><a href="http://www.vocento.com/politica-privacidad/" title="Política de privacidad">Política de
+                privacidad</a></li><li><a href="http://www.hoy.es/mapa-web.html" title="Mapa web">Mapa web</a></li><li><a href="http://www.vocento.com/politica-cookies/" title="Política de cookies">Política de cookies</a></li></ul></footer><div class="collapse" id="sections" aria-expanded="true"><nav class="voc-main-menu voc-main-menu-onplus"><fieldset class="voc-menu-edition"><form class="voc-search-menu hidden-md hidden-lg hidden-sm" data-voc-krammer-term action="/hemeroteca/"
+          method="get"><input type="search" data-voc-krammer-term-all-words/><button><i class="voc-icons search"></i></button></form></fieldset><input class="voc-select-menu-sections" type="radio" name="selectMenuMobile" id="sectionsMenu" checked=""><label class="voc-select-menu hidden-md hidden-lg hidden-sm" for="sectionsMenu"><span>Secciones</span></label><input class="voc-select-menu-services" type="radio" name="selectMenuMobile" id="servicesMenu"><label class="voc-select-menu hidden-md hidden-lg hidden-sm" for="servicesMenu"><span>Servicios</span></label><div class="voc-content-menu"><ul class="voc-menu-level-1st voc-menu-sections"><li><h3><a href="/"
+                               title="Portada">Portada</a></h3></li><li><h3><a href="/extremadura/"
+                               title="Extremadura">Extremadura</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu02"></i></h3><hgroup id="linkmainsubmenu02" class="collapse"><h4><a href="/extremenos-de-hoy/"
+                                       title="Extremeños de HOY">Extremeños de HOY</a></h4></hgroup></li><li><h3><a href="/badajoz/"
+                               title="Badajoz">Badajoz</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu03"></i></h3><hgroup id="linkmainsubmenu03" class="collapse"><h4><a href="/prov-badajoz/doce-joyas/"
+                                       title="Doce Joyas de Badajoz">Doce Joyas de Badajoz</a></h4><h4><a href="/prov-badajoz/"
+                                       title="Provincia de Badajoz">Provincia de Badajoz</a></h4><h4><a href="/don-benito/"
+                                       title="Don Benito">Don Benito</a></h4><h4><a href="/villanueva/"
+                                       title="Villanueva">Villanueva</a></h4><h4><a href="/almendralejo/"
+                                       title="Almendralejo">Almendralejo</a></h4></hgroup></li><li><h3><a href="/caceres/"
+                               title="Cáceres">Cáceres</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu04"></i></h3><hgroup id="linkmainsubmenu04" class="collapse"><h4><a href="/prov-caceres/"
+                                       title="Provincia de Cáceres">Provincia de Cáceres</a></h4><h4><a href="http://navalmoral.hoy.es/"
+                                       title="Navalmoral">Navalmoral</a></h4><h4><a href="http://coria.hoy.es/"
+                                       title="Coria">Coria</a></h4><h4><a href="http://trujillo.hoy.es/"
+                                       title="Trujillo">Trujillo</a></h4></hgroup></li><li><h3><a href="/merida/"
+                               title="Mérida">Mérida</a></h3></li><li><h3><a href="/plasencia/"
+                               title="Plasencia">Plasencia</a></h3></li><li><h3><a href="/extremadura/hiperlocales/"
+                               title="Hiperlocales">Hiperlocales</a></h3></li><li><h3><a href="/nacional/"
+                               title="Nacional">Nacional</a></h3></li><li><h3><a href="/internacional/"
+                               title="Mundo">Mundo</a></h3></li><li><h3><a href="/economia"
+                               title="Economía">Economía</a></h3></li><li><h3><a href="/emprende/"
+                               title="HOY Emprende">HOY Emprende</a></h3></li><li><h3><a href="/culturas/"
+                               title="Culturas">Culturas</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu012"></i></h3><hgroup id="linkmainsubmenu012" class="collapse"><h4><a href="/culturas/cine/"
+                                       title="Cine">Cine</a></h4><h4><a href="/culturas/libros/"
+                                       title="Libros">Libros</a></h4><h4><a href="/aula-hoy/"
+                                       title="Aula HOY">Aula HOY</a></h4><h4><a href="/culturas/tv/"
+                                       title="TV">TV</a></h4><h4><a href="/culturas/musica/"
+                                       title="Música">Música</a></h4><h4><a href="http://blogs.hoy.es/musica-en-el-tiempo/"
+                                       title="Música en el Tiempo">Música en el Tiempo</a></h4><h4><a href="http://blogs.hoy.es/libreconlibros/"
+                                       title="Libre con libros">Libre con libros</a></h4><h4><a href="/culturas/toros/"
+                                       title="Toros">Toros</a></h4></hgroup></li><li><h3><a href="/sociedad/"
+                               title="Sociedad">Sociedad</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu013"></i></h3><hgroup id="linkmainsubmenu013" class="collapse"><h4><a href="/sociedad/ciencia/"
+                                       title="Ciencia">Ciencia</a></h4><h4><a href="/sociedad/salud/"
+                                       title="Salud">Salud</a></h4><h4><a href="/tecnologia/"
+                                       title="Tecnología">Tecnología</a></h4><h4><a href="http://blogs.hoy.es/escuela-de-padres/"
+                                       title="Escuela de Padres">Escuela de Padres</a></h4><h4><a href="/padres-hijos/"
+                                       title="Padres e Hijos">Padres e Hijos</a></h4></hgroup></li><li><h3><a href="/deportes/"
+                               title="Deportes">Deportes</a><i class="voc-icons downArrow" data-toggle="collapse"
+                               data-target="#linkmainsubmenu014"></i></h3><hgroup id="linkmainsubmenu014" class="collapse"><h4><a href="/deportes/futbol/"
+                                       title="Fútbol">Fútbol</a></h4><h4><a href="/deportes/futbol/liga-segunda-b/"
+                                       title="Segunda B">Segunda B</a></h4><h4><a href="/deportes/futbol/liga-tercera/"
+                                       title="Tercera">Tercera</a></h4><h4><a href="/deportes/baloncesto/"
+                                       title="Baloncesto">Baloncesto</a></h4><h4><a href="/deportes/tenis/"
+                                       title="Tenis">Tenis</a></h4><h4><a href="/deportes/ciclismo/"
+                                       title="Ciclismo">Ciclismo</a></h4><h4><a href="/deportes/motor/"
+                                       title="Motor">Motor</a></h4><h4><a href="/deportes/mas-deportes/"
+                                       title="Más Deporte">Más Deporte</a></h4><h4><a href="/deportes/mas-deportes/caza-federada/"
+                                       title="Caza Federada">Caza Federada</a></h4></hgroup></li><li><h3><a href="/gente-estilo/"
+                               title="Gente y Estilo">Gente y Estilo</a></h3></li><li><h3><a href="/temas/generales/opinion-hoy.html"
+                               title="Opinión">Opinión</a></h3></li><li><h3><a href="/fotos/"
+                               title="Fotos">Fotos</a></h3></li><li><h3><a href="/videos/"
+                               title="Vídeos">Vídeos</a></h3></li></ul><div class="voc-menu-level-1st voc-menu-dark-bg"><ul class="voc-menu-services"><li><h3><a href="/planes" title="Planes">Planes</a></h3></li><li><h3><a href="http://blogs.hoy.es/" title="Blogs">Blogs</a></h3></li><li><h3><a href="http://agenda.hoy.es/" title="Agenda">Agenda</a></h3></li><li><h3><a href="/promociones/" title="Promociones">Promociones</a></h3></li><li><h3><a href="/agro/" title="HOY Agro">HOY Agro</a></h3></li><li><h3><a href="http://solidario.hoy.es/" title="HOY Solidario">HOY Solidario</a></h3></li><li><h3><a href="/servicios/farmacias/" title="Farmacias">Farmacias</a></h3></li><li><h3><a href="/cartelera/" title="Cartelera de cine">Cartelera de cine</a></h3></li><li><h3><a href="/servicios/sorteos/" title="Resultados loterías">Resultados loterías</a></h3></li><li><h3><a href="/aula-hoy/" title="Aula HOY">Aula HOY</a></h3></li></ul><div class="voc-menu-interests"><span class="voc-menu-tit">De interés</span><hgroup><h3><a href="http://oferplan.hoy.es/" title="Oferplan">Oferplan</a></h3><h3><a href="http://www.autocasion.com/coches-segunda-mano/badajoz" title="Coches">Coches</a></h3><h3><a href="https://www.pisos.com/viviendas/badajoz/" title="Pisos">Pisos</a></h3><h3><a href="http://www.infoempleo.com/trabajo/en_badajoz/" title="Empleo">Empleo</a></h3></hgroup></div></div></div></nav></div><script src="//static.vocento.com/voonto/1.1.12/vendors.js"></script><script src="//static.vocento.com/voonto/1.1.12/voonto.js"></script><script>
+    Voonto.ready.then(function (app) {
+        app.load('//static1.hoy.es/squido/3.7.6/squido.js');
+        app.load('//cabeceras.vocento.com/vocuser/v4/resources/js/ppll/loader/vocento-vocuser-preloader.js?v=201801181330');
+        app.load('//static.vocento.com/paywall/1.0.23/paywall.js');
+        app.load('//static.vocento.com/vam/3.6.9-0/vam.js');        app.load('//static.vocento.com/video-player/1.1.1/video-player.js');
+        app.load('//static.vocento.com/alerts/1.0.8/alerts.js');
+        app.load('//static.vocento.com/starred/1.0.10/starred.js');
+        app.load('//static.vocento.com/sportsdata/1.1.20/sportsdata.js');
+        app.load('//static.vocento.com/scribble-live/1.1.0/scribble-live.js');
+        app.load('//static.vocento.com/krammer/1.1.0/krammer.js');
+
+        app.when('vocuser:gigyaready').then(function () {
+            app.load('//static.vocento.com/comments/2.0.0/comments.js');
+        });
+                	
+            	            
+            });
+</script><div class="voc-cookie-message voc-cookie-message--hidden animated" data-voc-cookies-advice><div class="voc-cookie-message__container"><span class="voc-cookie-message__notice">
+      Utilizamos “cookies” propias y de terceros para elaborar información estadística y mostrarle publicidad, contenidos y servicios personalizados a través del análisis de su navegación. Si continúa navegando acepta su uso. <a title="Si desea más información pinche aquí" href="http://www.vocento.com/politica-cookies/" target="_blank">Más información y cambio de configuración.</a></span><button type="button" class="voc-cookie-message__button" data-voc-cookies-advice-close>Aceptar</button></div></div></body></html>

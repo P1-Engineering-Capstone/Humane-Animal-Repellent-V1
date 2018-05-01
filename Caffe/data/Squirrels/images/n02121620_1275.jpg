@@ -1,0 +1,1101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="x-ua-compatible" content="IE=edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1059.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+
+    <title>All recipes | Recipe4Living</title>
+  
+    <meta name="keywords" content="Recipe, Recipes, Easy Recipes, Food Ideas, Quick Recipes, Healthy Recipes, Cooking Tips, Cooking Ideas, Food Tips," />
+  
+  <meta name="description" content="Looking for recipes and cooking tips? Recipe4Living has a recipe for every occasion. Whether you are looking for a quick and easy recipe, healthy recipes, or food ideas & tips for a special occasion, we have you covered." />
+  <meta name="author" content="Recipe4Living, Recipe4Living.com" />
+  <meta name="verify-v1" content="MdhXUubKMGRn6vL5WSVMEXeKt6D4mMrULy9MG+6+Zf8=" />
+
+    <link rel="stylesheet" href="/frontend/recipe4living/css/site.css,nav.css,index.css,articles.css,landing.css,recipes.css,account.css,static.css,stickywin.css?v=a80cb" type="text/css" media="screen" />
+  
+  
+  <link type="text/css" href="/frontend/recipe4living/css/print.css?v=4" media="print" rel="stylesheet">
+  <!--[if IE 6]><link href="/frontend/recipe4living/css/ie6.css?v=4" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if IE 7]><link href="/frontend/recipe4living/css/ie7.css?v=4" rel="stylesheet" type="text/css" /><![endif]-->
+  <link rel="shortcut icon" href="/frontend/recipe4living/images/favicon.ico" type="image/vnd.microsoft.icon" />
+  <link rel="icon" href="/frontend/recipe4living/images/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <link href="http://www.recipe4living.com/rss/uploads/RecipePhotos/frenzied feline balls.jpg" rel="alternate" type="application/rss+xml" title="Recipe4Living | All recipes" />
+  
+    <script type="text/javascript">
+    /* Define global static variables. */
+    DEBUG = false;
+    SITEURL = '';
+    SITESECUREURL = 'https://www.recipe4living.com';
+    SITEINSECUREURL = 'http://www.recipe4living.com';
+    ASSETURL = '/assets';
+    COREASSETURL = '/frontend/base';
+    SITEASSETURL = '/frontend/recipe4living';
+  </script>
+
+    <script type="text/javascript" src="/frontend/base/js/mootoolsCore.js,mootoolsMore.js,StickyWin.js,Interface.js,Nav.js,HistoryManager.js,Forms.js,BrowseArea.js,Autocompleter.js,Milkbox.js,Wizard.js,sifr.js,Slideshow.js,Articles.js?ver=6wnp"></script>
+  
+  <script>
+    
+    if (window.JSON && !window.JSON.parse) {
+      console.log('polyfill JSON.parse');
+      window.JSON.parse = function (sJSON) { return eval('(' + sJSON + ')'); };
+    }
+  </script>
+
+  <script type="text/javascript" src="/frontend/base/js/jquery.min.js,jquery.fancybox-1.3.4.pack.js,jquery.cookie.js"></script>
+
+  <script type="text/javascript">
+    var R4LSignUpDhtml = jQuery.noConflict();
+    var R4LDhtml = jQuery.noConflict();
+  </script>
+
+  
+  
+  <script type="text/javascript">
+    window.addEvent('domready', function () {
+
+      /* Init history manager */
+      HistoryManager.initialize();
+
+      /* Get reference to body content */
+      var bodyContent = $(document.body);
+
+      /* Top nav */
+      var topNav = new TopNav($('nav-top'));
+
+      /* Standard forms */
+      bodyContent.getElements('div.standardform, fieldset.standardform').each(function(formcontainer) {
+        var standardForm = new StandardForm(formcontainer);
+      });
+
+      
+      /* Popups */
+      var infoPopups = new InfoPopups(bodyContent.getElements('a.info-popup'));
+      var printPopups = new AssetPopups(bodyContent.getElements('a.print-popup'), {
+        windowKey: 'recipe4living_print_popup'
+      });
+
+      /* Page scroll */
+      var pageScroll = new PageScroll(bodyContent.getElements('a.scroll'), {
+        wheelStops: false
+      });
+
+      /* Start history manager */
+      HistoryManager.start();
+
+      /* Input over text */
+      $$('input.simpletext, textarea.simpletext').each(function(input) {
+        new InputText(input);
+      });
+
+    });
+
+    window.addEvent('load', function() {
+          });
+  </script>
+
+  <!-- Yieldbot.com Intent Tag LOADING -->
+  <script type="text/javascript" src="https://cdn.yldbt.com/js/yieldbot.intent.js"></script>
+  <!-- Yieldbot.com Intent Tag ACTIVATION -->
+  <script type="text/javascript">
+    yieldbot.pub('6e09');
+    yieldbot.defineSlot('LB_ATF');
+    yieldbot.defineSlot('MR_ATF');
+    yieldbot.defineSlot('MR_Mid');
+    yieldbot.defineSlot('LB_BTF');
+    yieldbot.go();
+  </script>
+  <!-- END Yieldbot.com Intent Tag -->
+
+  <!-- ~ Copyright (C) 2014-2015 Media.net Advertising FZ-LLC All Rights Reserved -->
+<script type="text/javascript">
+  window._mNHandle = window._mNHandle || {};
+  window._mNHandle.queue = window._mNHandle.queue || [];
+  medianet_versionId = "121199";
+  (function() {
+    var sct = document.createElement("script"),
+        sctHl = document.getElementsByTagName("script")[0],
+        isSSL = 'https:' == document.location.protocol;
+    sct.type = "text/javascript";
+    sct.src = (isSSL ? 'https:' : 'http:') + '//contextual.media.net/dmedianet.js?cid=8CU52X6SM' + (isSSL ? '&https=1' : '')+'';
+    sct.async = "async";
+    sctHl.parentNode.insertBefore(sct, sctHl);
+  })();
+</script>
+
+
+  
+  <meta name="msvalidate.01" content="E03168D9BB4076DC3C37E21B03C7EE91" />
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+  
+</head>
+
+<body>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PPMDBL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PPMDBL');</script>
+<!-- End Google Tag Manager -->
+
+
+<!--Sticky Menu-->
+<script type="text/javascript" src="/frontend/base/js/stickymenu.js"></script>
+
+
+<div id="nav-header">
+  <div class="site-wrapper" id="top-ad"><div class="screenonly">
+
+  <script type="text/javascript">
+    var LB_ATF_Params = { ybot_slot:"LB_ATF", ybot_size:"", ybot_cpm:"" };
+    try {
+      LB_ATF_Params = yieldbot.getSlotCriteria('LB_ATF');
+    }
+    catch(e) {/*ignore*/}
+  </script>
+
+  <!--/* OpenX Asynchronous JavaScript tag */-->
+  <div id="537229262_728x90ATF" style="width:728px;height:90px;margin:0;padding:0">
+    <noscript><iframe id="f17dd02004" name="f17dd02004" src="//junemedia-d.openx.net/w/1.0/afr?auid=537229262&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href="//junemedia-d.openx.net/w/1.0/rc?cs=f17dd02004&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="//junemedia-d.openx.net/w/1.0/ai?auid=537229262&cs=f17dd02004&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+  </div>
+  <script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    OX_ads.push({
+      slot_id: "537229262_728x90ATF",
+      auid: "537229262",
+      vars: { "ybot_slot":LB_ATF_Params.ybot_slot, "ybot_size": LB_ATF_Params.ybot_size, "ybot_cpm": LB_ATF_Params.ybot_cpm }
+    });
+  </script>
+
+  <script type="text/javascript" src="//junemedia-d.openx.net/w/1.0/jstag"></script>
+  <!-- end openx 728x90ATF -->
+
+</div>
+</div>
+  <div class="site-wrapper">
+    <div id="logo">
+      <a href="/"><img style="width:387px;margin-left: -5px;" class="screenonly" alt="Recipe4Living" src="/frontend/recipe4living/images/site/R4L-Homepage-Logo.png" /></a>
+      <a href="/"><img class="printonly" alt="Recipe4Living" src="/frontend/recipe4living/images/site/R4L-Homepage-Logo.png" /></a>
+    </div>
+            <div class="tagline"><h4>Easy recipes and a helping of fun from home cooks like you.</h4></div>
+    <div class="standardform screenonly">
+      <div id="nav-links" class="screenonly text-content fr">
+        <ul>
+          <li>
+                                      <a href="/facebook/login/" id="sign_in"><span>Login</span></a> /
+              <a href="/register/" id="join_now"><span>Register</span></a>
+                      </li>
+        </ul>
+      </div>
+      <div class="formholder">
+        <form id="nav-top-form-search" action="/search" method="get" class="search fullsubmit">
+          <div>
+            <div class="categories">
+              <label class="radio"><input class="controllerradio" name="controller" type="radio" value="recipes" checked="checked" /> Recipes</label>
+              <label class="radio"><input class="controllerradio" name="controller" type="radio" value="articles" /> Articles</label>
+              <!--<label class="radio"><input class="controllerradio" name="controller" type="radio" value="profile" /> UserName</label>-->
+              <div class="clear"></div>
+            </div>
+            <input class="textinput simpletext fl" type="text" title="Enter search keywords..." autocomplete="off" name="searchterm" value="" />
+                        <button class="button-lg fl" type="submit" title="Find"><span>Search</span></button>
+          </div>
+        </form>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+	
+	<div id="nav-top" class="screenonly">
+		<div class="site-wrapper">
+			<ul id="nav-top-list">
+
+				<li class="parent home">
+					<div class="nav-item">
+						<a href="/"><span>Home</span></a>
+					</div>
+				</li>
+
+				<li class="parent recipes drops">
+					<div class="nav-item">
+						<a href="/recipes"><span>Recipes</span></a>
+					</div>
+					<div class="nav-popup">
+						<div class="nav-popup-bg">
+							<div class="dd-products">
+								<ul>
+									<li><a href="/appetizers">Appetizers</a></li>
+									<li><a href="/crockpot">Crockpot</a></li>
+									<li><a href="/casseroles">Casseroles</a></li>
+									<li><a href="/desserts">Desserts</a></li>
+									<li><a href="/main_courses">Main Courses</a></li>
+								</ul>
+								<div class="clear"></div>
+							</div>
+						</div>
+					</div>
+				</li>
+
+				<li class="parent">
+					<div class="nav-item">
+						<a href="/hints_tips/recipe_collections"><span>Recipe Collections</span></a>
+					</div>
+				</li>
+
+				<!--<li class="parent">
+					<div class="nav-item">
+						<a href="/articles"><span>Articles</span></a>
+					</div>
+				</li>-->
+				<li class="parent">
+					<div class="nav-item">
+						<a href="http://win.recipe4living.com/" target="_blank"><span>Giveaways</span></a>
+					</div>
+				</li>
+
+				<li class="parent">
+					<div class="nav-item">
+						<a href="/hints_tips/product_reviews"><span>Product Reviews</span></a>
+					</div>
+				</li>
+
+				<li class="parent" style="padding:0px;">
+					<div class="nav-icon-item">
+						<span>Follow Us:</span>
+						<a href="http://goo.gl/8XKWk" target="_blank"><img src="/frontend/recipe4living/images/site/R4l-facebook.png"/></a>
+						<a href="http://goo.gl/QWWuy" target="_blank"><img src="/frontend/recipe4living/images/site/R4l-twitter.png"/></a>
+						<a href="http://goo.gl/LBcYo" target="_blank"><img src="/frontend/recipe4living/images/site/R4l-pinterest.png"/></a>
+						<a href="http://bit.ly/ZxqJ3w" target="_blank"><img src="/frontend/recipe4living/images/site/R4l-googleplus.png"/></a>
+					</div>
+				</li>
+				
+
+			</ul>
+		</div>
+	</div>
+
+
+<div id="content-wrapper">
+  <div class="site-wrapper">
+<div id="main-content" class="recipes">
+  <div id="column-container" style="padding-left:0px;width:645px;">
+
+    <div id="panel-center" class="column">
+            <div class="category_hubs">
+        <h3 style="float:left"><a href="/">Home</a>           <a href="">
+                      </a>
+        </h3>
+      </div>
+            	<div id="list-heading" class="rounded">
+		<div class="content">
+			<h1 style="font-size: 1.25em; color: #FFFFFF; margin-bottom: 0; line-height: 1.25em;float:left;">Recipes - All Recipes (40,332)</h1>
+
+						<form id="listing-recipe-search-refine" style="margin-top: -10px;" action="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg" method="get" class="reloads fr"><div>
+				<label for="refine_search" class="fl">
+					Refine results:
+					<input id="refine_search" type="text" name="searchterm_extra" value="" class="textinput" autocomplete="off" />
+				</label>
+
+				
+				<noscript>
+					<button class="fl">Filter</button>
+				</noscript>
+			</div></form>
+			<div class="clear"></div>
+					</div>
+	</div>
+		<div id="recipes_listing">
+
+		
+		
+		<form id="listing-recipe-search" action="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg" method="get" class="reloads"><div>
+
+			<div id="list-sort" class="fl">
+				<label for="sort" class="fl">Sort by:</label>
+				<select id="sort-by" name="sort" class="reloads">
+					<option value="relevance">Relevance</option>
+					<option value="name_asc">Name A to Z</option>
+					<option value="date_desc" selected="selected">Newest</option>
+					<option value="reviews_desc">Most Reviews</option>
+					<option value="rating">Most Chef Hats</option>
+				</select>
+					<input type="submit" value="Go" />
+			</div>
+
+			<div class="recipe-view fr">
+				<strong class="fl">View:</strong>
+				<ul>
+					<li id="view-list"><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?sort=date_desc&amp;page=1&amp;layout=list">List</a></li>
+					<li id="view-gallery"><a class="reloads current" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?sort=date_desc&amp;page=1&amp;layout=grid">Grid</a></li>
+				</ul>
+			</div>
+
+			<div class="clear"></div>
+
+						<input type="hidden" name="searchterm_extra" value="" />			<input type="hidden" name="page" value="1" />
+
+		</div></form>
+
+		<div class="clear"></div>
+
+		<div class="thumb-list">
+			<ul style="width:640px">
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/apple_cider_martini.htm">
+						<img alt="Apple Cider Martini" src="/assets/itemimages/210/210/3/default_db4f40da129d962e682ba1428c123a43_apple cider martini dreamstimesmall_100330298.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/apple_cider_martini.htm">Apple Cider Martini</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1195</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/fig_honey_thyme_martini.htm">
+						<img alt="Fig Honey Thyme Martini" src="/assets/itemimages/210/210/3/default_f3481ed75daaccea448d2aef29955c20_fig honey thyme martini dreamstimesmall_98332857.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/fig_honey_thyme_martini.htm">Fig Honey Thyme Martini</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1400</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/homemade_spiked_eggnog.htm">
+						<img alt="Homemade Spiked Eggnog" src="/assets/itemimages/210/210/3/default_0e7e093286beef0e21ff4fce700f4762_egg nog dreamstime_s_63707198.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/homemade_spiked_eggnog.htm">Homemade Spiked Eggnog</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">469</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/spiked_hot_chocolate_shooters.htm">
+						<img alt="Spiked Hot Chocolate Shooters" src="/assets/itemimages/210/210/3/default_18f08fadd1895479a3d6810a31c6897f_bailey's hot chocolate shooters dreamstime_s_83360195.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/spiked_hot_chocolate_shooters.htm">Spiked Hot Chocolate Shooters</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1292</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/piping_hot_buttered_rum.htm">
+						<img alt="Piping Hot Buttered Rum" src="/assets/itemimages/210/210/3/default_c70b3485e40498477b884a7663f39c0b_hot buttered rum dreamstimesmall_47103269.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/piping_hot_buttered_rum.htm">Piping Hot Buttered Rum</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1094</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/refreshing_moscow_mule.htm">
+						<img alt="Refreshing Moscow Mule" src="/assets/itemimages/210/210/3/default_97f91c27af54d6e19f428cf66f9b606f_moscow mule dreamstimesmall_102052169.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/refreshing_moscow_mule.htm">Refreshing Moscow Mule</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">966</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+			<div class="ad">
+  <div id="ld-2296-1948"></div>
+  <script>(function(w,d,s,i){w.ldAdInit=w.ldAdInit||[];w.ldAdInit.push({slot:9756517637539430,size:[0, 0],id:"ld-2296-1948"});if(!d.getElementById(i)){var j=d.createElement(s),p=d.getElementsByTagName(s)[0];j.async=true;j.src="//cdn2.lockerdome.com/_js/ajs.js";j.id=i;p.parentNode.insertBefore(j,p);}})(window,document,"script","ld-ajs");</script>
+</div>
+			<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/crockpot_mulled_wine.htm">
+						<img alt="Crockpot Mulled Wine" src="/assets/itemimages/210/210/3/default_d0bb5e0cd93528ffa2e1ebae39ea4c97_mulled wine [made in a crockpot] dreamstimesmall_102364402.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/crockpot_mulled_wine.htm">Crockpot Mulled Wine</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">959</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/pomegranate_mojito.htm">
+						<img alt="Pomegranate Mojito" src="/assets/itemimages/210/210/3/default_dda202a894a6bbc9f2b02b97d517915a_pomegranate mojito dreamstimesmall_93204858.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/pomegranate_mojito.htm">Pomegranate Mojito</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1377</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/pumpkin_pie_vodka_shots.htm">
+						<img alt="Pumpkin Pie Vodka Shots" src="/assets/itemimages/210/210/3/default_31fe88ebc22cc735abba201a187879d8_pumpkin pie vodka shots dreamstimesmall_102391048.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/pumpkin_pie_vodka_shots.htm">Pumpkin Pie Vodka Shots</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">899</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/harvest_fruit_white_sangria.htm">
+						<img alt="Harvest Fruit White Sangria" src="/assets/itemimages/210/210/3/default_9da9c43aeedc705493e8757eb3d2ab12_white fall sangria with fruit dreamstimesmall_98330488.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/harvest_fruit_white_sangria.htm">Harvest Fruit White Sangria</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">2433</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/swedish_mulled_wine.htm">
+						<img alt="Swedish Mulled Wine" src="/assets/itemimages/210/210/3/default_4e1a72777cd01f2876853dab374c9c90_dreamstimesmall_47785439.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/swedish_mulled_wine.htm">Swedish Mulled Wine</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">275</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/sparkling_pear_and_pomegranate_punch.htm">
+						<img alt="Sparkling Pear and Pomegranate Punch" src="/assets/itemimages/210/210/3/default_e7d579a37d25b9859d47db7c627fa4a8_sparkling pear and pomegranate punch dreamstimesmall_103185071.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/sparkling_pear_and_pomegranate_punch.htm">Sparkling Pear and Pomegranate&#8230;</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">808</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/pomegranate_prosecco_punch.htm">
+						<img alt="Pomegranate Prosecco Punch" src="/assets/itemimages/210/210/3/default_dcf7d14a8aabcdef7c723b990a0d5764_pomegranate prosecco punch dreamstimesmall_102319777.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/pomegranate_prosecco_punch.htm">Pomegranate Prosecco Punch</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1330</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/old_fashioned_eggnog_punch.htm">
+						<img alt="Old Fashioned Eggnog Punch" src="/assets/itemimages/210/210/3/default_96f849aca5be1b178a1a2cedb132a307_old fashioned eggnog punch dreamstimesmall_61149788.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/old_fashioned_eggnog_punch.htm">Old Fashioned Eggnog Punch</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">1180</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						<li class="grid" style="border:none;padding:2px;width:207px;height:295px !important;margin: 0 2px 2px 0;">
+							<div class="im fl">
+					<a href="/recipes/lemon_champagne_punch.htm">
+						<img alt="Lemon Champagne Punch" src="/assets/itemimages/210/210/3/default_11d9582c19f30fc0bd7c210f473223a7_lemony champagne punch dreamstimesmall_97979266.jpg" width="207" height="207" />
+					</a>
+				</div>
+
+				<div class="desc">
+					<h2><a href="/recipes/lemon_champagne_punch.htm">Lemon Champagne Punch</a></h2>
+
+					<div class="text-content">
+						<div class="views fl">994</div>
+
+						<div class="rating fl">
+							
+	<div class="stars fl">
+						<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+				<img alt="" src="/frontend/recipe4living/images/site/icon-star-off.png" />
+			</div>
+	(0)
+						</div>
+
+						<div class="clear"></div>
+					</div>
+
+				</div>
+
+				<div class="clear"></div>
+
+			</li>
+						</ul>
+			<div class="clear"></div>
+		</div>
+
+		<div class="pagination"><strong class="fl">Pages: </strong><ul>
+<li><span class="item current">1</span></li>
+<li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=2">2</a></li>
+<li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=3">3</a></li>
+<li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=4">4</a></li>
+<li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=5">5</a></li><li><span class="spacer">&#8230;</span></li> 
+<li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=2689">2689</a></li><li><a class="reloads" href="/recipes/uploads/RecipePhotos/frenzied feline balls.jpg?layout=grid&amp;sort=date_desc&amp;page=2" class="next">Next</a></li> </ul><div class="clear"></div></div>
+		
+	</div>
+    </div>
+
+    
+    <div id="panel-right" class="column">
+      <div class="ad"><div class="screenonly">
+
+  <script type="text/javascript">
+    var MR_ATF_Params = { ybot_slot:"MR_ATF", ybot_size:"", ybot_cpm:"" };
+    try {
+      MR_ATF_Params = yieldbot.getSlotCriteria('MR_ATF');
+    }
+    catch(e) {/*ignore*/}
+  </script>
+
+  <!--/* OpenX Asynchronous JavaScript tag */-->
+  <div id="537229258_300x250ATF" style="width:300px;height:250px;margin:0;padding:0">
+    <noscript><iframe id="c9c2130980" name="c9c2130980" src="//junemedia-d.openx.net/w/1.0/afr?auid=537229258&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href="//junemedia-d.openx.net/w/1.0/rc?cs=c9c2130980&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="//junemedia-d.openx.net/w/1.0/ai?auid=537229258&cs=c9c2130980&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+  </div>
+  <script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    OX_ads.push({
+      slot_id: "537229258_300x250ATF",
+      auid: "537229258",
+      vars: { "ybot_slot":MR_ATF_Params.ybot_slot, "ybot_size": MR_ATF_Params.ybot_size, "ybot_cpm": MR_ATF_Params.ybot_cpm }
+    });
+  </script>
+
+  <script type="text/javascript" src="//junemedia-d.openx.net/w/1.0/jstag"></script>
+  <!-- end openx 300x250ATF -->
+
+</div>
+</div>
+
+      
+      <!-- OpenX -->
+<div class="ad">
+  <div class="screenonly">
+
+    <script type="text/javascript">
+      var MR_Mid_Params = { ybot_slot:"MR_Mid", ybot_size:"", ybot_cpm:"" };
+      try {
+        MR_Mid_Params = yieldbot.getSlotCriteria('MR_Mid');
+      }
+      catch(e) {/*ignore*/}
+    </script>
+
+    <!--/* OpenX Asynchronous JavaScript tag */-->
+    <div id="537229261_300x250BTF" style="width:300px;height:250px;margin:0;padding:0">
+      <noscript><iframe id="d2ccdb3a36" name="d2ccdb3a36" src="//junemedia-d.openx.net/w/1.0/afr?auid=537229261&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="300" height="250"><a href="//junemedia-d.openx.net/w/1.0/rc?cs=d2ccdb3a36&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="//junemedia-d.openx.net/w/1.0/ai?auid=537229261&cs=d2ccdb3a36&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+    </div>
+    <script type="text/javascript">
+      var OX_ads = OX_ads || [];
+      OX_ads.push({
+      slot_id: "537229261_300x250BTF",
+      auid: "537229261",
+      vars: { "ybot_slot":MR_Mid_Params.ybot_slot, "ybot_size": MR_Mid_Params.ybot_size, "ybot_cpm": MR_Mid_Params.ybot_cpm }
+      });
+    </script>
+
+    <script type="text/javascript" src="//junemedia-d.openx.net/w/1.0/jstag"></script>
+    <!-- end openx 300x250BTF -->
+
+  </div>
+</div>
+<!-- zergnet -->
+<div class="ad">
+	<div style="font-family:Arial color:#000000; font-size:18px; font-weight:bold !important;">Around The Web</div>
+  <div id="zergnet-widget-49586"></div>
+</div>
+
+<script language="javascript" type="text/javascript">
+  (function() {
+    var zergnet = document.createElement('script');
+    zergnet.type = 'text/javascript'; zergnet.async = true;
+    zergnet.src = (document.location.protocol == "https:" ? "https:" : "http:") + '//www.zergnet.com/zerg.js?id=49586';
+    var znscr = document.getElementsByTagName('script')[0];
+    znscr.parentNode.insertBefore(zergnet, znscr);
+  })();
+</script>
+<!-- /zergnet -->
+<!-- ~ Copyright (C) 2014 Media.net Advertising FZ-LLC All Rights Reserved -->
+<div class="ad">
+  <div id="877521783">
+    <script type="text/javascript">
+      try {
+        window._mNHandle.queue.push(function () {
+          window._mNDetails.loadTag("877521783", "300x125", "877521783");
+        });
+      }
+      catch (error) {}
+    </script>
+  </div>
+</div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+    <div class="clear"></div>
+    <div id="footer-ad"><div class="screenonly">
+
+  <script type="text/javascript">
+    var LB_BTF_Params = { ybot_slot:"LB_BTF", ybot_size:"", ybot_cpm:"" };
+    try {
+      LB_BTF_Params = yieldbot.getSlotCriteria('LB_BTF');
+    }
+    catch(e) {/*ignore*/}
+  </script>
+
+  <!--/* OpenX Asynchronous JavaScript tag */-->
+  <div id="537229263_728x90BTF" style="width:728px;height:90px;margin:0;padding:0">
+    <noscript><iframe id="b44a172e15" name="b44a172e15" src="//junemedia-d.openx.net/w/1.0/afr?auid=537229263&cb=INSERT_RANDOM_NUMBER_HERE" frameborder="0" scrolling="no" width="728" height="90"><a href="//junemedia-d.openx.net/w/1.0/rc?cs=b44a172e15&cb=INSERT_RANDOM_NUMBER_HERE" ><img src="//junemedia-d.openx.net/w/1.0/ai?auid=537229263&cs=b44a172e15&cb=INSERT_RANDOM_NUMBER_HERE" border="0" alt=""></a></iframe></noscript>
+  </div>
+  <script type="text/javascript">
+    var OX_ads = OX_ads || [];
+    OX_ads.push({
+      slot_id: "537229263_728x90BTF",
+      auid: "537229263",
+      vars: { "ybot_slot":LB_BTF_Params.ybot_slot, "ybot_size": LB_BTF_Params.ybot_size, "ybot_cpm": LB_BTF_Params.ybot_cpm }
+    });
+  </script>
+
+  <script type="text/javascript" src="//junemedia-d.openx.net/w/1.0/jstag"></script>
+  <!-- end openx 728x90BTF -->
+
+</div>
+</div>
+  </div>
+</div>
+
+<div id="footer" class="site-wrapper screenonly">
+
+  <div style="text-align: center; margin: 0px; padding-bottom: 0px;background-color: background:#e2ded5;">
+    <img src="/frontend/recipe4living/images/site/FamilyOfSites.png" border="0" />
+  </div>
+
+  
+  <div style="width: 980px;" id="mainFooterDiv">
+    <div class="rssdiv" id="ffrss">
+
+      <ol class="rssfeed">          <div id="li_item">
+            <a target="_blank" title="Best-Ever Eggs Benedict" href="http://www.fitandfabliving.com/recipes/12304-eggs-benedict">
+              Best-Ever Eggs Benedict</a>
+          </div>
+
+                    <div id="li_item">
+            <a target="_blank" title="8 Healthy Holiday Weekend Brunch Ideas" href="http://www.fitandfabliving.com/recipes/12296-8-healthy-brunches-that-ll-wake-you-up-this-morning">
+              8 Healthy Holiday Weekend...</a>
+          </div>
+
+                    <div id="li_item">
+            <a target="_blank" title="Light Strawberry Crepes" href="http://www.fitandfabliving.com/recipes/12297-light-strawberry-crepes">
+              Light Strawberry Crepes</a>
+          </div>
+
+          </li>    </div>
+
+    <div class="rssdiv" id="wimrss">
+      <ol class="rssfeed">          <div id="li_item">
+            <a target="_blank" title="Easy Summer Work Look" href="http://www.workitmom.com/articles/detail/202119/easy-summer-work-look">
+              Easy Summer Work Look                  </a>
+              </div>
+                    <div id="li_item">
+            <a target="_blank" title="No-Bake Mint Chocolate Ice Cream Bars" href="http://www.workitmom.com/articles/detail/202115/no-bake-mint-chocolate-ice-cream-bars">
+              No-Bake Mint Chocolate Ice...                  </a>
+              </div>
+                    <div id="li_item">
+            <a target="_blank" title="No-Bake Lemon Bar Dessert" href="http://www.workitmom.com/articles/detail/202113/no-bake-lemon-bar-dessert">
+              No-Bake Lemon Bar Dessert                  </a>
+              </div>
+          </ol>    </div>
+
+    <div class="rssdiv" id="rwmrss">
+      <ol class="rssfeed">
+      <div id="li_item"><a target="_blank" title="Beautiful Appetizer Recipes" href="http://www.savvyfork.com/component/yoorecipe/category/11-appetizers.html">Beautiful Appetizer Recipes</a></div>
+      <div id="li_item"><a target="_blank" title="Sumptuous Main Dish Recipes" href="http://www.savvyfork.com/component/yoorecipe/category/13-main-dishes.html">Sumptuous Main Dish Recipes</a></div>
+      <div id="li_item"><a target="_blank" title="Gorgeous Dessert Recipes" href="http://www.savvyfork.com/component/yoorecipe/category/15-desserts.html">Gorgeous Dessert Recipes</a></div>
+      </ol>
+    </div>
+
+    <div class="rssdiv" id="cotrss">
+    <ol class="rssfeed"></ol>    </div>
+      <div style="clear: left;"></div>
+
+    <div class="mainFooterDiv">
+      <a target="_blank" id="box-link-ff" href="http://www.fitandfabliving.com/"></a>
+      <a target="_blank" id="box-link-wim" href="http://www.workitmom.com/"></a>
+      <a target="_blank" id="box-link-rwm" href="http://www.savvyfork.com/"></a>
+      <a target="_blank" id="box-link-cot" href="http://www.chewonthatblog.com/"></a>
+    </div>
+
+    <div style="clear: left;"></div>
+
+    <div id="topLinks" style="text-align: center;padding-top:150px;">
+      <span style="padding-left: 0px;">
+        <a href="/about">About Us</a>&nbsp;|&nbsp;
+        <a href="/contact/">Contact Us</a>&nbsp;|&nbsp;
+        <a href="/press">Press Room</a>&nbsp;|&nbsp;
+        <a href="/sitemap">Site Map</a>&nbsp;|&nbsp;
+        <a href="/index/links">Advertising</a>&nbsp;|&nbsp;
+        <a href="/privacy">Privacy Policy</a>&nbsp;|&nbsp;
+        <a href="/terms">Terms of Use</a>&nbsp;|&nbsp;
+        <a href="/index/unsub">Unsubscribe</a>&nbsp;|&nbsp;
+        <a href="/index/subctr">Manage My Newsletters</a>
+      </span>
+      <p class="text-content"><br>&copy; 2018 <a href="http://www.junemedia.com/" target="_blank">June Media Inc</a> All rights reserved</p>
+    </div>
+  </div>
+
+</div>
+
+<div class="clear"></div>
+
+  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+  <script type="text/javascript">
+    _qacct="p-ed7ji9FtIlPSo";quantserve();
+  </script>
+
+
+
+
+<div class="screenonly"><!--- UNDERDOGMEDIA EDGE EDGE_Recipe4Living.com JavaScript ADCODE START--->
+<script data-cfasync="false" language="javascript" async src="//udmserve.net/udm/img.fetch?sid=9462;tid=1;ev=1;dt=6;"></script>
+<!--- UNDERDOGMEDIA EDGE EDGE_Recipe4Living.com JavaScript ADCODE END--->
+</div>
+
+
+<!-- BEGIN SiteCTRL Script -->
+<script type="text/javascript">
+if(document.location.protocol=='http:'){
+var Tynt=Tynt||[];Tynt.push('dRKpBGeA8r5kFwacwqm_6l');
+(function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+}
+</script>
+<!-- END SiteCTRL Script -->
+<script type="text/javascript" src="//b-code.liadm.com/a-00js.min.js" async="true" charset="utf-8"></script>
+<script type="text/javascript" async="async" src="https://widgets.outbrain.com/outbrain.js"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"5080428538","applicationID":"9765876","transactionName":"Y1EHYxNXV0UAUEZdV1obMEUIGVBYBVZKGkhcRA==","queueTime":0,"applicationTime":450,"atts":"TxYEFVtNREs=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

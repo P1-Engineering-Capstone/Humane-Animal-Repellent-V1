@@ -1,0 +1,642 @@
+
+<!DOCTYPE html>
+<html lang="nl"><!-- InstanceBegin template="/Templates/trouwshop.dwt" codeOutsideHTMLIsLocked="true" -->
+<head>
+
+<meta charset="ISO-8859-1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- #BeginEditable "doctitle" -->
+<title>Trouwshop.com 404</title>
+<!-- #EndEditable -->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700" rel="stylesheet" type="text/css">
+<link href="/assets/css/bootstrap.css" rel="stylesheet">
+<link href="/assets/css/font-awesome.min.css" rel="stylesheet">
+<link href="/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<link href="/assets/css/reset.css" rel="stylesheet">
+<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/assets/ico/apple-touch-icon-144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/assets/ico/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/assets/ico/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/assets/ico/apple-touch-icon-57-precomposed.png">
+<link rel="shortcut icon" href="/assets/ico/favicon.png">
+
+
+<!-- #BeginEditable "extra_head_tags" -->
+<meta name="robots" content="noindex">
+<!-- #EndEditable -->
+
+<meta name="referrer" content="unsafe-url">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-90334021-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<header> 
+  
+  
+  <!--start: Container -->
+  <div class="container boven"> 
+  
+   
+   
+   
+   
+    <!--start: Navbar -->
+    <div class="navbar navbar-inverse">
+      <div class="navbar-inner"> <a class="logo" href="/"><img src="/assets/img/trouwshop-logo.png" alt="Trouwshop.com"></a>  <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> 
+        <div class="nav-collapse collapse topmenu">
+          <ul class="nav pull-right">
+            <li> <a href="/">HOME</a> </li>
+            <li><a href="/agenda/">AGENDA</a></li>
+           <!--<li class="active"><a href="/bruid/">BRUID</a></li>-->
+            <li class="active"> <a href="/bridals/">BRUIDSPAREN</a></li>
+            <li><a href="/bedrijvengids/">TROUWSPECIALISTEN</a></li>
+            <li class="dropdown "><a class="dropdown-toggle" data-toggle="dropdown" href="/redactioneel/trouwen.asp">TIPS<b class="caret"></b></a>
+            <ul class="dropdown-menu">
+            <li><a href="/bruidegom/">De Bruidegom</a></li>
+            <!--<li><a href="/redactioneel/bruidsbeurzen.asp">Bruidsbeurzen</a></li>-->
+            <li><a href="/redactioneel/kledingtips.asp">Kledingtips</a></li>
+            <li><a href="/redactioneel/ceremoniemeester.asp">Ceremoniemeester</a></li>
+            <li><a href="/redactioneel/receptieboeken/">Receptieboeken</a></li>
+            <li><a href="/redactioneel/officieel.asp">De Offici&euml;le weg</a></li>
+            <li><a href="/redactioneel/trouwschoenen.asp">Trouwschoenen</a></li>
+            <li><a href="/redactioneel/onzebruiloft/">Alle foto's van je Bruiloft Verzamelen</a></li>
+            <li><a href="https://www.trouwshop.com/blog/8124/maak-je-trouwdag-er-eentje-om-te-herinneren">Geld lenen voor bruiloft</a></li>
+            </ul>
+            </li>
+            <li><a href="/blog/">BLOG</a></li>
+            
+            <li><a class="search"><i class="icon-search search-btn"></i></a></li>
+          </ul>
+          <div class="search-open">
+            <div class="input-append">
+              <form action="/resultaten.asp" name="x">
+                <input id="All" name="waar" type="hidden" value="All"><input id="search" name="search" type="text" class="span3 border-radius-none" placeholder="Zoeken" />
+                <button type="submit" class="btn">Ga!</button>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--einde: Navbar -->
+    
+<div class="pull-right hidden-phone">
+      <ul class="social-media">
+        <li><a href="/bridals/trouwshopkaart.asp" title="Vraag gratis de Trouwshopkaart aan!"><i class="icon-credit-card"></i></a></li>
+         <li><a target="_blank" href="http://pinterest.com/trouwshop/"><i class="icon icon-pinterest-sign"></i></a></li>
+<li><a target="_blank" href="https://www.youtube.com/channel/UC_sWX1p5AOGozLP8VKDpCGw"><i class="icon icon-youtube-sign"></i></a></li>
+        <li><a target="_blank" href="http://twitter.com/trouwshop"><i class="icon icon-twitter-sign"></i></a></li>
+        <li><a target="_blank" href="http://www.facebook.com/trouwshop"><i class="icon icon-facebook-sign"></i></a></li>
+        <li><a target="_blank" href="https://plus.google.com/+Trouwshop-trouwen"><i class="icon icon-google-plus-sign"></i></a></li>
+        <li><a target="_blank" href="https://instagram.com/trouwshop/"><i class="icon icon-instagram"></i></a></li>
+      </ul>
+    </div>
+    
+  </div>
+  <!--einde: Container-->  
+  
+</header>
+<!--einde: Header-->
+
+<div class="container breadcrumbs">
+  <div class="row-fluid">
+    <h1 class="pull-left"><!-- InstanceBeginEditable name="titel" -->404<!-- InstanceEndEditable --></h1>
+    <ul class="pull-right breadcrumb">
+      <li><a href="/">Home</a> <span class="divider">/</span></li>
+       <li><!-- #BeginEditable "navigatiesub" --> <!-- #EndEditable --></li>
+      <li class="active"><!-- #BeginEditable "navigatie" -->Pagina niet gevonden<!-- #EndEditable --></li>
+    </ul>
+  </div>
+</div>
+<div class="container">
+  <div class="row-fluid">
+    <div class="span7">
+      
+      <!-- #BeginEditable "inhoud" -->
+  <div class="row-fluid page-404">
+    	<p><i>404</i> <span>De pagina is niet gevonden!</span></p>
+    </div>
+<!-- #EndEditable --> </div>
+    <!--einde: span7-->
+    
+    <div class="span5 hidden-phone"> 
+      <div> <a href="/bridals/"><img src="/assets/img/site/banner/trouwshop.png" class="img-rounded"></a>
+<div class="hr-schaduw"></div>
+  <h4>Trouwen?</h4>
+  Je eigen gratis trouwpagina m&eacute;t handige online weddingplanner / checklist &eacute;n ook nog eens een waardebon van &euro; 25,-? Dat kan allemaal bij de Trouwshop. En daarbovenop krijg je ook nog eens de Trouwshopkaart, d&eacute; voordeelkaart voor het huwelijk. &#8230; <a href="/bridals/">Meer informatie</a> </div>
+<div class="hr"></div>
+
+<div><a href="http://www.facebook.com/trouwshop" target="_blank" class="track"><img src="/assets/img/facebook-wit.png" alt="Facebook" class="img-rounded"></a>
+          <h4>Like ons op Facebook</h4>
+         Wil jij als eerste op de hoogte te zijn van het laatste nieuws en de nieuwste blogs v&oacute;l inspiratie voor je bruiloft? Wil jij tips voor de planning van je bruiloft en kans maken op leuke prijzen? <a href="http://www.facebook.com/trouwshop" target="_blank" onclick="_gaq.push(['_trackEvent', 'outbound-link', 'http://www.facebook.com/trouwshop', 'Facebook RECHTS']);">Like Trouwshop op Facebook</a> en je mist niets!
+        </div>
+<div class="row-fluid hidden">
+  <div class="span4 pull-left"><a href="/bruid/"><img src="/data/images/personen/bruid.jpg" alt="Alles over de bruid" class="img-rounded"></a></div>
+  <div class="span4 pull-left"><a href="/bruidegom/"><img class="img-rounded" src="/data/images/personen/bruidegom.jpg"></a></div>
+  <div class="span4 pull-right"><a href="/checklist-trouwen/"><img class="img-rounded" src="/data/images/algemeen/online-checklist.jpg"></a></div>
+</div>
+<div class="hr hidden-phone"></div>
+<h3>Laatste blog berichten</h3>
+ <div class="media"><a class="pull-left" href="https://www.trouwshop.com/blog/8310/bewondering-of-liefde/"> <img class="media-object img-rounded" src="https://trouwshop.com/afbeeldingen/toon_foto.aspx?backgroundcolor=white&width=64&height=&src="> </a>
+ <div class="media-body">
+ <h4 class="media-heading"><a href="https://www.trouwshop.com/blog/8310/bewondering-of-liefde/">BEWONDERING OF LIEFDE?</a></h4>
+ BEWONDERING OF LIEFDE? Bewonder niet zijn mooie woorden waar hij moeiteloos mee kan spelen en ze goed laat klinken in jouw oren; ook niet zijn staat van dienst, zijn weelde of de indruk die hij op &#8230; <a href="https://www.trouwshop.com/blog/8310/bewondering-of-liefde/"><span class="more-link">lees verder </span></a></div>
+</div>
+ <div class="media"><a class="pull-left" href="https://www.trouwshop.com/blog/8305/de-geboorte-haiku-fashion-reflecties/"> <img class="media-object img-rounded" src="https://trouwshop.com/afbeeldingen/toon_foto.aspx?backgroundcolor=white&width=64&height=&src="> </a>
+ <div class="media-body">
+ <h4 class="media-heading"><a href="https://www.trouwshop.com/blog/8305/de-geboorte-haiku-fashion-reflecties/">DE GEBOORTE: Haiku Fashion Reflecties</a></h4>
+ &#160; IK BEN ER Bij de geboorte begint het zich uiten met krijsen en huilen NAVELADEM Na de geboorte vergeet men te ademen via de navel VOEDINGSBODEM Een echte moeder blijft ook na de geboorte een &#8230; <a href="https://www.trouwshop.com/blog/8305/de-geboorte-haiku-fashion-reflecties/"><span class="more-link">lees verder </span></a></div>
+</div>
+ <div class="media"><a class="pull-left" href="https://www.trouwshop.com/blog/8289/de-trouwshop-bruidspaar-van-de-maand/"> <img class="media-object img-rounded" src="https://trouwshop.com/afbeeldingen/toon_foto.aspx?backgroundcolor=white&width=64&height=&src="> </a>
+ <div class="media-body">
+ <h4 class="media-heading"><a href="https://www.trouwshop.com/blog/8289/de-trouwshop-bruidspaar-van-de-maand/">DE TROUWSHOP “BRUIDSPAAR VAN DE MAAND”</a></h4>
+ Wie een Trouwshop "Trouwpagina" heeft en onderhoudt maakt de kans om geselecteerd te worden als "Bruidspaar van de maand" <a href="https://www.trouwshop.com/blog/8289/de-trouwshop-bruidspaar-van-de-maand/"><span class="more-link">lees verder </span></a></div>
+</div>
+ 
+</div>
+ 
+    </div>
+    <!--einde: span5--> 
+  </div>
+  <!--einde: row-fluid--> 
+  
+</div>
+<!--einde: container--> 
+
+<footer>
+  <!--start: Container -->
+  
+  <div class="container">
+    <div class="hr-simpel"></div>
+    <div class="row"><!--start: over de trouwshop-->
+      <div class="span12">
+        <div class="row">
+          <div class="span2">
+            <h4>Site links</h4>
+            <ul class="unstyled blogonder">
+              <!--<li><i class="icon-chevron-right grijs"></i> <a href="/bruid/">Bruid</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/bruidegom/">Bruidegom</a></li>-->
+              <li><i class="icon-chevron-right grijs"></i> <a href="/checklist-trouwen/">Checklist trouwen</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/redactioneel/trouwen.asp">Tips voor trouwen </a></li>
+            </ul>
+          </div>
+          <div class="span2 hidden-phone">
+            <h4>&nbsp;</h4>
+            <ul class="unstyled blogonder">
+              <li><i class="icon-chevron-right grijs"></i> <a href="/bedrijvengids/">Trouwspecialisten</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/bridals/bruidsparen/">Bruidsparen</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/bridals/trouwshopkaart.asp">Trouwshopkaart</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/bridals/">Gratis trouwpagina</a></li>
+            </ul>
+          </div>
+          <div class="span2 hidden-phone">
+            <h4>&nbsp;</h4>
+            <ul class="unstyled blogonder">
+              <li><i class="icon-chevron-right grijs"></i> <a href="/blog/">Blog</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/_forum/default.asp">Forum</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/nieuws/">Trouwnieuws</a></li>
+<!--Uitschakelen vacatures
+              <li><i class="icon-chevron-right grijs"></i> <a href="/vacature">Vacature</a></li>
+-->
+            </ul>
+          </div>
+          <div class="span2">
+            <h4 class="hidden-desktop">Site links</h4>
+            <h4 class="hidden-phone hidden-tablet">&nbsp;</h4>
+            <ul class="unstyled blogonder">
+              <li><i class="icon-chevron-right grijs"></i> <a href="/zoeken.asp">Zoeken</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/contact/">Contact</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/presentatie">Adverteren</a></li>
+              <li><i class="icon-chevron-right grijs"></i> <a href="/colofon.asp">Colofon</a></li>
+            </ul>
+          </div>
+          <div class="span4 hidden-phone">
+            <h4>Inloggen Bruidsparen</h4>
+            <form action="/onzetrouwpagina/" method="POST">
+              <input type="text" name="username" class="input-large" placeholder="Gebruikersnaam ..." />
+              <input type="password" name="password" class="input-large" placeholder="Wachtwoord ..." />
+              <input type="submit" value="LogIn" class="btn pull-right btn-flat btn-roze" />
+            </form>
+          </div>
+        </div>
+      </div>
+      <!--einde: span12-->
+      <div class="row">&nbsp;</div>
+    </div>
+    <!--einde: row over de trouwshop-->
+    
+    <div class="row"><!--start: footertekst-->
+      <div class="span12 rozeachtergrond">
+        <div class="row-fluid">
+          <div class="span9 footertekst"> &nbsp; <i class="icon-map-marker"></i> Spui 243a 2511 BP Den Haag &nbsp; &nbsp; <i class="icon-phone-sign"></i> +31 (0)70 32 22 799 &nbsp; &nbsp; <i class="icon-envelope"></i> info@trouwshop.com</div>
+          <div class="span3 footertekst"><span class="pull-right"> <a target="_blank" href="http://pinterest.com/trouwshop/"><i class="icon icon-pinterest-sign"></i></a> <a target="_blank" href="http://twitter.com/trouwshop"><i class="icon icon-twitter-sign"></i></a> <a target="_blank" href="http://www.facebook.com/trouwshop"><i class="icon icon-facebook-sign"></i></a> <a target="_blank" href="https://plus.google.com/+Trouwshop-trouwen"><i class="icon icon-google-plus-sign"></i></a> <a target="_blank" href="https://instagram.com/trouwshop/"><i class="icon icon-instagram"></i></a>&nbsp; &nbsp;</span> </div>
+        </div>
+      </div>
+    </div>
+    <!--einde: span12-->
+    <div class="row-fluid rozetekst">2018 &copy; Trouwshop.com. Alle rechten voorbehouden. <a href="/algvoorw.asp">Algemene voorwaarden</a></div>
+    <div class="row">&nbsp;</div>
+  </div>
+  <!--einde: row footertekst-->
+  
+  <div class="onderkant hidden hidden-phone hidden-tablet"></div>
+  <div class="cookieWarningBox"></div>
+</footer>
+<script src="/assets/js/jquery-2.0.0.min.js" type="text/javascript"></script>
+<script src="/assets/js/bootstrap.min.js"></script>
+<script src="/assets/js/modernizr.custom.js"></script>
+<script src="/assets/js/cookieAlert.js"></script>
+<script src="/assets/js/jquery.isotope.js"></script>
+<script src="/assets/js/jquery.validate.min.js"></script> 
+<!--[if lt IE 9]>
+    <script src="/assets/js/respond.js"></script>
+<![endif]-->
+<script src="/assets/js/scrollnaarboven.js"></script>
+<script>
+
+$(document).ready(function(){
+
+			$('#maakeenafspraak').click(function() {
+			$('#opmerking').val('Beste heer/mevrouw, \n \nGraag maak ik bij u een afspraak. Mijn voorkeur gaat uit naar [datum] \n \n[vul hier je opmerkingen in]'); 
+			goToByScroll('info');
+    		return false;
+ 			});
+			
+			$('#checkbeschikbaarheid').click(function() {
+			$('#opmerking').val('Beste heer/mevrouw, \n \nWij willen graag trouwen op .... is deze datum bij u nog beschikbaar? '); 
+			goToByScroll('info');
+    		return false;
+ 			});
+			$('#prijsinformatie').click(function() {
+			$('#opmerking').val('Beste heer/mevrouw, \n \nWij ontvangen graag meer informatie over de prijzen en mogelijkheden voor onze bruiloft.\n \n[vul hier je opmerkingen in]'); 
+			goToByScroll('info');
+    		return false;
+ 			});						
+			$('#steleenvraag').click(function() {
+			$('#opmerking').val('[Stel hier je vraag]'); 
+			goToByScroll('info');
+    		return false;
+ 			});	
+  /////
+  handleSearch();
+
+/////
+$("#entertainment1").click(function(){
+	
+			
+			if ( $('input[name="band"]').is(':checked') ) {
+    		$('#band').prop('checked', false);
+			} 
+			else {
+    		$('#band').prop('checked', true);
+			}
+			if ( $('input[name="bruiloftdj"]').is(':checked') ) {
+    		$('#bruiloftdj').prop('checked', false);
+			} 
+			else {
+    		$('#bruiloftdj').prop('checked', true);
+			}
+			if ( $('input[name="etendrinken"]').is(':checked') ) {
+    		$('#etendrinken').prop('checked', false);
+			} 
+			else {
+    		$('#etendrinken').prop('checked', true);
+			}			
+			if ( $('input[name="muzikant"]').is(':checked') ) {
+    		$('#muzikant').prop('checked', false);
+			} 
+			else {
+    		$('#muzikant').prop('checked', true);
+			}				
+			if ( $('input[name="fotovideofun"]').is(':checked') ) {
+    		$('#fotovideofun').prop('checked', false);
+			} 
+			else {
+    		$('#fotovideofun').prop('checked', true);
+			}	
+			if ( $('input[name="overig"]').is(':checked') ) {
+    		$('#overig').prop('checked', false);
+			} 
+			else {
+    		$('#overig').prop('checked', true);
+			}							
+			//$('#bruiloftdj').prop('checked', true);
+			//$("bruiloftdj-bg").css("background-color", "yellow");
+			//$('#band').prop('checked', true);
+			//$('#etendrinken').prop('checked', true);
+			//$('#muzikant').prop('checked', true);
+			//$('#fotovideofun').prop('checked', true);
+			//$('#overig').prop('checked', true);
+});
+  
+  $("#trouwringen1").click(function(){
+	
+			
+			if ( $('input[name="trouwringen"]').is(':checked') ) {
+    		$('#trouwringen').prop('checked', false);
+			} 
+			else {
+    		$('#trouwringen').prop('checked', true);
+			}
+});
+
+$("#rubriekenlijst").css("display","none");
+
+$("#overig1").click(function(){	
+			$("#rubriekenlijst").show("fast");
+});
+
+  $("#locatie1").click(function(){
+	
+			if ( $('input[name="bruidssuites"]').is(':checked') ) {
+    		$('#bruidssuites').prop('checked', false);
+			} 
+			else {
+    		$('#bruidssuites').prop('checked', true);
+			//$('.bruidssuites-bg').css('background', '#468847');
+			}			
+			if ( $('input[name="kasteel"]').is(':checked') ) {
+    		$('#kasteel').prop('checked', false);
+			} 
+			else {
+    		$('#kasteel').prop('checked', true);
+			}
+			if ( $('input[name="locaties"]').is(':checked') ) {
+    		$('#locaties').prop('checked', false);
+			} 
+			else {
+    		$('#locaties').prop('checked', true);
+			}
+			if ( $('input[name="trouwlocatie"]').is(':checked') ) {
+    		$('#trouwlocatie').prop('checked', false);
+			} 
+			else {
+    		$('#trouwlocatie').prop('checked', true);
+			}
+			if ( $('input[name="strandlocatie"]').is(':checked') ) {
+    		$('#strandlocatie').prop('checked', false);
+			} 
+			else {
+    		$('#strandlocatie').prop('checked', true);
+			}			
+			if ( $('input[name="varendelocatie"]').is(':checked') ) {
+    		$('#varendelocatie').prop('checked', false);
+			} 
+			else {
+    		$('#varendelocatie').prop('checked', true);
+			}	
+			if ( $('input[name="zaalverhuur"]').is(':checked') ) {
+    		$('#zaalverhuur').prop('checked', false);
+			} 
+			else {
+    		$('#zaalverhuur').prop('checked', true);
+			}			
+			if ( $('input[name="hotel"]').is(':checked') ) {
+    		$('#hotel').prop('checked', false);
+			} 
+			else {
+    		$('#hotel').prop('checked', true);
+			}				
+									
+});
+
+$("#mode1").click(function(){
+	
+			
+			if ( $('input[name="bruidslingerie"]').is(':checked') ) {
+    		$('#bruidslingerie').prop('checked', false);
+			} 
+			else {
+    		$('#bruidslingerie').prop('checked', true);
+			}
+			if ( $('input[name="bruidsmode"]').is(':checked') ) {
+    		$('#bruidsmode').prop('checked', false);
+			} 
+			else {
+    		$('#bruidsmode').prop('checked', true);
+			}			
+			if ( $('input[name="gelegenheidskleding"]').is(':checked') ) {
+    		$('#gelegenheidskleding').prop('checked', false);
+			} 
+			else {
+    		$('#gelegenheidskleding').prop('checked', true);
+			}			
+			
+});
+
+////
+
+$( "#informatieformulier" ).validate({
+           rules: {
+			   		requiredgeslacht: {// name veld
+				   		required: true
+			   		},
+                   requiredvoornaam: { 
+                           required: true,
+                           minlength: 2
+                   },
+				   requiredachternaam: { 
+                           required: true,
+                           minlength: 2
+                   },
+				   requiredemail: {
+				   		required: true
+			   		},
+					postcode: {
+				   		required: true
+			   		},
+					hoofdrubriek: {
+				   		required: true,
+                           minlength: 1
+			   		},
+//					requiredgeslachtp: {
+//				   		required: true
+//			   		},
+//                   requiredvoornaamp: { 
+//                           required: true,
+//                           minlength: 2
+//                   },
+//				   requiredachternaamp: { 
+//                           required: true,
+//                           minlength: 2
+//                   },
+//				   requiredtelefoon: { 
+//                           required: true
+//                   },
+//				   requiredadres: { 
+//                           required: true
+//                   },
+//				   requiredpostcode: { 
+//                           required: true,
+//						   maxlength: 7
+//                   },
+//				   requiredwoonplaats: { 
+//                           required: true
+//                   }
+//				   ,
+				   belangrijk: { 
+                           required: true,
+						   maxlength: 2
+						   
+                   }
+				   
+				   
+           },
+           messages: {
+			    	requiredgeslacht: {
+                           required: "Maak een keuze."
+                   },
+                   requiredvoornaam: {
+                           required: "Voornaam  is een verplicht veld.",
+                           minlength: $.format("Je voornaam moet minimaal uit 2 tekens bestaan!")
+                   },
+				   requiredachternaam: {
+                           required: "Achternaam  is een verplicht veld.",
+                           minlength: $.format("Je achternaam moet minimaal uit 2 tekens bestaan!")
+                   },
+				   requiredemail: {
+				   		required: "E-mailadres is een verplicht veld"
+			   		},
+					postcode: {
+				   		required: "Postcode is een verplicht veld"
+			   		},
+					hoofdrubriek: {
+				   		required: "Selecteer minimaal 1 rubriek"
+			   		},
+//					requiredgeslachtp: {
+//                           required: "Maak een keuze."
+//                   },
+//                   requiredvoornaamp: {
+//                           required: "Voornaam kan niet leeg zijn.",
+//                           minlength: $.format("De voornaam moet minimaal uit 2 tekens bestaan!")
+//                   },
+//				   requiredachternaamp: {
+//                           required: "Achternaam kan niet leeg zijn.",
+//                           minlength: $.format("De achternaam moet minimaal uit 2 tekens bestaan!")
+//                   },
+//				   requiredtelefoon: { 
+//                           required: "Vul een telefoonnummer in."
+//                   },
+//				   requiredadres: { 
+//                           required: "Vul een adres in."
+//                   },
+//				   requiredpostcode: { 
+//                           required: "Vul een postcode in.",
+//						   maxlength: $.format("Een postcode heeft maximaal 6 karakters!")
+//                   },
+//				   requiredwoonplaats: { 
+//                           required: "Vul een woonplaats in."
+//                   },
+				   belangrijk: { 
+                           required: "Vul de uitkomst van de rekensom in.",
+						   maxlength: $.format("Vul maximaal 2 tekens in!")
+                   }
+				   
+           }
+   });
+
+////
+
+ });
+//
+
+//
+function externelink(id,ru,re){
+try {
+var id=id;
+var ru=ru;
+var re=re;
+xmlhttp = window.XMLHttpRequest?new XMLHttpRequest(): new ActiveXObject("Microsoft.XMLHTTP");}  catch (e) { alert("Fout");}
+xmlhttp.onreadystatechange = function(){
+    }
+    xmlhttp.open("POST", "/ga/ga.asp?id="+id+"&ru="+ru+"&re="+re+"&url=");
+    xmlhttp.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    xmlhttp.send('');
+	return false;
+}
+//google
+var trackOutboundLink = function(url, new_window) {
+  ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+    function () {
+      if (!new_window) {
+        document.location = url;
+      }
+    }
+  });
+  if (new_window){
+    window.open(url);
+  }
+}
+
+
+$(document).ready(function(){
+  $('a.track').each(function(index, element){
+    element = $(element);
+    var link = element.attr('href');
+    var new_window = element.attr('target') == '_blank' ? true : false;
+    element.click(function(){
+      trackOutboundLink(link, new_window);
+      return false;
+    });
+  });
+});
+//
+function handleSearch() {
+	
+        jQuery('.search').click(function () {
+			if(jQuery('.search-btn').hasClass('icon-search')){
+				jQuery('.search-open').fadeIn(500);
+				jQuery('.search-btn').removeClass('icon-search');
+				jQuery('.search-btn').addClass('icon-remove');
+				jQuery('#search').focus();
+			} else {
+				jQuery('.search-open').fadeOut(500);
+				jQuery('.search-btn').addClass('icon-search');
+				jQuery('.search-btn').removeClass('icon-remove');
+			}	
+        }); 
+    }
+	    
+//
+function goToByScroll(id){
+     	$('html,body').animate({scrollTop: $("#"+id).offset().top},'slow');
+}
+
+$.fn.scrollTo = function( target, options, callback ){
+  if(typeof options == 'function' && arguments.length == 2){ callback = options; options = target; }
+  var settings = $.extend({
+    scrollTarget  : target,
+    offsetTop     : 50,
+    duration      : 500,
+    easing        : 'swing'
+  }, options);
+  return this.each(function(){
+    var scrollPane = $(this);
+    var scrollTarget = (typeof settings.scrollTarget == "number") ? settings.scrollTarget : $(settings.scrollTarget);
+    var scrollY = (typeof scrollTarget == "number") ? scrollTarget : scrollTarget.offset().top + scrollPane.scrollTop() - parseInt(settings.offsetTop);
+    scrollPane.animate({scrollTop : scrollY }, parseInt(settings.duration), settings.easing, function(){
+      if (typeof callback == 'function') { callback.call(this); }
+    });
+  });
+}
+</script>
+ 
+
+<script type="text/javascript">
+<!-- #BeginEditable "extrajs" -->
+
+<!-- #EndEditable -->
+</script>
+</body>
+<!-- InstanceEnd --></html>

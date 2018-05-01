@@ -1,0 +1,1334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+    
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<html class="ltr" dir="ltr" lang="en-US">
+
+<head>
+    <title>Status - Riverwalk Animal Hospital</title>
+
+    <!--
+     Version:      2017.17.0
+     Build #:      144
+     Revision:     84f50c5
+     Branch:       master
+     Built On:     8-Jan-2018 at 04:18 PM, UTC
+       -->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src="/theme/public/common/js/jquery-1.7.2.min.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery-ui-1.8.20.custom.min.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery.form-2.96.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery.inputmask.bundle.min-3.3.3.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery.jeditable.mini.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery.jqEasyCharCounter.min.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/jquery.tinysort-1.2.18.min.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/ckeditor-4.3.4/ckeditor.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/ckeditor-4.3.4/config.js" type="text/javascript"></script>
+<script src="/theme/public/common/js/bootstrap-session-timeout-1.0.1.min.js" type="text/javascript"></script>
+
+<script src="/theme/public/common/js/common.js?browserId=other&minifierType=js&languageId=en_US&b=6200&t=1515611811000" type="text/javascript"></script>
+<script type="text/javascript">
+  $(document).ready(function() {
+    v2p.initLiferay();
+  });
+</script>
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+		<meta content="We are a full service facility that offers scheduled appointments for routine care and accepts emergency cases during business hours. " lang="en-US" name="description" />
+	
+
+	
+
+	
+		<meta content="ridgeland,okatie,bluffton,beaufort,veterinarian,dog,cat,spay,neuter,boarding,dental,surgery,heartworm,flea,declaw,rabies,vaccine,house call,euthanasia" lang="en-US" name="keywords" />
+	
+
+
+
+
+            <link href="http://www.riverwalkvets.com/theme/public/themes/brindley/images/favicon.ico" rel="Shortcut Icon"/>
+        
+
+
+
+
+	<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;riverwalkvets&#x2e;com" rel="canonical" />
+
+	
+
+	
+
+		
+
+	
+
+
+
+
+
+<link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;brindley_WAR_vet2pettheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6200&#x26;t&#x3d;1515611821000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="/theme/public/common/css/jquery.Jcrop.css?browserId=other&amp;themeId=brindley_WAR_vet2pettheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="/theme/public/common/css/repeatableBlocks.css?browserId=other&amp;themeId=brindley_WAR_vet2pettheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return false;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10152";
+				},
+				getCompanyGroupId: function() {
+					return "10190";
+				},
+				getUserId: function() {
+					return "10156";
+				},
+
+				
+
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getPlid: function() {
+					return "41188032";
+				},
+
+				
+					getLayoutId: function() {
+						return "1";
+					},
+					getLayoutURL: function() {
+						return "http://www.riverwalkvets.com/id-6123";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+				
+
+				getScopeGroupId: function() {
+					return "29776518";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "29776518";
+				},
+				getParentGroupId: function() {
+					return "29776518";
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				getDefaultLanguageId: function() {
+					return "en_US";
+				},
+				getLanguageId: function() {
+					return "en_US";
+				},
+				isAddSessionIdToURL: function() {
+					return true;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://www.riverwalkvets.com/theme/public/themes/brindley/images";
+				},
+				getPathThemeRoot: function() {
+					return "/theme/public/themes/brindley";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel;jsessionid=97DA645A509C3BE055B23492BC5044A5?doAsGroupId=29776518&refererPlid=41188032";
+				},
+				getURLHome: function() {
+					return "http://www.riverwalkvets.com/web/guest";
+				},
+				getSessionId: function() {
+					
+						
+							return "97DA645A509C3BE055B23492BC5044A5";
+						
+						
+					
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getBaseURL: function() {
+				return 'http://www.riverwalkvets.com/html/js/aui/';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=en_US&b=6200&t=1515611817000&p=/html/js&';
+			},
+			getFilter: function() {
+				
+					
+						return {
+							replaceStr: function(match, fragment, string) {
+								return fragment + 'm=' + (match.split('/html/js')[1] || '');
+							},
+							searchExp: '(\\?|&)/([^&]+)'
+						};
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function () {
+				return 'aui_lang.jsp?browserId=other&themeId=brindley_WAR_vet2pettheme&colorSchemeId=01&minifierType=js&languageId=en_US&b=6200&t=1515611817000';
+			},
+			getRootPath: function() {
+				return '/html/js/aui/';
+			}
+		};
+
+		window.YUI_config = {
+			base: Liferay.AUI.getBaseURL(),
+			comboBase: Liferay.AUI.getComboPath(),
+			fetchCSS: true,
+			filter: Liferay.AUI.getFilter(),
+			root: Liferay.AUI.getRootPath(),
+			useBrowserConsole: false
+		};
+
+		
+
+		Liferay.currentURL = '\x2fimages\x2ficn_catboard1\x2ejpg';
+		Liferay.currentURLEncoded = '%2Fimages%2Ficn_catboard1.jpg';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=brindley_WAR_vet2pettheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=en_US&amp;b=6200&amp;t=1515611817000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['articleeditor_WAR_vet2petportal','micrositepracticefooter_WAR_vet2petportal','dockbar_WAR_vet2petportal','practiceheader_WAR_vet2petportal','navigation_WAR_vet2petportal'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="/theme/public/common/js/jquery.color.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/jquery.Jcrop.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/jquery.imagesloaded.min.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/jquery.corner.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/crop-tool.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/website-image.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/jquery.jeditable.mini.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/repeatableBlocks.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+				<script src="/theme/public/common/js/repeatableBlocksSurvey.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611835000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;riverwalkvets&#x2e;com&#x2f;theme&#x2f;public&#x2f;themes&#x2f;brindley&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;brindley_WAR_vet2pettheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6200&#x26;t&#x3d;1515611811000" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+	/* <![CDATA[ */
+		
+	/* ]]> */
+</style>
+
+
+
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+
+
+<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;riverwalkvets&#x2e;com&#x2f;theme&#x2f;public&#x2f;themes&#x2f;brindley&#x2f;css&#x2f;&#x2e;&#x2e;&#x2f;&#x2e;&#x2e;&#x2f;&#x2e;&#x2e;&#x2f;common&#x2f;css&#x2f;jquery-ui-1&#x2e;8&#x2e;20&#x2e;custom&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;brindley_WAR_vet2pettheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6200&#x26;t&#x3d;1515611811000" rel="stylesheet" type="text/css" />
+<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;riverwalkvets&#x2e;com&#x2f;theme&#x2f;public&#x2f;themes&#x2f;brindley&#x2f;css&#x2f;&#x2e;&#x2e;&#x2f;&#x2e;&#x2e;&#x2f;&#x2e;&#x2e;&#x2f;common&#x2f;css&#x2f;common&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;brindley_WAR_vet2pettheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;en_US&#x26;b&#x3d;6200&#x26;t&#x3d;1515611811000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+    			
+	
+	<link class="lfr-css-file" href="/theme/public/common/microsite/css/microsite.css?browserId=other&amp;themeId=brindley_WAR_vet2pettheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6200&amp;t=1515611811000" id="" rel="stylesheet" type="text/css" />
+	    			
+	
+	<link class="lfr-css-file" href="/theme/public/themes/brindley/css/brindley.css?browserId=other&amp;themeId=brindley_WAR_vet2pettheme&amp;minifierType=css&amp;languageId=en_US&amp;b=6200&amp;t=1515611811000" id="" rel="stylesheet" type="text/css" />
+	
+</head>
+
+    
+        
+    
+<body class="sorbet yui3-skin-sam controls-visible signed-out public-page organization-site non-admin  id-6123 ">
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+<div id="wrapper" class="brindley">
+
+    
+    <div id="content">
+                    
+
+            
+
+            <div class="column-1" id="main-content" role="main">
+
+<section class="portlet" id="portlet_status">
+	<header class="portlet-topper">
+		<h1 class="portlet-title">
+			 <span class="portlet-title-text">Status</span>
+		</h1>
+
+		<menu class="portlet-topper-toolbar" id="portlet-topper-toolbar_status" type="toolbar">
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+				
+				
+				
+					</menu>
+	</header>
+
+	<div class="portlet-content">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+    <h1>Oops, we can't find what you're looking for.</h1>
+    <br/>
+    Please check the address and make sure everything is spelled correctly.
+  
+  
+
+
+
+
+	</div>
+</section></div>
+            </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="http://www.riverwalkvets.com/theme/public/themes/brindley/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=en_US&amp;b=6200&amp;t=1515611811000" type="text/javascript"></script>
+
+
+
+  
+
+  
+
+  <script type="text/javascript">
+    // <![CDATA[
+    
+
+    
+    // ]]>
+  </script>
+
+
+
+
+
+
+
+
+
+</html>
+
+

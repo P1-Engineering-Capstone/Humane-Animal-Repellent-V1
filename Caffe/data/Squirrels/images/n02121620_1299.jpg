@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="es-ES">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<title>Aguilar &#8211; Un blog para los amantes de la lectura</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Aguilar &raquo; Feed" href="http://www.aguilar.es/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Aguilar &raquo; RSS de los comentarios" href="http://www.aguilar.es/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.aguilar.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='generate-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-grid-css'  href='http://www.aguilar.es/wp-content/themes/generatepress/css/unsemantic-grid.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='generate-style-css'  href='http://www.aguilar.es/wp-content/themes/generatepress/style.css?ver=1.4' type='text/css' media='all' />
+<style id='generate-style-inline-css' type='text/css'>
+body{background-color:#efefef;color:#3a3a3a;}a, a:visited{color:#1e73be;text-decoration:none;}a:hover, a:focus, a:active{color:#000000;text-decoration:none;}body .grid-container{max-width:1100px;}
+body, button, input, select, textarea{font-family:"Open Sans", sans-serif;}.main-navigation .main-nav ul ul li a{font-size:14px;}@media (max-width:768px){.main-title{font-size:30px;}h1{font-size:30px;}h2{font-size:25px;}}
+.site-header{background-color:#ffffff;color:#3a3a3a;}.site-header a,.site-header a:visited{color:#3a3a3a;}.main-title a,.main-title a:hover,.main-title a:visited{color:#222222;}.site-description{color:#999999;}.main-navigation,.main-navigation ul ul{background-color:#222222;}.main-navigation .main-nav ul li a,.menu-toggle{color:#ffffff;}.main-navigation .main-nav ul li > a:hover,.main-navigation .main-nav ul li > a:focus, .main-navigation .main-nav ul li.sfHover > a{color:#ffffff;background-color:#3f3f3f;}button.menu-toggle:hover,button.menu-toggle:focus,.main-navigation .mobile-bar-items a,.main-navigation .mobile-bar-items a:hover,.main-navigation .mobile-bar-items a:focus{color:#ffffff;}.main-navigation .main-nav ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation .main-nav ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#3f3f3f;}.main-navigation ul ul{background-color:#3f3f3f;}.main-navigation .main-nav ul ul li a{color:#ffffff;}.main-navigation .main-nav ul ul li > a:hover,.main-navigation .main-nav ul ul li > a:focus,.main-navigation .main-nav ul ul li.sfHover > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a{color:#ffffff;background-color:#4f4f4f;}.main-navigation .main-nav ul ul li[class*="current-menu-"] > a:hover,.main-navigation .main-nav ul ul li[class*="current-menu-"].sfHover > a{color:#ffffff;background-color:#4f4f4f;}.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .one-container .container, .separate-containers .paging-navigation, .inside-page-header{background-color:#ffffff;}.entry-meta{color:#888888;}.entry-meta a,.entry-meta a:visited{color:#666666;}.entry-meta a:hover{color:#1e73be;}.sidebar .widget{background-color:#ffffff;}.sidebar .widget .widget-title{color:#000000;}.footer-widgets{background-color:#ffffff;}.footer-widgets .widget-title{color:#000000;}.site-info{color:#ffffff;background-color:#222222;}.site-info a,.site-info a:visited{color:#ffffff;}.site-info a:hover{color:#606060;}.footer-bar .widget_nav_menu .current-menu-item a{color:#606060;}input[type="text"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type="tel"],input[type="number"],textarea{color:#666666;background-color:#fafafa;border-color:#cccccc;}input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type="tel"]:focus,input[type="number"]:focus,textarea:focus{color:#666666;background-color:#ffffff;border-color:#bfbfbf;}button,html input[type="button"],input[type="reset"],input[type="submit"],.button,.button:visited{color:#ffffff;background-color:#666666;}button:hover,html input[type="button"]:hover,input[type="reset"]:hover,input[type="submit"]:hover,.button:hover,button:focus,html input[type="button"]:focus,input[type="reset"]:focus,input[type="submit"]:focus,.button:focus{color:#ffffff;background-color:#3f3f3f;}
+@media (max-width:768px){.separate-containers .inside-article, .separate-containers .comments-area, .separate-containers .page-header, .separate-containers .paging-navigation, .one-container .site-content, .inside-page-header{padding:30px;}}.main-navigation ul ul{top:auto;}
+</style>
+<link rel='stylesheet' id='generate-mobile-style-css'  href='http://www.aguilar.es/wp-content/themes/generatepress/css/mobile.min.css?ver=1.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.aguilar.es/wp-content/themes/generatepress/css/font-awesome.min.css?ver=4.7' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='generate-ie-css'  href='http://www.aguilar.es/wp-content/themes/generatepress/css/ie.min.css?ver=1.4' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.aguilar.es/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.aguilar.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://www.aguilar.es/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.aguilar.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.aguilar.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.5" />
+<meta name="viewport" content="width=device-width, initial-scale=1">		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body itemtype='http://schema.org/Blog' itemscope='itemscope' class="home blog  right-sidebar nav-below-header fluid-header separate-containers active-footer-widgets-3 nav-aligned-left header-aligned-left dropdown-hover">
+	<a class="screen-reader-text skip-link" href="#content" title="Saltar al contenido">Saltar al contenido</a>
+			<header itemtype="http://schema.org/WPHeader" itemscope="itemscope" id="masthead" class="site-header">
+		<div class="inside-header grid-container grid-parent">
+						<div class="site-branding">
+				<h1 class="main-title" itemprop="headline">
+			<a href="http://www.aguilar.es/" rel="home">
+				Aguilar
+			</a>
+		</h1>
+				<p class="site-description">
+			Un blog para los amantes de la lectura
+		</p>
+			</div>					</div><!-- .inside-header -->
+	</header><!-- #masthead -->
+			<nav itemtype="http://schema.org/SiteNavigationElement" itemscope="itemscope" id="site-navigation" class="main-navigation">
+		<div class="inside-navigation grid-container grid-parent">
+						<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">
+								<span class="mobile-menu">Menú</span>
+			</button>
+				<div id="primary-menu" class="main-nav">
+		<ul class="menu sf-menu">
+			<li class="page_item page-item-16"><a href="http://www.aguilar.es/aviso-legal/">Aviso legal</a></li>
+		</ul>
+	</div><!-- .main-nav -->
+			</div><!-- .inside-navigation -->
+	</nav><!-- #site-navigation -->
+		
+	<div id="page" class="hfeed site grid-container container grid-parent">
+		<div id="content" class="site-content">
+			
+	<div id="primary" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
+		<main id="main" class="site-main">
+				
+						
+				<article id="post-8" class="post-8 post type-post status-publish format-standard hentry category-uncategorized" itemtype='http://schema.org/CreativeWork' itemscope='itemscope'>
+	<div class="inside-article">
+				<header class="entry-header">
+						<h2 class="entry-title" itemprop="headline"><a href="http://www.aguilar.es/libros-pornograficos-vs-libros-eroticos/" rel="bookmark">Libros pornográficos vs libros eróticos</a></h2>					<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.aguilar.es/libros-pornograficos-vs-libros-eroticos/" title="4:19 pm" rel="bookmark"><time class="entry-date published" datetime="2017-09-04T16:19:54+00:00" itemprop="datePublished">septiembre 4, 2017</time><time class="updated" datetime="2017-12-12T18:24:36+00:00" itemprop="dateModified">diciembre 12, 2017</time></a></span> <span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">por <a class="url fn n" href="http://www.aguilar.es/author/rocio/" title="Ver todas las entradas de Rocio" rel="author" itemprop="url"><span class="author-name" itemprop="name">Rocio</span></a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+				
+					<div class="entry-content" itemprop="text">
+				<p>La batalla entre <strong>la pornografía y el erotismo</strong> es algo que ha existido desde hace mucho. En cualquier formato que se edite, disponer de contenido porno o erótico ayuda a las personas a descubrirse a sí mismas sexualmente o a tener una mayor seguridad en el cuerpo a cuerpo con otro individuo. Sabido este detalle, todos los que han distribuido contenido sexual <a href="https://candygirlsbcn.com/escorts-barcelona/">putas barcelona</a>, se han asegurado algunos números.</p>
+<p>Actualmente sigue existiendo mucha confusión entre la pornografía y el mundo erótico. A pesar de las diferencias, en ocasiones pensamos que es lo mismo y que el nivel de excitación puede ser igualado pero nada más lejos de la realidad. ¿Te gustaría conocer cuáles son sus diferencias?</p>
+<h2><strong>¿Qué es lo que distingüe al mundo del porno con lo erótico?</strong></h2>
+<p>La información que existe hoy sobre ambos terrenos es mucha y muy variada. Gracias a la disposición de todos aquellos que están tratando de explicar la situación de cada una de las fases podemos contar con una información algo más detallada y dónde no cabe la confusión.</p>
+<p><img class="size-full wp-image-9 aligncenter" src="http://www.aguilar.es/wp-content/uploads/2017/09/Libros-eroticos-vs-pornografia.jpg" alt="" width="763" height="463" srcset="http://www.aguilar.es/wp-content/uploads/2017/09/Libros-eroticos-vs-pornografia.jpg 763w, http://www.aguilar.es/wp-content/uploads/2017/09/Libros-eroticos-vs-pornografia-300x182.jpg 300w" sizes="(max-width: 763px) 100vw, 763px" /></p>
+<p><strong>La pornografía</strong> es un espacio más explícito. Los vídeos, fotografías o actos que veamos en su contenido se explayan mucho más con respecto a la actividad y sobre todo no dejan  hueco a la imaginación sino más bien nos dejan ver todo sin ningún tipo de pudor. En el erotismo todo es muy diferente; la imaginación juega un papel muy importante en el grado de excitación que empecemos a coger.</p>
+<p>Ambas vertientes se han estado ideando para un tipo de público. Algunas personas prefieren que las películas que ven tengan un contenido que incite algo más a la imaginación mientras que otras directamente no prefieren pensar en nada. En las dos opciones podemos alcanzar un nivel de excitación bastante grande pues todo depende del ojo receptor.</p>
+<p>Los <strong>libros pornográficos vs los eróticos</strong> no están reñidos entre ellos de por sí. Por lo general es el vídeo el que se prefiere porno y la lectura la que es erótica aunque como ya hemos dicho antes, todo depende de la persona que está mirando o ha buscado ese contenido con el fin de disfrutar en garantías máximas.</p>
+<p>Sea cual sea tu preferencia ya sabes que siempre opciones para disfrutar de lo que te gusta o incluso de aprender a experimentar sobre tu cuerpo de por sí. Ni el porno ni el cine erótico, así como el de los libros, es algo malo por ello siempre cuenta con apoyo registrado. ¿Cuál es tu favorito?</p>
+							</div><!-- .entry-content -->
+				
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categorías </span><a href="http://www.aguilar.es/category/uncategorized/" rel="category tag">Uncategorized</a></span>					</footer><!-- .entry-meta -->
+				</div><!-- .inside-article -->
+</article><!-- #post-## -->
+			
+				<article id="post-5" class="post-5 post type-post status-publish format-standard hentry category-uncategorized" itemtype='http://schema.org/CreativeWork' itemscope='itemscope'>
+	<div class="inside-article">
+				<header class="entry-header">
+						<h2 class="entry-title" itemprop="headline"><a href="http://www.aguilar.es/comprar-libros-de-pornografia/" rel="bookmark">Comprar libros de pornografía</a></h2>					<div class="entry-meta">
+			<span class="posted-on"><a href="http://www.aguilar.es/comprar-libros-de-pornografia/" title="3:43 pm" rel="bookmark"><time class="entry-date published" datetime="2017-09-04T15:43:52+00:00" itemprop="datePublished">septiembre 4, 2017</time><time class="updated" datetime="2017-12-12T18:25:12+00:00" itemprop="dateModified">diciembre 12, 2017</time></a></span> <span class="byline"><span class="author vcard" itemtype="http://schema.org/Person" itemscope="itemscope" itemprop="author">por <a class="url fn n" href="http://www.aguilar.es/author/rocio/" title="Ver todas las entradas de Rocio" rel="author" itemprop="url"><span class="author-name" itemprop="name">Rocio</span></a></span></span>		</div><!-- .entry-meta -->
+			</header><!-- .entry-header -->
+				
+					<div class="entry-content" itemprop="text">
+				<p>La pornografía siempre ha sido algo completamente visual. Desde tiempos muy remotos podemos hacernos con todo tipo de material desde el que disfrutar del sexo justamente como nosotros lo queramos. Sin embargo, siempre hay preguntas con respecto a la temática.</p>
+<p><strong>Comprar libros de pornografía</strong> no es un hábito que actualmente se lleve demasiado. En un pasado anterior sí que había mayor demanda de porno en este tipo de formato. Las librerías contaban con una sesión pero especialmente los kioskos de toda la vida fueron los que abrieron puerta a otros horizontes.</p>
+<h2><strong>¿Dónde puedo comprar libros de pornografía actualmente?</strong></h2>
+<p>Los jóvenes que están descubriendo el sexo <a href="http://pornomedia.it/">video xxx</a> por primera vez siempre han buscado unos referentes con los que puedan ir añadiendo datos sobre quiénes son, qué es lo que les gusta y cuáles son las inquietudes que tienen de por sí.</p>
+<p><strong>Comprar libros de pornografía</strong> puede que hoy no esté tan demandado como lo estaba hace unos años pero sí que supone una garantía para las personas que están buscando algo más cuidado o que de alguna forma, puedan conservar con el tiempo.</p>
+<p><a href="http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia.jpg"><img class="wp-image-6 size-large alignright" src="http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia-1024x575.jpg" alt="" width="525" height="295" srcset="http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia-1024x575.jpg 1024w, http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia-300x168.jpg 300w, http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia-768x431.jpg 768w, http://www.aguilar.es/wp-content/uploads/2017/09/Comprar-libros-de-pornografia.jpg 1600w" sizes="(max-width: 525px) 100vw, 525px" /></a></p>
+<p>Las películas porno completas o los vídeos sueltos por Internet han ido inundando nuestra mente de contenido casi sin que tengamos que buscar nada más. En cambio, siempre queda esa persona que busca algo distinto a lo que ya puede ver por todas partes y que con un solo clic tiene acceso hasta el punto de hacer lo mismo lo que buenamente guste.</p>
+<p>Internet se ha convertido en un recurso importante para que todos tengamos lo que queremos a nuestro alcance casi de inmediato. Con la pornografía o los vídeos eróticos siempre ha pasado lo mismo. Es interesante contar con un espacio global desde el que podemos conseguirlo todo. Igualmente para los fetiches de la materia en sí, lo ideal es que compren en los kioskos de toda la vida.</p>
+<p>Los encargos a través de las plataformas de compra también resultan interesantes. Ebay, todocoleccion y derivados nos pueden ofertar buena cantidad de material del que más nos guste así que de esta manera, <strong>comprar pornografía</strong> es más sencillo que nunca. Al margen de los vídeos que hay en Internet, recuerda que muchas tiendas pueden ofrecerte justamente lo que estás buscando. ¿Te vas a quedar sin la oportunidad de experimentar algo nuevo?</p>
+							</div><!-- .entry-content -->
+				
+				<footer class="entry-meta">
+			<span class="cat-links"><span class="screen-reader-text">Categorías </span><a href="http://www.aguilar.es/category/uncategorized/" rel="category tag">Uncategorized</a></span>					</footer><!-- .entry-meta -->
+				</div><!-- .inside-article -->
+</article><!-- #post-## -->
+			
+			
+						</main><!-- #main -->
+	</div><!-- #primary -->
+
+<div id="right-sidebar" itemtype="http://schema.org/WPSideBar" itemscope="itemscope" role="complementary" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar">
+	<div class="inside-right-sidebar">
+				<aside id="search-2" class="widget inner-padding widget_search"><form method="get" class="search-form" action="http://www.aguilar.es/">
+	<label>
+		<span class="screen-reader-text">Buscar:</span>
+		<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" title="Buscar:">
+	</label>
+	<input type="submit" class="search-submit" value="Buscar">
+</form></aside>		<aside id="recent-posts-2" class="widget inner-padding widget_recent_entries">		<h4 class="widget-title">Entradas recientes</h4>		<ul>
+					<li>
+				<a href="http://www.aguilar.es/libros-pornograficos-vs-libros-eroticos/">Libros pornográficos vs libros eróticos</a>
+						</li>
+					<li>
+				<a href="http://www.aguilar.es/comprar-libros-de-pornografia/">Comprar libros de pornografía</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget inner-padding widget_recent_comments"><h4 class="widget-title">Comentarios recientes</h4><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget inner-padding widget_archive"><h4 class="widget-title">Archivos</h4>		<ul>
+			<li><a href='http://www.aguilar.es/2017/09/'>septiembre 2017</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget inner-padding widget_categories"><h4 class="widget-title">Categorías</h4>		<ul>
+	<li class="cat-item cat-item-1"><a href="http://www.aguilar.es/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget inner-padding widget_meta"><h4 class="widget-title">Meta</h4>			<ul>
+						<li><a href="http://www.aguilar.es/wp-login.php">Acceder</a></li>
+			<li><a href="http://www.aguilar.es/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de las entradas</a></li>
+			<li><a href="http://www.aguilar.es/comments/feed/"><abbr title="Really Simple Syndication">RSS</abbr> de los comentarios</a></li>
+			<li><a href="https://es.wordpress.org/" title="Gestionado con WordPress, una avanzada plataforma semántica de publicación personal.">WordPress.org</a></li>			</ul>
+			</aside>			</div><!-- .inside-right-sidebar -->
+</div><!-- #secondary -->
+	</div><!-- #content -->
+</div><!-- #page -->
+<div class="site-footer  ">
+			<div id="footer-widgets" class="site footer-widgets">
+			<div class="footer-widgets-container grid-container grid-parent">
+				<div class="inside-footer-widgets">
+											<div class="footer-widget-1 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+							<aside id="search-3" class="widget inner-padding widget_search"><form method="get" class="search-form" action="http://www.aguilar.es/">
+	<label>
+		<span class="screen-reader-text">Buscar:</span>
+		<input type="search" class="search-field" placeholder="Buscar &hellip;" value="" name="s" title="Buscar:">
+	</label>
+	<input type="submit" class="search-submit" value="Buscar">
+</form></aside>						</div>
+										<div class="footer-widget-2 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+						<aside id="pages-2" class="widget inner-padding widget_pages"><h4 class="widget-title">Páginas</h4>		<ul>
+			<li class="page_item page-item-16"><a href="http://www.aguilar.es/aviso-legal/">Aviso legal</a></li>
+		</ul>
+		</aside>					</div>
+										<div class="footer-widget-3 grid-parent grid-33 tablet-grid-50 mobile-grid-100">
+						<aside id="text-2" class="widget inner-padding widget_text"><h4 class="widget-title">Aguilar</h4>			<div class="textwidget"><p>Somos un grupo de amigos que nos apasiona la lectura, ya sea de la actualidad, política, del mundo porno-erótico o bién de algunos comics y novelas policiacas.</p>
+<p>No obstante también nos gusta poder disfrutar de los vídeos online.</p>
+</div>
+		</aside>					</div>
+									</div>
+			</div>
+		</div>
+		<footer class="site-info" itemtype="http://schema.org/WPFooter" itemscope="itemscope">
+		<div class="inside-site-info grid-container grid-parent">
+						<div class="copyright-bar">
+				<span class="copyright">&copy; 2018</span> &bull; <a href="https://generatepress.com" target="_blank" itemprop="url">GeneratePress</a>			</div>
+		</div>
+	</footer><!-- .site-info -->
+	</div><!-- .site-footer -->
+
+<script type='text/javascript' src='http://www.aguilar.es/wp-content/themes/generatepress/js/navigation.min.js?ver=1.4'></script>
+<script type='text/javascript' src='http://www.aguilar.es/wp-content/themes/generatepress/js/dropdown.min.js?ver=1.4'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://www.aguilar.es/wp-content/themes/generatepress/js/html5shiv.min.js?ver=1.4'></script>
+<![endif]-->
+<script type='text/javascript' src='http://www.aguilar.es/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+
+</body>
+</html>

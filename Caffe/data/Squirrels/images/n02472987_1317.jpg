@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]> <html dir="ltr" lang="en-US"class="iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html dir="ltr" lang="en-US" class="ie6 oldie"> <![endif]-->
+<!--[if IE 7 ]>    <html dir="ltr" lang="en-US" class="ie7 oldie"> <![endif]-->
+<!--[if IE 8 ]>    <html dir="ltr" lang="en-US" class="ie8 oldie"> <![endif]-->
+<!--[if IE 9 ]>    <html dir="ltr" lang="en-US" class="ie9 oldie"> <![endif]-->
+<!--[if IE 10 ]>    <html dir="ltr" lang="en-US" class="ie10 oldie"> <![endif]-->
+<!--[if IE]> <script type="text/javascript">if(navigator.userAgent.match(/Trident.*rv:11\./)) {
+    $('body').addClass('ie11');
+}</script><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="nl_NL" class="ie"><!--<![endif]-->
+<script type="text/javascript">
+    if (navigator.appVersion.indexOf("MSIE 10") !== -1)
+    {var root = document.documentElement;root.className += " ie10";
+    }</script>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no, minimal-ui">
+    <title> NPO Radio 4 – Luister klassieke muziek</title>
+    <link rel="stylesheet" href="http://radio.omroep.nl/centraalnav/npo_centraalnav.css" type="text/css" />
+    <link rel="stylesheet" href="/assets/stylesheets/application.css">
+    <link rel="stylesheet" href="/assets/stylesheets/skrollr.css" data-skrollr-stylesheet>
+    <link rel="stylesheet" type="text/css" href="//cookiesv2.publiekeomroep.nl/static/css/npo_cc_styles.css">
+    <!-- -->
+    <link rel="author" href="humans.txt">
+    <link rel="shortcut icon" type="image/png" href="/assets/images/favicon_32.png"/>
+
+    <!-- seo information -->
+    <meta name="description" content="Radio 4 is de publieke zender voor klassieke muziek. Luister 24 uur per dag naar de beste klassieke muziek in een logische programmering. Herkenbaar en toch verrassend. Deskundig, informatief en toegankelijk.">
+    <meta name="google-site-verification" content="vkmEZlhCGh8fZ-OFIWtvdMjMSQylkF2nmeNGkXlu__c" />
+    <meta property="fb:pages" content="320293896619" />
+
+    <!-- og:data -->
+    <meta property="og:title" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="" />
+    <meta property="og:image" content="" />
+
+    <script type="text/javascript">
+        var version = "0.8.6";
+
+        function log(log){
+
+            console.log(log);
+        }
+
+        var bootstrap = {"type":"page","route":"404","title":"Pagina niet gevonden","sitestat":"http:\/\/nl.sitestat.com\/klo\/omroep-nl\/s?radio4.404\u0026category=radio4\u0026ns_channel=media\u0026ns_webdir=radio4\u0026po_source=fixed\u0026po_sitetype=plus\u0026po_merk=audio.radio4","description":"De pagina kon niet gevonden worden.","header":[{"id":589595,"title":"De Nacht","safeTitle":"de-nacht","text":"Ontspannende klassieke muziek in de nacht.","strippedText":"Ontspannende klassieke muziek in de nacht.","image":[{"id":25481,"title":"De Nacht","safeTitle":"de-nacht","url":"http:\/\/radiobox2.omroep.nl\/image\/file\/25481\/De+Nacht.jpg"}],"startdatetime":1516662000000,"startdatetime_human":{"date":{"eBY":"23 januari 2018","ebY_w":"23 Jan 2018","Ymd":"2018-01-23","AeB_f":"Dinsdag 23 januari","aeB":"di 23 januari","aeB_f":"Di 23 januari","e":"23","b_f":"Jan"},"time":{"R":"00:00"}},"stopdatetime":1516680000000,"stopdatetime_human":{"date":{"eBY":"23 januari 2018","ebY_w":"23 Jan 2018","Ymd":"2018-01-23","AeB_f":"Dinsdag 23 januari","aeB":"di 23 januari","aeB_f":"Di 23 januari","e":"23","b_f":"Jan"},"time":{"R":"05:00"}},"broadcaster":"RAD4","headerText":"","presenter":"  non-stop"},{"id":589755,"title":"Voor de dag","safeTitle":"voor-de-dag","text":"Jong presentatietalent van NPO Radio 4 bereidt je voor op de dag!","strippedText":"Jong presentatietalent van NPO Radio 4 bereidt je voor op de dag!","image":[{"id":273808,"title":"Beitske-de-Jong--logo.jpg","safeTitle":"beitske-de-jong-logojpg","url":"http:\/\/radiobox2.omroep.nl\/image\/file\/273808\/Beitske-de-Jong--logo.jpg"}],"startdatetime":1516680000000,"startdatetime_human":{"date":{"eBY":"23 januari 2018","ebY_w":"23 Jan 2018","Ymd":"2018-01-23","AeB_f":"Dinsdag 23 januari","aeB":"di 23 januari","aeB_f":"Di 23 januari","e":"23","b_f":"Jan"},"time":{"R":"05:00"}},"stopdatetime":1516687200000,"stopdatetime_human":{"date":{"eBY":"23 januari 2018","ebY_w":"23 Jan 2018","Ymd":"2018-01-23","AeB_f":"Dinsdag 23 januari","aeB":"di 23 januari","aeB_f":"Di 23 januari","e":"23","b_f":"Jan"},"time":{"R":"07:00"}},"broadcaster":"VPRO","headerText":"","presenter":""}],"subheader":{"fragment":{"type":"highlighted","item":[{"id":441759,"title":"19:45u Liedcyclus: Rudi Stephan, Ich will dir singen ein Hohelied, nr 1 \u0022Kythere\u0022","safeTitle":"1945u-liedcyclus-rudi-stephan-ich-will-dir-singen-ein-hohelied-nr-1-kythere","text":"\u003Cp\u003E\u003Ctitle\u003E\u003C\/title\u003E\u003C\/p\u003E\u003Cp \u003E\u003Cspan \u003ERudi Stephan (1887-1915) kwam uit Duitsland (Worms), maar kwam om in Oekraine. Tijdens de 1e Wereldoorlog, ook wel de Grote Oorlog genoemd. Hij werd getroffen door de kogel van een scherpschutter aan het Galicische front. De talentvolle componist was amper 28 jaar en een van de vele creatieve talenten die de vernieling in gingen door de oorlog, en voorbestemd werden voor de vergetelheid. Toch heeft hij een klein maar fijn oeuvre nagelaten, waarin de invloed van tijdgenoten als Stravinsky, Scriabin en Debussy voelbaar is. Dit is het eerste lied van een cyclus over de liefde. Een Hooglied.\u00a0\u003C\/span\u003E\u003C\/p\u003E","strippedText":"Rudi Stephan (1887-1915) kwam uit Duitsland (Worms), maar kwam om in Oekraine. Tijdens de 1e Wereldoorlog, ook wel de Grote Oorlog genoemd. Hij werd getroffen door de kogel van een scherpschutter aan het Galicische front. De talentvolle componist was amper 28 jaar en een van de vele creatieve talenten die de vernieling in gingen door de oorlog, en voorbestemd werden voor de vergetelheid. Toch heeft hij een klein maar fijn oeuvre nagelaten, waarin de invloed van tijdgenoten als Stravinsky, Scriabin en Debussy voelbaar is. Dit is het eerste lied van een cyclus over de liefde. Een Hooglied.\u00a0","image":[{"id":332911,"title":"rudi-stephan_quelle-stadtarchiv-worms-F5485_07.jpg","safeTitle":"rudi-stephan_quelle-stadtarchiv-worms-f5485_07jpg","url":"http:\/\/radiobox2.omroep.nl\/image\/file\/332911\/rudi-stephan_quelle-stadtarchiv-worms-F5485_07.jpg"}],"tag":[{"id":101757,"name":"Liedcyclus - Stephan","__":"local model"}],"type":"fragment","playlist":[{"id":"item_301888","url":"http:\/\/radiobox2.omroep.nl\/audiofragment\/file\/301888\/fragment.mp3","title":"Liedcyclus: Rudi Stephan, Ich will dir singen ein Hohelied, nr 1 \u0022Kythere\u0022","artist":"","imageUrl":"http:\/\/radiobox2.omroep.nl\/image\/file\/332911\/rudi-stephan_quelle-stadtarchiv-worms-F5485_07.jpg","comscore":{"name":"luister.gemist.liedcyclus-rudi-stephan-ich-will-dir-singen-ein-hohelied-nr-1-kythere","potag2":"gemist"}}],"displayType":"Fragment"},{"id":441758,"title":"19:30u Snaphot Klassiek XII: \u0027Kind\u0027","safeTitle":"1930u-snaphot-klassiek-xii-kind","text":"\u003Cp\u003EVanavond de 12e aflevering van een serie columns door Cecile Huijnen. Zij is soliste, concertmeester van het Gelders Orkest en heeft een duo met Marieke Grotenhuis. Ze schrijft korte verhaaltjes die een onverwacht perspectief bieden op de muziekpraktijk, namelijk van binnenuit.\u00a0Snapshot Klassiek: columns met een knipoog, over vooroordelen, image, achtergronden, en de rock \u0026amp; roll van de klassieke muziek. Ditmaal heeft ze een nachtmerrie rond haar instrument\u003Cbr\/\u003E\u003C\/p\u003E","strippedText":"Vanavond de 12e aflevering van een serie columns door Cecile Huijnen. Zij is soliste, concertmeester van het Gelders Orkest en heeft een duo met Marieke Grotenhuis. Ze schrijft korte verhaaltjes die een onverwacht perspectief bieden op de muziekpraktijk, namelijk van binnenuit.\u00a0Snapshot Klassiek: columns met een knipoog, over vooroordelen, image, achtergronden, en de rock \u0026amp; roll van de klassieke muziek. Ditmaal heeft ze een nachtmerrie rond haar instrument","image":[{"id":332910,"title":"Violin.jpg","safeTitle":"violinjpg","url":"http:\/\/radiobox2.omroep.nl\/image\/file\/332910\/Violin.jpg"}],"tag":[{"id":98987,"name":"Column van Cecile Huijnen","__":"local model"},{"id":99415,"name":"snapshotklassiek","__":"local model"}],"type":"fragment","playlist":[{"id":"item_301887","url":"http:\/\/radiobox2.omroep.nl\/audiofragment\/file\/301887\/fragment.mp3","title":"Snaphot Klassiek XII: \u0027Kind\u0027","artist":"","imageUrl":"http:\/\/radiobox2.omroep.nl\/image\/file\/332910\/Violin.jpg","comscore":{"name":"luister.gemist.snaphot-klassiek-xii-kind","potag2":"gemist"}}]},{"id":7438,"title":"Zinderende finale van het Nederlands Vioolconcours","safeTitle":"zinderende-finale-van-het-nederlands-vioolconcours","text":"\u003Cp\u003E\u003Cem\u003EAvondconcert 20-01-2018\u003C\/em\u003E\u003C\/p\u003E\n\u003Cp\u003EMeer dan honderd violisten tussen de 10 en 26 jaar hebben gestreden om de titels van de verschillende categorie\u0026euml;n van het Nederlands Vioolconcours 2018. De climax van deze zinderende viooldagen is de finale van de categorie \u0027Oskar Back\u0027 (leeftijd 18-26 jaar). De jonge finalisten Niek Baar (1991) en Tim Brackman (1993) wagen zich aan het weinig uitgevoerde\u0026nbsp;\u003Cem\u003EVioolconcert\u0026nbsp;\u003C\/em\u003Evan Schumann en Hawijch Elders (1999) speelt het vrolijke\u0026nbsp;\u003Cem\u003EVioolconcert\u0026nbsp;\u003C\/em\u003Evan Dvo\u0159\u0026aacute;k. Ze worden begeleid door het Residentie Orkest onder leiding van Otto Tausk. Baar (foto) won de eerste prijs en Elders wist de publieksprijs in de wacht te slepen. Een finale vol muziek, spanning, zelfoverwinning en overgave, en vooral, vol liefde voor de viool.\u003C\/p\u003E","strippedText":"Avondconcert 20-01-2018\nMeer dan honderd violisten tussen de 10 en 26 jaar hebben gestreden om de titels van de verschillende categorie\u0026euml;n van het Nederlands Vioolconcours 2018. De climax van deze zinderende viooldagen is de finale van de categorie \u0027Oskar Back\u0027 (leeftijd 18-26 jaar). De jonge finalisten Niek Baar (1991) en Tim Brackman (1993) wagen zich aan het weinig uitgevoerde\u0026nbsp;Vioolconcert\u0026nbsp;van Schumann en Hawijch Elders (1999) speelt het vrolijke\u0026nbsp;Vioolconcert\u0026nbsp;van Dvo\u0159\u0026aacute;k. Ze worden begeleid door het Residentie Orkest onder leiding van Otto Tausk. Baar (foto) won de eerste prijs en Elders wist de publieksprijs in de wacht te slepen. Een finale vol muziek, spanning, zelfoverwinning en overgave, en vooral, vol liefde voor de viool.","image":[{"id":20969,"url":"http:\/\/api.radio4.nl\/image\/rm\/20969"}],"type":"concert","playlist":[{"id":"work_31364","url":"http:\/\/componistendb.radio4.nl\/data\/dalet_export\/116\/20180120NTR-001(2).mp3","title":"Concert voor viool en orkest in d kl.t., 1853 - compleet","artist":"Robert Schumann","imageUrl":"http:\/\/api.radio4.nl\/image\/rm\/4964","comscore":{"name":"luister.concerten.werk.concert-voor-viool-en-orkest-in-d-klt-1853-compleet","potag2":"concerten"}},{"id":"work_31365","url":"http:\/\/componistendb.radio4.nl\/data\/dalet_export\/116\/20180120NTR-003(2).mp3","title":"Concert voor viool en orkest in d kl.t., 1853 - compleet","artist":"Robert Schumann","imageUrl":"http:\/\/api.radio4.nl\/image\/rm\/4964","comscore":{"name":"luister.concerten.werk.concert-voor-viool-en-orkest-in-d-klt-1853-compleet","potag2":"concerten"}},{"id":"work_31366","url":"http:\/\/componistendb.radio4.nl\/data\/dalet_export\/116\/20180120NTR-002(2).mp3","title":"Concert voor viool en orkest, op.53 in a kl.t. - compleet","artist":"Anton\u00edn Dvor\u00e1k","imageUrl":"http:\/\/api.radio4.nl\/image\/rm\/4897","comscore":{"name":"luister.concerten.werk.concert-voor-viool-en-orkest-op53-in-a-klt-compleet","potag2":"concerten"}}],"displayType":"Concert"},{"id":591526,"title":"Opium","safeTitle":"opium","text":"Opium is een radioprogramma boordevol klassieke muziek en doordrenkt van Kunst \u0026amp; Cultuur. De presentator ontvangt een gast en er is live muziek! Iedere werkdag live vanuit VondelCS in het Vondelpark te Amsterdam.","strippedText":"Opium is een radioprogramma boordevol klassieke muziek en doordrenkt van Kunst \u0026amp; Cultuur. De presentator ontvangt een gast en er is live muziek! Iedere werkdag live vanuit VondelCS in het Vondelpark te Amsterdam.","image":[{"id":284072,"title":"Annemieke-Bosman.jpg","safeTitle":"annemieke-bosmanjpg","url":"http:\/\/radiobox2.omroep.nl\/image\/file\/284072\/Annemieke-Bosman.jpg"}],"type":"programme","playlist":[{"id":"bs_515401","url":"http:\/\/radiobox2.omroep.nl\/broadcaststream\/file\/515401.mp3","title":"Opium","artist":null,"imageUrl":"http:\/\/radiobox2.omroep.nl\/image\/file\/284072\/Annemieke-Bosman.jpg","comscore":{"name":"luister.gemist.opium.2018-01-22","potag2":"gemist"}}],"displayType":"Programma"}]},"news":{"type":"news","news":[{"id":17737,"title":"Pamela Sturhoofd maakte documentaire over Emmy Verhey","safeTitle":"pamela-sturhoofd-maakte-documentaire-over-emmy-verhey","intro":"\u0027De Laatste keer\u0027 gaat vrijdag 22 september in premi\u00e8re op het NFF","text":"\u003Cp\u003E\u003Cspan\u003ERegisseurs Pamela Sturhoofd en Jessica van Tijn volgden Verhey, die eind 2015 afscheid nam van de concertpodia, in aanloop naar haar afscheidsconcert. Ook bleven zij de wereldster volgen in het jaar nadat het doek was gevallen. In openhartige gesprekken blikt de violiste terug op haar carri\u0026egrave;re, die een halve eeuw omvatte en die gepaard ging met opoffering, eenzaamheid en twijfel.\u003C\/span\u003E\u003C\/p\u003E\n\u003Cp\u003E\u003Cspan\u003E\u003Ca href=\u0022https:\/\/www.filmfestival.nl\/publiek\/films\/de-laatste-keer-tweede-deel\u0022\u003EMEER INFORMATIE\u003C\/a\u003E\u003C\/span\u003E\u003C\/p\u003E\n\u003Cp\u003E\u003Ciframe style=\u0022border: none; height: 68px; overflow: hidden; width: 100%;\u0022 src=\u0022http:\/\/www.radio4.nl\/pbplayer\/?url=http:\/\/download.omroep.nl\/portal\/radiomanager\/rm3-radio4\/audiofragments\/19\/18426-Pamela_Sturhoofd_maakte_documentaire_over_Emmy_Verhey.mp3\u0026amp;title=18426-Pamela_Sturhoofd_maakte_documentaire_over_Emmy_Verhey.mp3\u0022 scrolling=\u0022no\u0022 width=\u0022320\u0022 height=\u0022240\u0022\u003E\u003C\/iframe\u003E\u003C\/p\u003E","strippedText":"Regisseurs Pamela Sturhoofd en Jessica van Tijn volgden Verhey, die eind 2015 afscheid nam van de concertpodia, in aanloop naar haar afscheidsconcert. Ook bleven zij de wereldster volgen in het jaar nadat het doek was gevallen. In openhartige gesprekken blikt de violiste terug op haar carri\u0026egrave;re, die een halve eeuw omvatte en die gepaard ging met opoffering, eenzaamheid en twijfel.\nMEER INFORMATIE\n","image":[{"id":37768,"title":"NoordPamelazwart.jpg","safeTitle":"noordpamelazwartjpg","url":"http:\/\/rm3.radio4.nl\/image\/file\/37768\/noordpamelazwart-jpg"}],"tag":[{"id":25,"name":"podium","__":"local model"},{"id":6,"name":"radio4","__":"local model"}],"publish_start":1505808900000},{"id":17733,"title":"Simon Rattle van start als chef London Symphony Orchestra","safeTitle":"simon-rattle-van-start-als-chef-london-symphony-orchestra","intro":"Inauguratie-cconcert als chef-dirigent van het LSO","text":"\u003Cp\u003EEr werd reikhalzend naar uitgekeken, het eerste concert van Sir Simon Rattle als chef-dirigent van het London Symphony Orchestra. Het publiek -in een volgepakt Barbican Centre- reageerde afgelopen donderdag uitzinnig op het programma met vooral eigentijdse muziek. Normaal gesproken is met zo\u0026rsquo;n concert de zaal maar half gevuld te krijgen, maar voor Rattle stond men in de rij, aldus The Telegraph. The Guardian tekende op dat het concert meer weg had van een kroning dan van een inauguratie.\u003C\/p\u003E\n\u003Cp\u003EEnkele eerdere gastdirecties van Rattle en dit optreden lieten horen dat Rattle de teugels stevig heeft aangehaald, want het orkest speelde opvallend beter dan onder zijn voorganger Valery Gergiev, aldus de pers.\u003C\/p\u003E\n\u003Cp\u003EHet concert maakt deel uit van een tiendaagse getiteld \u0026lsquo;This is Rattle\u0026rsquo;, waarin een groot aandeel is ingeruimd voor Britse muziek van toen en nu.\u003C\/p\u003E\n\u003Cp\u003E\u0026nbsp;Het inauguaratie-concert is terug te luisteren op de website van BBC3. Werken van Helen Grime, Thomas Ad\u0026eacute;s, Sir Harrison Birtwistle, Oliver Knussen en Edward Elgar.\u003C\/p\u003E\n\u003Cp\u003E\u003Cstrong\u003E\u003Ca href=\u0022http:\/\/www.bbc.co.uk\/programmes\/b0949j2y\u0022\u003E\u0026nbsp;KLIK HIER\u003C\/a\u003E\u003C\/strong\u003E\u003C\/p\u003E\n\u003Cp\u003E\u003Ca href=\u0022http:\/\/www.bbc.co.uk\/programmes\/b0949j2y\u0022\u003E\u0026nbsp;\u003C\/a\u003E\u003C\/p\u003E\n\u003Cp\u003E\u0026nbsp;\u003C\/p\u003E","strippedText":"Er werd reikhalzend naar uitgekeken, het eerste concert van Sir Simon Rattle als chef-dirigent van het London Symphony Orchestra. Het publiek -in een volgepakt Barbican Centre- reageerde afgelopen donderdag uitzinnig op het programma met vooral eigentijdse muziek. Normaal gesproken is met zo\u0026rsquo;n concert de zaal maar half gevuld te krijgen, maar voor Rattle stond men in de rij, aldus The Telegraph. The Guardian tekende op dat het concert meer weg had van een kroning dan van een inauguratie.\nEnkele eerdere gastdirecties van Rattle en dit optreden lieten horen dat Rattle de teugels stevig heeft aangehaald, want het orkest speelde opvallend beter dan onder zijn voorganger Valery Gergiev, aldus de pers.\nHet concert maakt deel uit van een tiendaagse getiteld \u0026lsquo;This is Rattle\u0026rsquo;, waarin een groot aandeel is ingeruimd voor Britse muziek van toen en nu.\n\u0026nbsp;Het inauguaratie-concert is terug te luisteren op de website van BBC3. Werken van Helen Grime, Thomas Ad\u0026eacute;s, Sir Harrison Birtwistle, Oliver Knussen en Edward Elgar.\n\u0026nbsp;KLIK HIER\n\u0026nbsp;\n\u0026nbsp;","image":[{"id":34311,"title":"simon_rattle.jpg","safeTitle":"simon_rattlejpg","url":"http:\/\/rm3.radio4.nl\/image\/file\/34311\/simon-rattle-jpg"}],"tag":[{"id":1,"name":"podiumnieuws","__":"local model"},{"id":6,"name":"radio4","__":"local model"}],"publish_start":1505746140000},{"id":17732,"title":"Yajie Zhang wint met overmacht IVC 2017","safeTitle":"yajie-zhang-wint-met-overmacht-ivc-2017","intro":"Maar liefst drie prijzen voor Chinese mezzosopraan\n","text":"\u003Cp\u003EDe finale van het Internationaal Vocalisten Concours \u0027s-Hertogenbosch is afgelopen zaterdagavond met overmacht gewonnen door de 25-jarige Chinese mezzosopraan Yajie Zhang.\u003C\/p\u003E\n\u003Cp\u003EDe jury - met grootheden als Cheryl Studer, Jennifer Larmore, Eva Wagner en Sergei Leiferkus - beloonde haar niet alleen met de Grand Prix van de stad Den Bosch, maar ze kreeg ook de Operaprijs. Zhang, die op dit moment studeert in Hannover, was ook de favoriet van de Jongerenjury.\u003C\/p\u003E\n\u003Cp\u003EDe Britse mezzosopraan Anna Harvey won de Toonkunst Oratorium prijs en de Publieksprijs, terwijl de Arleen Auger Allround Prijs en de Persprijs werden toegekend aan de jonge Russische tenor Anton Kuzenok.\u003C\/p\u003E\n\u003Cp\u003EAan de finale, die dit jaar wegens omstandigheden voor \u0026eacute;\u0026eacute;n keer in Eindhoven plaatsvond, deden zeven zangers mee. Er stonden dit jaar geen Nederlanders in de finale van de wedstrijd. Wel won sopraan Nikki Treurniet, die de halve finale haalde vier prijzen:\u0026nbsp;de Opera Nederland Prijs (\u0026euro; 2500,-), de Prijs Nederlandse H\u0026auml;ndelvereniging, de Omroep MAX Jong Talent Prijs en de Annett Concertprijs (een optreden in China).\u003C\/p\u003E\n\u003Cp\u003E(foto: Hans Hijmering)\u003C\/p\u003E","strippedText":"De finale van het Internationaal Vocalisten Concours \u0027s-Hertogenbosch is afgelopen zaterdagavond met overmacht gewonnen door de 25-jarige Chinese mezzosopraan Yajie Zhang.\nDe jury - met grootheden als Cheryl Studer, Jennifer Larmore, Eva Wagner en Sergei Leiferkus - beloonde haar niet alleen met de Grand Prix van de stad Den Bosch, maar ze kreeg ook de Operaprijs. Zhang, die op dit moment studeert in Hannover, was ook de favoriet van de Jongerenjury.\nDe Britse mezzosopraan Anna Harvey won de Toonkunst Oratorium prijs en de Publieksprijs, terwijl de Arleen Auger Allround Prijs en de Persprijs werden toegekend aan de jonge Russische tenor Anton Kuzenok.\nAan de finale, die dit jaar wegens omstandigheden voor \u0026eacute;\u0026eacute;n keer in Eindhoven plaatsvond, deden zeven zangers mee. Er stonden dit jaar geen Nederlanders in de finale van de wedstrijd. Wel won sopraan Nikki Treurniet, die de halve finale haalde vier prijzen:\u0026nbsp;de Opera Nederland Prijs (\u0026euro; 2500,-), de Prijs Nederlandse H\u0026auml;ndelvereniging, de Omroep MAX Jong Talent Prijs en de Annett Concertprijs (een optreden in China).\n(foto: Hans Hijmering)","image":[{"id":37754,"title":"Yajie-Zhang-foto-Hans-Hijmering.jpg","safeTitle":"yajie-zhang-foto-hans-hijmeringjpg","url":"http:\/\/rm3.radio4.nl\/image\/file\/37754\/yajie-zhang-foto-hans-hijmering-jpg"}],"tag":[{"id":1,"name":"podiumnieuws","__":"local model"},{"id":6,"name":"radio4","__":"local model"}],"publish_start":1505745300000},{"id":17731,"title":"Gestolen trompet na 4 jaar terecht: via Markplaats","safeTitle":"gestolen-trompet-na-4-jaar-terecht-via-markplaats","intro":"via een tip werd de rechtmatige eigenaar gevonden","text":"\u003Cp\u003ESolo-trompettist Ad van Zon van het gerenommeerde Rotterdams Philharmonisch Orkest kan zijn geluk niet op. Na ruim vier jaar heeft hij zijn gestolen piccolotrompet terug.\u003C\/p\u003E\n\u003Cp\u003EHet kostbare instrument, waarop hij al dertig jaar speelde, werd ruim vier jaar geleden gestolen toen hij met de metro onderweg was van Rotterdam naar Spijkenisse. De politie kon weinig met de aangifte doen, het koffertje met de trompet werd als gestolen opgegeven.\u003C\/p\u003E\n\u003Cp\u003EMaar vorige week kreeg de gedupeerde middenin de nacht telefoon. Een vriend van de trompettist had het bijzondere instrument op Marktplaats gezien. Een politieman deed zich vervolgens voor als koper en confronteerde de man met de verdwijning. Deze zei de trompet bij zijn demente vader op zolder te hebben gevonden, hoe het instrument daar terecht is gekomen wist hij niet. Men gaat er van uit dat de man te goeder trouw handelde, als dank is hij uitgenodigd een concert van het\u0026nbsp; Rotterdams Philharmonich Orkest bij te wonen.\u003C\/p\u003E","strippedText":"Solo-trompettist Ad van Zon van het gerenommeerde Rotterdams Philharmonisch Orkest kan zijn geluk niet op. Na ruim vier jaar heeft hij zijn gestolen piccolotrompet terug.\nHet kostbare instrument, waarop hij al dertig jaar speelde, werd ruim vier jaar geleden gestolen toen hij met de metro onderweg was van Rotterdam naar Spijkenisse. De politie kon weinig met de aangifte doen, het koffertje met de trompet werd als gestolen opgegeven.\nMaar vorige week kreeg de gedupeerde middenin de nacht telefoon. Een vriend van de trompettist had het bijzondere instrument op Marktplaats gezien. Een politieman deed zich vervolgens voor als koper en confronteerde de man met de verdwijning. Deze zei de trompet bij zijn demente vader op zolder te hebben gevonden, hoe het instrument daar terecht is gekomen wist hij niet. Men gaat er van uit dat de man te goeder trouw handelde, als dank is hij uitgenodigd een concert van het\u0026nbsp; Rotterdams Philharmonich Orkest bij te wonen.","image":[{"id":37753,"title":"Piccolo-Trompet-goud-duur-1-180x180.jpg","safeTitle":"piccolo-trompet-goud-duur-1-180x180jpg","url":"http:\/\/rm3.radio4.nl\/image\/file\/37753\/piccolo-trompet-goud-duur-1-180x180-jpg"}],"tag":[{"id":1,"name":"podiumnieuws","__":"local model"},{"id":6,"name":"radio4","__":"local model"}],"publish_start":1505744880000}]}},"recentConcert":{},"content":[{"id":23,"order":1,"column":1,"type":"banner","width":"2","title":"Pagina niet gevonden","safeTitle":"pagina-niet-gevonden","subtitle":"Helaas is deze pagina niet gevonden","text":"\u003Cp\u003EU kunt het nogmaals proberen via de zoekfunctie rechtsboven, of ons mailen via radio4.nl\/contact\u003C\/p\u003E","strippedText":"U kunt het nogmaals proberen via de zoekfunctie rechtsboven, of ons mailen via radio4.nl\/contact","link":"http:\/\/www.radio4.nl","link_text":"Homepage Radio 4","image":[],"size":[false,false,true,false]}]};
+    </script>
+
+    <script src="/assets/javascript/application.min.js"></script>
+    <script type="text/javascript" src="//cookiesv2.publiekeomroep.nl/data/script/cconsent-no-rw.min.js"></script>
+
+    <!-- npo balk -->
+    <script src="http://radio.omroep.nl/centraalnav/npo_centraalnav.js" type="text/javascript"></script>
+    <script src="https://npoplayer.omroep.nl/csjs/npoplayer-min.js" type="text/javascript"></script>
+
+    <script type="text/javascript" charset="utf-8" src="http://radio-app.npo.nl/api/npo-radio.js"></script>
+
+    <script type="text/javascript">
+        npo_cookies.init();
+
+        checkApp();
+        if(is_cordova && isApp()){ console.log("init cordova"); Native.init(deviceReady, deviceError); }
+        else{ deviceReady(); }
+
+    </script>
+
+    <!-- Created by Elastique - www.elastique.nl -->
+</head>
+<body>
+<div id="fb-root"></div>
+<script type="text/javascript">
+    // <![CDATA[
+    function udm_(e){
+        var t="comScore=",n=document,r=n.cookie,i="",s="indexOf",o="substring",u="length",a=2048,f,l="&ns_",c="&",h,p,d,v,m=window,g=m.encodeURIComponent||escape;if(r[s](t)+1)for(d=0,p=r.split(";"),v=p[u];d<v;d++)h=p[d][s](t),h+1&&(i=c+unescape(p[d][o](h+t[u])));e+=l+"_t="+ +(new Date)+l+"c="+(n.characterSet||n.defaultCharset||"")+"&c8="+g(n.title)+i+"&c7="+g(n.URL)+"&c9="+g(n.referrer),e[u]>a&&e[s](c)>0&&(f=e[o](0,a-8).lastIndexOf(c),e=(e[o](0,f)+l+"cut="+g(e[o](f+1)))[o](0,a)),n.images?(h=new Image,m.ns_p||(ns_p=h),h.src=e):n.write("<","p","><",'img src="',e,'" height="1" width="1" alt="*"',"><","/p",">")};
+    // ]]>
+</script>
+<div class="main-container" id="skrollr-body">
+    <noscript>
+    <div class="header">
+	<!--sticky player-->
+	<div class="player base-width sticky" id="audioplayer">
+		<div class="outer-container tpl " id=""><!-- <div class="outer-container"> -->
+    <div class="l-grey left">
+        <div id="listen_live" class="i-con btn-purple live-play"><!-- add class .on-->
+            <div class="state svg"></div>
+            <div class="content">Luister live</div>
+            <div class="contentlive">
+                <div class="info">
+                   <strong><!-- titel --></strong><span><!-- artiest -->Geen info beschikbaar</span>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="controls-playlist left">
+
+
+        <div class="playlist">
+            <div class="item current">
+                <div class="thumb"><img src="/assets/images/icon_song.png" alt="Afspeellijst"></div>
+                <div class="info">
+                    <div class="ellipsis">Afspeellijst</div>
+                    <div class="clear sub ellipsis">Uw afspeellijst is leeg</div>
+                </div>
+            </div>
+            <ul class="">
+            </ul>
+        </div>
+
+        <nav class="controls">
+            <ul>
+                <li><a class="svg play disabled" ></a></li>
+                <li><a class="svg skip"></a></li>
+            </ul>
+        </nav>
+
+        <div class="sliders">
+            <div class="slider track">
+                <div class="track-bar bar"></div>
+                <div class="sub right clear timedisplay">00:00</div>
+            </div>
+            <div class="slider volume">
+                <a class="svg i-vol"></a>
+                <ul class="horizontal">
+                    <li class="vol-unit vol1 on" data-vol="20"></li>
+                    <li class="vol-unit vol2 on" data-vol="36"></li>
+                    <li class="vol-unit vol3 on" data-vol="52"></li>
+                    <li class="vol-unit vol4 off" data-vol="68"></li>
+                    <li class="vol-unit vol5 off" data-vol="84"></li>
+                    <li class="vol-unit vol6 off" data-vol="100"></li>
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+
+
+    <div id="npo_centraalnav" class="right"></div>
+
+
+
+
+<!--
+ -->
+
+
+
+
+
+   <!-- <div class="npo_meer right">
+        <div id="npo-widget-button" data-position="right" style="display: block;"><div class="npo-widget npo-widget-button">
+                <a href="#" class="npo-widget-toggle" id="npo-widget-toggle"></a>
+
+            </div></div>
+    </div> -->
+
+<!-- </div> --></div>
+	</div>
+	<!--/sticky player-->
+
+	<!--sticky menu-->
+	<div class="base-width header-wrap">
+		<div class="menu base-width">
+			<div class="outer-container" id="header-container">
+    <div class="logo left" data-0="transform: translateY(0px);">
+        <h1>
+            <a href="/" data-internal>
+                <span class="d-none">Radio 4</span>
+            </a>
+        </h1>
+    </div>
+
+    <a class="main_navigation-re responsive"><span></span>Menu</a>
+    <div class="main_navigation right">
+        <ul>
+            <!--<li class="active"><a href="">Home</a></li>-->
+            <li><a href="/gids" data-internal>Programmagids</a></li>
+            <li><a href="/live/kijk" data-internal>Live</a></li>
+            <li><a href="/luister-concerten" data-internal>Luister Concerten</a></li>
+            <li><a href="/contact" data-internal>Contact</a></li>
+        </ul>
+    </div>
+
+    <div class="search-icon search-icon-white responsive right"></div>
+    <form class="search right" >
+        <div class="searchbox"><!--autocomplete add class .open-->
+            <div class="field">
+                <div class="search-icon"></div>
+                <input autocomplete="off" tabindex="1" type="text" name="searchsite" placeholder="Programma's en Componisten" />
+                <input class="btn-gray" type="submit" name="zoek" value="Zoeken"/>
+            </div>
+
+            <div class="suggestions">
+                <h2>Programma's (3)</h2>
+                <div class="suggestion-results">
+                    <ul class="open">
+                        <li><a href="" class="item">Suggestie</a></li>
+                        <li><a href="" class="item">Suggestie</a></li>
+                        <li><a href="" class="item">Suggestie</a></li>
+                    </ul>
+                </div>
+                <a class="more" href="">Meer Programma's</a>
+                <h2>Componisten (3)</h2>
+                <div class="suggestion-results">
+                    <ul class="open">
+                        <li><a href="" class="item">Suggestie</a></li>
+                        <li><a href="" class="item">Suggestie</a></li>
+                        <li><a href="" class="item">Suggestie</a></li>
+                    </ul>
+                </div>
+                <a class="more" href="">Meer Componisten</a>
+            </div>
+
+        </div>
+    </form>
+</div>
+		</div>
+	</div>
+	<!--/sticky menu-->
+</div>
+
+
+	<div class="h-static ">
+
+    <div class="c-image now-playing ">
+       <img class="now-playing-image" src="?width=400&height=400"alt="De Nacht"/>
+    </div>
+
+    <div class="outer-container info-frame">
+
+        <div class="info-block white-rect">
+        </div>
+        
+        <div class="info-block song-block">
+            <div class="info song hide" style="">
+                <div class="title">Grieg, Edvard</div>
+                <div class="sub">Strijkkwartet nr.1, op.27 in g kl.t. - deel I, “Un poco andante - Allegro</div>
+                            <a class="btn-grey middle" href="/speellijst" data-internal>Speellijst</a>
+
+            </div>
+        </div>
+
+        <div class="contact">
+            <a href='https://www.twitter.com/NPORadio4' class="button twitter" target="_blank"></a>
+            <a href='https://www.facebook.com/NPORadio4' class="button facebook" target="_blank"></a>
+            <a href='https://instagram.com/nporadio4/' class="button instagram" target="_blank"></a>
+            <a href='http://open.spotify.com/user/radio4nl' class="button spotify" target="_blank"></a>
+            <a href='https://www.youtube.com/user/radio4nl' class="button youtube" target="_blank"></a>
+        </div>
+
+        <a class="i-con btn-purple live-appje left show-appje" href="#" >
+            <div class="state"></div>
+            <div class="content">app de studio</div>
+        </a>
+
+        <a class="i-con btn-purple live-listen left" href="http://www.radio4.nl/live/luister">
+            <div class="state"></div>
+            <div class="content">luister live</div>
+        </a>
+
+        <a class="i-con btn-purple live-watch left" href="http://www.radio4.nl/live/kijk" >
+            <div class="state"></div>
+            <div class="content">kijk live</div>
+        </a>
+
+    </div>
+</div>
+
+
+	<div class="container base-width">
+	    <div class="outer-container">
+	        
+	    </div>
+	</div>
+
+	<div class="container base-width">
+	    <div class="outer-container">
+	        <div class="column80 left tpl " id=""><!--<div class="column80 left">-->
+    <h2>Luister terug</h2>
+    <div class="block transparent fragmenten">
+        <ul class="music-inspiration">
+            <li class="tpl " id=""><!--<li>-->
+    <span class="anchor" fragment_id="441759"></span>
+    <div class="fragment">
+
+        <h4 class="fragment-type">Fragment</h4> <!-- nog in te vullen: Programma fragmenten, Concerten, of Programma's -->
+
+
+        <div class="fragment-item">
+            <div class="c-image left">
+                <img src="http://radiobox2.omroep.nl/image/file/332911/rudi-stephan_quelle-stadtarchiv-worms-F5485_07.jpg?width=260&height=260" alt="rudi-stephan_quelle-stadtarchiv-worms-F5485_07.jpg" alt="19:45u Liedcyclus: Rudi Stephan, Ich will dir singen ein Hohelied, nr 1 &quot;Kythere&quot;"/>
+            </div>
+            <div class="fragment-textblock">
+                <h4 class="multi-ellips">19:45u Liedcyclus: Rudi Stephan, Ich will dir singen ein Hohelied, nr 1 &quot;Kythere&quot;</h4>
+                <p class="description multi-ellips">Rudi Stephan (1887-1915) kwam uit Duitsland (Worms), maar kwam om in Oekraine. Tijdens de 1e Wereldoorlog, ook wel de Grote Oorlog genoemd. Hij werd getroffen door de kogel van een scherpschutter aan het Galicische front. De talentvolle componist was amper 28 jaar en een van de vele creatieve talenten die de vernieling in gingen door de oorlog, en voorbestemd werden voor de vergetelheid. Toch heeft hij een klein maar fijn oeuvre nagelaten, waarin de invloed van tijdgenoten als Stravinsky, Scriabin en Debussy voelbaar is. Dit is het eerste lied van een cyclus over de liefde. Een Hooglied. </p> <!-- nog in te vullen -->
+                <div class="button-group">
+                    <div class="i-con btn-purple live-play left">
+                        <div class="state svg"></div>
+                        <div class="content">Luister terug</div>
+                    </div>
+                    <div class="icon btn-white add-playlist right">
+                        <div class="state svg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+<!--</li>-->
+
+
+</li><li class="tpl " id=""><!--<li>-->
+    <span class="anchor" fragment_id="441758"></span>
+    <div class="fragment">
+
+        <h4 class="fragment-type"></h4> <!-- nog in te vullen: Programma fragmenten, Concerten, of Programma's -->
+
+
+        <div class="fragment-item">
+            <div class="c-image left">
+                <img src="http://radiobox2.omroep.nl/image/file/332910/Violin.jpg?width=260&height=260" alt="Violin.jpg" alt="19:30u Snaphot Klassiek XII: 'Kind'"/>
+            </div>
+            <div class="fragment-textblock">
+                <h4 class="multi-ellips">19:30u Snaphot Klassiek XII: 'Kind'</h4>
+                <p class="description multi-ellips">Vanavond de 12e aflevering van een serie columns door Cecile Huijnen. Zij is soliste, concertmeester van het Gelders Orkest en heeft een duo met Marieke Grotenhuis. Ze schrijft korte verhaaltjes die een onverwacht perspectief bieden op de muziekpraktijk, namelijk van binnenuit. Snapshot Klassiek: columns met een knipoog, over vooroordelen, image, achtergronden, en de rock &amp; roll van de klassieke muziek. Ditmaal heeft ze een nachtmerrie rond haar instrument</p> <!-- nog in te vullen -->
+                <div class="button-group">
+                    <div class="i-con btn-purple live-play left">
+                        <div class="state svg"></div>
+                        <div class="content">Luister terug</div>
+                    </div>
+                    <div class="icon btn-white add-playlist right">
+                        <div class="state svg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+<!--</li>-->
+
+
+</li><li class="tpl " id=""><!--<li>-->
+    <span class="anchor" fragment_id="7438"></span>
+    <div class="fragment">
+
+        <h4 class="fragment-type">Concert</h4> <!-- nog in te vullen: Programma fragmenten, Concerten, of Programma's -->
+
+
+        <div class="fragment-item">
+            <div class="c-image left">
+                <img src="http://api.radio4.nl/image/rm/20969?width=260&height=260" alt="Zinderende finale van het Nederlands Vioolconcours" alt="Zinderende finale van het Nederlands Vioolconcours"/>
+            </div>
+            <div class="fragment-textblock">
+                <h4 class="multi-ellips">Zinderende finale van het Nederlands Vioolconcours</h4>
+                <p class="description multi-ellips">Avondconcert 20-01-2018
+Meer dan honderd violisten tussen de 10 en 26 jaar hebben gestreden om de titels van de verschillende categorie&euml;n van het Nederlands Vioolconcours 2018. De climax van deze zinderende viooldagen is de finale van de categorie 'Oskar Back' (leeftijd 18-26 jaar). De jonge finalisten Niek Baar (1991) en Tim Brackman (1993) wagen zich aan het weinig uitgevoerde&nbsp;Vioolconcert&nbsp;van Schumann en Hawijch Elders (1999) speelt het vrolijke&nbsp;Vioolconcert&nbsp;van Dvoř&aacute;k. Ze worden begeleid door het Residentie Orkest onder leiding van Otto Tausk. Baar (foto) won de eerste prijs en Elders wist de publieksprijs in de wacht te slepen. Een finale vol muziek, spanning, zelfoverwinning en overgave, en vooral, vol liefde voor de viool.</p> <!-- nog in te vullen -->
+                <div class="button-group">
+                    <div class="i-con btn-purple live-play left">
+                        <div class="state svg"></div>
+                        <div class="content">Luister terug</div>
+                    </div>
+                    <div class="icon btn-white add-playlist right">
+                        <div class="state svg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+<!--</li>-->
+
+
+</li><li class="tpl " id=""><!--<li>-->
+    <span class="anchor" fragment_id="591526"></span>
+    <div class="fragment">
+
+        <h4 class="fragment-type">Programma</h4> <!-- nog in te vullen: Programma fragmenten, Concerten, of Programma's -->
+
+
+        <div class="fragment-item">
+            <div class="c-image left">
+                <img src="http://radiobox2.omroep.nl/image/file/284072/Annemieke-Bosman.jpg?width=260&height=260" alt="Annemieke-Bosman.jpg" alt="Opium"/>
+            </div>
+            <div class="fragment-textblock">
+                <h4 class="multi-ellips">Opium</h4>
+                <p class="description multi-ellips">Opium is een radioprogramma boordevol klassieke muziek en doordrenkt van Kunst &amp; Cultuur. De presentator ontvangt een gast en er is live muziek! Iedere werkdag live vanuit VondelCS in het Vondelpark te Amsterdam.</p> <!-- nog in te vullen -->
+                <div class="button-group">
+                    <div class="i-con btn-purple live-play left">
+                        <div class="state svg"></div>
+                        <div class="content">Luister terug</div>
+                    </div>
+                    <div class="icon btn-white add-playlist right">
+                        <div class="state svg"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+<!--</li>-->
+
+
+</li>
+        </ul>
+    </div>
+<!--</div>-->
+</div><div class="column40 tpl " id=""><!--<div class="column40">-->
+    <h2 class="left">Actueel</h2>
+    <a class="right" href="/nieuwsoverzicht">Meer nieuws &#62;</a>
+    <div class="block expand newsitems">
+        <div class="list news">
+            <ul>
+                    <li>
+                        <a class="l-content" href="/nieuws/17737/pamela-sturhoofd-maakte-documentaire-over-emmy-verhey" data-internal>
+                            <h4>Pamela Sturhoofd maakte documentaire over Emmy Verhey</h4>
+                            <span>'De Laatste keer' gaat vrijdag 22 september in première op het NFF</span>
+                            <div class="link">Bekijk ></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="l-content" href="/nieuws/17733/simon-rattle-van-start-als-chef-london-symphony-orchestra" data-internal>
+                            <h4>Simon Rattle van start als chef London Symphony Orchestra</h4>
+                            <span>Inauguratie-cconcert als chef-dirigent van het LSO</span>
+                            <div class="link">Bekijk ></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="l-content" href="/nieuws/17732/yajie-zhang-wint-met-overmacht-ivc-2017" data-internal>
+                            <h4>Yajie Zhang wint met overmacht IVC 2017</h4>
+                            <span>Maar liefst drie prijzen voor Chinese mezzosopraan
+</span>
+                            <div class="link">Bekijk ></div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="l-content" href="/nieuws/17731/gestolen-trompet-na-4-jaar-terecht-via-markplaats" data-internal>
+                            <h4>Gestolen trompet na 4 jaar terecht: via Markplaats</h4>
+                            <span>via een tip werd de rechtmatige eigenaar gevonden</span>
+                            <div class="link">Bekijk ></div>
+                        </a>
+                    </li>
+
+            </ul>
+
+        </div>
+    </div>
+<!--</div>--></div>
+	    </div>
+	</div>
+
+	<div class="container base-width blue">
+	    <div class="outer-container">
+	    	<div class="svg logo_back_blue"></div>
+	        <div class="tpl " id=""><!--<div class="column"> <!--<div class="column40">-->
+    <h2>Pagina niet gevonden</h2>
+    <a class="block blockhover" href="http://www.radio4.nl" data-internal>
+        <div class="c-textblock svg">
+            <h3>Helaas is deze pagina niet gevonden</h3>
+            U kunt het nogmaals proberen via de zoekfunctie rechtsboven, of ons mailen via radio4.nl/contact
+        </div>
+        <div class="c-image">
+        <img src="/assets/images/default.jpg" alt="Pagina niet gevonden"/> <!-- maten ook aanpassen als het een kleiner block is? -->
+        </div>
+    </a>
+<!--</div>--></div>
+	    </div>
+	</div>
+
+
+
+<div class="footer base-width">
+	<div class="outer-container">
+		<div class="center">
+    <h2>Overige pagina's</h2>
+    <ul class="overig"></ul>
+    <ul class="logos">
+        <li><a href="http://www.avrotros.nl/" target="_blank" class="avrotros sub"><img src="/assets/images/logo_avrotros.png" alt=""/></a></li>
+        <li><a href="https://www.kro-ncrv.nl/" target="_blank" class="kro-ncrv sub"><img src="/assets/images/logo_kro-ncrv.png" alt=""/></a></li>
+        <li><a href="http://www.omroepmax.nl/" target="_blank" class="max sub"><img src="/assets/images/logo_max.png" alt=""/></a></li>
+        <li><a href="http://www.eo.nl/" target="_blank" class="eo sub"><img src="/assets/images/logo_eo.png" alt=""/></a></li>
+        <li><a href="http://www.ntr.nl/" target="_blank" class="ntr sub"><img src="/assets/images/logo_ntr.png" alt=""/></a></li>
+        <li><a href="http://www.vpro.nl/" target="_blank" class="vpro sub"><img src="/assets/images/logo_vpro.png" alt=""/></a></li>
+        <li><a href="http://www.rkk.nl/" target="_blank" class="rkk sub"><img src="/assets/images/logo_rkk.png" alt=""/></a></li>
+        <li><a href="http://www.cultura.nl/" target="_blank" class="cultura sub"><img src="/assets/images/logo_cultura.png" alt=""/></a></li>
+    </ul>
+    <div class="social">
+        <a href="https://www.facebook.com/NPORadio4" target="_blank" class="fb btn-grey"><span></span>Facebook</a>
+        <a href="https://www.twitter.com/NPORadio4" target="_blank" class="tw btn-grey"><span></span>Twitter</a>
+        <a href="https://www.youtube.com/user/radio4nl" target="_blank" class="yt btn-grey"><span></span>Youtube</a>
+    </div>
+</div>
+<div class="white svg"></div>
+<div class="purple svg"></div>
+	</div>
+</div>    </noscript>
+
+</div>
+
+<script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/17827132/cs.js"></script>
+</body>
+</html>

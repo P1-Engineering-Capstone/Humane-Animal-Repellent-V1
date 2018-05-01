@@ -1,0 +1,59 @@
+<HTML>
+<HEAD>
+<TITLE>404 Not Found</TITLE>
+<META http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
+<META http-equiv="Refresh" content="3;url= http://www.so-net.ne.jp/">
+<META name="reply-to" content="info@so-net.ne.jp">
+<SCRIPT language="JavaScript">
+<!--
+if (navigator.userAgent.indexOf("Win") >= 0) {
+document.write('<link rel="stylesheet" href="/top2005/style_win.css" type="text/css">');
+} else {
+document.write('<link rel="stylesheet" href="/top2005/style_mac.css" type="text/css">');
+}
+//--></SCRIPT>
+</HEAD>
+<BODY bgcolor="#FFFFFF" text="#666666"  vlink="#0066FF" alink="#FF0000" link="#0066FF">
+<TABLE width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+<TR><TD align="center">
+<TABLE width="340" border="0" cellspacing="0" cellpadding="8" bgcolor="#006600">
+<TR><TD><IMG src="/top2005/notfound.gif" width="87" height="14" border="0"></TD></TR>
+</TABLE>
+<TABLE width="340" border="0" cellspacing="0" cellpadding="0" bgcolor="#006600">
+<TR><TD align="center">
+<TABLE width="338" border="0" cellspacing="0" cellpadding="8" bgcolor="#FFFFFF">
+<TR><TD><FONT class="mtxt-m">So-netをご利用いただきましてありがとうございます。<BR>
+お客さまのお探しのページは見つかりませんでした。<BR>
+<IMG src="/top2005/clear.gif" width="1" height="8" border="0"><BR>
+指定されたアドレスにお間違いがなければ、<BR>
+<FONT color="#003300">・ページが別のアドレスに移動している<BR>
+・ページが削除されている</FONT><BR>
+などが考えられます。<BR>
+<IMG src="/top2005/clear.gif" width="1" height="8" border="0"><BR>
+お手数ですが、So-netホームページからお探しください。<BR>
+<IMG src="/top2005/clear.gif" width="1" height="8" border="0"><BR>
+3秒後に自動的にSo-netホームページに移動します。</FONT></TD></TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+<TABLE width="340" border="0" cellspacing="0" cellpadding="0" bgcolor="#006600">
+<TR><TD align="center">
+<TABLE width="338" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">
+<TR>
+<TD width="50" valign="middle" align="center"><FONT color="#99CC33"><IMG src="/top2005/clear.gif" width="50" height="1" border="0"></FONT></TD>
+<TD width="228" valign="middle" align="center"><FONT class="mtxt-m">So-netホームページは<A href="http://www.so-net.ne.jp/" target="_top"> こちら</A>。</FONT></TD>
+<TD width="60"><FONT color="#99CC33"><A href="http://www.so-net.ne.jp/" target="_top"><IMG src="/top2005/notfound_sonet.gif" width="50" height="46" border="0"></A></FONT></TD>
+</TR>
+</TABLE>
+</TD></TR>
+</TABLE>
+<TABLE width="340" border="0" cellspacing="0" cellpadding="6" bgcolor="#006600">
+<TR><TD align="center"><FONT class="stxt-n" color="#FFFFFF">&copy; Sony Network Communications Inc.</FONT></TD></TR>
+</TABLE>
+<BR>
+<BR>
+</TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>

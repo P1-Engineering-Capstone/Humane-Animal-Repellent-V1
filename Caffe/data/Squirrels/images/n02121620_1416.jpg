@@ -1,0 +1,235 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#">
+<head profile="http://gmpg.org/xfn/11">	
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />	
+		<title>OntheBorderline - Official site for On the Borderline</title>
+	<meta name="viewport" content="width=1000">
+	<link rel="icon" href="http://www.ontheborderline.com/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" href="http://www.ontheborderline.com/favicon.ico" type="image/x-icon" />
+	<link rel="stylesheet" href="http://www.ontheborderline.com/wp-content/themes/borderline/style.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.ontheborderline.com/wp-content/themes/borderline/js/nivo-slider.css" type="text/css" />
+	<link rel="stylesheet" href="http://www.ontheborderline.com/wp-content/themes/borderline/js/default.css" type="text/css" />
+	<link rel="pingback" href="http://www.ontheborderline.com/xmlrpc.php" />
+		
+<!-- This site is optimized with the Yoast SEO plugin v4.6 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Official site of London band OntheBorderline. Music to be played full blast on the radio driving into an 1980&#039;s sunset. Songs powered by digital delays a that is reminiscent of the Edge from U2 available on iTunes"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.ontheborderline.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="OntheBorderline - Official site for On the Borderline" />
+<meta property="og:description" content="Official site of London band OntheBorderline. Music to be played full blast on the radio driving into an 1980&#039;s sunset. Songs powered by digital delays a that is reminiscent of the Edge from U2 available on iTunes" />
+<meta property="og:url" content="http://www.ontheborderline.com/" />
+<meta property="og:site_name" content="On The Borderline" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.ontheborderline.com\/","name":"On The Borderline","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.ontheborderline.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="On The Borderline &raquo; Feed" href="http://www.ontheborderline.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="On The Borderline &raquo; Comments Feed" href="http://www.ontheborderline.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.ontheborderline.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='pe_estro_slider_style-css'  href='http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/pe.kenburns/themes/allskins.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-slider-base-css'  href='http://www.ontheborderline.com/wp-content/plugins/slider-pro/css/slider/advanced-slider-base.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='slider-pro-skin-pixel-css'  href='http://www.ontheborderline.com/wp-content/plugins/slider-pro/skins/slider/pixel/pixel.css?ver=3.6' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='http://www.ontheborderline.com/wp-content/plugins/social-media-widget/social_widget.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.ontheborderline.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='counterize_stylesheet-css'  href='http://www.ontheborderline.com/wp-content/plugins/counterize/counterize.css.php?ver=4.8.5' type='text/css' media='all' />
+
+<!-- This site uses the Google Analytics by MonsterInsights plugin v 6.1.7 - https://www.monsterinsights.com/ -->
+<!-- Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group. -->
+<!-- / Google Analytics by MonsterInsights -->
+
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/pe.kenburns/jquery.pixelentity.kenburnsSlider.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-content/plugins/counterize/counterize.js.php?ver=4.8.5'></script>
+<link rel='https://api.w.org/' href='http://www.ontheborderline.com/wp-json/' />
+<link rel='shortlink' href='https://wp.me/2yE7A' />
+<link rel="shortcut icon" href="http://www.ontheborderline.com/wp-content/uploads/2012/06/favicon.ico" /><link rel="apple-touch-icon" href="http://s151492.gridserver.com/wp-content/uploads/2012/06/ios1.png" />
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style>
+<link rel="stylesheet" href="http://www.ontheborderline.com/wp-content/plugins/wassup/css/wassup-widget.css?ver=1.9.3" type="text/css" /><!-- All in one Favicon 4.5 --><link rel="shortcut icon" href="http://www.ontheborderline.com/wp-content/uploads/2012/07/favicon.png" />
+
+<script type="text/javascript">
+//<![CDATA[
+	var screen_res=screen.width+" x "+screen.height;
+	if(screen_res==" x ") screen_res=window.screen.width+" x "+window.screen.height;
+	if(screen_res==" x ") screen_res=screen.availWidth+" x "+screen.availHeight;
+	if(screen_res!=" x "){document.cookie = "wassup_screen_resd041f70e4d8c2d270c7925d1da776f42=" + encodeURIComponent(screen_res)+ "; path=/; domain=";}
+//]]>
+</script>  <script type="text/javascript" src="http://www.ontheborderline.com/wp-content/themes/borderline/js/jquery-ui-1.8.21.custom.min.js"></script>
+	<script type="text/javascript" src="http://www.ontheborderline.com/wp-content/themes/borderline/js/jquery.lavalamp.min.js"></script>
+	<script type="text/javascript" src="http://www.ontheborderline.com/wp-content/themes/borderline/js/jquery.nivo.slider.pack.js"></script>
+</head>
+
+<body class="home blog">
+	
+	<div id="mainmenu"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://www.ontheborderline.com/gallery/">GALLERY</a></li>
+<li id="menu-item-149" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-149"><a href="http://www.ontheborderline.com/music/">Music</a></li>
+<li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://www.ontheborderline.com/news/">News</a></li>
+<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-25"><a href="http://www.ontheborderline.com">Home</a></li>
+</ul></div></div>
+	<div id="page-wrap">
+
+		<div id="header">
+			<img src=http://www.ontheborderline.com/wp-content/themes/borderline/images/otb_logo.png>
+		</div>
+		
+		<div id=social>
+		  <div id="social-widget-2" class="widget Social_Widget"><h2>Follow us:</h2><div class="socialmedia-buttons smw_right"><a href="http://www.facebook.com/ontheborderline" rel="nofollow" target="_blank"><img width="16" height="16" src="http://www.ontheborderline.com/wp-content/plugins/social-media-widget/images/default/16/facebook.png" 
+				alt="Follow Us on Facebook" 
+				title="Follow Us on Facebook" style="opacity: 0.7; -moz-opacity: 0.7;" class="fade" /></a><a href="http://twitter.com/upontheborder" rel="nofollow" target="_blank"><img width="16" height="16" src="http://www.ontheborderline.com/wp-content/plugins/social-media-widget/images/default/16/twitter.png" 
+				alt="Follow Us on Twitter" 
+				title="Follow Us on Twitter" style="opacity: 0.7; -moz-opacity: 0.7;" class="fade" /></a><a href="http://www.youtube.com/ontheborderlineband" rel="nofollow" target="_blank"><img width="16" height="16" src="http://www.ontheborderline.com/wp-content/plugins/social-media-widget/images/default/16/youtube.png" 
+				alt="Follow Us on YouTube" 
+				title="Follow Us on YouTube" style="opacity: 0.7; -moz-opacity: 0.7;" class="fade" /></a><a href="feed://www.ontheborderline.com/category/news/feed/" rel="nofollow" target="_blank"><img width="16" height="16" src="http://www.ontheborderline.com/wp-content/plugins/social-media-widget/images/default/16/rss.png" 
+				alt="Follow Us on RSS" 
+				title="Follow Us on RSS" style="opacity: 0.7; -moz-opacity: 0.7;" class="fade" /></a><a href="mailto:info@ontheborderline.com" rel="nofollow" target="_blank"><img width="16" height="16" src="http://www.ontheborderline.com/wp-content/plugins/social-media-widget/images/default/16/email.png" 
+				alt="Follow Us on E-mail" 
+				title="Follow Us on E-mail" style="opacity: 0.7; -moz-opacity: 0.7;" class="fade" /></a></div></div>		</div>
+
+
+  <div id=slideshow>
+     <div id="pe_estro_slider_1" class="peKenBurns neutral_light" data-autopause="image" data-controls="disabled" data-logo="disabled" data-logo-target="_blank" data-logo-link="" data-shadow="disabled" data-thumb="disabled" data-mode="kb" style="width: 930px; height: 360px;"><div data-align="center,center" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_0110-Version-2-240x160.jpg" data-duration="60" data-pan="top,center" data-transition="swipe" data-zoom="in"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_0110-Version-2.jpg" /></div><div data-align="center,left" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/Screen-Shot-2012-05-04-at-16.42.49-Version-21-240x160.jpeg" data-duration="40" data-pan="center,right" data-transition="swipe" data-zoom="in"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/Screen-Shot-2012-05-04-at-16.42.49-Version-21.jpeg" /></div><div data-align="bottom,right" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/Screen-Shot-2012-05-04-at-16.42.491-240x160.jpeg" data-duration="40" data-pan="center,left" data-transition="swipe" data-zoom="random"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/Screen-Shot-2012-05-04-at-16.42.491.jpeg" /></div><div data-align="center,center" data-delay="15" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_35331-240x160.jpg" data-duration="60" data-pan="top,center" data-transition="swipe" data-zoom="out"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_35331.jpg" /></div><div data-align="center,center" data-delay="15" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_2433-240x160.jpg" data-duration="60" data-pan="top,right" data-transition="swipe" data-zoom="out"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_2433.jpg" /></div><div data-align="center,center" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_7630-240x160.jpg" data-duration="60" data-pan="random" data-transition="swipe" data-zoom="random"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_7630.jpg" /></div><div data-align="center,center" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_1240_Snapseed2-240x160.jpg" data-duration="40" data-pan="random" data-transition="swipe" data-zoom="random"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_1240_Snapseed2.jpg" /></div><div data-align="center,center" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_76461-e1344506858384-240x160.jpg" data-duration="40" data-pan="top,center" data-transition="swipe" data-zoom="random"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_76461-e1344506858384.jpg" /></div><div data-align="center,center" data-delay="5" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_8414-31-240x160.jpg" data-duration="40" data-pan="top,center" data-transition="swipe" data-zoom="random"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_8414-31.jpg" /></div><div data-align="bottom,left" data-delay="8" data-thumb="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_7748-3main-240x160.jpg" data-duration="15" data-pan="top,right" data-transition="swipe" data-zoom="in"><img src="http://www.ontheborderline.com/wp-content/plugins/pe_estro_slider/resources/img/blank.png" data-src="http://www.ontheborderline.com/wp-content/uploads/2012/08/IMG_7748-3main.jpg" /></div></div><script>
+				jQuery("#pe_estro_slider_1").peKenburnsSlider();
+			</script>  </div>
+
+  <div id=home_box_1>
+    <h2>News</h2>
+  	  		<div class="post-154 post type-post status-publish format-standard hentry category-news" id="post-154">
+  			<h2><a href="http://www.ontheborderline.com/news-testing-word-limits/">Welcome to the new site!</a></h2>
+  			<div class="meta">15 July 2012</div>  			<div class="entry">
+  				<p style="text-align: left;">Now compatible with mobiles, tablets and vegetarians. Comment, subscribe with RSS, twitter and other social media.</p>
+<p style="text-align: left;">A music video and iTunes release is on the menu and the chef is cooking&#8230;</p>
+<p style="text-align: left;"> <a href="http://www.ontheborderline.com/news-testing-word-limits/#more-154" class="more-link"><span aria-label="Continue reading Welcome to the new site!">(more&hellip;)</span></a></p>
+  			</div>
+  			<a class=readmore href="http://www.ontheborderline.com/news/">> All news</a>
+  		</div>
+  	  	  </div>
+  
+  <div id=home_box_2><div id="twitter-2" class="widget widget_twitter"><div><h2><span class='twitterwidget twitterwidget-title'>Tweets</span></h2><ul><li><span class='entry-content'>I walk around the cathedrals of book shops as one day, they won't be here...</span> <span class='entry-meta'><span class='time-meta'><a href="http://twitter.com/UpOnTheBorder/statuses/299588892162662403" target="_blank">about 4 years ago</a></span></span></li></ul><div class="follow-button"><a href="http://twitter.com/upontheborder" class="twitter-follow-button" title="Follow @upontheborder" data-lang="en" target="_blank">@upontheborder</a></div></div></div></div>
+  <div id=home_box_3><div id="text-2" class="widget widget_text"><h2>Mailing List</h2>			<div class="textwidget"><div class=mailinglist>
+
+
+<!-- Fast Secure Contact Form plugin 4.0.52 - begin - FastSecureContactForm.com -->
+<div style="clear:both;"></div>
+Sign up for news and tour updates via email.
+<div id="FSContact1" style="width:550px;">
+<form action="http://www.ontheborderline.com/#FSContact1" id="fscf_form1" method="post">
+
+<div id="fscf_div_clear1_0" style="clear:both;">
+  <div id="fscf_div_field1_0" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+    <div style="width:90px; text-align:right; float:left; clear:left; padding-top:8px; padding-right:10px;color:#CCCCCC;">
+      <label style="text-align:left;" for="fscf_name1">Name:</label>
+    </div>
+    <div style="text-align:left; float:left; padding-top:10px;">
+      <input style="text-align:left; float:left; padding:2px; margin:0;width:175px;" type="text" id="fscf_name1" name="full_name" value=""  />
+    </div>
+  </div>
+</div>
+
+<div id="fscf_div_clear1_1" style="clear:both;">
+  <div id="fscf_div_field1_1" style="clear:left; float:left; width:99%; max-width:550px; margin-right:10px;">
+    <div style="width:90px; text-align:right; float:left; clear:left; padding-top:8px; padding-right:10px;color:#CCCCCC;">
+      <label style="text-align:left;" for="fscf_email1">Email:</label>
+    </div>
+    <div style="text-align:left; float:left; padding-top:10px;">
+      <input style="text-align:left; float:left; padding:2px; margin:0;width:175px;" type="text" id="fscf_email1" name="email" value=""  />
+    </div>
+  </div>
+</div>
+<div style="clear:both;"></div>
+        
+<div style="display:none;">
+     <label for="address21"><small>Leave this field empty</small></label>
+     <input type="text" name="address2" id="address21" value="" />
+</div>
+
+<div id="fscf_submit_div1" style="padding-left:225px; text-align:left; float:left; clear:left; padding-top:8px;">
+		<input type="submit" id="fscf_submit1" style="cursor:pointer; margin:0;" value="SIGN UP"  onclick="this.disabled=true; this.value='Submitting...'; this.form.submit();" /> 
+</div>
+
+<input type="hidden" name="fscf_submitted" value="0" />
+<input type="hidden" name="fs_postonce_1" value="5569eba6cd6add0552e6f19397e1d8fd,1516659837" />
+<input type="hidden" name="si_contact_action" value="send" />
+<input type="hidden" name="form_id" value="1" />
+<input type="hidden" name="mailto_id" value="1" />
+
+</form>
+</div>
+<div style="clear:both;"></div>
+
+<!-- Fast Secure Contact Form plugin 4.0.52 - end - FastSecureContactForm.com -->
+
+</div></div>
+		</div></div>
+  <div style='clear:both;'></div>
+		<div style='clear:both;'></div>
+
+		<div id="footer">
+			&copy;2018 On The Borderline. No part of this website can be used without written consent of the band.
+		</div>
+
+	</div>
+	
+	<script type="text/javascript">
+    	$(function() { $("#mainmenu ul").lavaLamp({fx: "easeOutBack", speed: 500 })});
+    </script>
+
+	
+
+
+
+
+
+<!-- <p class="small"> WassUp 1.9.3 timestamp: 2018-01-22 10:23:57PM UTC (10:23PM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201804'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2018Janaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"http:\/\/www.ontheborderline.com\/wp-admin\/admin-ajax.php","ci":"YToxOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoiaG9tZSI7fQ==.ea34d695f6d75c375e015e2f6998fe25"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-content/plugins/wp-slimstat/wp-slimstat.min.js'></script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://platform.twitter.com/widgets.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.ontheborderline.com/wp-content/plugins/si-contact-form/includes/fscf-scripts.js?ver=179'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-201804.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.5',blog:'37810054',post:'0',tz:'0',srv:'www.ontheborderline.com'} ]);
+	_stq.push([ 'clickTrackerInit', '37810054', '0' ]);
+</script>
+	
+</body>
+
+</html>

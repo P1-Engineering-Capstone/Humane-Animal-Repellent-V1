@@ -1,0 +1,515 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" id="vbulletin_html">
+  <head>
+    <title>Animal Forum - Discuss Animals and Pets. Enjoy our Pet Forums, Blogs, Articles and Photo Albums for Pets and Animal Lovers. - Page Not Found</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.animalforum.com" />
+<base href="http://www.animalforum.com/" /><!--[if IE]></base><![endif]-->
+<meta name="generator" content="vBulletin 4.2.3" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.animalforum.com/mobileapp/images/HiRes_Logo2_4.jpg"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.animalforum.com/mobileapp/images/HiRes_Logo2_3.jpg"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.animalforum.com/mobileapp/images/HiRes_Logo2_2.jpg"/>
+<link rel="apple-touch-icon-precomposed" href="http://www.animalforum.com/mobileapp/images/HiRes_Logo2_1.jpg"/>
+<meta name="format-detection" content="telephone=no"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-320x460.png" media="(device-width: 320px)" rel="apple-touch-startup-image"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-640x920.png" media="(device-width: 320px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-768x1004.png" media="(device-width: 768px) and (orientation: portrait)" rel="apple-touch-startup-image"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-1024x748.png" media="(device-width: 768px) and (orientation: landscape)" rel="apple-touch-startup-image"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-1536x2008.png" media="(device-width: 1536px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+<link href="https://s3.amazonaws.com/videologos/alig-start-2048x1496.png" media="(device-width: 1536px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image"/>
+<link rel="stylesheet" href="http://www.animalforum.com/mobileapp/style/add2home.css"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+<script type="text/javascript">
+var addToHomeConfig = {message2: "",message: "",textcolor: "#fffcff",bgcolor: "#000000",returningVisitor: true,animationIn: "drop",animationOut: "drop",startDelay:2000,lifespan:15000,expire:10,touchIcon:true};</script>
+<script type="text/javascript">
+function loadjsfile(filename){var fileref=document.createElement("script");fileref.setAttribute("type", "text/javascript");fileref.setAttribute("src", filename);if (typeof fileref !== "undefined") {document.getElementsByTagName("head")[0].appendChild(fileref);}}
+var ua = navigator.userAgent.toLowerCase();
+var isAndroid = ua.indexOf("android") > -1;
+if(isAndroid) {
+loadjsfile("http://www.animalforum.com/mobileapp/src/bookmark_bubble.js");
+} else {loadjsfile("http://www.animalforum.com/mobileapp/src/add2home.js");}
+</script><script>(function(a,b,c){if(c in b&&b[c]){var d,e=a.location,f=/^(a|html)$/i;a.addEventListener("click",function(a){d=a.target;while(!f.test(d.nodeName))d=d.parentNode;"href"in d&&(d.href.indexOf("http")||~d.href.indexOf(e.host))&&(a.preventDefault(),e.href=d.href)},!1)}})(document,window.navigator,"standalone")</script>
+
+
+	<link rel="Shortcut Icon" href="http://www.animalforum.com/favicons.ico" type="image/x-icon" />
+
+
+		<meta name="keywords" content="animal forum, animal topics, animal discussion, dog forum, cat forum, bird forum, fish forum, horses forum" />
+		<meta name="description" content="Animal Forum - The largest online discussion forum and community for any topics related to animals or pets." />
+
+
+
+	<meta property="fb:app_id" content="1428813823997617" />
+<meta property="og:site_name" content="Animal Forum - Discuss Animals and Pets. Enjoy our Pet Forums, Blogs, Articles and Photo Albums for Pets and Animal Lovers." />
+<meta property="og:description" content="Animal Forum - The largest online discussion forum and community for any topics related to animals or pets." />
+<meta property="og:url" content="http://www.animalforum.com" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash3/c10.10.160.160/164418_143855522442517_660289714_a.png" />
+
+
+
+
+	
+		<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js&amp;2.9.0/build/connection/connection-min.js"></script>
+	
+
+<script type="text/javascript">
+<!--
+	if (typeof YAHOO === 'undefined') // Load ALL YUI Local
+	{
+		document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=423"><\/script>');
+		document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=423"><\/script>');
+		var yuipath = 'clientscript/yui';
+		var yuicombopath = '';
+		var remoteyui = false;
+	}
+	else	// Load Rest of YUI remotely (where possible)
+	{
+		var yuipath = 'http://yui.yahooapis.com/2.9.0/build';
+		var yuicombopath = 'http://yui.yahooapis.com/combo';
+		var remoteyui = true;
+		if (!yuicombopath)
+		{
+			document.write('<script type="text/javascript" src="http://yui.yahooapis.com/2.9.0/build/connection/connection-min.js"><\/script>');
+		}
+	}
+	var SESSIONURL = "s=6fddcdc462ef9a10b86676ecf1cc2b06&";
+	var SECURITYTOKEN = "guest";
+	var IMGDIR_MISC = "images/styles/lifeEarth/misc";
+	var IMGDIR_BUTTON = "images/styles/lifeEarth/buttons";
+	var vb_disable_ajax = parseInt("0", 10);
+	var SIMPLEVERSION = "423";
+	var BBURL = "http://www.animalforum.com";
+	var LOGGEDIN = 0 > 0 ? true : false;
+	var THIS_SCRIPT = "404";
+	var RELPATH = "images/cat002.jpg";
+	var PATHS = {
+		forum : "",
+		cms   : "",
+		blog  : ""
+	};
+	var AJAXBASEURL = "http://www.animalforum.com/";
+// -->
+</script>
+<script type="text/javascript" src="http://www.animalforum.com/clientscript/vbulletin-core.js?v=423"></script>
+
+
+
+
+
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1480914111&amp;td=ltr&amp;sheet=bbcode.css,editor.css,popupmenu.css,reset-fonts.css,vbulletin.css,vbulletin-chrome.css,vbulletin-formcontrols.css," />
+
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1480914111&amp;td=ltr&amp;sheet=popupmenu-ie.css,vbulletin-ie.css,vbulletin-chrome-ie.css,vbulletin-formcontrols-ie.css,editor-ie.css" />
+	<![endif]-->
+
+
+    <link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1480914111&amp;td=ltr&amp;sheet=additional.css" />
+
+
+<meta http-equiv="Refresh" content="5; url=http://www.animalforum.com">
+
+  <link rel="stylesheet" type="text/css" href="css.php?styleid=3&amp;langid=1&amp;d=1480914111&amp;sheet=additional.css" />
+</head>
+  <body>
+    
+    	<div id="topBar"><div class="pageWrap">
+		<div class="searchBox">
+			
+			<!-- search form -->
+				<form action="search.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;do=process" method="post">
+				
+				<input type="hidden" name="securitytoken" value="guest" />
+				<input type="hidden" name="do" value="process" />
+					<ul>
+						<li><div class="searchInputBox"><input class="searchInput" type="text" name="query" tabindex="99" value="" /></div></li>
+						<li><input type="image" src="images/styles/lifeEarth/style/searchButton.gif" value="Search" alt="Submit" tabindex="100" /></li>
+					</ul>	
+				</form>
+			<!--/ search form -->
+			
+		</div>
+	
+		<a href="register.php?s=6fddcdc462ef9a10b86676ecf1cc2b06" rel="nofollow" class="registerButton"><img src="images/styles/lifeEarth/style/button-register.gif" alt="Register" /></a>
+	
+
+	
+
+	</div></div>
+
+	<div id="pageWrapper">
+		<div class="pageTop">
+			<div class="above_body"> <!-- closing tag is in template navbar -->
+			<div id="header" class="floatcontainer doc_header">
+				<a name="top" href="forum.php?s=6fddcdc462ef9a10b86676ecf1cc2b06" id="logo"><img src="images/styles/lifeEarth/style/logo.png" alt="Animal Forum - Discuss Animals and Pets. Enjoy our Pet Forums, Blogs, Articles and Photo Albums for Pets and Animal Lovers. - Powered by vBulletin" /></a>
+
+				
+				<div id="memberBox"><div class="memberBox">
+					<div class="memberBoxLeft"><div class="memberBoxRight">
+						<h3>Member Login&nbsp;&nbsp;&nbsp;
+<a id="fb_loginbtn" href="#"><img src="images/misc/facebook_login.gif" alt="The Facebook Platform" /></a>
+</h3>
+						<!-- login form -->
+						<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=423"></script>
+						<form id="navbar_loginform" action="login.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+
+						<ul class="clearfix">
+							<li class="inputPad"><div class="loginBoxInput"><input type="text" class="loginInput default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" /></div></li>
+							<li><div class="loginBoxInput"><input type="password" class="loginInput" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+					<input type="text" class="loginInput default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Password" style="display:none;" /></div></li>		
+						</ul>
+
+						<div class="memberBottom">
+							<div class="rememberMe">
+								<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" id="cb_cookieuser_navbar" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" /> Remember Me?</label>
+							</div>
+							<div class="submitButton">
+								<input type="image" src="images/styles/lifeEarth/style/loginButton.gif" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s" />
+							</div>
+						</div>						
+		<input type="hidden" name="s" value="6fddcdc462ef9a10b86676ecf1cc2b06" />
+		<input type="hidden" name="securitytoken" value="guest" />
+		<input type="hidden" name="do" value="login" />
+		<input type="hidden" name="vb_login_md5password" />
+		<input type="hidden" name="vb_login_md5password_utf" />
+		</form>
+			<script type="text/javascript">
+			YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+			YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+			vB_XHTML_Ready.subscribe(function()
+			{
+			//
+				YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);
+				YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);
+				YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);
+				YAHOO.util.Event.on('navbar_password', "blur", navbar_password);
+			});
+			
+			function navbar_username_focus(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == 'User Name')
+				{
+				//
+					textbox.value='';
+					textbox.style.color='#000000';
+				}
+			}
+
+			function navbar_username_blur(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				if (textbox.value == '')
+				{
+				//
+					textbox.value='User Name';
+					textbox.style.color='#777777';
+				}
+			}
+			
+			function navbar_password_hint(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");
+				YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");
+				YAHOO.util.Dom.get('navbar_password').focus();
+			}
+
+			function navbar_password(e)
+			{
+			//
+				var textbox = YAHOO.util.Event.getTarget(e);
+				
+				if (textbox.value == '')
+				{
+					YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");
+					YAHOO.util.Dom.setStyle('navbar_password', "display", "none");
+				}
+			}
+			</script>
+		<!-- / login form -->
+					</div></div>
+				</div></div>
+				
+			</div>
+
+    
+    <div id="navbar" class="navbar">
+	<div class="navLeft"><div class="navRight">
+	<ul id="navtabs" class="navtabs floatcontainer">
+		
+		
+	
+		<li  id="vbtab_whatsnew">
+			<a class="navtab" href="activity.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Recent Posts</a>
+		</li>
+		
+		
+
+	
+		<li  id="vbtab_blog">
+			<a class="navtab" href="blog.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Blogs</a>
+		</li>
+		
+		
+
+	
+		<li  id="vbtab_cms">
+			<a class="navtab" href="content.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Articles</a>
+		</li>
+		
+		
+
+	
+		<li class="selected" id="vbtab_forum">
+			<a class="navtab" href="forum.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Forum</a>
+		</li>
+		
+		
+			<ul class="floatcontainer">
+				
+					
+						
+							<li id="vbflink_newposts"><a href="search.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;do=getnew&amp;contenttype=vBForum_Post">New Posts</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_faq"><a href="faq.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">FAQ</a></li>
+						
+					
+				
+					
+						
+							<li id="vbflink_calendar"><a href="calendar.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Calendar</a></li>
+						
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_community">
+							<a href="javascript://" class="popupctrl">Community</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbclink_groups"><a href="group.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Groups</a></li>
+								
+									<li id="vbclink_albums"><a href="album.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Albums</a></li>
+								
+									<li id="vbclink_members"><a href="memberlist.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Member List</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_actions">
+							<a href="javascript://" class="popupctrl">Forum Actions</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbalink_mfr"><a href="forumdisplay.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;do=markread&amp;markreadhash=guest">Mark Forums Read</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						<li class="popupmenu" id="vbmenu_qlinks">
+							<a href="javascript://" class="popupctrl">Quick Links</a>
+							<ul class="popupbody popuphover">
+								
+									<li id="vbqlink_posts"><a href="search.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;do=getdaily&amp;contenttype=vBForum_Post">Today's Posts</a></li>
+								
+									<li id="vbqlink_leaders"><a href="showgroups.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">View Site Leaders</a></li>
+								
+									<li id="vsapaypal_listlink"><a href="misc.php??s=6fddcdc462ef9a10b86676ecf1cc2b06do=donlist">View Donations</a></li>
+								
+							</ul>
+						</li>
+					
+				
+					
+						
+							<li id="vsapaypal_donlink"><a href="misc.php??s=6fddcdc462ef9a10b86676ecf1cc2b06do=donate">Donate</a></li>
+						
+					
+				
+			</ul>
+		
+
+	
+		<li  id="tab_oty3_363">
+			<a class="navtab" href="http://www.animalforum.com/album.php">Photo Albums</a>
+		</li>
+		
+		
+
+	
+		<li  id="tab_mdkx_101">
+			<a target="_blank" class="navtab" href="https://dogboo.com">Dog T-Shirts</a>
+		</li>
+		
+		
+
+		
+	</ul>
+	</div></div>
+</div>
+</div><!-- closing div for above_body -->
+			<div id="welcomeBox">
+				<h2>Welcome to Animal Forum. The Web's best online community for Pet and Animal Lovers.
+
+</h2>
+
+					<p>If this is your first visit, be sure to
+		check out the <a href="faq.php??s=6fddcdc462ef9a10b86676ecf1cc2b06" target="_blank"><b>FAQ</b></a> by clicking the
+		link above. You may have to <a href="register.php??s=6fddcdc462ef9a10b86676ecf1cc2b06" target="_blank"><b>register</b></a>
+
+		before you can post: click the register link above to proceed.</p>
+
+			</div>
+			<div class="welcomeBoxBottom"><div class="welcomeBoxBL"><div class="welcomeBoxBR"></div></div></div>
+		</div>
+
+
+<!-- Custom Content Wrap -->
+<div id="breadcrumb" class="breadcrumb">
+	<div class="bcLeft"><div class="bcRight"><div class="bcBody">
+	<ul class="floatcontainer">
+		<li class="navbithome"><a href="index.php?s=6fddcdc462ef9a10b86676ecf1cc2b06" accesskey="1"><img src="images/styles/lifeEarth/misc/navbit-home.png" alt="Home" /></a></li>
+
+		
+		
+	<li class="navbit lastnavbit"><span>Page Not Found</span></li>
+
+	</ul>
+	<hr />
+
+	</div></div></div>
+</div>
+		<div id="contentMain"><div class="contentWrap">
+			<div class="contentLeft"><div class="contentRight">
+				<div class="contentTL"><div class="contentTR"><div class="contentBL"><div class="contentBR">
+					<div class="contentBodyWrap">
+<!-- Custom Content Wrap End -->
+<div class="body_wrapper1">
+
+
+
+<div id="ad_global_below_navbar"></div>
+
+
+
+    
+    <div class="standard_error">
+    <h2 class="blockhead">404 - Page Not Found</h2>
+	<div class="blockbody formcontrols">
+	  <div class="blockrow restore">
+        Sorry. We could not find the page you are looking for.<br /><br >If you followed a valid link, you may contact us to correct the problem.
+      </div>
+    </div>
+    </div>
+    <div class="clear"></div>
+    
+    
+<div style="clear: left">
+  
+  <div id="ad_global_above_footer"></div>
+</div>
+
+<div id="footer" class="floatcontainer footer">
+<div class="skinSelect">
+	<form action="forum.php" method="get" id="footer_select" class="footer_select">
+
+		
+		
+		
+	</form>
+</div>
+	
+	
+	<script type="text/javascript">
+	<!--
+		// Main vBulletin Javascript Initialization
+		vBulletin_init();
+	//-->
+	</script>
+        <script type="text/javascript" src="ajax.php?do=analytics&v=423"></script>
+</div>
+</div> <!-- closing div for body_wrapper -->
+<div class="below_body">
+ 
+
+	<div id="fb-root"></div>
+<script type="text/javascript" src="http://www.animalforum.com/clientscript/vbulletin_facebook.js?v=423"></script>
+
+<script type="text/javascript">
+<!--
+	loadFacebookAPI('en_US');
+	function fbAsyncInit()
+	{
+		vBfb = new vB_Facebook({
+			appid : "1428813823997617",
+			connected : 0,
+			active : 0,
+			autoreg : 1,
+			feed_newthread : 1,
+			feed_postreply : 1,
+			feed_blogentry : 1,
+			feed_blogcomment : 1,
+			feed_newarticle : 1,
+			feed_articlecomment : 1
+		});
+	}
+// -->
+</script>
+
+</div>
+
+
+<!-- Custom Content Wrap -->
+					</div>
+				</div></div></div></div>
+			</div></div>
+		</div></div>
+
+		<div id="footerNav">
+			<div class="footerNavLeft"><div class="footerNavRight clearfix">
+				<a href="forum.php?s=6fddcdc462ef9a10b86676ecf1cc2b06" id="footerLogo"><img src="images/styles/lifeEarth/style/footerLogo.png" alt="Animal Forum - Discuss Animals and Pets. Enjoy our Pet Forums, Blogs, Articles and Photo Albums for Pets and Animal Lovers. - Powered by vBulletin" /></a>
+								<ul>
+									<li><a href="sendmessage.php?s=6fddcdc462ef9a10b86676ecf1cc2b06" rel="nofollow" accesskey="9">Contact Us</a></li>
+									<li><a href="http://www.animalforum.com">Forums</a></li>
+									
+									
+									<li><a href="archive/index.php?s=6fddcdc462ef9a10b86676ecf1cc2b06">Archive</a></li>
+									
+									
+									
+									<li class="nobg"><a href="images/cat002.jpg#top" onclick="document.location.hash='top'; return false;">Top</a></li>
+								</ul>               
+			</div></div>
+		</div>
+		<div id="footerMain">
+			<a href="images/cat002.jpg#top" onclick="document.location.hash='top'; return false;" class="backTop">Back to Top</a>
+			<div class="copyright">
+				All times are GMT -6. The time now is <span class="time">03:55 PM</span>. 
+				<!-- Do not remove this copyright notice -->
+				Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.2.3 <br />Copyright &copy; 2018 vBulletin Solutions, Inc. All rights reserved. 
+				<!-- Do not remove this copyright notice -->	
+				<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+				<img src="http://www.animalforum.com/cron.php?s=6fddcdc462ef9a10b86676ecf1cc2b06&amp;rand=1516658154" alt="" width="1" height="1" border="0" />
+				<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+					 
+			</div>
+		</div>
+</div>
+<!-- Custom Content Wrap End -->
+  </body>
+</html>

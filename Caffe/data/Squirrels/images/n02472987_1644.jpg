@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>404 Not Found</title>
+<style type="text/css">
+    body {
+    	color: #222;
+    	background-color: #fff;
+    	font-family: sans-serif;
+    	line-height: 1.5em;
+    	}
+</style>
+</head>
+<body>
+
+
+
+<h1>404 Not Found</h1>
+
+<p>
+The requested URL (/jeff_camera.jpg)
+was not found on this server.
+</p>
+
+
+
+</body>
+</html>

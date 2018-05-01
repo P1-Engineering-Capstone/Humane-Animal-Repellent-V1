@@ -1,0 +1,385 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- WP Theme Header -->
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<title>Page not found | </title>
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://www.feedyourpets.com/wp-content/themes/pet_pantry/style.css?3" />
+
+<link rel="stylesheet" type="text/css" media="print" href="https://www.feedyourpets.com/wp-content/themes/pet_pantry/print.css" />
+
+<!--[if lte IE 6]>
+
+	<link rel="stylesheet" type="text/css" media="all" href="https://www.feedyourpets.com/wp-content/themes/pet_pantry/ie6.css" />
+
+	<script type="text/javascript" src="https://www.feedyourpets.com/wp-content/themes/pet_pantry/js/DD_belatedPNG_0.0.8a-min.js"></script>
+
+<![endif]--> 
+
+<script type="text/javascript" src="https://www.feedyourpets.com/wp-content/themes/pet_pantry/js/main.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		randomNo = Math.ceil(Math.random() * 1000000);
+		var url = '//www.feedyourpets.com/mm5/merchant.mvc?Screen=WP-BASKET&v='+ randomNo ;
+		$.get(url, function(data) {
+			if(data != 0){
+				$('#mini-basket').html(data);
+				// console.log (data);
+			}
+		});
+		var url = '//www.feedyourpets.com/mm5/merchant.mvc?Screen=WP-ACCT&v='+ randomNo;
+		$.get(url, function(data) {
+			if(data != 0){
+				$('#utility-wrapper').html(data);
+				// console.log (data);
+			}
+		});
+	});
+</script>
+    <script>var wds_params = [];</script>
+    
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found |" />
+<meta property="og:image" content="http://www.feedyourpets.com/wp-content/uploads/2016/09/cropped-logo.jpg" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found |" />
+<meta name="twitter:site" content="@feedyourpetscom" />
+<meta name="twitter:image" content="http://www.feedyourpets.com/wp-content/uploads/2016/09/cropped-logo.jpg" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.feedyourpets.com\/","name":"The Pet Pantry","alternateName":"Feed Your Pets","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.feedyourpets.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":["https:\/\/www.facebook.com\/feedyourpetscom\/","https:\/\/twitter.com\/feedyourpetscom"],"@id":"#organization","name":"The Pet Pantry","logo":"https:\/\/www.feedyourpets.com\/wp-content\/uploads\/2016\/09\/logo.jpg"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//ssl.p.jwpcdn.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.6 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-6950389-12';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-6950389-12', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.feedyourpets.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='formidable-css'  href='https://www.feedyourpets.com/wp-content/uploads/formidable/css/formidablepro.css?ver=12192343' type='text/css' media='all' />
+<link rel='stylesheet' id='form-manager-css-css'  href='https://www.feedyourpets.com/wp-content/plugins/wordpress-form-manager/css/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.feedyourpets.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='better-author-bio-div-css'  href='https://www.feedyourpets.com/wp-content/plugins/better-author-bio/better-author-bio-div.css?ver=4.9.2' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var fm_user_I18n = {"ajaxurl":"https:\/\/www.feedyourpets.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.feedyourpets.com/wp-content/plugins/wordpress-form-manager/js/userscripts.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"https:\/\/www.feedyourpets.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.feedyourpets.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.6'></script>
+<script type='text/javascript' src='https://www.feedyourpets.com/wp-content/plugins/dojo-updater/js/dojo.js?ver=1.11.2'></script>
+<script type='text/javascript' src='https://ssl.p.jwpcdn.com/6/9/jwplayer.js?ver=4.9.2'></script>
+<link rel='https://api.w.org/' href='https://www.feedyourpets.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.feedyourpets.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.feedyourpets.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<script async src="https://i.simpli.fi/dpx.js?cid=28223&action=100&segment=cbcthepetpantry&m=1&sifi_tuid=39256"></script>
+<script async src="https://i.simpli.fi/dpx.js?cid=28223&conversion=40&campaign_id=0&m=1&tid=viewthrough&sifi_tuid=45030"></script>
+<img src="https://bcp.crwdcntrl.net/5/c=3495/b=31897848" width="1" height="1"/><script type="text/javascript">jwplayer.defaults = { "ph": 2 };</script>
+            <script type="text/javascript">
+            if (typeof(jwp6AddLoadEvent) == 'undefined') {
+                function jwp6AddLoadEvent(func) {
+                    var oldonload = window.onload;
+                    if (typeof window.onload != 'function') {
+                        window.onload = func;
+                    } else {
+                        window.onload = function() {
+                            if (oldonload) {
+                                oldonload();
+                            }
+                            func();
+                        }
+                    }
+                }
+            }
+            </script>
+
+            	<!-- Activity name for this tag: The Pet Pantry Spotlight Tag -->
+	<script type='text/javascript'>
+	var axel = Math.random()+"";
+	var a = axel * 10000000000000;
+	document.write('<img src="https://pubads.g.doubleclick.net/activity;xsp=279379;ord='+ a +'?" width=1 height=1 border=0/>');
+	</script>
+	<noscript>
+	<img src="https://pubads.g.doubleclick.net/activity;xsp=279379;ord=1?" width=1 height=1 border=0/>
+	</noscript>
+<!-- All in one Favicon 4.5 --><link rel="shortcut icon" href="https://feedyourpets.com/wp-content/uploads/2012/03/favicon.jpg" />
+<script type="text/javascript" src="https://www.feedyourpets.com/wp-content/plugins/si-captcha-for-wordpress/captcha/si_captcha.js?ver=1516670466"></script>
+<!-- begin SI CAPTCHA Anti-Spam - login/register form style -->
+<style type="text/css">
+.si_captcha_small { width:175px; height:45px; padding-top:10px; padding-bottom:10px; }
+.si_captcha_large { width:250px; height:60px; padding-top:10px; padding-bottom:10px; }
+img#si_image_com { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_reg { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_log { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_side_login { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_checkout { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_jetpack { border-style:none; margin:0; padding-right:5px; float:left; }
+img#si_image_bbpress_topic { border-style:none; margin:0; padding-right:5px; float:left; }
+.si_captcha_refresh { border-style:none; margin:0; vertical-align:bottom; }
+div#si_captcha_input { display:block; padding-top:15px; padding-bottom:5px; }
+label#si_captcha_code_label { margin:0; }
+input#si_captcha_code_input { width:65px; }
+p#si_captcha_code_p { clear: left; padding-top:10px; }
+.si-captcha-jetpack-error { color:#DC3232; }
+</style>
+<!-- end SI CAPTCHA Anti-Spam - login/register form style -->
+
+<style type="text/css"></style>
+
+<style type="text/css">
+.synved-social-resolution-single {
+display: inline-block;
+}
+.synved-social-resolution-normal {
+display: inline-block;
+}
+.synved-social-resolution-hidef {
+display: none;
+}
+
+@media only screen and (min--moz-device-pixel-ratio: 2),
+only screen and (-o-min-device-pixel-ratio: 2/1),
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (min-device-pixel-ratio: 2),
+only screen and (min-resolution: 2dppx),
+only screen and (min-resolution: 192dpi) {
+	.synved-social-resolution-normal {
+	display: none;
+	}
+	.synved-social-resolution-hidef {
+	display: inline-block;
+	}
+}
+</style>
+<link type="text/css" href="/mm5/css/css.css" rel="stylesheet" media="screen, projection" />
+	
+</head>
+
+
+<!-- Activity name for this tag: The Pet Pantry Spotlight Tag --><script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.js"></script><!-- Activity name for this tag: The Pet Pantry Spotlight Tag --><div id="wrapper"><div id="header-box"><div id="logo-box">	<a href="https://www.feedyourpets.com"><img src="https://www.feedyourpets.com/mm5/graphics/header/pet-pantry-logo.gif" alt="The Pet Pantry" /></a></div><div id="search"><form action="https://www.feedyourpets.com/mm5/merchant.mvc?" method="post"><input type="text" value="Dig for..." id="search_input" name="Search" onfocus="if (this.value == 'Dig for...') this.value = '';"><input type="hidden" value="SRCH" name="Screen"><input type="hidden" value="FYP" name="Store_Code"><button type="submit" id="submit"><span data-icon="U"></span></button></form></div><!--tessst--><div id="utility-box"><!--tessst--><div id="utility-wrapper"><!--tess4st--><a href="https://www.feedyourpets.com/ACAD.html?" id="acct">Create An Account</a><!--test--><a href="https://www.feedyourpets.com/LOGN.html" id="login">Login</a></div><div id="social-sharing"><a href="https://www.facebook.com/pages/FeedYourPetscom/121189157908838" title="Facebook" target="_blank" id="bg-facebook" data-icon="&#xe093;"></a><a href="https://twitter.com/FeedYourPetsCom" title="Twitter" target="_blank" id="bg-twitter" data-icon="&#xe094;"></a><span class="phone-number">919.303.1990</span></div><div id="cart"><a href="https://www.feedyourpets.com/mm5/merchant.mvc?Screen=BASK&Store_Code=FYP" class="icon_cart_alt" id="mini-bask"><span id="js-mini-basket-count" class="notification basket-count bg-gold white">0</span></a></div><div class="clear"></div>	</div><div id="nav"><div class="menu-header"><ul class="menu" id="menu-primary-menu"><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/category/Products.html" id="menu-dogs">For Dogs</a><ul class="sub-menu"><li class="sub-cat"><a href="https://www.feedyourpets.com/category/foodByBrand.html">Food By Brand</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/allFoods.html">All Foods</a></li><li><a href="https://www.feedyourpets.com/category/ThePetPantry.html">The Pet Pantry</a></li><li><a href="https://www.feedyourpets.com/category/Acana.html">Acana</a></li><li><a href="https://www.feedyourpets.com/category/chickenSoup.html">Chicken Soup</a></li><li><a href="https://www.feedyourpets.com/category/daves.html">Daves</a></li><li><a href="https://www.feedyourpets.com/category/earthborn.html">Earthborn</a></li><li><a href="https://www.feedyourpets.com/category/natural-balance.html">Natural Balance</a></li><li><a href="https://www.feedyourpets.com/category/naturesVariety.html">Natures Variety</a></li><li><a href="https://www.feedyourpets.com/category/Orijen.html">Orijen</a></li><li><a href="https://www.feedyourpets.com/category/tasteOfTheWild.html">Taste of the Wild</a></li><li><a href="https://www.feedyourpets.com/category/zignature.html">Zignature</a></li>	<li><a href="https://www.feedyourpets.com/category/FoodsOnABudget.html">Foods On A Budget</a></li>	</ul></li>	<li class="sub-cat"><a href="https://www.feedyourpets.com/category/SearchbyLifeStage.html">Food by Life Stage</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/puppy.html">Puppy</a></li><li><a href="https://www.feedyourpets.com/category/adult.html">Adult</a></li><li><a href="https://www.feedyourpets.com/category/Senior.html">Senior</a></li>	</ul></li><li class="sub-cat"><a href="https://www.feedyourpets.com/category/SearchbySolutionDiet.html">Food by Diet Solution</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/allergies.html">Allergies</a></li><li><a href="https://www.feedyourpets.com/category/grainFree.html">Grain Free</a></li><li><a href="https://www.feedyourpets.com/category/hipJoint.html">Hip and Joint</a></li><li><a href="https://www.feedyourpets.com/category/sensitive.html">Sensitive</a></li><li><a href="https://www.feedyourpets.com/category/skinCoat.html">Skin and Coat</a></li><li><a href="https://www.feedyourpets.com/category/vegetarian.html">Vegetarian</a></li><li><a href="https://www.feedyourpets.com/category/weightControl.html">Weight Control</a></li><li><a href="https://www.feedyourpets.com/category/Veterinary.html">Veterinary Select Diets</a></li></ul></li><li><a href="https://www.feedyourpets.com/category/dogCannedFood.html">Dog Canned Food</a></li><li class="sub-cat"><a href="https://www.feedyourpets.com/category/DogTreats.html">Dog Treats</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/dogTreatsAllergies.html">Dog Treats Allergies</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsBiscuits.html">Dog Treats Biscuits</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsDentalChews.html">Dog Treats Dental Chews</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsGrainFree.html">Dog Treats Grain Free</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsHardChews.html">Dog Treats Hard Chews</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsHipJoint.html">Dog Treats Hip and Joint</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsLightTreats.html">Dog Treats Light Treats</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsSkinCoat.html">Dog Treats Skin and Coat</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsSoftChews.html">Dog Treats Soft Chews</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsWithBenefits.html">Dog Treats with Supplements</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsRawhide.html">Dog Treats Rawhide</a></li><li><a href="https://www.feedyourpets.com/category/dogTreatsAllTreats.html">Dog Treats All Treats</a></li>	</ul>	</li>	<li><a href="https://www.feedyourpets.com/category/DogToysAccessories.html">Dog Toys & Accessories</a></li><li><a href="https://www.feedyourpets.com/category/DogFleaTick.html">Dog Flea & Tick</a></li><li><a href="https://www.feedyourpets.com/category/dogGrooming.html">Dog Grooming</a></li></ul></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/category/CatProducts.html" id="menu-cats">For Cats</a><ul class="sub-menu"><li class="sub-cat"><a href="https://www.feedyourpets.com/category/catSearchByBrand.html">Food By Brand</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/catAllFoods.html">All Foods</a></li>	<li><a href="https://www.feedyourpets.com/category/catThePetPantry.html">The Pet Pantry</a></li><li><a href="https://www.feedyourpets.com/category/catchickenSoup.html">Chicken Soup</a></li><li><a href="https://www.feedyourpets.com/category/catdaves.html">Daves</a></li><li><a href="https://www.feedyourpets.com/category/catearthborn.html">Earthborn</a></li><li><a href="https://www.feedyourpets.com/category/catNaturalBalance.html">Natural Balance</a></li>	<li><a href="https://www.feedyourpets.com/category/catnaturesVariety.html">Natures Variety</a></li><li><a href="https://www.feedyourpets.com/category/cattasteOfTheWild.html">Taste of the Wild</a></li><li><a href="https://www.feedyourpets.com/category/catFoodsOnABudget.html">Foods On A Budget</a></li>	<li><a href="https://www.feedyourpets.com/category/catOrijenAcana.html">Orijen Acana</a></li>	</ul></li>	<li class="sub-cat"><a href="https://www.feedyourpets.com/category/catSearchByLifeStage.html">Food by Life Stage</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/kittenLifeStage.html">Kitten Life Stage</a></li><li><a href="https://www.feedyourpets.com/category/catAdultLifeStage.html">Cat Adult Life Stage</a></li><li><a href="https://www.feedyourpets.com/category/seniorCatLifeStage.html">Senior Cat Life Stage</a></li>	</ul></li><li class="sub-cat"><a href="https://www.feedyourpets.com/category/catSearchBySolutionDiets.html">Food by Diet Solution</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/catAllergies.html">Allergies</a></li><li><a href="https://www.feedyourpets.com/category/catGrainFree.html">Grain Free</a></li><li><a href="https://www.feedyourpets.com/category/catHairball.html">Hairball</a></li><li><a href="https://www.feedyourpets.com/category/catSensitive.html">Sensitive</a></li><li><a href="https://www.feedyourpets.com/category/catWeightControl.html">Weight Control</a></li><li><a href="https://www.feedyourpets.com/category/catVeterinary.html">Veterinary Select Diets</a></li></ul></li><li><a href="https://www.feedyourpets.com/category/CatCanFood.html">Cat Canned Food</a></li><li><a href="https://www.feedyourpets.com/category/catLitterCatCategory.html">Cat Litter</a></li><li class="sub-cat"><a href="https://www.feedyourpets.com/category/CatTreats.html">Cat Treats</a><ul class="third-level"><li><a href="https://www.feedyourpets.com/category/catTreatsAllergies.html">Cat Treats Allergies</a></li><li><a href="https://www.feedyourpets.com/category/catTreatsHairball.html">Cat Treats Hairball</a></li><li><a href="https://www.feedyourpets.com/category/catTreatsWithBenefits.html">Cat Treats With Benefits</a></li><li><a href="https://www.feedyourpets.com/category/catTreatsWeightControl.html">Cat Treats Weight Control</a></li><li><a href="https://www.feedyourpets.com/category/catAllTreats.html">Cat All Treats</a></li></ul>	</li>	<li><a href="https://www.feedyourpets.com/category/catCatToys.html">Cat Toys & Accessories</a></li><li><a href="https://www.feedyourpets.com/category/CatFleaTickPrevention.html">Cat Flea & Tick</a></li></ul></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/category/wildbird.html" id="menu-wild-bird">Wild Bird Seed</a></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/category/OtherPet.html" id="menu-food">Other Animal Food</a><ul class="sub-menu"><li><a href="https://www.feedyourpets.com/category/SmallMammal.html">Rabbit, Guinea Pig, etc.</a></li></ul></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/referral" id="menu-programs">Programs</a><ul class="sub-menu"><li><a href="https://www.feedyourpets.com/h-e-a-l/">H.E.A.L.</a></li><li><a href="https://www.feedyourpets.com/referral/">Refer Your Friends and Family</a></li><li><a href="https://www.feedyourpets.com/the-pet-pantry-pals/">The Pet Pantry Pals</a></li><li><a href="https://www.feedyourpets.com/friends-links/">Friends Links</a></li></ul></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/contact-us/" id="menu-blog">Contact Us</a></li><li class="first-level"><a class="first-level-link" href="https://www.feedyourpets.com/about-us/" id="menu-contact">About Us</a><ul class="sub-menu"><li><a href="https://www.feedyourpets.com/about-us/">About Us</a><li><a href="https://www.feedyourpets.com/testimonials/">Testimonials</a></li><li><a href="https://www.feedyourpets.com/our-ingredients/">Our Ingredients</a></li><li><a href="https://www.feedyourpets.com/faqs/">FAQs</a></li></ul></li></ul></div></div>
+</div>
+	<div id="content_area">
+		
+			<h1 class="clear">404</h1>
+			<p style="text-align: center;"><img src="http://www.feedyourpets.com/wp-content/uploads/2016/07/pablo-2.png" width=500 height=250> </p>
+			<li class="pagenav">Pages<ul><li class="page_item page-item-7"><a href="https://www.feedyourpets.com/about-us/">About Us</a></li>
+<li class="page_item page-item-335 current_page_parent"><a href="https://www.feedyourpets.com/blog/">Blog</a></li>
+<li class="page_item page-item-29"><a href="https://www.feedyourpets.com/contact-us/">Contact</a></li>
+<li class="page_item page-item-33"><a href="https://www.feedyourpets.com/delivery-in-my-neighborhood/">Delivery in my Neighborhood</a></li>
+<li class="page_item page-item-1977"><a href="https://www.feedyourpets.com/devhomepage/">devHomepage</a></li>
+<li class="page_item page-item-11"><a href="https://www.feedyourpets.com/faqs/">FAQs</a></li>
+<li class="page_item page-item-27"><a href="https://www.feedyourpets.com/friends-links/">Friends&#8217; Links</a></li>
+<li class="page_item page-item-21"><a href="https://www.feedyourpets.com/h-e-a-l/">H.E.A.L.</a></li>
+<li class="page_item page-item-31"><a href="https://www.feedyourpets.com/how-do-we-compare/">How Do We Compare?</a></li>
+<li class="page_item page-item-13"><a href="https://www.feedyourpets.com/how-it-works/">How it Works</a></li>
+<li class="page_item page-item-19"><a href="https://www.feedyourpets.com/our-ingredients/">Ingredients</a></li>
+<li class="page_item page-item-2003"><a href="https://www.feedyourpets.com/oneclick-thank-you/">OneClick Thank You</a></li>
+<li class="page_item page-item-163"><a href="https://www.feedyourpets.com/pals-submission-form/">Pals Submission Form</a></li>
+<li class="page_item page-item-37"><a href="https://www.feedyourpets.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-23"><a href="https://www.feedyourpets.com/referral/">Refer Your Friends and Family</a></li>
+<li class="page_item page-item-35"><a href="https://www.feedyourpets.com/retail-locations/">Retail Locations</a></li>
+<li class="page_item page-item-371"><a href="https://www.feedyourpets.com/sample/">Sample Request Form</a></li>
+<li class="page_item page-item-2484"><a href="https://www.feedyourpets.com/testimonial-submission/">Testimonial Submission</a></li>
+<li class="page_item page-item-15"><a href="https://www.feedyourpets.com/our-testimonials/">Testimonials</a></li>
+<li class="page_item page-item-411"><a href="https://www.feedyourpets.com/thankyousubmit/">Thank you</a></li>
+<li class="page_item page-item-2017"><a href="https://www.feedyourpets.com/thank-you/">Thank You!</a></li>
+<li class="page_item page-item-25"><a href="https://www.feedyourpets.com/the-pet-pantry-pals/">The Pet Pantry Pals</a></li>
+<li class="page_item page-item-833"><a href="https://www.feedyourpets.com/video/">Watch to learn more about us</a></li>
+<li class="page_item page-item-1971"><a href="https://www.feedyourpets.com/welcome-to-the-pet-pantry-website/">Welcome to The Pet Pantry Website</a></li>
+<li class="page_item page-item-5 page_item_has_children"><a href="https://www.feedyourpets.com/">Welcome to The Pet Pantry!</a>
+<ul class='children'>
+	<li class="page_item page-item-722"><a href="https://www.feedyourpets.com/welcome-pet-pantry/heal/">Heal</a></li>
+</ul>
+</li>
+<li class="page_item page-item-9"><a href="https://www.feedyourpets.com/our-events/">Your New Best Friend!</a></li>
+</ul></li>		</div>
+		<!--<div id="sidebar">
+	<div class="sidebar_top"></div>
+	<div class="sidebar_wrap">
+		<div class="menu"><ul>
+<li class="page_item page-item-7"><a href="https://www.feedyourpets.com/about-us/">About Us</a></li>
+<li class="page_item page-item-335 current_page_parent"><a href="https://www.feedyourpets.com/blog/">Blog</a></li>
+<li class="page_item page-item-29"><a href="https://www.feedyourpets.com/contact-us/">Contact</a></li>
+<li class="page_item page-item-33"><a href="https://www.feedyourpets.com/delivery-in-my-neighborhood/">Delivery in my Neighborhood</a></li>
+<li class="page_item page-item-1977"><a href="https://www.feedyourpets.com/devhomepage/">devHomepage</a></li>
+<li class="page_item page-item-11"><a href="https://www.feedyourpets.com/faqs/">FAQs</a></li>
+<li class="page_item page-item-27"><a href="https://www.feedyourpets.com/friends-links/">Friends&#8217; Links</a></li>
+<li class="page_item page-item-21"><a href="https://www.feedyourpets.com/h-e-a-l/">H.E.A.L.</a></li>
+<li class="page_item page-item-31"><a href="https://www.feedyourpets.com/how-do-we-compare/">How Do We Compare?</a></li>
+<li class="page_item page-item-13"><a href="https://www.feedyourpets.com/how-it-works/">How it Works</a></li>
+<li class="page_item page-item-19"><a href="https://www.feedyourpets.com/our-ingredients/">Ingredients</a></li>
+<li class="page_item page-item-2003"><a href="https://www.feedyourpets.com/oneclick-thank-you/">OneClick Thank You</a></li>
+<li class="page_item page-item-163"><a href="https://www.feedyourpets.com/pals-submission-form/">Pals Submission Form</a></li>
+<li class="page_item page-item-37"><a href="https://www.feedyourpets.com/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-23"><a href="https://www.feedyourpets.com/referral/">Refer Your Friends and Family</a></li>
+<li class="page_item page-item-35"><a href="https://www.feedyourpets.com/retail-locations/">Retail Locations</a></li>
+<li class="page_item page-item-371"><a href="https://www.feedyourpets.com/sample/">Sample Request Form</a></li>
+<li class="page_item page-item-2484"><a href="https://www.feedyourpets.com/testimonial-submission/">Testimonial Submission</a></li>
+<li class="page_item page-item-15"><a href="https://www.feedyourpets.com/our-testimonials/">Testimonials</a></li>
+<li class="page_item page-item-411"><a href="https://www.feedyourpets.com/thankyousubmit/">Thank you</a></li>
+<li class="page_item page-item-2017"><a href="https://www.feedyourpets.com/thank-you/">Thank You!</a></li>
+<li class="page_item page-item-25"><a href="https://www.feedyourpets.com/the-pet-pantry-pals/">The Pet Pantry Pals</a></li>
+<li class="page_item page-item-833"><a href="https://www.feedyourpets.com/video/">Watch to learn more about us</a></li>
+<li class="page_item page-item-1971"><a href="https://www.feedyourpets.com/welcome-to-the-pet-pantry-website/">Welcome to The Pet Pantry Website</a></li>
+<li class="page_item page-item-5 page_item_has_children"><a href="https://www.feedyourpets.com/">Welcome to The Pet Pantry!</a>
+<ul class='children'>
+	<li class="page_item page-item-722"><a href="https://www.feedyourpets.com/welcome-pet-pantry/heal/">Heal</a></li>
+</ul>
+</li>
+<li class="page_item page-item-9"><a href="https://www.feedyourpets.com/our-events/">Your New Best Friend!</a></li>
+</ul></div>
+	</div>
+	<div class="sidebar_end"></div>
+  
+    <div class="face-box" style="margin:10px 0 0;"><a href="https://www.facebook.com/pages/FeedYourPetscom/121189157908838" target="_blank"><img src="https://www.feedyourpets.com/wp-content/themes/pet_pantry/img/facebook.jpg" alt="facebook" /></a></div>
+    
+    <div style="margin:10px 0;"><a href="/blog"><img src="https://www.feedyourpets.com/wp-content/themes/pet_pantry/img/blog.jpg" alt="blog" /></a></div>
+<a class="twitter-timeline" href="https://twitter.com/FeedYourPetsCom" data-widget-id="621745977456787456">Tweets by @FeedYourPetsCom</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+    
+  <div class="clear"></div>
+</div>	
+		<div class="clear"></div>
+	</div><!-- end div#content -->
+	<script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script src="https://www.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript"><!--var screenCode = "WP-FOOTER";var pageTracker = _gat._getTracker("UA-6950389-12");pageTracker._trackPageview('/page/' + screenCode + '.html');// --></script><footer class="bg-gray2 footer"><div class="row wrap"><div class="footer-customer-service"><h5>Customer Service</h5><ul class="footer-ul"><li><a href="/" target="_self">Home</a></li><li><a href="/about-us/" target="_self">About Us</a></li><li><a href="/referral/" target="_self">Programs</a></li><li><a href="/blog/" target="_self">Blog</a></li></ul><ul class="footer-ul"><li><a href="/contact-us/" target="_self">Contact</a></li><li><a href="/delivery-in-my-neighborhood/" target="_self">Home Delivery</a></li><li><a href="/sample/" target="_self">Try a Sample</a></li></ul></div><div class="footer-products"><h5>Products</h5><div id="js-footer-links"><ul class="footer-ul"><li><a href="/category/Products.html" target="_self">Dog Products</a></li><li><a href="/category/CatProducts.html" target="_self">Cat Products</a></li><li><a href="/category/wildbird.html" target="_self">Wild Bird Seed & Feeders</a></li><li><a href="/category/OtherPet.html" target="_self">Other Animal Food</a></li></ul><ul class="footer-ul"><li><a href="/category/FoodBin.html" target="_self">Bins</a></li><li><a href="/category/retailLocations.html" target="_self">Retail Locations</a></li></ul></div></div><div class="footer-social-media"><h5 class="hide medium-show">Social Media</h5><ul class="footer-ul"><a href="https://www.facebook.com/pages/FeedYourPetscom/121189157908838" title="Facebook" target="_blank" id="bg-facebook" data-icon="&#xe093;"></a><a href="https://twitter.com/FeedYourPetsCom" title="Twitter" target="_blank" id="bg-twitter" data-icon="&#xe094;"></a></ul><div id="icons-footer"><a href="https://www.bbb.org/raleigh-durham/business-reviews/retail-pet-supplies/the-pet-pantry-in-apex-nc-90205850"> <img src="https://www.feedyourpets.com/mm5/graphics/betterbusinessbureau.png" width="auto" height="55" style="padding-right: 10px" data-pin-nopin="true"></a><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><!-- webbot bot="HTMLMarkup" startspan --><!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. --><script language="javascript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><!-- end GeoTrust Smart Icon tag --><!-- webbot bot="HTMLMarkup" endspan --></div></div><div class="clearfix"></div><div id="footer-bottom" style="float:left"><span><a href="/privacy-policy/">Privacy Policy</a> 2014 The Pet Pantry | 919-303-1990 | 2521 Schieffelin Rd. Suite 132. Apex, NC 27502</span></div></div></footer><!-- Google Code for Remarketing Tag --><!--------------------------------------------------Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: https://google.com/ads/remarketingsetup---------------------------------------------------><script type="text/javascript">/* <![CDATA[ */var google_conversion_id = 870803087;var google_custom_params = window.google_tag_params;var google_remarketing_only = true;/* ]]> */</script><script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script><noscript><div style="display:inline;"><img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/870803087/?guid=ON&amp;script=0"/></div></noscript><script type="text/javascript" src="/mm5/jscripts/plugins.js"></script><script type="text/javascript" src="/mm5/jscripts/mvscreen.js"></script><!--<link rel="stylesheet" type="text/css" href="jscripts/slick-1.6.0/slick/slick.css"/>--><!--<link rel="stylesheet" type="text/css" href="jscripts/slick-1.6.0/slick/slick-theme.css"/>--><!--<script type="text/javascript" src="jscripts/slick-1.6.0/slick/slick.min.js"></script>--><script type="text/javascript"><!--var _gaq = _gaq || [];_gaq.push(['_setAccount', 'UA-6950389-12']);_gaq.push(['_trackPageview']);(function() {var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);})();// --></script>
+<script language="JavaScript">
+<!--
+var Product_Code = '';
+var Screen = 'WP-FOOTER';
+//-->
+</script>
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', '', 'auto');
+
+
+ga( 'send', 'pageview', { 'page':'\/WP-FOOTER.html' } );
+
+
+</script>
+
+    
+    <!-- end div#footer -->
+
+</div><!-- end div#wrapper -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 870803087;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/870803087/?guid=ON&script=0"/>
+</div>
+</noscript><script type='text/javascript' src='https://www.feedyourpets.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+
+<!-- Start of StatCounter Code for Default Guide -->
+
+<script type="text/javascript">
+
+var sc_project=7645036; 
+
+var sc_invisible=1; 
+
+var sc_security="ab13fa67"; 
+
+var sc_https=1; 
+
+var scJsHost = (("https:" == document.location.protocol) ?
+
+"https://secure." : "http://www.");
+
+document.write("<sc"+"ript type='text/javascript' src='" +
+
+scJsHost +
+
+"statcounter.com/counter/counter.js'></"+"script>");</script>
+
+<noscript><div class="statcounter"><a title="free hit
+
+counters" href="http://statcounter.com/free-hit-counter/"
+
+target="_blank"><img class="statcounter"
+
+src="https://c.statcounter.com/7645036/0/ab13fa67/1/"
+
+alt="free hit counters"></a></div></noscript>
+
+<!-- End of StatCounter Code for Default Guide -->
+
+
+<script src="/mm5/jscripts/compare.js">
+
+</body>
+
+</html>

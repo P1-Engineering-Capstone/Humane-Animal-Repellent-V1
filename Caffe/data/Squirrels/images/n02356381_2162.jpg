@@ -1,0 +1,57 @@
+<HTML>
+	<HEAD>
+		<TITLE>404 Page not found</TITLE>
+
+		<STYLE>
+		<!-- 
+		h1 {
+    			text-decoration: none;
+    			color: #3E6CC8;
+    			font-weight: bold;
+    			font-size: 10pt;
+    			font-family: helvetica,arial;
+   			}
+		a {
+    			text-decoration: none;
+    			color: #880000;
+    			font-weight: bold;
+    			font-size: 10pt;
+    			font-family: helvetica,arial;
+   			}
+		font.text {
+			text-decoration: none;
+			color: #000000;
+			font-weight: normal;
+			font-size: 10pt;
+			font-family: helvetica,arial;
+			}
+		-->
+		</STYLE>
+
+	</HEAD>
+
+<BODY BGCOLOR=#ffffff>
+
+<p>&nbsp;
+<p>
+<TABLE ALIGN=CENTER CELLSPACING=0 CELLPADDING=0 BORDER=0>
+<TR>
+	<TD>
+   	<IMG SRC="/global-bin/404.jpg" ALT="Error 404 Page not found" WIDTH=370 HEIGHT=93 align=MIDDLE>
+	&nbsp;
+        <IMG SRC="/global-bin/computer.gif" ALIGN=MIDDLE ALT="Guess what!">
+
+<FONT CLASS="text">
+<ALIGN=LEFT>
+<UL>
+<LI>The address could be spelled incorrectly. 
+<LI>The address may be old or outdated.
+<LI>This user may not exist.
+<p>You can contact our webmaster at <a href="mailto:webmaster@trivergent.net">webmaster@trivergent.net</a>, 
+or return to <a href="http://members.trivergent.net">http://members.trivergent.net</a>
+
+</TD></TR>
+</TABLE>
+
+</BODY>
+</HTML>

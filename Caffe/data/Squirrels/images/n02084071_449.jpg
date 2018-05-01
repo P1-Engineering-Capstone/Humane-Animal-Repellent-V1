@@ -1,0 +1,80 @@
+<html xml:lang="en-GB" lang="en-GB">
+<head>
+<meta name="viewport" content="width=device-width">
+<title qtlid="74022">Website unavailable</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="en-GB">
+<meta http-equiv="description" name="description" content="Site Web indisponible">
+<meta name="robots" content="noindex, nofollow">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="pragma" content="no-cache">
+<style type="text/css" translate="none">
+                    @font-face {
+                        font-family: 'lato';
+                        src: url('/__ovh/common/font/lato-light-webfont.eot');
+                        src: url('/__ovh/common/font/lato-light-webfont.eot?#iefix') format('embedded-opentype'),
+                             url('/__ovh/common/font/lato-light-webfont.woff') format('woff'),
+                             url('/__ovh/common/font/lato-light-webfont.ttf') format('truetype'),
+                             url('/__ovh/common/font/lato-light-webfont.svg#latolight') format('svg');
+                        font-weight: 200;
+                        font-style: normal;
+                    }
+                    @font-face {
+                        font-family: 'lato';
+                        src: url('/__ovh/common/font/lato-regular-webfont.eot');
+                        src: url('/__ovh/common/font/lato-regular-webfont.eot?#iefix') format('embedded-opentype'),
+                             url('/__ovh/common/font/lato-regular-webfont.woff') format('woff'),
+                             url('/__ovh/common/font/lato-regular-webfont.ttf') format('truetype'),
+                             url('/__ovh/common/font/lato-regular-webfont.svg#latoregular') format('svg');
+                         font-weight: 400;
+                         font-style: normal;
+                    }
+                    html { font-size: 100%; }
+                    body { background-color: #F1F1F1; font-size: 0.8em; margin: 0; font-family: "lato", 'Arial'; padding: 8% 0 0 0; }
+                    div.wrapper { margin: 0 auto; padding: 0; max-width: 736px; text-align: center; }
+                    img { width: 100%; }
+                    hr { display: block; height: 0; font-size: 0; border: 0; border-bottom: solid 1px #494949; }
+                    .full { width: 100%; }
+                    table { width: 100%; }
+                    table tr td h3 { width: 100%; display: block; text-align: center; font-weight: 400; font-size: 1.7em; margin: 8px 0; line-height: 20px; }
+                    table tr td span { text-align: center; display: block; font-weight: 200; color #494949; font-size: 1em; }
+
+                    @media screen and (max-width: 681px) {
+                        div.wrapper { padding: 0 8px; }
+                        table tr td h3 { font-size: 1em; }
+                        table tr td span { font-size: 0.8em; }
+                    }
+                    #contact { display: none; }
+                </style>
+</head>
+<body><div class="wrapper">
+<span style="font-size: 3.7em; color: #494949; font-weight: 200;" qtlid="74035">Website </span><span style="font-size: 3.7em; color: #3267BF; font-weight: 400;" qtlid="74048">unavailable</span><br><p style="font-weight: 200; font-size: 1.2em; line-height: 20px; color: #494949;" qtlid="74061;74074">
+                        This site is currently suspended.
+                        <br>
+                        The site administrator has been informed.
+                    </p>
+<br><br><img src="/__ovh/common/img/schema.png" style="margin: 20px 0;" qtlid_src="74087"><br><table cellpadding="0" cellspacing="0" border="0"><tr>
+<td style="width: 22%;">
+<h3 style="color: #86A81D;" qtlid="74100">You</h3>
+<span qtlid="74113">Internet browser</span>
+</td>
+<td style="width: 15%;"></td>
+<td style="width: 22%">
+<h3 style="color: #86A81D;" qtlid="74126">Web host</h3>
+<span><br></span>
+</td>
+<td style="width: 15%;"></td>
+<td style="width: 24%;">
+<h3 style="color: #494949;" qtlid="74035">Website</h3>
+<span qtlid="74139">Site access</span>
+</td>
+<td style="width: 3%;"></td>
+</tr></table>
+<br><br><p id="contact" style="font-weight: 200; font-size: 1.2em; line-height: 20px; color: #3267BF;" qtlid="74412;74165">
+                        Contact the website manager/owner
+                        <br>
+                        to process operations properly.
+                    </p>
+</div></body>
+</html>
+

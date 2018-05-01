@@ -1,0 +1,656 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<!-- InstanceBeginEditable name="title" -->
+<title>吉備高原都市</title>
+<!-- InstanceEndEditable -->
+<meta name="Description" content="「人間尊重」を理念に、豊かな福祉社会の実現を目指す吉備高原都市。自然や地域産業、そして教育や福祉など、人々の暮らしを支える要素が高度に調和しています。" />
+<meta name="Keywords" content="吉備高原,都市,自然,四季,観光,吉備中央町,加賀郡" />
+<meta name="author" content="" />
+<meta name="copyright" content="" />
+<meta name="robots" content="all" />
+<link href="common/css/import.css" rel="stylesheet" type="text/css" media="all" />
+<script type="text/javascript" src="common/js/rollover.js"></script>
+<script type="text/JavaScript">
+<!--
+window.onload=function() {
+   SizeChange();
+   initRollovers();
+}
+//-->
+</script>
+<!-- <script type="text/javascript" src="../common/js/swfobject.js"></script> -->
+<!-- InstanceBeginEditable name="head" -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js" type="text/javascript"></script>
+<link rel="stylesheet" href="common/css/slide.css" />
+<script type="text/javascript">
+
+
+  function displayImages(n) {
+    for(var i=1; i<=4; i++){
+      if (i == n) {
+      	$('#news_table_' + i).css("display","table");
+      } else {
+        $('#news_table_' + i).css("display","none");
+      }
+    }
+  }
+
+</script>
+<script type="text/JavaScript">
+<!--
+
+function topSlide() {
+
+  //スライドショー化する要素を取得
+  var $slideUl = $('#slideList');
+
+
+
+  //スライドショー化する画像枠を取得（想定ではli要素）
+  var $slideItem = $slideUl.find('li');
+
+  //liの数
+  var slideMax = $slideItem.length;
+
+
+  //ulの移動する量
+  var moveWidth =$slideItem.innerWidth();
+  //移動にかかる時間(ms)
+  var slideSpd = 800; 
+  //自動スライド間隔(ms)
+  var intervalTime = 5000;
+
+  //ulの幅をliの数に合わせて大きくする
+  $slideUl.width(slideMax*moveWidth);
+
+  //現在地
+  var currentStep = 0;
+
+  var timerID;
+
+  $slideUl.hide();
+  $slideUl.css("visibility","visible");
+  $slideUl.css('left', -(slideMax*moveWidth));
+  var $cloneList1 = $slideItem.clone();
+
+  $slideUl.width(slideMax*moveWidth*2);
+
+  $slideUl.append($cloneList1);
+
+  // $slideUl.show().animate({'left': -(slideMax*moveWidth)}, 1200, function(){
+  //   slideStart();
+  // });
+  $slideUl.show();
+  slideStart();
+  var nextMax = -1*((slideMax-1)*moveWidth*2);
+  var prevMax = -1*(moveWidth);
+
+  function slideStart() {
+    
+    slideTimer();
+    function slideTimer(){
+    timerID = setInterval(function(){
+      next();
+      },intervalTime);
+    }
+    
+    function next() {
+      clearInterval(timerID);
+      slideTimer();
+      $slideUl.not(":animated").animate({
+        'left':'-='+moveWidth
+      },slideSpd,function(){
+        if(parseInt($slideUl.css("left"), 10)<= nextMax){
+          $slideUl.css({"left":"+="+(slideMax*moveWidth)});
+        }
+      });
+    }
+    
+    
+    function prev() {
+      clearInterval(timerID);
+      slideTimer();
+      $slideUl.not(":animated").animate({
+        'left':'+='+moveWidth
+      },slideSpd,function(){
+        if(parseInt($slideUl.css("left"), 10) >= prevMax){
+          //$cloneList1.appendTo($slideUl);
+          $slideUl.css({"left":"-="+(slideMax*moveWidth)});
+        }
+      });
+    }
+    
+    //次へボタン
+    $('#topSlideNext').click(function(e){
+      e.preventDefault();
+      next();
+    });
+    
+    //前へボタン
+    $('#topSlidePrev').click(function(e){
+      e.preventDefault();
+      prev();
+    });
+    
+  }
+
+
+
+}
+//-->
+</script>
+<script type="text/JavaScript">
+<!--
+
+  $.when(
+    jQuery.get("usr/ajax.php", { c: 'top' },
+      function(data) {
+        $('#slideList').html(data);
+      }
+    )
+  ).done(function(data) {
+	 topSlide();
+  });
+  
+//-->
+</script>
+
+<!-- InstanceEndEditable -->
+<!-- InstanceParam name="bodyID" type="text" value="top" --><!-- InstanceParam name="g_menu" type="text" value="g_menu01" -->
+</head>
+<body id="top">
+<a name="pagetop" id="pagetop"></a>
+<div id="header_wrap">
+  <div id="header" class="clearfix">
+    <div id="header_content01" class="clearfix">
+      <div id="header_content01_l"><a href="index.php"><img src="common/img/h1.gif" width="229" height="44" alt="吉備高原都市" /></a></div>
+      <div id="header_content01_r">
+        <p class="space02 tel01"><img src="common/img/img_header01.gif" width="174" height="18" alt="TEL 0866-56-8255" /></p>
+        <div id="header_content02" class="clearfix">
+          <div id="header_content02_l" class="clearfix">
+            <div id="header_content02_l_a"><img src="common/img/img_header02.gif" width="66" height="20" alt="サイト内検索" /></div>
+            <div id="header_content02_l_b">
+              <form action="http://www.google.com/search" method="get">
+                <input type="hidden" name="hl" value="ja">
+                <input type="hidden" name="as_sitesearch" value="http://www.kibicity.ne.jp/">
+                <input class="text" type="text" name="q" size="14" value="">
+                <input class="button" type="submit" value="検索">
+              </form>
+            </div>
+          </div>
+          <div id="header_content02_c"><img src="common/img/img_header04.gif" width="65" height="20" alt="文字の大きさ" /><script type="text/javascript" src="common/js/fontsizechange.js"></script></div>
+          <div id="header_content02_r"><a href="contact/"><img class="imgover" src="common/img/btn_header04.gif" width="97" height="20" alt="お問い合わせ" /></a></div>
+        </div>
+      </div>
+    </div>
+    <!-- /header --> 
+  </div>
+</div>
+<div id="container">
+  <ul id="g_menu" class="clearfix">
+    <li><a href="index.php"><img src="common/img/gmenu01_o.gif" width="160" height="50" alt="ホーム" /></a></li>
+    <li><a href="appeal/index.html"><img class="imgover" src="common/img/gmenu02.gif" width="160" height="50" alt="5分でわかる吉備高原都市の魅力" /></a></li>
+    <li><a href="living/index.html"><img class="imgover" src="common/img/gmenu03.gif" width="160" height="50" alt="住区販売のご案内" /></a></li>
+    <li><a href="facility/index.html"><img class="imgover" src="common/img/gmenu04.gif" width="160" height="50" alt="きびプラザ貸出施設の利用" /></a></li>
+    <li><a href="shop/index.html"><img class="imgover" src="common/img/gmenu05.gif" width="160" height="50" alt="きびプラザ店舗案内" /></a></li>
+    <li><a href="access/index.html"><img class="imgover" src="common/img/gmenu06.gif" width="160" height="50" alt="交通アクセス" /></a></li>
+  </ul>
+  <h2><!-- InstanceBeginEditable name="EditRegion5" -->
+    <div id="main_pic">
+      <div id="topSlide">
+        <div id="topSlideInner">
+          <ul id="slideList">
+          </ul>
+          <ul class="slideMask">
+            <li id="slideMaskPrev"></li>
+            <li id="slideMaskNext"></li>
+          </ul>
+          <ul class="topSlideBtn">
+            <li id="topSlidePrev"><a href="javascript:void(0)"><img src="img/btn_prev.png" width="37" height="72" alt="←" /></a></li>
+            <li id="topSlideNext"><a href="javascript:void(0)"><img src="img/btn_next.png" width="37" height="71" alt="→" /></a></li>
+          </ul>
+        </div>
+        <!--/#topSlide--></div>
+    </div>
+    <!-- InstanceEndEditable --></h2>
+  <div id="topic_path"><a href="../">ホーム</a> > <!-- InstanceBeginEditable name="EditRegion4" -->自然・環境<!-- InstanceEndEditable --> </div>
+  <div id="wrap" class="clearfix">
+    <div id="sidebar"><!-- InstanceBeginEditable name="EditRegion6" --><!-- InstanceEndEditable --> 
+      
+      <!-- /sidebar --> 
+    </div>
+    <div id="main"> <!-- InstanceBeginEditable name="main" -->
+      <div id="top_content01" class="clearfix">
+        <div id="top_content01_l">
+          <div class="title01 clearfix">
+            <div class="title01_l"><img src="img/img01.gif" alt="トピックス" width="242" height="52" border="0" /></div>
+            <div class="title01_r"><a href="topics/"><img class="imgover" src="img/btn05.gif" width="80" height="24" alt="一覧を見る" /></a></div>
+          </div>
+          <div id="top_content02">
+            <div class="btn_wrap01"> <a href="javascript:void(0)" onclick="displayImages('1')"/><img src="img/btn01.gif" width="73" height="33" alt="すべて" /></a><a href="javascript:void(0)" onclick="displayImages('2')"/><img src="img/btn02.gif" width="73" height="33" alt="季節情報" /></a><a href="javascript:void(0)" onclick="displayImages('3')"/><img src="img/btn03.gif" width="73" height="33" alt="イベント" /></a><a href="javascript:void(0)" onclick="displayImages('4')"/><img src="img/btn04.gif" width="73" height="33" alt="エリア情報" /></a> </div>
+            <div id="top_content02_inner"> 
+              
+              <div id="news_table_1"style="display: table;">
+            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/15&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1516002704>吉備中央町中学生国際交流研修団報告会のお知らせ</a><br />
+                          吉備中央町出身の岡崎嘉平太氏と中国淮安市出身の周恩来総…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515997472%2F1515997472_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/15&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515997472>「吉備中央町図画展」 「細川流 盆石展」開催中！</a><br />
+                          岡崎嘉平太記念館では「吉備中央町図画展」「細川流 盆石…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515739447%2F1515739447_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/12&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515739447>あなたの願い事、ミニ絵馬にこめてみませんか？</a><br />
+                          今月１０日より、きびプラザ２階ギャラリーにて絵馬風クラ…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515042231%2F1515042231_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/4&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515042231>明けましておめでとうございます。</a><br />
+                          謹んで新年のお慶びを申し上げます。
+
+　旧年中はホーム…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1514439558%2F1514439558_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/28&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1514439558>きびプラザ正面に門松が設置されました。</a><br />
+                          いつもホームページ「吉備高原都市」をご覧いただきありが…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1514361472%2F1514361472_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/27&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1514361472>吉備高原都市「きびプラザ」年末年始のお知らせ</a><br />
+                          吉備高原都市「きびプラザ」の年末年始の営業日並びに臨時…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1513227627%2F1513227627_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/14&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1513227627>吉備高原都市に雪です。</a><br />
+                          今季一番の冷え込みでしょうか…
+吉備高原都市にも雪が降…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/12&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1513053399>岡崎嘉平太記念館よりお知らせです。</a><br />
+                          吉備高原都市「きびプラザ」１階にあります岡崎嘉平太記念…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1512607183%2F1512607183_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/7&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1512607183>暦の上では「大雪」です</a><br />
+                          師走に入り、グッと寒さを感じるようになりました。
+
+今…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1511849317%2F1511849317_1.jpg&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/11/28&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1511849317>吉備高原冬のイルミネーション「へそナリエ」点灯式を…</a><br />
+                          平成２９年１１月２５日（土）１７：００～
+吉備高原都市…</p>
+                </div>
+             </div>            <div id="top_content03_first02" class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1510623114%2F1510623114_1.jpg&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/11/14&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1510623114>吉備高原都市冬のイルミネーション「へそナリエ」点灯…</a><br />
+                          吉備高原都市冬の恒例イベントとなりました
+
+吉備高原都…</p>
+                </div>
+             </div>
+</div><div id="news_table_2"style="display: none;">
+            <div  class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1513227627%2F1513227627_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/14&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1513227627>吉備高原都市に雪です。</a><br />
+                          今季一番の冷え込みでしょうか…
+吉備高原都市にも雪が降…</p>
+                </div>
+             </div>            <div  class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1512607183%2F1512607183_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/7&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1512607183>暦の上では「大雪」です</a><br />
+                          師走に入り、グッと寒さを感じるようになりました。
+
+今…</p>
+                </div>
+             </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1510191377%2F1510191377_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/11/9&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1510191377>吉備高原都市秋が深まってきました。</a><br />
+                        吉備中央町では、朝夕の寒暖の差が出始め朝の気温が１０℃…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1507612091%2F1507612091_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/10/10&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1507612091>吉備高原都市内の街路樹が色づきはじめました。</a><br />
+                        １０月に入り、吉備高原都市周辺では、街路樹が色づき始め…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1506558187%2F1506558187_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/9/26&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1506558187>コスモスが咲き咲いています</a><br />
+                        秋の訪れを感じる吉備高原都市。
+町内では、稲刈りが終わ…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1505959235%2F1505959235_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/9/21&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1505959235>きびプラザに案山子がやってきました。</a><br />
+                        町内では、稲刈りが始まり、吉備中央町豊野地区で飾られて…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1505277198%2F1505277198_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/9/13&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1505277198>吉備中央町の秋の風物詩「豊野地区主基田の案山子」</a><br />
+                        吉備中央町豊野地区では「案山子まつり」が開催中です！
+…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1502682209%2F1502682209_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/8/14&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1502682209>吉備高原都市「きびプラザ」周辺でハスの花が咲いてい…</a><br />
+                        美しく幻想的な蓮の花。
+
+吉備高原都市「きびプラザ」周…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1491363815%2F1491363815_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/4/5&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1491363815>吉備中央町に春が来ました</a><br />
+                        吉備高原都市周辺ではつくしが顔を出し始めました。
+。
+…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1491364323%2F1491364323_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/4/1&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1491364323>きびプラザ館内に「カブト」を展示してます</a><br />
+                        吉備高原都市「きびプラザ」では館内に人形喜峰のご協力の…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1490935423%2F1490935423_1.JPG&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/3/31&nbsp<img src="./img/icon02.gif" width="50" height="16" alt="季節情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1490935423>なごり雪が降り始めました</a><br />
+                        吉備中央町は昼前より雨が降り始めました。
+昼からはみぞ…</p>
+              </div>
+           </div>
+</div>
+<div id="news_table_3"style="display: none;">
+            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515997472%2F1515997472_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/15&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515997472>「吉備中央町図画展」 「細川流 盆石展」開催中！</a><br />
+                          岡崎嘉平太記念館では「吉備中央町図画展」「細川流 盆石…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515739447%2F1515739447_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/12&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515739447>あなたの願い事、ミニ絵馬にこめてみませんか？</a><br />
+                          今月１０日より、きびプラザ２階ギャラリーにて絵馬風クラ…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1511849317%2F1511849317_1.jpg&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/11/28&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1511849317>吉備高原冬のイルミネーション「へそナリエ」点灯式を…</a><br />
+                          平成２９年１１月２５日（土）１７：００～
+吉備高原都市…</p>
+                </div>
+             </div>            <div id="top_content03_first02" class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1510623114%2F1510623114_1.jpg&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/11/14&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1510623114>吉備高原都市冬のイルミネーション「へそナリエ」点灯…</a><br />
+                          吉備高原都市冬の恒例イベントとなりました
+
+吉備高原都…</p>
+                </div>
+             </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1511580017%2F1511580017_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/11/25&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1511580017>吉備高原都市冬のイルミネーション、今日行います。</a><br />
+                        本日、午後１７時より吉備高原都市冬のイルミネーション「…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1511231976%2F1511231976_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/11/21&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1511231976>第７回吉備高原都市フットパスウォーク会が開催されま…</a><br />
+                        平成２９年１１月１９日（日）に第７回吉備高原都市フット…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1511234286%2F1511234286_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/11/20&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1511234286>自然薯まつりが開催されました。</a><br />
+                        平成２９年１１月１９日（日）吉備高原都市センター区さん…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1510630741%2F1510630741_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/11/13&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1510630741>吉備中央マルシェ「お米マルシェ」が開催されました。</a><br />
+                        平成29年11月12日（日）に吉備中央マルシェ「お米マ…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1507597822%2F1507597822_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/10/10&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1507597822>吉備高原音楽祭２０１７[プレイベント]が開催されま…</a><br />
+                        吉備高原音楽祭２０１７　今、高原の風にメロディを
+のせ…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1507007942%2F1507007942_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/10/3&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1507007942>「吉備高原都市フットパスウォーク会」参加者募集のお…</a><br />
+                        第７回　「吉備高原都市フットパスウォーク会」参加者募集…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1507010355%2F1507010355_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/10/3&nbsp<img src="./img/icon04.gif" width="50" height="16" alt="イベント" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1507010355>「自然薯祭り」が開催されます。</a><br />
+                        平成２９年１１月１９日（日）吉備高原都市センター区さん…</p>
+              </div>
+           </div>
+</div>
+<div id="news_table_4"style="display: none;">
+            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/15&nbsp<img src="./img/icon01.gif" width="50" height="16" alt="NEW" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1516002704>吉備中央町中学生国際交流研修団報告会のお知らせ</a><br />
+                          吉備中央町出身の岡崎嘉平太氏と中国淮安市出身の周恩来総…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1515042231%2F1515042231_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2018/1/4&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1515042231>明けましておめでとうございます。</a><br />
+                          謹んで新年のお慶びを申し上げます。
+
+　旧年中はホーム…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1514439558%2F1514439558_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/28&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1514439558>きびプラザ正面に門松が設置されました。</a><br />
+                          いつもホームページ「吉備高原都市」をご覧いただきありが…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1514361472%2F1514361472_1.JPG&width=100&height=75"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/27&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1514361472>吉備高原都市「きびプラザ」年末年始のお知らせ</a><br />
+                          吉備高原都市「きびプラザ」の年末年始の営業日並びに臨時…</p>
+                </div>
+             </div>            <div class="top_content03 clearfix top_content03_first">
+                <div class="top_content03_l"></div>
+                <div class="top_content03_r">
+                    <p class="text01">2017/12/12&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                    <p>■ <a href=/topics/index.php?c=topics_1&pk=1513053399>岡崎嘉平太記念館よりお知らせです。</a><br />
+                          吉備高原都市「きびプラザ」１階にあります岡崎嘉平太記念…</p>
+                </div>
+             </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1507612598%2F1507612598_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/10/10&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1507612598>十字屋絵画展を開催しています。</a><br />
+                        きびプラザ１階中国銀行前では、環境問題についての絵画を…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1506559494%2F1506559494_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/9/28&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1506559494>岡崎嘉平太記念館　秋の企画展のお知らせ</a><br />
+                        きびプラザ一階の岡崎嘉平太記念館では、「岡崎嘉平太と日…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1504659821%2F1504659821_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/8/20&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1504659821>吉備高原都市「きびプラザ内」にある吉備中央町キッズ…</a><br />
+                        吉備中央町キッズパーク　１万人の来場者を迎えました！
+…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1495434988%2F1495434988_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/5/22&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=http://www.kibireha.jeed.or.jp/topics/2017/opencampus2017/opencampas_h29.pdf target=_blank>「吉備職リハオープンキャンパス」に開催のお知らせ</a><br />
+                        「吉備職リハオープンキャンパス」開催のお知らせ
+
+平成…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1486602541%2F1486602541_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/2/9&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1486602541>きびプラザ一階にて絵馬クラフト展示」を行っています</a><br />
+                        先月まで２Ｆギャラリーにて国立吉備青少年自然の家主催に…</p>
+              </div>
+           </div>          <div class="top_content03 clearfix">
+              <div class="top_content03_l"><img src="./usr/image.php?path=%2Fhome%2Fkibicity%2Fhtml%2Fimages%2Ftopics%2F1486100589%2F1486100589_1.jpg&width=100&height=75"></div>
+              <div class="top_content03_r">
+                  <p class="text01">2017/2/3&nbsp<img src="./img/icon03.gif" width="50" height="16" alt="エリア情報" /></p>
+                  <p>■ <a href=/topics/index.php?c=topics_1&pk=1486100589>第1回嘉平太塾展示『岡崎嘉平太の書「創造」のいま-…</a><br />
+                        1月28日(土)～2月12日(日)の期間中、第1回嘉平…</p>
+              </div>
+           </div>
+</div> 
+              
+            </div>
+          </div>
+          <p><img src="img/img_content02_bottom.gif" width="344" height="20" alt="-" /></p>
+        </div>
+        <div id="top_content01_r">
+          <p><img src="img/img02.gif" width="604" height="52" alt="センター施設「きびプラザ」吉備高原都市のセンター施設。" /></p>
+          <div id="top_content04">
+            <table width="560" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="285"><a href="facility/index.html"><img class="over" src="img/bnr01.jpg" width="275" height="110" alt="きびプラザの貸出施設を利用したい方" /></a></td>
+                <td><a href="shop/index.html"><img class="over" src="img/bnr02.jpg" width="275" height="110" alt="きびプラザ 施設案内" /></a></td>
+              </tr>
+              <tr>
+                <td><p class="space01"><a href="facility/event.html#a01"><img class="img01 over" src="img/bnr03.jpg" width="135" height="53" alt="さんさん広場" /></a><a href="facility/event.html#a02"><img class="over" src="img/bnr04.jpg" width="135" height="53" alt="ギャラリー" /></a></p>
+                  <p><a href="facility/meeting.html"><img class="img01 over" src="img/bnr05.jpg" width="135" height="52" alt="会議室・研修室" /></a><a href="facility/tennis.html"><img class="over" src="img/bnr06.jpg" width="135" height="52" alt="テニスコート" /></a></p></td>
+                <td><a href="pdf/tenant1703.pdf" target="_blank"><img class="over" src="img/bnr07.jpg" width="275" height="110" alt="きびプラザ テナント募集" /></a></td>
+              </tr>
+              <tr>
+                <td><p class="space02"><a href="living/index.html"><img class="over" src="img/bnr08.jpg" width="275" height="83" alt="吉備高原都市 住区販売のご案内" /></a></p>
+                  <p class="space02"><a href="about/index.html#a01"><img class="over" src="img/bnr15.jpg" width="275" height="52" alt="備前焼・猪革製品販売中" /></a></p>
+                  <p><a href="footpath/"><img class="over" src="img/bnr16.jpg" width="275" height="52" alt="フットパスコース" /></a></p></td>
+                <td><div id="top_content06"><a href="http://118.103.130.146:80/viewer/live/index.html?lang=ja"><img class="over" src="livecamera.jpg" width="165" height="125" alt="吉備高原都市ライブカメラ" /></a></div></td>
+              </tr>
+            </table>
+          </div>
+          <p><img src="img/img_content04_bottom.gif" width="604" height="20" alt="-" /></p>
+        </div>
+      </div>
+      <h2 id="btn_box">
+        <p><img src="img/main_img.jpg" alt="やすらぎの高原都市" width="964" height="366" border="0" /></p>
+  <p class="btn01"><a href="appeal/nature.html"><img class="imgover" src="img/btn06.jpg" width="174" height="219" alt="自然・環境" /></a></p>
+  <p class="btn02"><a href="appeal/welfare.html"><img class="imgover" src="img/btn07.jpg" width="174" height="100" alt="保健・福祉" /></a></p>
+  <p class="btn03"><a href="appeal/culture.html"><img class="imgover" src="img/btn08.jpg" width="174" height="100" alt="教育・研究・文化" /></a></p>
+  <p class="btn04"><a href="appeal/industrial.html"><img class="imgover" src="img/btn09.jpg" width="174" height="110" alt="産業" /></a></p>
+  <p class="btn05"><a href="appeal/event.html"><img class="imgover" src="img/btn10_2.jpg" width="174" height="110" alt="イベント" /></a></p>
+      <div id="top_content05"><script src="./usr/js.php?c=top_banner"></script></div>
+      <!-- InstanceEndEditable --> 
+      <!-- /main --> 
+    </div>
+    <!-- /wrap --> 
+  </div>
+  <!-- /container --> 
+</div>
+<div id="footer_wrap">
+  <div class="page_top"><a href="#pagetop"><img class="over" src="common/img/img_pagetop.gif" width="100" height="33" alt="ページトップ" /></a></div>
+  <div id="footer">
+    <div id="footer_content01" class="clearfix">
+      <div id="footer_content01_l">
+        <p class="space01"><img src="common/img/img_footer01.gif" width="202" height="39" alt="吉備高原都市" />　<a href="about/index.html">吉備高原都市サービスについて</a></p>
+        <p>〒716-1241　岡山県加賀郡吉備中央町吉川4860-6 きびプラザ内<br />
+          TEL : 0866-56-8255　FAX : 0866-56-7843</p>
+      </div>
+      <div id="footer_content01_r">Copyright (C) kibicity -吉備高原都市サービス All Rights Reserved.<br />
+        このホームページに掲載されている記事・写真・図表などの無断転載を禁じます。</div>
+    </div>
+    
+    <!-- /footer --> 
+  </div>
+</div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47788054-1', 'kibicity.ne.jp');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

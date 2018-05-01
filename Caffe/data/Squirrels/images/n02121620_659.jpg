@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en-US" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:addthis="https://www.addthis.com/help/api-spec"  prefix="og: http://ogp.me/ns#">
+<head >
+<meta charset="UTF-8" />
+<title>Page not found | SparkleCat</title><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<!-- Social Warfare v2.3.3 https://warfareplugins.com -->
+<style>@font-face {font-family: "sw-icon-font";src:url("https://www.sparklecat.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.3");src:url("https://www.sparklecat.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.eot?ver=2.3.3#iefix") format("embedded-opentype"),url("https://www.sparklecat.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.woff?ver=2.3.3") format("woff"), url("https://www.sparklecat.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.ttf?ver=2.3.3") format("truetype"),url("https://www.sparklecat.com/wp-content/plugins/social-warfare/fonts/sw-icon-font.svg?ver=2.3.3#1445203416") format("svg");font-weight: normal;font-style: normal;}</style>
+<!-- Social Warfare v2.3.3 https://warfareplugins.com -->
+
+
+		<style type="text/css">
+			.slide-excerpt { width: 50%; }
+			.slide-excerpt { bottom: 0; }
+			.slide-excerpt { right: 0; }
+			.flexslider { max-width: 920px; max-height: 400px; }
+			.slide-image { max-height: 400px; }
+		</style>
+		<style type="text/css">
+			@media only screen
+			and (min-device-width : 320px)
+			and (max-device-width : 480px) {
+				.slide-excerpt { display: none !important; }
+			}
+		</style> 
+<!-- This site is optimized with the Yoast SEO plugin v5.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found | SparkleCat" />
+<meta property="og:site_name" content="SparkleCat" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Page not found | SparkleCat" />
+<meta name="twitter:site" content="@sparklecat" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.sparklecat.com\/","name":"SparkleCat, featuring Summer","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.sparklecat.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s7.addthis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="SparkleCat &raquo; Feed" href="https://feeds.feedburner.com/SparkleTheDesignerCat" />
+<link rel="alternate" type="application/rss+xml" title="SparkleCat &raquo; Comments Feed" href="https://www.sparklecat.com/comments/feed" />
+<link rel="alternate" type="text/calendar" title="SparkleCat &raquo; iCal Feed" href="https://www.sparklecat.com/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.sparklecat.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='mtq_CoreStyleSheets-css'  href='https://www.sparklecat.com/wp-content/plugins/mtouch-quiz/mtq_core_style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='mtq_ThemeStyleSheets-css'  href='https://www.sparklecat.com/wp-content/plugins/mtouch-quiz/mtq_theme_style.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-my-login-css'  href='https://www.sparklecat.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='modern-blogger-pro-css'  href='https://www.sparklecat.com/wp-content/themes/modernbloggerpro/style.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-polls-css'  href='https://www.sparklecat.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.73.7' type='text/css' media='all' />
+<style id='wp-polls-inline-css' type='text/css'>
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background: #e8ba23;
+	border: 1px solid #000000;
+}
+
+</style>
+<link rel='stylesheet' id='social_warfare-css'  href='https://www.sparklecat.com/wp-content/plugins/social-warfare/css/style.min.css?ver=2.3.3' type='text/css' media='all' />
+<link rel='stylesheet' id='simple-social-icons-font-css'  href='https://www.sparklecat.com/wp-content/plugins/simple-social-icons/css/style.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='addthis_all_pages-css'  href='https://www.sparklecat.com/wp-content/plugins/addthis/frontend/build/addthis_wordpress_public.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpss-style-css'  href='https://www.sparklecat.com/wp-content/plugins/wordpress-simple-survey/assets/build/css/wpss-pkg.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpss-custom-db-style-css'  href='https://www.sparklecat.com/?wpss-routing=custom-css&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='slider_styles-css'  href='https://www.sparklecat.com/wp-content/plugins/genesis-responsive-slider/style.css?ver=0.9.5' type='text/css' media='all' />
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://www.sparklecat.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/mtouch-quiz/script.js?ver=3.1.3'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-admin/admin-ajax.php?action=addthis_global_options_settings&#038;ver=4.9.2'></script>
+<script type='text/javascript' src='https://s7.addthis.com/js/300/addthis_widget.js?ver=4.9.2#pubid=wp-c9db59d3610037c303e473d68fbcc343'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/themes/genesis/lib/js/html5shiv.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/simple-social-icons/svgxuse.js?ver=1.1.21'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/wordpress-simple-survey/assets/build/js/wpss-pkg.min.js?ver=3.0.0'></script>
+<link rel='https://api.w.org/' href='https://www.sparklecat.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sparklecat.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.sparklecat.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<style>.addtoany_subscribe img{border:0;}</style>
+<style type="text/css"> .enews .screenread {
+	height: 1px;
+    left: -1000em;
+    overflow: hidden;
+    position: absolute;
+    top: -1000em;
+    width: 1px; } </style><meta name="tec-api-version" content="v1"><meta name="tec-api-origin" content="https://www.sparklecat.com"><link rel="https://theeventscalendar.com/" href="https://www.sparklecat.com/wp-json/tribe/events/v1/" /><link rel="icon" href="https://www.sparklecat.com/wp-content/themes/modernbloggerpro/images/favicon.ico" />
+<link rel="pingback" href="https://www.sparklecat.com/xmlrpc.php" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-5516506-1', 'sparklecat.com');
+  ga('send', 'pageview');
+
+</script><style type="text/css" media="screen"> .simple-social-icons ul li a, .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #f57929 !important; border-radius: 300px; color: #ffffff !important; border: 0px #ffffff solid !important; font-size: 18px; padding: 9px; }  .simple-social-icons ul li a:hover, .simple-social-icons ul li a:focus { background-color: #f5a305 !important; border-color: #ffffff !important; color: #ffffff !important; }  .simple-social-icons ul li a:focus { outline: 1px dotted #f5a305 !important; }</style><script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/159775260/sidebar_sparkle', [300, 250], 'div-gpt-ad-1493140909567-0').setTargeting('gen', ['female', 'unknown']).setTargeting('age', ['54-65', '34-54']).addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script><!-- BEGIN GADWP v5.1.2.2 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-5516506-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+</head>
+<body data-rsssl=1 class="error404 tribe-no-js header-full-width content-sidebar" itemscope itemtype="https://schema.org/WebPage"><div class="site-container"><header class="site-header" itemscope itemtype="https://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="https://www.sparklecat.com/">SparkleCat</a></p><p class="site-description" itemprop="description">Featuring Summer, Therapy Cat and Kitty on the Go</p></div></div></header><nav class="nav-primary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-categories" class="menu genesis-nav-menu menu-primary"><li id="menu-item-18955" class="home menu-item menu-item-type-custom menu-item-object-custom menu-item-18955"><a href="https://sparklecat.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-7885" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7885"><a href="https://www.sparklecat.com/diary" itemprop="url"><span itemprop="name">Diary</span></a></li>
+<li id="menu-item-7886" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7886"><a href="https://www.sparklecat.com/advice" itemprop="url"><span itemprop="name">Advice</span></a></li>
+<li id="menu-item-7887" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7887"><a href="https://www.sparklecat.com/bookreviews" itemprop="url"><span itemprop="name">Book Reviews</span></a></li>
+<li id="menu-item-7888" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7888"><a href="https://www.sparklecat.com/special" itemprop="url"><span itemprop="name">Kitty Wisdom</span></a></li>
+<li id="menu-item-7904" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7904"><a href="https://www.sparklecat.com/weird-cat-videos" itemprop="url"><span itemprop="name">Catinees</span></a></li>
+<li id="menu-item-7890" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7890"><a href="https://www.sparklecat.com/store" itemprop="url"><span itemprop="name">Store</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-7891" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7891"><a href="https://www.sparklecat.com/store/cat_beds" itemprop="url"><span itemprop="name">Cat Beds</span></a></li>
+	<li id="menu-item-7892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-7892"><a href="https://www.sparklecat.com/store/human_store" itemprop="url"><span itemprop="name">Cat Stuff for Humans</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-7893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7893"><a href="https://www.sparklecat.com/store/human_store/cat-calendars" itemprop="url"><span itemprop="name">Cat Calendars</span></a></li>
+		<li id="menu-item-7894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7894"><a href="https://www.sparklecat.com/store/human_store/cat_gifts" itemprop="url"><span itemprop="name">Cat Gifts</span></a></li>
+		<li id="menu-item-7895" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7895"><a href="https://www.sparklecat.com/store/human_store/cat_jewelry" itemprop="url"><span itemprop="name">Cat Jewelry for Humans</span></a></li>
+		<li id="menu-item-7896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7896"><a href="https://www.sparklecat.com/store/human_store/cat_stationery" itemprop="url"><span itemprop="name">Cat Stationery</span></a></li>
+		<li id="menu-item-7897" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7897"><a href="https://www.sparklecat.com/store/human_store/cat_tshirts" itemprop="url"><span itemprop="name">Cat T-Shirts</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-7898" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7898"><a href="https://www.sparklecat.com/store/cat_trees" itemprop="url"><span itemprop="name">Cat Trees, Towers and Furniture</span></a></li>
+	<li id="menu-item-7899" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7899"><a href="https://www.sparklecat.com/store/designer-cat-collars" itemprop="url"><span itemprop="name">Designer Cat Collars</span></a></li>
+	<li id="menu-item-7900" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7900"><a href="https://www.sparklecat.com/store/interactive_cat_toys" itemprop="url"><span itemprop="name">Interactive Cat Toys</span></a></li>
+	<li id="menu-item-7901" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7901"><a href="https://www.sparklecat.com/store/litterbox-furniture" itemprop="url"><span itemprop="name">Litterbox Furniture, Cabinets and Covers</span></a></li>
+	<li id="menu-item-7902" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7902"><a href="https://www.sparklecat.com/store/cat_scratchers" itemprop="url"><span itemprop="name">Scratching Posts and Cat Scratchers</span></a></li>
+	<li id="menu-item-7903" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-7903"><a href="https://www.sparklecat.com/store/special_kitty_items" itemprop="url"><span itemprop="name">Special Items for Special Kittys</span></a></li>
+</ul>
+</li>
+</ul></div></nav><nav class="nav-secondary" itemscope itemtype="https://schema.org/SiteNavigationElement"><div class="wrap"><ul id="menu-pages" class="menu genesis-nav-menu menu-secondary"><li id="menu-item-7878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7878"><a href="https://www.sparklecat.com/about-sparklecatcom" itemprop="url"><span itemprop="name">About</span></a></li>
+<li id="menu-item-7880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7880"><a href="https://www.sparklecat.com/login" itemprop="url"><span itemprop="name">Fan Club</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-7884" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7884"><a href="https://www.sparklecat.com/login/join" itemprop="url"><span itemprop="name">-Join Up!</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7881"><a href="https://www.sparklecat.com/contact" itemprop="url"><span itemprop="name">Contact Summer</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-7983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7983"><a href="https://www.sparklecat.com/contact/advertise-here" itemprop="url"><span itemprop="name">-Advertise Here!</span></a></li>
+</ul>
+</li>
+<li id="menu-item-7882" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7882"><a href="https://www.sparklecat.com/privacy-policy-3" itemprop="url"><span itemprop="name">Privacy Policy</span></a></li>
+</ul></div></nav><div class="site-inner"><div class="content-sidebar-wrap"><main class="content"><article class="page type-page status-publish entry" itemscope="" itemtype="http://schema.org/CreativeWork"><header class="entry-header"><h1 class="entry-title" itemprop="headline">Oops! Well, isn&#039;t this embarrassing!</h1></header><div class="entry-content" itemprop="text"><div align="center">
+<h1>AAAKKKKK! Go Away!</h1>
+</div>
+<p><img src="https://www.sparklecat.com/wp-content/uploads/Litterbox1.jpg" title="Can't you KNOCK first?" alt="Can't you KNOCK first?" width="300" height="261" class="aligncenter size-full wp-image-24389" srcset="https://www.sparklecat.com/wp-content/uploads/Litterbox1.jpg 300w, https://www.sparklecat.com/wp-content/uploads/Litterbox1-150x130.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" /><br />
+I don&#8217;t know what page you were looking for, but it&#8217;s certainly not here! Either go back where you came from or go to <a href="https://sparklecat.com/">my home page</a> immediately. How dare you walk in when I&#8217;m&#8230; busy. Now, scat! You humans are always snooping around where you have no business being.</p>
+</div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="https://schema.org/WPSideBar"><section id="search-3" class="widget widget_search"><div class="widget-wrap"><form class="search-form" itemprop="potentialAction" itemscope itemtype="https://schema.org/SearchAction" method="get" action="https://www.sparklecat.com/" role="search"><meta itemprop="target" content="https://www.sparklecat.com/?s={s}"/><input itemprop="query-input" type="search" name="s" placeholder="Search this website &#x2026;" /><input type="submit" value="Search"  /></form></div></section>
+<section id="simple-social-icons-2" class="widget simple-social-icons"><div class="widget-wrap"><h4 class="widget-title widgettitle">Follow Me Here!</h4>
+<ul class="aligncenter"><li class="ssi-bloglovin"><a href="https://www.bloglovin.com/blogs/sparkle-designer-cat-2747513" target="_blank"><svg role="img" class="social-bloglovin" aria-labelledby="social-bloglovin"><title id="social-bloglovin">Bloglovin</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-bloglovin"></use></svg></a></li><li class="ssi-facebook"><a href="https://www.facebook.com/sparklecatfans" target="_blank"><svg role="img" class="social-facebook" aria-labelledby="social-facebook"><title id="social-facebook">Facebook</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-facebook"></use></svg></a></li><li class="ssi-instagram"><a href="https://instagram.com/summerstravels" target="_blank"><svg role="img" class="social-instagram" aria-labelledby="social-instagram"><title id="social-instagram">Instagram</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-instagram"></use></svg></a></li><li class="ssi-pinterest"><a href="http://pinterest.com/sparklethecat" target="_blank"><svg role="img" class="social-pinterest" aria-labelledby="social-pinterest"><title id="social-pinterest">Pinterest</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-pinterest"></use></svg></a></li><li class="ssi-rss"><a href="http://feeds.feedburner.com/SparkleTheDesignerCat" target="_blank"><svg role="img" class="social-rss" aria-labelledby="social-rss"><title id="social-rss">RSS</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-rss"></use></svg></a></li><li class="ssi-twitter"><a href="https://twitter.com/sparklecat" target="_blank"><svg role="img" class="social-twitter" aria-labelledby="social-twitter"><title id="social-twitter">Twitter</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-twitter"></use></svg></a></li><li class="ssi-youtube"><a href="https://www.youtube.com/user/SparklecatDotCom" target="_blank"><svg role="img" class="social-youtube" aria-labelledby="social-youtube"><title id="social-youtube">YouTube</title><use xlink:href="https://www.sparklecat.com/wp-content/plugins/simple-social-icons/symbol-defs.svg#social-youtube"></use></svg></a></li></ul></div></section>
+<section id="enews-ext-4" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Get Summer&#8217;s Newsletter!</h4>
+<p>Stay up to date and get subscriber-only exclusives!</p>
+			<form id="subscribeenews-ext-4" action="//sparklecat.us1.list-manage.com/subscribe/post?u=63146d2ad480223ae5d85ccbe&amp;id=7fe90fbcc8" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'Your Name or Your Cat\'s Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-4">
+				<label for="subbox1" class="screenread">Your Name or Your Cat&#039;s Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="Your Name or Your Cat&#039;s Name" name="FNAME" />								<label for="subbox" class="screenread">Email Address</label><input type="email" value="" id="subbox" placeholder="Email Address" name="EMAIL" required="required" />
+								<input type="submit" value="Purrr!" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="enews-ext-5" class="widget enews-widget"><div class="widget-wrap"><div class="enews"><h4 class="widget-title widgettitle">Get Summer&#8217;s Weekly Blog Post Updates!</h4>
+<p>Know what Summer is blogging about every week.</p>
+			<form id="subscribeenews-ext-5" action="https://sparklecat.us1.list-manage.com/subscribe/post?u=63146d2ad480223ae5d85ccbe&amp;id=21bbafe742" method="post"  target="_blank" onsubmit="if ( subbox1.value == 'Your Name or Your Cat\'s Name') { subbox1.value = ''; } if ( subbox2.value == 'Last Name') { subbox2.value = ''; }" name="enews-ext-5">
+				<label for="subbox1" class="screenread">Your Name or Your Cat&#039;s Name</label><input type="text" id="subbox1" class="enews-subbox" value="" placeholder="Your Name or Your Cat&#039;s Name" name="FNAME" />								<label for="subbox" class="screenread">Email Address</label><input type="email" value="" id="subbox" placeholder="Email Address" name="EMAIL" required="required" />
+								<input type="submit" value="Meow!" id="subbutton" />
+			</form>
+		</div></div></section>
+<section id="text-34" class="widget widget_text"><div class="widget-wrap"><h4 class="widget-title widgettitle">My Zazzle Store!</h4>
+			<div class="textwidget"><div align="center"><a href="http://www.zazzle.com/designercat?rf=238017398529694594" title="Buy from Sparkle's Zazzle Store" target="_blank"><img src="https://www.sparklecat.com/SparkleGraphs/Zazzle2014.png" alt="Buy from Sparkle's Zazzle Store" title="Buy from Sparkle's Zazzle Store"></a><br />
+<strong>T-Shirts, cards, mugs and more!</strong></div></div>
+		</div></section>
+<section id="text-25" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_search_bar = "true";
+amzn_assoc_tracking_id = "higherfitness-20";
+amzn_assoc_ad_mode = "manual";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_title = "FitCat and Sparkle Books";
+amzn_assoc_linkid = "36f6cea5545d2eb41c7b8f87d89cdc8d";
+amzn_assoc_asins = "B005JEKK34,0978918118,1941433049,1941433006";
+</script>
+<script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script></div></div>
+		</div></section>
+<section class="widget spark-widget"><div class="widget-wrap"><!-- /159775260/sidebar_sparkle -->
+<div id='div-gpt-ad-1493140909567-0' style='height:250px; width:300px;'>
+<script>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1493140909567-0'); });
+</script>
+</div></div></section>
+<section id="text-48" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><a class="twitter-timeline" href="https://twitter.com/sparklecat" data-widget-id="471533156395282433">Tweets by @sparklecat</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div></div>
+		</div></section>
+<section id="text-49" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsparklecatfans&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=225199000881287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe></div></div>
+		</div></section>
+<section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><h4 class="widget-title widgettitle">Sparklecat.com on Video</h4>
+<div class="textwidget custom-html-widget"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLKSioUAQfpS0tp7ktOuxVCCkQOjIkxtVT" frameborder="0" allowfullscreen></iframe></div></div></section>
+<section id="text-31" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><img src="https://www.sparklecat.com/SparkleGraphs/qrcode.1214214.png">&nbsp;<a href="http://www.blogher.com/announcing-2011-blogher-voices-year" target="_blank"><img alt="BlogHer '11 Voice of the Year Honoree" d="" src="https://www.blogher.com/files/2011_VoY_125x125_Finalist.gif" /></a></div></div>
+		</div></section>
+<section id="text-15" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><a href="http://www.blog.catblogosphere.com" target="_blank"><img src="https://www.sparklecat.com/wp-content/uploads/cbBadgeBlack125x125.png" Title="Cat Blogosphere" border="0" /></a>&nbsp;<div class="bhbadge" id="bhbadge_Syndicated" style="display: inline;"><a href="http://www.blogher.com?from=bhsbadge" target="_blank"><img src="https://www.blogher.com/files/edbadge_syndicated.jpg" border="0" alt="Syndicated on BlogHer.com" title="Syndicated on BlogHer.com" width="120" height="100"></a></div></div></div>
+		</div></section>
+<section id="text-17" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><a href="https://www.amazon.com/gp/product/B003F25URS?ie=UTF8&tag=higherfitness-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B003F25URS"><img src="https://www.sparklecat.com/wp-content/uploads/kindle_badge_2.gif" width="120" height="90" border="0" alt="Read my blog on Kindle" /></a> <a href="http://thekindlereport.blogspot.com/2010/04/sparkle-designer-cat-humor-cats.html" target="_blank"><img src="https://www.sparklecat.com/wp-content/uploads/BlogReviewLogo.png" width="150" height="126" border="0" /></a></div></div>
+		</div></section>
+<section id="text-50" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><img src="https://www.sparklecat.com/SparkleGraphs/Petties_2014_Winner_Cat-Blog.png" width="120" height="120" alt="Winner Best Cat Blog Dogtime Petties 2014" border="0"/></div></div>
+		</div></section>
+<section id="text-24" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><img src="https://www.sparklecat.com/SparkleGraphs/petties-cat-award-120x120.png" width="120" height="120" alt="Winner Best Cat Blog Dogtime Petties 2010" border="0"/>&nbsp;<img title="Click to vote now!" src="https://www.sparklecat.com/SparkleGraphs/petties-winner-post-badge.png" alt="I won Best Blog Post!" width="120" height="120" /></div></div>
+		</div></section>
+<section id="text-52" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div align="center"><a href="http://blogpaws.com/events/2016-conference/2016-nose-nose-awards/announcing-the-blogpaws-2016-nose-to-nose-award-finalists/" rel="nofollow" target="_blank"><img title="BlogPaws 2016 Nose-to-Nose Awards Finalist badge" src="https://blogpaws.com/wp-content/uploads/2016/05/BEST-CAT-BLOG-n2n2016-FINALISTbadge.jpg" border="0" width="160" height="250" alt="BlogPaws 2016 Nose-to-Nose Awards Finalist badge" /></a></div></div>
+		</div></section>
+</aside></div></div><div class="footer-widgets"><div class="wrap"><div class="widget-area footer-widgets-1 footer-widget-area"><section id="linkcat-849" class="widget widget_links"><div class="widget-wrap"><h4 class="widget-title widgettitle">Cat Sponsorship</h4>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://adoptacatfoundation.org/sponsor_a_cat.htm" title="Whether they&#8217;re advanced in years, are special needs or have medical trauma, these cats from this Lake Park, FL rescue need sponsors." target="_blank">Adopt-A-Cat&#8217;s Sponsor-A-Cat Program</a></li>
+<li><a href="https://www.bestfriends.org/donate/sponsorRandom_cat.cfm?" title="Sponsor one of these kitties at the Best Friends Sanctuary, and you&#8217;ll get a downloadable photo and the cat&#8217;s story mailed to you." target="_blank">Best Friends Animal Society Cats</a></li>
+<li><a href="http://www.kittenrescue.org/index.php/donate/sponsor-cat/" title="Many kitties housed at Los Angeles-based Kitten Rescue have medical issues or are unadoptable. Your donation will help care for them. Lots of videos of cats needing sponsor!" target="_blank">Kitten Rescue Sponsorship Program</a></li>
+<li><a href="http://www.animalleague.org/support/support-rescue-medical-programs/sponsor-pets/meet-sponsor-cats/" title="Each of the cats at this Port Washington, NY rescue have a detailed story and updates, so you can really get to know the kitty you&#8217;d like to sponsor." target="_blank">North Shore Animal League Cat Sponsorship</a></li>
+
+	</ul>
+</div></section>
+
+<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="widget_text widget-wrap"><div class="textwidget custom-html-widget"><script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=3adec83c-5eca-44d4-9c13-053196524ca0"></script></div></div></section>
+</div><div class="widget-area footer-widgets-2 footer-widget-area"><section id="linkcat-848" class="widget widget_links"><div class="widget-wrap"><h4 class="widget-title widgettitle">Kitty Fun</h4>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.calculatorcat.com/cats/cat-years.phtml" title="Not only does this have a chart for cat-to-human years, there&#8217;s also a calculator so you can find about exactly how old your cat really is." target="_blank">Cat Years Calculator</a></li>
+<li><a href="http://www.00fun.com/cyberkitty.shtml" title="Move your mouse and you can play with this virtual kitty. If your cat&#8217;s taking a nap or otherwise disinclined to frolicking, this is the next best thing." target="_blank">Cyber Kitty</a></li>
+<li><a href="http://www.dharmathecatcartoons.com/" title="This is cartoon series featuring a novice Buddhist, his cat and a mouse. The cat, of course, is way smarter than the Buddhist guy." target="_blank">Dharma the Cat</a></li>
+<li><a href="http://www.catswhothrowupgrass.com/kill.php" title="If you suspect your cat want to kill you, you can find clues here. You can even take a quiz if you want to be really clear about it." target="_blank">Is Your Cat Plotting to Kill You?</a></li>
+<li><a href="http://cats.about.com/cs/gamespuzzles/l/blwhatkind1intr.htm" title="This fun quiz comes from the About Cats site." target="_blank">What Kind of Cat Are You?</a></li>
+
+	</ul>
+</div></section>
+
+</div><div class="widget-area footer-widgets-3 footer-widget-area"><section id="linkcat-40" class="widget widget_links"><div class="widget-wrap"><h4 class="widget-title widgettitle">Somali Cat Info</h4>
+
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.somalibc.org/home.shtml" title="This is the official website for the CFA Somali Breed Council." target="_blank">Somali Breed Council</a></li>
+<li><a href="http://www.cfainc.org/Breeds/BreedsSthruT/Somali.aspx" title="From the Cat Fanciers Association." target="_blank">Somali Breed Profile</a></li>
+<li><a href="http://www.breedlist.com/breeders/som.html" title="A list of Somali breeders in the U.S. and Canada" target="_blank">FBRL: Somali Breeders</a></li>
+<li><a href="http://www.kittysites.com/breeds/somali/breeder.shtml" title="A list of worldwide Somali breeders." target="_blank">Somali Cat Breeders</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Somali_(cat)" target="_blank">Somali Cats on Wikipedia</a></li>
+<li><a href="http://www.tajharasomalis.com" rel="friend parent" title="The breeder where I came from! My dad is Aslan." target="_blank">Tajhara Somalis</a></li>
+<li><a href="http://www.frontrangeabyssinianssomalis.com/" target="_blank">Front Range Abyssinians and Somalis</a></li>
+
+	</ul>
+</div></section>
+
+</div></div></div><footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter"><div class="wrap"><p>Copyright &#x000A9;&nbsp;2018  &middot; Based on the <a href="http://prettydarncute.com"> Modern Blogger Pro Theme</a> By <a href="http://prettydarncute.com">Pretty Darn Cute Design</a></p></div></footer></div><script>
+		var advanced_ads_adsense_UID = false;
+		/**
+ * Check if an ad blocker is enabled.
+ *
+ * @param {function} callback A callback function that is executed after the check has been done.
+ *                            The 'is_enabled' (bool) variable is passed as the callback's first argument.
+ */
+;advanced_ads_check_adblocker = ( function( callback ) {
+	var pending_callbacks = [];
+	var is_enabled = null;
+
+	function RAF( RAF_callback ) {
+		var fn = window.requestAnimationFrame
+		|| window.mozRequestAnimationFrame
+		|| window.webkitRequestAnimationFrame
+		|| function( RAF_callback ) { return setTimeout( RAF_callback, 16 ); };
+
+		fn.call( window, RAF_callback );
+	}
+
+	RAF( function() {
+		// Create a bait.
+		var ad = document.createElement( 'div' );
+		ad.innerHTML = '&nbsp;';
+		ad.setAttribute( 'class', 'ad_unit ad-unit text-ad text_ad pub_300x250' );
+		ad.setAttribute( 'style', 'width: 1px !important; height: 1px !important; position: absolute !important; left: -1000px !important; top: -1000px !important;' );
+		document.body.appendChild( ad );
+
+		RAF( function() {
+			var styles = window.getComputedStyle && window.getComputedStyle( ad );
+			var moz_binding = styles && styles.getPropertyValue( '-moz-binding' );
+
+			is_enabled = ( styles && styles.getPropertyValue( 'display' ) === 'none' )
+			|| ( typeof moz_binding === 'string' && moz_binding.indexOf( 'about:' ) !== -1 );
+
+			// Call pending callbacks.
+			for ( var i = 0; i < pending_callbacks.length; i++ ) {
+				pending_callbacks[ i ]( is_enabled );
+			}
+			pending_callbacks = [];
+		} );
+	} );
+
+	return function( callback ) {
+		if ( is_enabled === null ) {
+			pending_callbacks.push( callback );
+			return;
+		}
+		// Run the callback immediately
+		callback( is_enabled );
+	}
+}());
+
+(function() {
+	var advadsTracker = function( name, UID ) {
+		this.name = name;
+		this.UID = UID;
+		this.analyticsObject = null;
+		var that = this;
+		var data = {
+			hitType: 'event',
+			eventCategory: 'Advanced Ads',
+			eventAction: 'AdBlock',
+			eventLabel: 'Yes',
+			nonInteraction: true,
+			transport: 'beacon'
+		};
+
+		/**
+		 * check if someone has already requested the analytics.js and created a GoogleAnalyticsObject
+		 */
+		this.analyticsObject = ( 'string' == typeof( GoogleAnalyticsObject ) && 'function' == typeof( window[GoogleAnalyticsObject] ) )? window[GoogleAnalyticsObject] : false;
+
+		if ( false === this.analyticsObject ) {
+			// No one has requested analytics.js at this point. Require it
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','https://www.google-analytics.com/analytics.js','_advads_ga');
+
+			_advads_ga( 'create', that.UID, 'auto', this.name );
+			_advads_ga( that.name + '.send', data );
+		} else {
+			// someone has already created a variable, use it to avoid conflicts.
+			window.console && window.console.log( "Advanced Ads Analytics >> using other's variable named `" + GoogleAnalyticsObject + "`" );
+			window[GoogleAnalyticsObject]( 'create', that.UID, 'auto', this.name );
+			window[GoogleAnalyticsObject]( that.name + '.send', data );
+		}
+	}
+
+	advanced_ads_check_adblocker( function( is_enabled ) {
+		// Send data to Google Analytics if an ad blocker was detected.
+		if ( is_enabled && 'string' === typeof advanced_ads_adsense_UID && advanced_ads_adsense_UID ) {
+			new advadsTracker( 'advadsTracker', advanced_ads_adsense_UID );
+		}
+	} );
+}());
+
+		</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+r3f5x9JS=escape(document['referrer']);
+hf4N='3f87890fbb56bb2a9a10766fd449b085';
+hf4V='7deed44a33b1b0357e9d8129b99371c2';
+jQuery(document).ready(function($){var e="#commentform, .comment-respond form, .comment-form, #lostpasswordform, #registerform, #loginform, #login_form, #wpss_contact_form, .gform_wrapper form";$(e).submit(function(){$("<input>").attr("type","hidden").attr("name","r3f5x9JS").attr("value",r3f5x9JS).appendTo(e);return true;});var h="form[method='post']";$(h).submit(function(){$("<input>").attr("type","hidden").attr("name",hf4N).attr("value",hf4V).appendTo(h);return true;});});
+/* ]]> */
+</script> 
+		<script>
+		( function ( body ) {
+			'use strict';
+			body.className = body.className.replace( /\btribe-no-js\b/, 'tribe-js' );
+		} )( document.body );
+		</script>
+		<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=3850926; 
+var sc_invisible=1; 
+var sc_security="3ab19d19"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"></script>
+<noscript><div class="statcounter"><a title="site stats"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/3850926/0/3ab19d19/1/"
+alt="site stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide --><script type='text/javascript'>jQuery(document).ready(function($) {$(".flexslider").flexslider({controlsContainer: "#genesis-responsive-slider",animation: "slide",directionNav: 1,controlNav: 1,animationDuration: 800,slideshowSpeed: 4000    });  });</script><script type='text/javascript'> /* <![CDATA[ */var tribe_l10n_datatables = {"aria":{"sort_ascending":": activate to sort column ascending","sort_descending":": activate to sort column descending"},"length_menu":"Show _MENU_ entries","empty_table":"No data available in table","info":"Showing _START_ to _END_ of _TOTAL_ entries","info_empty":"Showing 0 to 0 of 0 entries","info_filtered":"(filtered from _MAX_ total entries)","zero_records":"No matching records found","search":"Search:","all_selected_text":"All items on this page were selected. ","select_all_link":"Select all pages","clear_selection":"Clear Selection.","pagination":{"all":"All","next":"Next","previous":"Previous"},"select":{"rows":{"0":"","_":": Selected %d rows","1":": Selected 1 row"}},"datepicker":{"dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["January","February","March","April","May","June","July","August","September","October","November","December"],"nextText":"Next","prevText":"Prev","currentText":"Today","closeText":"Done"}};/* ]]> */ </script><script type='text/javascript'>
+/* <![CDATA[ */
+var pollsL10n = {"ajax_url":"https:\/\/www.sparklecat.com\/wp-admin\/admin-ajax.php","text_wait":"Your last request is still being processed. Please wait a while ...","text_valid":"Please choose a valid poll answer.","text_multiple":"Maximum number of choices allowed: ","show_loading":"1","show_fading":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.73.7'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/social-warfare/js/script.min.js?ver=2.3.3'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/genesis-responsive-slider/js/jquery.flexslider.js?ver=0.9.5'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-content/plugins/wp-spamshield/js/jscripts-ftr2-min.js'></script>
+<script type='text/javascript' src='https://www.sparklecat.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type="text/javascript"> swpPinIt={"enabled":false};var swpClickTracking = false; var swp_nonce = "be934502bb";</script></body></html>

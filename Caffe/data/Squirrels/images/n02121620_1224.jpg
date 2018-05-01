@@ -1,0 +1,133 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=<$MTPublishCharset$>" />
+<title>Error 404: File not found - AntBlog701</title>
+<meta name="Author" content="Antony Shen" />
+<meta name="keywords" content="AntBlog701, AntBlog, Antony, Ant Blog 701, web log" />
+<meta name="description" content="Antony's web log. All about Antony Shen." />
+<link rel="stylesheet" href="http://ant.sillydog.org/sitecss.php" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="RSS" href="<$MTBlogURL$>index.rdf" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="<$MTBlogURL$>rsd.xml" />
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+<meta http-equiv="refresh" content="90;URL=http://ant.sillydog.org/">
+</head>
+<body>
+<div id="banner">
+<h1><a href="http://ant.sillydog.org/" accesskey="1">AntBlog701</a></h1>
+<span class="description">An Antony Blog. A blog about Antony's Mac and iPod. Also about iTunes Music Store and Desperate Housewives. This is a personal blog from the man behind <a href="http://sillydog.org/">SillyDog701</a>.</span></div>
+<table width=750 border=0 cellpadding=5 cellspacing=0>
+  <tr>
+    <td width=200 valign="top" class="s2m"><div id="links">
+      Mon, 22 Jan 2018<br />
+      <br />
+      <div class="sidetitle">search</div>
+      <div class="side">  </div>
+
+
+</div></td>
+    <td width=550 valign="top" class="s2m" rowspan=2><div id="content">
+<script src="http://ant.sillydog.org/script/prototype.js" type="text/javascript"></script>
+<script src="http://ant.sillydog.org/script/scriptaculous.js?load=effects" type="text/javascript"></script>
+      <div class="blog" id="d1">
+          <div class="blogbody">
+            <h1 class="title">Error 404 File/Page not found</h1>
+            <p>Sorry, you've reached a page/directory that is not exist.</p>
+            <br />
+            If you are looking for blog articles,<br />
+            AntBlog701 front door is at <a href="http://ant.sillydog.org/">http://ant.sillydog.org/</a><br />
+            <a href="http://ant.sillydog.org/bloglist.php">monthly archives and blog listing</a> of Antony's blogs.<br />
+	<form method="get" action="<$MTCGIPath$><$MTSearchScript$>">
+      <input type="hidden" name="IncludeBlogs" value="<$MTBlogID$>" />
+      <label for="search" accesskey="4">search this blog:</label>
+      <input id="search" name="search" size="30" />
+      <input type="submit" value="Search" />
+    </form>
+
+
+<br />
+			
+            Antony's blog has following categories:<br />
+            <ul>
+ <li>TV shows
+ <ul>
+ <li><a href="http://ant.sillydog.org/blog/tv_shows/commander_in_chief.php">Commander In Chief</a></li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/tv_shows/criminal_minds.php" >Criminal Minds</a></li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/tv_shows/desperate_housewives.php">Desperate Housewives</a></li>
+ <li><a href="http://ant.sillydog.org/blog/tv_shows/prison_break.php" >Prison Break</a>                                                                    
+ </li>                                                                            
+ </ul></li>
+ <li><a href="http://ant.sillydog.org/blog/all_things_mac.php" title="">all things Mac</a>
+ <ul>                                          
+                                               
+ <li><a href="http://ant.sillydog.org/blog/all_things_mac/desktop_in_action.php" >Desktop in Action</a> </li> 
+ <li><a href="http://ant.sillydog.org/blog/all_things_mac/mac_hardware.php" title="">Mac hardware</a></li>
+ <li><a href="http://ant.sillydog.org/blog/all_things_mac/ipod.php" title="">iPod</a></li>                                                                            
+ </ul>  
+ </li>    
+ <li><a href="http://ant.sillydog.org/blog/fashion.php" title="Anything about fashion.">fashion</a></li>
+ <li><a href="http://ant.sillydog.org/blog/musicitunes.php">music/iTunes</a>   
+ <ul>                                          
+<li><a href="http://ant.sillydog.org/blog/musicitunes/street_official.php" >Street Official</a>
+ </li>                                                                            
+ </ul></li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/newstalk.php" >newstalk</a>                                                                    
+ </li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/photos.php">photos</a>                                                                    
+ </li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/videos.php" >videos</a>                                                                    
+ </li>                                                                            
+ <li><a href="http://ant.sillydog.org/blog/website_related.php" >website related</a>                                                                    
+ </li>
+ </ul>
+            For other sections:<br />
+            <a href="http://ant.sillydog.org/pics/">AntGallery701</a>, Antony's photo gallery. <br>
+<a href="http://ant.sillydog.org/itms/">AntTunes701</a>, iTunes music section. <br>
+<br>
+You will be automatically redirected to the AntBlog701 front door within 2 minutes.</p>
+
+      </div>
+	    <div class="sidetitle">disclaimer</div>
+  <div class="side"> <br></div></div>
+<script type="text/javascript" language="javascript">
+// <![CDATA[
+      Effect.Grow('d1', {direction: 'center'});
+// ]]>
+</script>
+</div></td>
+  </tr>
+  <tr>
+    <td valign="bottom" class="s1s">
+  <br />
+  <div class="sidetitle">inside SillyDog701</div>
+  <div class="side">  </div>
+  <br />
+  <div class="sidetitle">search</div>
+  <div class="side">  </div>
+  <div class="side">
+    <form method="get" action="<$MTCGIPath$><$MTSearchScript$>">
+      <input type="hidden" name="IncludeBlogs" value="<$MTBlogID$>" />
+      <label for="search" accesskey="4">search this blog (AntBlog701):</label>
+      <br />
+      <input id="search" name="search" size="20" />
+      <br />
+      <input type="submit" value="Search" />
+    </form>
+  </div>
+  <br />
+  <br />
+  <div class="syndicate"> <a href="<$MTBlogURL$>index.rdf">syndicate this blog (XML)</a> </div>
+  </div>
+  <br />
+  <div class="side"> AntBlog701 is proudly powered by<br />
+    <a href="http://www.movabletype.org">Movable Type</a><br />
+  </div>
+  <br>
+    </td>
+  
+  </tr>
+  
+</table>
+<!-- START of footer -->
+ http://ant.sillydog.org/ </body>
+</html>

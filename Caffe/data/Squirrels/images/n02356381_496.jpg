@@ -1,0 +1,1339 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+
+<head>
+
+
+
+
+
+<meta name="generator" content="Convio CMS" /> 
+<script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+
+
+<script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
+
+
+
+<script type="text/javascript">
+if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
+CONVIO.pageUserName = '1694:0';
+CONVIO.pageSessionID = 'E795F211E8ED7EF45E3BDA786F2BC985.app208b';
+CONVIO.pageSessionName = 'JSESSIONID';
+</script>
+
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1516078868988"></script>
+<script type="text/javascript">
+
+
+
+// The original referrer may have been lost from the session-status.jsp javascript redirect.
+// Read the original referrer from the cookie.
+if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
+CONVIO.referrer = getCookie("CONVIO.referrer");
+referrer = "";
+if ((CONVIO.referrer === "" || typeof CONVIO.referrer === "undefined") && referrer !== "") {
+CONVIO.referrer = referrer;
+}
+deleteCookie("CONVIO.referrer");
+</script>
+
+
+
+<!-- Convio's CRM JS library -->
+<script type="text/javascript" src="http://donate.cwf-fcf.org/js/utils.js"></script>
+
+
+
+
+	<title>Faune et flore du pays - Faune et flore du pays</title>
+	<meta name="description" content=""/>
+
+
+<meta name="viewport" content="width=device-width">	
+
+	<link href="http://fonts.googleapis.com/css?family=Fira+Sans:300,400,500,700" rel="stylesheet" type="text/css">
+	<!--link rel="stylesheet" type="text/css" href="http://www.hww.ca/assets/css/kaboom-hww-css.css"-->
+	<link rel="stylesheet" href="http://www.hww.ca/assets/js/jquery-fancybox-1-3-4.css" type="text/css" media="screen">
+	<script src="//code.jquery.com/jquery-1.11.1.min.js" type="text/javascript"></script>
+	<script src="//www.hww.ca/assets/js/jquery-fancybox-1-3-4-pack.js" type="text/javascript"></script>
+	<script language="javascript" src="/assets/wrapper/hww.js"></script>
+	<script language="javascript" src="/assets/wrapper/menu_library.js"></script>
+
+
+
+
+	<script type='text/javascript'>
+		jQuery(function(){ // equivalent to body.onLoad
+			(function($){ // privatize function to not muddy the Global scope; incidentally, makes sure that ($ === jQuery);
+
+
+
+
+function smartTrim(str, length, delim, appendix) {
+    if (str.length <= length) return str;
+
+    var trimmedStr = str.substr(0, length+delim.length);
+
+    var lastDelimIndex = trimmedStr.lastIndexOf(delim);
+    if (lastDelimIndex >= 0) trimmedStr = trimmedStr.substr(0, lastDelimIndex);
+
+    if (trimmedStr) trimmedStr += appendix;
+    return trimmedStr;
+}
+				var objects = [];
+				var sl = $('#slideshowLoader');
+				var nav = $('div#mainBanner nav');
+				
+				var vl = $('#videoLoader');
+				/*var vlContainer = $('#videos')*/
+
+
+
+				
+
+				
+				
+
+				var Animator = (function(){ // our slideshow class
+					var Animator = function Animator(opts){
+						this.i = -1;
+						this.timer = -1;
+						this.objects = opts.objects || [];
+						this.target = opts.target || undefined;
+
+
+						if(this.target) this.target.on('mouseover', function(e){
+							if(this.timer >= 0) this.timer = clearInterval(this.timer);
+						}.bind(this)).on('mouseout', function(e){
+							this.timer = setInterval(this.next.bind(this), 12000);
+						}.bind(this));
+
+						this.next.bind(this)();
+						this.timer = setInterval(this.next.bind(this), 12000);
+					}
+
+					Animator.prototype.goto = function(index) {
+						this.i = index-1;
+						this.timer = clearInterval(this.timer); // yes, I know it doesn't return anything. It's a compact way of setting it to undefined.
+						this.next.bind(this)();
+					};
+
+					Animator.prototype.next = function() {
+						var that = this;
+
+						if(this.target){
+							this.target.children('section:eq(0)').animate({opacity: 0, duration: that.i<0 ? 0 : 500, queue: true});
+							this.target.animate({ /*opacity:0*/ backgroundPosition: this.target.outerWidth() },{
+								duration: this.i < 0 ? 0 : 500,
+								queue: true,
+								complete:function animateFadeOut(){
+									var i = (++this.i) % this.objects.length;
+
+									this.target.css({
+										'background-image'	 : "url("+that.objects[i].banner+")",
+										'background-position': -1920
+									});
+
+									var link_category = "http://hww.ca/fr/";
+
+     									if(this.objects[i].category=="Birds"){
+                                                                                this.objects[i].category="oiseaux";
+										link_category = "http://hww.ca/fr/faune/oiseaux/";
+									}else if(this.objects[i].category=="Mammals"){
+                                                                                this.objects[i].category="mammifères";
+										link_category = "http://hww.ca/fr/faune/mammiferes/";
+									}else if(this.objects[i].category=="Fish, Amphibians and Reptiles"){
+                                                                                this.objects[i].category="poissons, amphibiens et reptiles";
+										link_category = "http://hww.ca/fr/faune/poissons-amphibiens-reptiles/";
+									}else if(this.objects[i].category=="Invertebrates"){
+                                                                                this.objects[i].category="invertébrés";
+										link_category = "http://hww.ca/fr/faune/invertebres/";
+									}
+
+
+
+
+									var section = this.target.children('section:eq(0)');
+										 if(this.objects[i].category==''){
+										section.find('i.category-text').text('');
+										section.children('h1:eq(0)').text(this.objects[i].title);
+                                                                                section.children('p').text(this.objects[i].description);
+										section.find('p#photo-credit').text('');
+										section.find('aside a.more').attr('href', this.objects[i].link);
+                                                                                section.find('aside a.more').text('Suite');
+										section.find('aside a.link-category').attr('href', link_category);
+										section.children('iframe:eq(0)').attr('src', null);
+                                                                                }
+                                                                                else {
+                                                                                section.find('i.category-text').text('Liste complète des '+this.objects[i].category+'.');
+                                                                             	section.children('h1:eq(0)').text(this.objects[i].title);
+										section.children('p').text(smartTrim(this.objects[i].description, 200, ' ', ' ...'));
+										section.find('p#photo-credit').text('Photo : '+this.objects[i].photoCredit);
+										section.find('aside a.more').attr('href', this.objects[i].link);
+                                                                                section.find('aside a.more').text('Plus d`informations sur cette espèce.');
+										section.find('aside a.link-category').attr('href', link_category);
+										section.children('iframe:eq(0)').attr('src', null);
+										}
+
+										$('.active', nav).removeClass('active');
+										nav.children('a').eq(i).addClass('active');
+
+									$.get(this.objects[i].video, function(data){
+										var src = $(data).find('#contentDiv iframe').attr('src');
+										section.children('iframe:eq(0)').attr('src', src);
+									});
+								}.bind(that)
+							}).animate({ /*opacity:1*/ backgroundPosition:0 }, { duration: 500, queue:true, complete:function(){
+								that.target.children('section:eq(0)').animate({opacity: 1}, {duration: 500});
+							}.bind(that)});
+						}
+
+						//this.timer = setTimeout(this.next.bind(this), 12000);
+					};
+
+					return Animator;			
+				})();
+
+				$('div>ul>li.featuredItem', sl).each(function(i, f){ // populate our slideshow, converting HTML elements into objects.
+					f = $(f);
+					var obj = {
+						title 		: f.children('a.link').text(),
+						banner 		: f.find('img').attr('src'),
+						link 		: f.children('a.link').attr('href'),
+						description : f.find('p').text(),
+						photoCredit : f.find('#photo-credit').text(),
+						video 		: f.children('a.video:eq(0)').attr('href'),
+						category	: f.find('#category_animals').text()
+					}
+
+
+
+					nav.append($('<a href="#"/>').attr('title', obj.title));
+					objects.push(obj);
+				});
+				var anim = new Animator({
+					objects:objects,
+					target:$('div#mainBanner')
+				});
+
+				nav.on('click', 'a', function(e){
+					e.preventDefault();
+					anim.goto.bind(anim)($(e.target).index());
+				});
+
+				// get the list_items generated by the plugin at the bottom of the page and make Youtube Video iFrames out of them.
+				$('div.list_item', vl).sort(function(){
+					return Math.round(Math.random()*2)-1;
+				}).slice(0, 3).each(function(i, f){
+					$.get($('a', f).attr('href'), function(data){
+						var src = $(data).find('#contentDiv iframe:eq(0)').attr('src');
+						$('<iframe/>').attr('src', src).insertAfter(vlContainer.children('h1:eq(0)'));
+					})
+				});
+
+				window.featured = anim;
+			})(jQuery);
+		});
+	</script>
+	<style type="text/css">
+
+		
+	</style>
+	
+	
+
+<link href="http://www.hww.ca/styles/style.css" rel="stylesheet" type="text/css">
+<link href="http://www.hww.ca/styles/style_fr.css" rel="stylesheet" type="text/css">
+</head>
+
+
+	<body bgcolor="#ffffff" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+	
+	
+
+<div id="include-627420592" style="display: inline;">
+
+
+
+
+
+
+
+<span class="includeDocument">
+
+
+
+
+
+
+
+
+
+<img alt="Paysage" id="bg" src="http://www.hww.ca/kaboom/images/bg.jpg" />
+<div id="newbar"><a href="http://cwf-fcf.org/fr/" target="_blank"><img src="http://www.hww.ca/kaboom/images/fcf.jpg" alt="Fédération canadienne de la faune" /></a><img alt="" src="http://www.hww.ca/kaboom/images/white-bar.jpg" /><a href="http://www.ec.gc.ca/default.asp?lang=Fr" target="_blank"><img src="http://www.hww.ca/kaboom/images/ec-fr.jpg" alt="Environnement et Changement climatique Canada" /></a></div>
+</span>
+</div><!-- Header 1 FR -->
+		<header>
+			<div id="include-627420679" style="display: inline;">
+
+
+
+
+
+
+
+<span class="includeDocument">
+
+
+
+
+
+
+
+
+
+<a href="http://www.hww.ca/fr/" id="logo" title="Faune et flore du pays"> <img alt="Faune et flore du pays" style="border:0px;" src="http://www.hww.ca/kaboom/images/ffdp-logo.png" title="Faune et flore du pays" /> </a>
+<ul id="mainMenu">
+<li><a href="http://www.hww.ca/fr/" title="Accueil"> accueil </a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/" title="&Agrave; propos"> &agrave; propos </a></li>
+<li><a href="http://www.hww.ca/fr/nouvelles/" title="Nouvelles"> nouvelles </a></li>
+<li><a href="http://www.hww.ca/fr/educateurs.html" title="&Eacute;ducateurs"> &eacute;ducateurs </a></li>
+<li><a href="http://www.hww.ca/fr/autochtones/" title="Autochtones"> autochtones </a></li>
+<li><a href="http://www.hww.ca/fr/nouveaux-arrivants/" title="Nouveaux arrivants"> nouveaux arrivants </a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/medias.html" title="Médias"> m&eacute;dias </a></li>
+<li><a href="http://www.hww.ca/fr/glossaire" title="Glossaire"> glossaire</a></li>
+<li><a href="https://www.facebook.com/FauneFlorePays" title="facebook"><img alt="facebook" src="http://www.hww.ca/kaboom/images/facebook.png" title="facebook" /></a></li>
+<li style="display: none;"><a href="https://twitter.com/HinterlandWhosW" title="twitter"><img alt="twitter" src="http://www.hww.ca/kaboom/images/twitter.png" title="twitter" /></a></li>
+<li><a href="https://www.youtube.com/user/HinterlandWW" title="youtube"><img alt="youtube" src="http://www.hww.ca/kaboom/images/youtube.png" title="youtube" /></a></li>
+<li style="display: none;"><a href="https://www.facebook.com/HinterlandWW" title="instagram"><img alt="instagram" src="http://www.hww.ca/kaboom/images/instagram.png" title="instagram" /></a></li>
+<li><a href="http://www.hww.ca/fr/contactez-nous.html" title="Contactez-nous"> contactez-nous </a></li>
+</ul>
+</span>
+</div><!-- Header 2 FR -->
+<div class="header-form">
+
+						
+							<a href="http://www.hww.ca/en/" class="topmenu bt-langue" title="English"> English</a>
+						
+					
+			<form id="search" action="/fr/search.jsp">
+				<input id="query" name="query" size="15" placeholder="Que recherchez-vous?"/>
+				<input id="submit" type="submit" value="Search" />
+				<a href="http://www.hww.ca/fr/recherche/" title="Recherche Espèces">Recherche <br />Espèces</a>
+			</form>
+		</div>	
+		</header>
+<div id="include-627420808" style="display: inline;">
+
+
+
+
+
+
+
+<span class="includeDocument">
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+
+
+<ul class="" id="categoryMenu">
+<li><a href="http://www.hww.ca/fr/faune/" title="Faune"> <img alt="Faune" src="http://www.hww.ca/assets/wrapper/nav/wildlife.png" title="Faune" /> <br />Faune </a>
+<ul class="submenu">
+<li><a href="http://www.hww.ca/fr/faune/mammiferes/" title="Les mammif&egrave;res">Les mammif&egrave;res</a></li>
+<li><a href="http://www.hww.ca/fr/faune/oiseaux/" title="Les oiseaux">Les oiseaux</a></li>
+<li><a href="http://www.hww.ca/fr/faune/poissons-amphibiens-reptiles/" title="Les poissons, les amphibiens et reptiles">Les poissons, les amphibiens et reptiles</a></li>
+<li><a href="http://www.hww.ca/fr/faune/invertebres/" title="Les invert&eacute;br&eacute;s">Les invert&eacute;br&eacute;s</a></li>
+</ul>
+</li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/" title="Espaces sauvages"> <img alt="Espaces sauvages" src="http://www.hww.ca/assets/wrapper/nav/wild-spaces.png" title="Espaces sauvages" /> Espaces sauvages </a>
+<ul class="submenu">
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-toundra-arctique-du-canada.html" title="La toundra arctique du Canada">La toundra arctique du Canada</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-foret-boreale-canadienne.html" title="La for&ecirc;t bor&eacute;ale canadienne">La for&ecirc;t bor&eacute;ale canadienne</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-foret-pluviale-cotiere.html" title="La for&ecirc;t pluviale c&ocirc;ti&egrave;re du Canada">La for&ecirc;t pluviale c&ocirc;ti&egrave;re du Canada</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-tourbieres-du-canada.html" title="Les tourbi&egrave;res du Canada">Les tourbi&egrave;res du Canada</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-ecozones.html" title="Les &eacute;cozones">Les &eacute;cozones</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-estuaires-un-habitat.html" title="Les estuaires">Les estuaires</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-prairies.html" title="Les Prairies">Les Prairies</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-terres-humides.html" title="Les terres humides">Les terres humides</a></li>
+</ul>
+</li>
+<li><a href="http://www.hww.ca/fr/multimedia/" title="Multim&eacute;dia"> <img alt="Multim&eacute;dia" src="http://www.hww.ca/assets/wrapper/nav/videos.png" title="Multim&eacute;dia" /> <br />Multim&eacute;dia </a>
+<ul class="submenu">
+<li><a href="http://www.hww.ca/fr/multimedia/videos/" title="Vid&eacute;os" aria-label="Multimédia - Vidéos">Vid&eacute;os</a></li>
+<li><a href="http://www.hww.ca/fr/multimedia/webisodes/" title="Webisodes">Webisodes</a></li>
+<li><a href="http://www.hww.ca/fr/multimedia/clips-sonores/" title="Clips sonores">Clips sonores</a></li>
+</ul>
+</li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/" title="Les curieux de nature"> <img alt="Les curieux de nature" src="http://www.hww.ca/assets/wrapper/nav/kids-zone.png" title="Les curieux de nature" /> Les curieux de nature </a>
+<ul class="submenu">
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/videos/" title="Vid&eacute;os" aria-label="Les curieux de nature - Vidéos">Vid&eacute;os</a></li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/trucs-a-faire.html" title="Trucs &agrave; faire">Trucs &agrave; faire</a></li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/la-nature-et-toi/" title="La nature et toi">La nature et toi</a></li>
+</ul>
+</li>
+<li><a href="http://www.hww.ca/fr/enjeux-et-themes/" title="Enjeux et th&egrave;mes"> <img alt="Enjeux et th&egrave;mes" src="http://www.hww.ca/assets/wrapper/nav/issues-topics.png" title="Enjeux et th&egrave;mes" /> Enjeux <br />et th&egrave;mes </a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/" title="Passez &agrave; l&rsquo;action"> <img alt="Passez &agrave; l&rsquo;action" src="http://www.hww.ca/assets/wrapper/nav/things-you-can-do.png" title="Passez &agrave; l&rsquo;action" /> Passez <br />&agrave; l&rsquo;action </a>
+<ul class="submenu">
+<li><a href="http://www.hww.ca/fr/passez-a-laction/action-et-sensibilisation/" title="Action et sensibilisation">Action et sensibilisation</a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/produisez-votre-propre-video.html" title="Produisez votre propre vid&eacute;o FFDP">Produisez votre propre vid&eacute;o FFDP</a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/ffdp-histoires-de-larriere-pays/" title="FFDP - Histoires de l'arri&egrave;re-pays">FFDP - Histoires de l'arri&egrave;re-pays</a></li>
+</ul>
+</li>
+</ul>
+</span>
+</div><!-- Top Menu FR -->
+
+<div class="bande-couleur accueil"></div>
+
+		<a name="#beginContent"></a>
+
+		<div id="mainBanner">
+
+
+
+			<nav></nav>
+			
+			<section>
+				<p class="photo-credit-accueil" id="photo-credit">Photo:</p>
+				<aside>
+                                        <button>+</button>
+					<a href="#" class="more">
+						<span>Plus d'informations sur cette espèce.</spam>
+					</a>
+					<a href="#" class="link-category"><i class="category-text">Liste complète des mammifères.</i></a>
+				</aside>
+				<h1>Example Species</h1>
+				<p>Brief description of species ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tempor ut velit luctus posuere.</p>
+				<iframe width="405" height="230" src="//www.youtube.com/embed/FFvexX1OQpY" frameborder="0" allowfullscreen></iframe>
+			</section>
+
+			<!--<t:if test="banner_image_2014.length > 0">
+				<t:list id="banner_image_2014">
+					<img src="http://www.hww.ca/fr/" alt="" border="0">
+				</t:list>
+			</t:if><t:else>
+				<img src="http://www.hww.ca/kaboom/images/birds/downy-woodpecker.jpg" alt="Faune et flore du pays" width="445" height="217" border="0">
+			</t:else>
+			<t:if test="banner_image_2014 != null">
+				
+			</t:if><t:else>
+				Faune et flore du pays
+			</t:else>
+
+			<t:if test="banner_subheading != null">
+				
+			</t:if>-->
+		</div>
+		<main>
+			<section id="videos">
+				<h1>Vidéos</h1>
+				<div id="templatelist-597447860" style="display: inline;">
+
+
+
+
+  
+<ul>
+<li><iframe src="https://www.youtube.com/embed/RXjw2gb-NPc"></iframe></li>
+
+<li><iframe src="https://www.youtube.com/embed/p1KQVkFxnto"></iframe></li>
+
+<li><iframe src="https://www.youtube.com/embed/D4dax_7TiSE"></iframe></li>
+</ul></div>
+
+				<br style="clear:both;" />
+				<a href="http://www.hww.ca/fr/multimedia/videos/" class="dotSeparator more" title="Plus de vidéos">Plus de vidéos</a>
+			</section>
+			<section id="latestNews">
+				<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FFauneFlorePays&amp;width=440&amp;height=427&amp;colorscheme=light&amp;show_faces=false&amp;header=true&amp;stream=true&amp;show_border=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:440px; height:427px;" allowTransparency="true"></iframe>
+
+
+<div id="templatelist-597446737" style="display: inline;">
+
+
+
+
+  
+<dl id="kaboom-newsList">
+	
+		<div>
+			<dt>
+<a href="http://www.hww.ca/fr/nouvelles/En-l-honneur-de-Canada150-FFDP-vous-pr%C3%A9sente-Le-Harfang-des-neiges.html"  title="En l'honneur de Canada150, FFDP vous présente... Le Harfang des neiges!"> 
+				
+				
+						<img id="images" src="http://www.hww.ca/assets/images/birds/snowy-owl/snowy-owl-inuit-scultpure.png" alt="Snowy Owl Inuit Sculpture" border="0" alt="Snowy Owl Inuit Sculpture">
+				
+				
+</a>
+			</dt>
+			<dd>
+				<h2>
+				<a href="http://www.hww.ca/fr/nouvelles/En-l-honneur-de-Canada150-FFDP-vous-pr%C3%A9sente-Le-Harfang-des-neiges.html"  title="En l'honneur de Canada150, FFDP vous présente... Le Harfang des neiges!"> 
+					En l'honneur de Canada150, FFDP vous présente... Le Harfang des neiges!
+					</a>
+				</h2>
+				
+			</dd>
+		</div>
+	
+		<div>
+			<dt>
+<a href="http://www.hww.ca/fr/nouvelles/En-l-honneur-de-Canada150-FFDP-vous-pr%C3%A9sente-Le-bison-d-Am%C3%A9rique.html"  title="En l'honneur de Canada150, FFDP vous présente... Le bison d'Amérique!!"> 
+				
+				
+						<img id="images" src="http://www.hww.ca/assets/images/mammals/north-american-bison/george-catlin-buffalo-hunt.jpg" alt="George Catlin - Buffalo Hunt, A Numerous Group" border="0" alt="George Catlin - Buffalo Hunt, A Numerous Group">
+				
+				
+</a>
+			</dt>
+			<dd>
+				<h2>
+				<a href="http://www.hww.ca/fr/nouvelles/En-l-honneur-de-Canada150-FFDP-vous-pr%C3%A9sente-Le-bison-d-Am%C3%A9rique.html"  title="En l'honneur de Canada150, FFDP vous présente... Le bison d'Amérique!!"> 
+					En l'honneur de Canada150, FFDP vous présente... Le bison d'Amérique!!
+					</a>
+				</h2>
+				
+			</dd>
+		</div>
+	
+</dl></div>
+
+
+
+
+			</section>
+			
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="contentDiv">
+
+
+<script type="text/javascript" src="/components/form/form.js"></script>
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+(function() {
+  var gRecordFormName = 'record';
+
+  
+
+  var gLengthVerifier = function(e) {
+    var result = check4KLengths(gRecordFormName);
+    if (! result && e && e.preventDefault) {
+      e.preventDefault();
+    }
+    return result;
+  };
+
+  var gLengthInit = function() {
+    var form = document.forms[gRecordFormName];
+    if (form) {
+      if (form.addEventListener) {
+        form.addEventListener("submit", gLengthVerifier, true);
+      } else if (form.attachEvent) {
+        form.attachEvent("onsubmit", gLengthVerifier);
+      }
+    }
+  }
+
+ if (window.addEventListener) {
+    window.addEventListener('load', doFormLoad, false);
+    window.addEventListener('load', gLengthInit, false);
+  } else if (window.attachEvent) {
+    window.attachEvent('onload', doFormLoad);
+    window.attachEvent('onload', gLengthInit);
+  }
+})();
+</script>
+
+
+
+
+
+     
+     
+     
+
+
+
+
+
+
+
+<script type="text/javascript" src="/system/components/yui/yahoo/yahoo-min.js"></script>
+<script type="text/javascript" src="/components/rpc/rpc.js"></script>
+<script type="text/javascript">RPCHandler.init();</script>
+<form name="record"
+      action="/system/actions/process.jsp"
+      method="POST"
+
+onsubmit="return validateForm('record');" >
+  <input type="hidden"
+         name="com.frontleaf.form.ReturnURL"
+         value="/" />
+  <input type="hidden"
+         name="com.frontleaf.form.CancelURL"
+         value="/" />
+  <input type="hidden"
+         name="com.frontleaf.form.FormName"
+         value="record" />
+  <input type="hidden"
+         name="com.frontleaf.action.ItemID"
+         value="594934224" />
+  <input type="hidden"
+         name="com.frontleaf.record.RecordID"
+         value="850291620" />
+<div style="display:none">  <input type="hidden" name="com.frontleaf.form.OptionalCode"
+         value="" /></div>
+<section id="kids"><a class="big circle" href="/fr/les-curieux-de-nature/" title="Les curieux de nature">
+<div><img src="/kaboom/images/kids-zone.png" title="Les curieux de nature" /> <strong>Les curieux de nature</strong></div>
+</a>
+<div><a class="circle" href="/fr/les-curieux-de-nature/videos/" id="colouring" title="Vid&eacute;os">Vid&eacute;os</a> <a class="circle" href="/fr/les-curieux-de-nature/trucs-a-faire.html" id="learning" title="Trucs &agrave; faire">Trucs &agrave; faire</a> <a class="circle" href="/kaboom/fr/les-curieux-de-nature/vos-experiences-ffdp/" id="activities" title="Partagez votre exp&eacute;rience">Partagez votre exp&eacute;rience</a></div>
+<div class="mainpageSurvey">
+<h1>Sondage</h1>
+<p>Installerez-vous un abri &agrave; chauve-souris pr&egrave;s de chez vous?</p>
+<p><label><input id="resultat_sondage" name="resultat_sondage" title="R&eacute;sultat sondage :: Oui" type="radio" uniqueid="613321011" value="oui" /> Oui</label> <label><input id="resultat_sondage" name="resultat_sondage" title="R&eacute;sultat sondage :: Non" type="radio" uniqueid="613321011" value="non" /> Non</label> <input class="small circle" type="submit" value="Votez!" /></p>
+</div>
+</section><article>
+<div>
+<p><img alt="F&eacute;d&eacute;ration canadienne de la faune" src="/kaboom/images/CWF-logo-fr.png" style="margin-bottom: 20px;" title="F&eacute;d&eacute;ration canadienne de la faune" />&nbsp;&nbsp;&nbsp;&nbsp; <img alt="Environnement Canada" height="77" src="/kaboom/images/ec_gc_fre_c.png" style="margin-bottom: 20px; padding-left: 25px;" title="Environnement Canada" /></p>
+</div>
+<div class="two-thirds first-column">
+<h1>Bienvenue sur le site Web de Faune et flore du pays</h1>
+<h1></h1>
+<p></p>
+<p>Le tout a d&eacute;but&eacute; en 1963, avec des capsules vid&eacute;o en noir et blanc sur le Plongeon huard, l&rsquo;orignal, le Fou de Bassan et le castor. Depuis 50 ans, Faune et flore du pays vous met en lien avec les esp&egrave;ces canadiennes les plus &eacute;tonnantes, et ce, directement dans vos maisons. Relanc&eacute;e en 2003, la nouvelle s&eacute;rie r&eacute;tablira le lien que des milliers de Canadiens et de Canadiennes avaient entretenu avec les esp&egrave;ces sauvages gr&acirc;ce &agrave; la s&eacute;rie d'origine.</p>
+<p></p>
+<p>Nous vous souhaitons donc la bienvenue sur notre nouveau site! Jetez-y un coup d&rsquo;&oelig;il, et apprenez comment vous pouvez aider &agrave; ce que la faune et la flore demeurent des &eacute;l&eacute;ments essentiels de l&rsquo;identit&eacute; canadienne.</p>
+<p></p>
+<div class="socialbuttons"><iframe frameborder="0" name="Facebook_Share" scrolling="no" src="https://www.facebook.com/plugins/like.php?href=http://www.hww.ca/fr/&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;width=120&amp;appId=352832194794340" style="border: none; overflow: hidden; height: 21px; width: 120px;"></iframe> <a class="twitter-share-button" href="https://twitter.com/share" name="Twitter_Share" data-lang="en"></a>Tweet
+<script type="text/javascript">// <![CDATA[
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+// ]]></script>
+</div>
+</div>
+<div class="one-thirds"></div>
+</article></form>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" src="/system/components/logging/logging.js"></script>
+
+
+
+
+<script type="text/javascript">
+if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
+
+if (! CONVIO.page) { CONVIO.page = {}; }
+
+CONVIO.page.folderID = '627439758';
+CONVIO.page.hostID = '284242838';
+CONVIO.page.adminURL = 'https://cmsadmin30.convio.net';
+
+
+CONVIO.page.navFolderID = '284242840';
+CONVIO.page.navFolderTitle = 'www.hww.ca';
+
+
+
+CONVIO.page.draftID = '594934224';
+CONVIO.page.hasForm = true;
+
+
+
+CONVIO.page.typeID = '284242847';
+CONVIO.page.typeLabel = 'Web Page';
+
+
+
+CONVIO.page.hasEditorStep = true;
+
+
+if (! CONVIO.user) { CONVIO.user = {}; }
+CONVIO.user.isAnonymous = true;
+</script>
+
+
+
+<script type="text/javascript" src="https://cmsadmin30.convio.net/system/auth/author-toolbar.jsp"></script>
+
+
+<script type="text/javascript" src="/components/floatbar/floatbar.js"></script>
+
+
+
+
+				 
+
+
+
+		</main>
+
+<div id="footer">
+	<footer>
+			<div id="include-627421005" style="display: inline;">
+
+
+
+
+
+
+
+<span class="includeDocument">
+
+
+
+
+
+
+
+
+
+<section class="sitemap">
+<ul>
+<li class="legend"><a href="http://www.hww.ca/fr/" title="Accueil">ACCUEIL</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/a-propos/" title="&Agrave; propos">&Agrave; PROPOS</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/profil-de-ffdp.html" title="Profil de FFDP">Profil de FFDP</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/50/" title="50 ans">50 ans</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/les-animateurs.html" title="Les animateurs">Les animateurs</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/en-coulisse.html" title="En coulisse">En coulisse</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/medias.html" title="Médias">M&eacute;dias</a></li>
+<li><a href="http://www.hww.ca/fr/a-propos/partenaires.html" title="Partenaires">Partenaires</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/nouvelles/" title="Nouvelles">NOUVELLES</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/educateurs.html" title="&Eacute;ducateurs">&Eacute;DUCATEURS</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/glossaire/" title="Glossaire">GLOSSAIRE</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/contactez-nous.html" title="Contactez-nous">CONTACTEZ-NOUS</a></li>
+</ul>
+<ul>
+<li class="legend"><a href="http://www.hww.ca/fr/faune/" title="Faune">FAUNE</a></li>
+<li><a href="http://www.hww.ca/fr/faune/mammiferes/" title="Les mammif&egrave;res">Les mammif&egrave;res</a></li>
+<li><a href="http://www.hww.ca/fr/faune/oiseaux/" title="Les oiseaux">Les oiseaux</a></li>
+<li><a href="http://www.hww.ca/fr/faune/poissons-amphibiens-reptiles/" title="Les poissons, les amphibiens et reptiles">Les poissons, les amphibiens et reptiles</a></li>
+<li><a href="http://www.hww.ca/fr/faune/invertebres/" title="Les invert&eacute;br&eacute;s">Les invert&eacute;br&eacute;s</a></li>
+</ul>
+<ul>
+<li class="legend"><a href="http://www.hww.ca/fr/espaces-sauvages/" title="Espaces sauvages">ESPACES SAUVAGES</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-toundra-arctique-du-canada.html" title="La toundra arctique">La toundra arctique</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-foret-boreale-canadienne.html" title="La for&ecirc;t bor&eacute;ale">La for&ecirc;t bor&eacute;ale</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/la-foret-pluviale-cotiere.html" title="La for&ecirc;t pluviale c&ocirc;ti&egrave;re">La for&ecirc;t pluviale c&ocirc;ti&egrave;re</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-tourbieres-du-canada.html" title="Les tourbi&egrave;res du Canada">Les tourbi&egrave;res du Canada</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-ecozones.html" title="Les &eacute;cozones">Les &eacute;cozones</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-estuaires-un-habitat.html" title="Les estuaires">Les estuaires</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-prairies.html" title="Les Prairies">Les Prairies</a></li>
+<li><a href="http://www.hww.ca/fr/espaces-sauvages/les-terres-humides.html" title="Les terres humides">Les terres humides</a></li>
+</ul>
+<ul>
+<li class="legend"><a href="http://www.hww.ca/fr/multimedia/" title="Multim&eacute;dia">MULTIM&Eacute;DIA</a></li>
+<li><a href="http://www.hww.ca/fr/multimedia/videos/" title="Vid&eacute;os" aria-label="Multimédia - Vidéos">Vid&eacute;os</a></li>
+<li><a href="http://www.hww.ca/fr/multimedia/webisodes/" title="Webisodes">Webisodes</a></li>
+<li><a href="http://www.hww.ca/fr/multimedia/clips-sonores/" title="Clips sonores">Clips sonores</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/les-curieux-de-nature/" title="Les curieux de nature">LES CURIEUX DE NATURE</a></li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/videos/" title="Vid&eacute;os" aria-label="Les curieux de nature - Vidéos">Vid&eacute;os</a></li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/trucs-a-faire.html" title="Trucs &agrave; faire">Trucs &agrave; faire</a></li>
+<li><a href="http://www.hww.ca/fr/les-curieux-de-nature/la-nature-et-toi/" title="La nature et toi">La nature et toi</a></li>
+</ul>
+
+<ul>
+<li class="legend"><a href="http://www.hww.ca/fr/enjeux-et-themes/" title="Enjeux et th&egrave;mes">ENJEUX ET TH&Egrave;MES</a></li>
+<li class="legend"><a href="http://www.hww.ca/fr/passez-a-laction/" title="Passez &agrave; l'action">PASSEZ &Agrave; L'ACTION</a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/action-et-sensibilisation/" title="Action et sensibilisation">Action et sensibilisation</a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/produisez-votre-propre-video.html" title="Produisez votre propre vid&eacute;o FFDP">Produisez votre propre vid&eacute;o FFDP</a></li>
+<li><a href="http://www.hww.ca/fr/passez-a-laction/ffdp-histoires-de-larriere-pays/" title="FFDP - Histoires de l'arri&egrave;re-pays">FFDP - Histoires de l'arri&egrave;re-pays</a></li>
+</ul>
+</section><section class="legal">
+<div class="links"><a class="footer-bottommenu" href="http://www.hww.ca/fr/commander-en-ligne.html" title="Commander en ligne">Commander en ligne</a> <a class="footer-bottommenu" href="http://www.hww.ca/fr/politique-de-confidentialite.html" title="Politique de confidentialit&eacute;">Politique de confidentialit&eacute;</a> <a class="footer-bottommenu" href="http://www.hww.ca/fr/droits-dauteur.html" title="Droits d'auteur">Droits d'auteur</a> <a class="footer-bottommenu" href="http://www.hww.ca/fr/conditions.html" title="Conditions">Conditions</a> <a class="footer-bottommenu" href="http://www.hww.ca/fr/generiques-du-site.html" title="G&eacute;n&eacute;riques du site">G&eacute;n&eacute;riques du site</a> <a class="footer-bottommenu" href="http://www.hww.ca/fr/carte-du-site.html" title="Carte du site">Carte du site</a></div>
+<div class="copy">Tous droits r&eacute;serv&eacute;s &copy;  <a href="http://www.ec.gc.ca/default.asp?lang=Fr&amp;n=FD9B0E51-1" title="Environnement Canada" target="_blank">Environnement et Changement climatique Canada</a> &amp; <a href="http://www.cwf-fcf.org/fr/" title="F&eacute;d&eacute;ration canadienne de la faune" target="_blank">F&eacute;d&eacute;ration canadienne de la faune</a></div>
+<div class="social"><a href="http://www.facebook.com/pages/Hinterland-Whos-Who/113294552031997" title="Facebook" target="_blank"> <img alt="Facebook" border="0" src="http://www.hww.ca/assets/wrapper/facebook.jpg" title="Facebook" /></a> <a href="http://www.youtube.com/user/HinterlandWW" title="YouTube" target="_blank"> <img alt="YouTube" border="0" src="http://www.hww.ca/assets/wrapper/youtube.jpg" title="YouTube" /></a></div>
+</section>
+</span>
+</div><!-- Footer FR -->
+		</footer>
+</div>
+
+<div id="poweredBy" style="display: none">
+
+
+
+
+
+<!-- BEGIN: Powered By -->
+<style type="text/css">
+#cv-poweredBy {
+  text-align: center;
+}
+
+#cv-poweredBy a {
+  color: #ccc;
+  font-family: arial,sans-serif;
+  font-size: 9px;
+  text-decoration: none;
+}
+</style>
+
+<div id="cv-poweredBy">
+  <a href="http://www.blackbaud.com" title="online fundraising, advocacy &amp; donor database">
+    <img src="/assets/poweredby.gif" border="0" alt="Powered by Blackbaud" /><br />
+    nonprofit software</a>
+</div>
+<!-- END: Powered By -->
+</div>
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+		<script type="text/javascript"> _uacct = "UA-980205-2"; urchinTracker(); </script>
+		<div id="slideshowLoader" style="display: none;">
+
+			<!-- [Kaboom] loader for slideshow slides. You can change the filters and module settings for different slides to appear. Changing the List Template will break the slider, as it's needed to fetch the proper content. -->
+                        <!--<div style="display: inline;" class="templateComponent" id="templatelist-598063505"></div>-->
+
+                    <!-- new kaboom slideshow list -->
+                    <div id="templatelist-598063505" style="display: inline; ">
+                    
+                    <p></p>
+                    <ul>
+                    
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/enjeux-et-themes/canada-150.html" title="Canada 150">
+
+	               
+
+		           <img src="http://www.hww.ca/assets/images/issues-and-topics/canada-150/canada150.png" title="Canada150" alt="Canada150 logo" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit"></span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/enjeux-et-themes/canada-150.html" title="Canada 150">Canada 150</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/la-morue-de-latlantique.html" title="La morue de l'Atlantique">La morue de l'Atlantique</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/la-morue-de-latlantique-15.html" title="La morue de l'Atlantique (15 secondes)">La morue de l'Atlantique (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/la-morue-de-latlantique-30.html" title="La morue de l'Atlantique (30 secondes)">La morue de l'Atlantique (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/la-morue-de-latlantique-1.html" title="La morue de l'Atlantique (Jeunesse)">La morue de l'Atlantique (Jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-bison-damrique-2.html" title="Le bison d'Amérique (Jeunesse)">Le bison d'Amérique (Jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-bison-damrique-30.html" title="Le bison d'Amérique (30 secondes)">Le bison d'Amérique (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-bison-damrique.html" title="Le bison d'Amérique (15 secondes)">Le bison d'Amérique (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-bison-damrique-1.html" title="Le bison d'Amérique">Le bison d'Amérique</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/la-baleine-noire-de-2.html" title="La baleine noire de l'Atlantique nord (15 secondes)">La baleine noire de l'Atlantique nord (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/la-baleine-noire-de-1.html" title="La baleine noire de l'Atlantique nord (Jeunesse)">La baleine noire de l'Atlantique nord (Jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/la-baleine-noire-de.html" title="La baleine noire de l'Atlantique nord">La baleine noire de l'Atlantique nord</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/la-baleine-noire-de-3.html" title="La baleine noire de l'Atlantique nord (30 secondes)">La baleine noire de l'Atlantique nord (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/le-saumon-du-pacifique-1.html" title="Le saumon du Pacifique">Le saumon du Pacifique</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/le-saumon-du-pacifique-2.html" title="Le saumon du Pacifique (Jeunesse)">Le saumon du Pacifique (Jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/le-saumon-du-pacifique-30.html" title="Le saumon du Pacifique (30 secondes)">Le saumon du Pacifique (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/poissons-amphibiens-et-reptiles/le-saumon-du-pacifique.html" title="Le saumon du Pacifique (15 secondes)">Le saumon du Pacifique (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-castor-1.html" title="Le castor">Le castor</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-castor-15-secondes.html" title="Le castor (15 secondes)">Le castor (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-castor-30-secondes.html" title="Le castor (30 secondes)">Le castor (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-castor-jeunesse.html" title="Le castor (jeunesse)">Le castor (jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-harfang-des-neiges-30.html" title="Le Harfang des neiges (30 secondes)">Le Harfang des neiges (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-harfang-des-neiges-2.html" title="Le Harfang des neiges (Jeunesse)">Le Harfang des neiges (Jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-harfang-des-neiges-15.html" title="Le Harfang des neiges (15 secondes)">Le Harfang des neiges (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-harfang-des-neiges-1.html" title="Le Harfang des neiges">Le Harfang des neiges</a> 
+                       <article class="description">
+                               <!-- for fact sheets -->
+                               <p style="text-align: justify;">Célébrez le 150e du Canada avec FFDP!</p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals"></span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/mammiferes/le-lynx-du-canada.html" title="Le lynx du Canada">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Mammals/Canada-Lynx.jpg" title="Canada Lynx " alt="Canada Lynx" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Adam Houben</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/mammiferes/le-lynx-du-canada.html" title="Le lynx du Canada">Le lynx du Canada</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-lynx-du-canada.html" title="Le lynx du Canada">Le lynx du Canada</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-lynx-du-canada-1.html" title="Le lynx du Canada (30 secondes)">Le lynx du Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-lynx-du-canada-jeunesse.html" title="Le lynx du Canada (jeunesse)">Le lynx du Canada (jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-lynx-du-canada-15.html" title="Le lynx du Canada (15 secondes)">Le lynx du Canada (15 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-30-secondes.html" title="La forêt boréale (30 secondes) ">La forêt boréale (30 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-60-secondes.html" title="La forêt boréale (60 secondes) ">La forêt boréale (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-hivernale-30.html" title="La faune hivernale (30 secondes)">La faune hivernale (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-hivernale-60.html" title="La faune hivernale (60 secondes)">La faune hivernale (60 secondes)</a> 
+                       <article class="description">
+                               <p><img align="right" alt="Comparaison des oreilles du lynx roux et du lynx du Canada" border="0" src="http://www.hww.ca/images/OREILLE.JPG" />Le lynx du Canada (<em>Lynx canadensis</em>) est un magnifique f&eacute;lin (ou chat) sauvage de la for&ecirc;t bor&eacute;ale (la for&ecirc;t la plus au nord de l&rsquo;h&eacute;misph&egrave;re Nord). Le lynx ressemble &agrave; un tr&egrave;s grand chat domestique. Il a la queue courte, de longues pattes, de grands pieds et des touffes de poils pro&eacute;minentes sur les oreilles (voir la figure 1). Son pelage d&rsquo;hiver, d&rsquo;un gris clair, est quelque peu mouchet&eacute; de longs jarres, son sous-poil tire sur le brun, et la touffe de ses oreilles et le bout de sa queue sont noirs. Son pelage d&rsquo;&eacute;t&eacute; est beaucoup plus court et d&rsquo;un brun rouge.</p>
+<p>Les grands pieds du lynx, qui, en hiver, sont recouverts d&rsquo;un tapis de poils raides, permettent &agrave; l&rsquo;animal de se d&eacute;placer sur la neige. Tout comme le li&egrave;vre d&rsquo;Am&eacute;rique, le lynx peut &eacute;carter les orteils dans la neige molle, &eacute;largissant ainsi davantage ses &laquo;&nbsp;raquettes&nbsp;&raquo;. <br /><br />Le lynx a de grands yeux et de grandes oreilles; il se fie &agrave; l&rsquo;acuit&eacute; de sa vue et de son ou&iuml;e pour chasser. Tout comme la plupart des autres chats, il a des griffes r&eacute;tractiles qu&rsquo;il utilise principalement pour saisir sa proie et se battre. <br /><br />Des trois f&eacute;lins sauvages du Canada (le lynx, le lynx roux et le couguar), le lynx et le lynx roux se ressemblent le plus et sont les plus &eacute;troitement apparent&eacute;s. Ils sont probablement tous les deux des descendants du lynx d&rsquo;Eurasie, qui est plus grand qu&rsquo;eux. Il existe certaines diff&eacute;rences mineures entre le lynx et le lynx roux. Le lynx roux est un peu plus petit, et ses pieds sont un peu moins grands que ceux du lynx, ce qui fait que le lynx roux est moins bon chasseur dans la neige profonde. Le bout de la queue du lynx est noir, tandis que la queue du lynx roux est stri&eacute;e de trois ou quatre barres noires et marqu&eacute;e d&rsquo;une tache noire pr&egrave;s du bout sur la surface sup&eacute;rieure; les taches sur le poil du lynx roux sont plus prononc&eacute;es. Quant au couguar, il est beaucoup plus grand et plus puissant que le lynx et le lynx roux; on le reconna&icirc;t facilement &agrave; sa longue queue. <br /><br /><strong>Signes et sons</strong></p>
+<p>Le r&eacute;pertoire vocal du lynx est aussi vaste que celui du chat domestique, mais plus fort.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Mammals</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/mammiferes/le-grizzli-ou-grizzly.html" title="Le grizzli (ou grizzly)">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Mammals/Grizzly.jpg" title="Grizzly Bear" alt="Grizzly Bear" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Rolf Gary Phillips</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/mammiferes/le-grizzli-ou-grizzly.html" title="Le grizzli (ou grizzly)">Le grizzli (ou grizzly)</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-grizzli-1.html" title="Le grizzli">Le grizzli</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-grizzli-30-secondes.html" title="Le grizzli (30 secondes)">Le grizzli (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-grizzli-jeunesse.html" title="Le grizzli (jeunesse)">Le grizzli (jeunesse)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/mammiferes/le-grizzli-15-secondes.html" title="Le grizzli (15 secondes)">Le grizzli (15 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/le-grizzli.html" title="Le grizzli, clip vidéo">Le grizzli, clip vidéo</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/foret-pluviale-30-secondes.html" title="Forêt pluviale (30 secondes)">Forêt pluviale (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/foret-pluviale-60-secondes.html" title="Forêt pluviale (60 secondes)">Forêt pluviale (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-30-secondes.html" title="La forêt boréale (30 secondes) ">La forêt boréale (30 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-60-secondes.html" title="La forêt boréale (60 secondes) ">La forêt boréale (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au.html" title="Les espèces en péril au Canada (30 secondes)">Les espèces en péril au Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au-1.html" title="Les espèces en péril au Canada (60 secondes)">Les espèces en péril au Canada (60 secondes)</a> 
+                       <article class="description">
+                               <p>Le grizzli (<em>Ursus arctos</em>) est, apr&egrave;s l&rsquo;ours blanc, le plus gros carnivore terrestre d&rsquo;Am&eacute;rique du Nord et, comme lui, pr&eacute;sente aux &eacute;paules une bosse form&eacute;e par les muscles de ses pattes ant&eacute;rieures massives. <br /><br />II a pour traits distinctifs une face quelque peu bomb&eacute;e et de tr&egrave;s longues griffes aux pattes avant (voir le croquis). Son pelage va du blanc-cr&egrave;me ou du jaune-ivoire au noir. Les grizzlis ont g&eacute;n&eacute;ralement une fourrure de couleur claire ou gris&acirc;tre sur la t&ecirc;te et les &eacute;paules, le corps sombre et les membres de couleur encore plus fonc&eacute;e. La forme de leur corps et leur longue fourrure les font para&icirc;tre plus massifs qu&rsquo;ils ne le sont en r&eacute;alit&eacute;. Bien que certains individus puissent peser jusqu&rsquo;&agrave; 500&nbsp;kg, un m&acirc;le moyen p&egrave;se entre 250 et 350&nbsp;kg tandis que la femelle p&egrave;se la moiti&eacute; moins. <br /><br />La famille des ours comprend sept esp&egrave;ces que l&rsquo;on trouve dans la moiti&eacute; nord des h&eacute;misph&egrave;res Ouest et Est, ainsi qu&rsquo;en Am&eacute;rique du Sud. L&rsquo;ours brun (<em>Ursus arctos</em>) est l&rsquo;une des trois esp&egrave;ces d&rsquo;ours d&rsquo;Am&eacute;rique du Nord. Les deux autres sont l&rsquo;ours blanc (<em>Ursus maritimus</em>) et l&rsquo;ours noir (<em>Ursus americanus</em>). <br /><br /><img align="right" alt="Comparaison d'un ours noir et d'un grizzli" border="0" src="http://www.hww.ca/images/SILHOU_F.JPG" />Le grizzli a d&rsquo;abord &eacute;t&eacute; consid&eacute;r&eacute; comme une esp&egrave;ce propre &agrave; l&rsquo;Am&eacute;rique du Nord et diff&eacute;rente de l&rsquo;ours brun d&rsquo;Europe tout en lui &eacute;tant tr&egrave;s semblable. M&ecirc;me s&rsquo;il poss&egrave;de des caract&eacute;ristiques particuli&egrave;res, il a &eacute;t&eacute; reclass&eacute; en 1953 dans la m&ecirc;me esp&egrave;ce que l&rsquo;ours brun d&rsquo;Europe et d&rsquo;Asie. <br /><br />II existe officiellement deux sous-esp&egrave;ces d&rsquo;ours brun circumpolaire (<em>Ursus arctos</em>) en Am&eacute;rique du Nord. Dans les &icirc;les Kodiak, au large de l&rsquo;Alaska, on trouve le Kodiak de l&rsquo;Alaska (<em>Ursus arctos middendorffi</em>). Les ours de l&rsquo;autre sous-esp&egrave;ce (<em>Ursus arctos horribilis</em>), malgr&eacute; qu&rsquo;ils soient de tailles diff&eacute;rentes en raison des facteurs g&eacute;ographiques qui entra&icirc;nent des variations quantitatives et qualitatives dans leur alimentation, sont des grizzlis.</p>
+<p><strong>Signes et sons</strong></p>
+<p><img alt="Traces de grizzli" border="0" src="http://www.hww.ca/images/PAWS.GIF" />&nbsp;<br /><span class="small">Traces de grizzly</span></p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Mammals</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/enjeux-et-themes/centenaire-convention-oiseaux-migrateurs.html" title="Centenaire de la Convention concernant les oiseaux migrateurs">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/issues-and-topics/centennial-of-the-migratory-birds-convention/Piping-Plover_Merri-Lee_Metzger.jpg" title="Piping-Plover" alt="Piping-Plover" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Merri-Lee Metzger</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/enjeux-et-themes/centenaire-convention-oiseaux-migrateurs.html" title="Centenaire de la Convention concernant les oiseaux migrateurs">Centenaire de la Convention concernant les oiseaux migrateurs</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/enjeux-et-themes/centenaire-de-la-convention.html" title="Centenaire de la Convention concernant les oiseaux migrateurs (30 secondes)">Centenaire de la Convention concernant les oiseaux migrateurs (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/enjeux-et-themes/centenaire-de-la-convention.html" title="Centenaire de la Convention concernant les oiseaux migrateurs">Centenaire de la Convention concernant les oiseaux migrateurs</a> 
+                       <article class="description">
+                               <!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals"></span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/oiseaux/lhirondelle-rustique.html" title="L'Hirondelle rustique">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Birds/barn-swallow/barn-swallow-1.jpg" title="Barn Swallow" alt="Barn Swallow" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">J.J. Cadiz</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/oiseaux/lhirondelle-rustique.html" title="L'Hirondelle rustique">L'Hirondelle rustique</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/lhirondelle-rustique-30.html" title="L'Hirondelle rustique (30 secondes)">L'Hirondelle rustique (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/hirondelle-rustique.html" title="L'Hirondelle rustique (60 secondes)">L'Hirondelle rustique (60 secondes)</a> 
+                       <article class="description">
+                               <table align="left" style="width: auto; float: left; margin-bottom: 0.5em; margin-right: 0.5em;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img height="323" src="http://www.hww.ca/kaboom/images/Birds/barn-swallow/barn-swallow-1.jpg" width="487" /></td>
+</tr>
+<tr>
+<td><strong><span style="font-size: x-small;">Hirondelle rustique (photo par J.J. Cadiz)</span></strong></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: justify;">L&rsquo;Hirondelle rustique (Hirundo rustica) est un passereau de taille moyenne (environ la taille d&rsquo;un Moineau domestique). Sa longueur est de 15 &agrave; 18 centim&egrave;tres, son envergure est de 29 &agrave; 32 centim&egrave;tres et son poids est de 15 &agrave; 20 grammes. Ce n&rsquo;est pas par sa taille, mais bien par son aspect que l&rsquo;Hirondelle rustique se distingue! Les plumes de son dos et de sa queue pr&eacute;sentent une couleur caract&eacute;ristique bleu acier assortie de reflets iris&eacute;s, son ventre est brun p&acirc;le ou rouille, sa gorge et son front sont marron. Sa longue queue fourchue et ses ailes pointues rendent &eacute;galement l&rsquo;identification facile. Ce sont ces ailes, cette queue et la forme a&eacute;rodynamique du corps qui permettent le vol rapide et acrobatique qui caract&eacute;rise l&rsquo;esp&egrave;ce. Les m&acirc;les et les femelles se ressemblent, mais les femelles ont habituellement des couleurs moins vives et une queue moins longue. Lorsque les Hirondelles rustiques sont perch&eacute;es, elles ont un aspect presque conique en raison de leur t&ecirc;te courte de forme aplatie, de leur cou tr&egrave;s court et de leur corps long. <br /><br />Les Hirondelles rustiques vivent environ quatre ans en moyenne. On a cependant observ&eacute; une Hirondelle rustique qui avait plus de huit ans en Am&eacute;rique du Nord et une autre, en Europe, qui avait plus de seize ans.&nbsp;</p>
+<p style="text-align: justify;"><strong>Signes et sons</strong></p>
+<p style="text-align: justify;">Comme tous les Hirundinid&eacute;s (la famille des hirondelles), l&rsquo;Hirondelle rustique est diurne &ndash; elle est active pendant la journ&eacute;e, de l&rsquo;aube au cr&eacute;puscule. Elle est agile en vol et peut faire de v&eacute;ritables acrobaties. Elle peut passer au ras de la terre ou de l&rsquo;eau puis s&rsquo;&eacute;lever &agrave; plus de 30 m&egrave;tres. L&rsquo;esp&egrave;ce d&eacute;tient peut-&ecirc;tre le record de vitesse des Hirundinid&eacute;s, car on a enregistr&eacute; des vitesses de pr&egrave;s de 75 kilom&egrave;tres-heure. Lorsqu&rsquo;elle ne vole pas, l&rsquo;Hirondelle rustique peut &ecirc;tre observ&eacute;e sur des cl&ocirc;tures, des c&acirc;bles, des antennes de t&eacute;l&eacute;vision ou des branches mortes.<br /><br />Les m&acirc;les comme les femelles chantent tant individuellement qu&rsquo;en groupe. Leur r&eacute;pertoire comprend un ensemble tr&egrave;s vari&eacute; de gazouillements, de gazouillis et de p&eacute;piements. Lorsqu&rsquo;ils se sentent menac&eacute;s, ils &eacute;mettent un cri fort, auquel d&rsquo;autres hirondelles r&eacute;pondront en s&rsquo;envolant du nid pour d&eacute;fendre le territoire.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Birds</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/oiseaux/le-macareux-moine.html" title="Le Macareux moine">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Birds/Atlantic-Puffin.jpg" title="Atlantic Puffin" alt="Atlantic Puffin" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Megan Lorenz</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/oiseaux/le-macareux-moine.html" title="Le Macareux moine">Le Macareux moine</a>
+                        <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-macareux-moine.html" title="Le Macareux moine">Le Macareux moine</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-macareux-moine-15.html" title="Le Macareux moine (15 secondes)">Le Macareux moine (15 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-macareux-moine-30.html" title="Le Macareux moine (30 secondes)">Le Macareux moine (30 secondes)</a>  <a class="video" href="http://www.hww.ca/fr/multimedia/videos/oiseaux/le-macareux-moine-30-1.html" title="Le Macareux moine (30 secondes, jeunesse)">Le Macareux moine (30 secondes, jeunesse)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/sos-ocean.html" title="S.O.S. Océan (webisode)">S.O.S. Océan (webisode)</a> 
+                       <article class="description">
+                               <p style="text-align: justify;">Quatre esp&egrave;ces de macareux se rencontrent au monde, mais le Macareux moine (<em>Fratercula arctica</em>) est le seul qui vit en Atlantique Nord. C&rsquo;est l&rsquo;un des oiseaux marins les plus populaires et les plus familiers au Canada. Sa physionomie particuli&egrave;re en fait m&ecirc;me un candidat id&eacute;al pour les calendriers et les affiches. En 1992, il est devenu l&rsquo;embl&egrave;me aviaire officiel de la province de Terre-Neuve-et-Labrador. Si la majorit&eacute; des gens n&rsquo;ont aucun mal &agrave; identifier l&rsquo;oiseau en plumage nuptial, il en va tout autrement lorsqu&rsquo;il arbore sa livr&eacute;e hivernale plus simple.</p>
+<table align="left" style="width: 444px; height: 186px;">
+<tbody>
+<tr></tr>
+<tr>
+<td style="width: 100%;">&nbsp;<img alt="Diff&eacute;rentes esp&egrave;ces dans la famille des pingouins, ou Alcid&eacute;s" border="0" src="http://www.hww.ca/images/Puf1.gif" /><img alt="Diff&eacute;rentes esp&egrave;ces dans la famille des pingouins, ou Alcid&eacute;s" border="0" src="http://www.hww.ca/images/Puf2.gif" /><img alt="Diff&eacute;rentes esp&egrave;ces dans la famille des pingouins, ou Alcid&eacute;s" border="0" src="http://www.hww.ca/images/Puf3.gif" /><img alt="Diff&eacute;rentes esp&egrave;ces dans la famille des pingouins, ou Alcid&eacute;s" border="0" src="http://www.hww.ca/images/Puf4.gif" /></td>
+</tr>
+<tr>
+<td>&nbsp;<strong><span style="font-size: x-small;">En haut &agrave; gauche: Macareux moine adulte en plumage nuptial. En haute &agrave; droite: Macareux moine adulte en plumage hivernale. En bas &agrave; gauche: Macareux moine juv&eacute;nile. En bas &agrave; droite: Guillemot marmette adulte.</span></strong></td>
+</tr>
+</tbody>
+</table>
+<p>Fratercula signifie &laquo; petit fr&egrave;re &raquo; ou &laquo; moine &raquo;, allusion probable &agrave; la livr&eacute;e noir et blanc de l&rsquo;oiseau. Les macareux appartiennent &agrave; la famille des pingouins, ou Alcid&eacute;s, tout comme le Mergule nain, les marmettes, les guillemots, le Petit Pingouin, les stariques, ainsi que le Grand Pingouin aujourd&rsquo;hui disparu. Ces oiseaux marins plongeurs de l&rsquo;h&eacute;misph&egrave;re Nord utilisent leurs ailes pour se propulser sous l&rsquo;eau &agrave; la poursuite de petits poissons ou d&rsquo;autres proies.<br /><br />Durant la p&eacute;riode nuptiale, le bec du Macareux moine, large de profil et mais &eacute;troit, est par&eacute; de bandes contrastantes orange, jaune et bleue; les pattes sont d&rsquo;un orange vif. Le visage gris blanc du macareux est orn&eacute; de rosettes jaunes charnues &agrave; la base du bec, et d&rsquo;anneaux rouges et de petites plaques bleut&eacute;es autour des yeux. La t&ecirc;te, le dos et les ailes sont noirs et contrastent fortement avec le ventre qui est d&rsquo;un blanc immacul&eacute;. Les individus des deux sexes ont une apparence semblable, mais en g&eacute;n&eacute;ral le m&acirc;le est l&eacute;g&egrave;rement plus gros que la femelle.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Birds</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/mammiferes/le-carcajou.html" title="Le carcajou">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Mammals/wolverine.jpg" title="Wolverine" alt="Wolverine" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Thinkstock</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/mammiferes/le-carcajou.html" title="Le carcajou">Le carcajou</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/le-carcajou-30-secondes.html" title="Le carcajou (30 secondes)">Le carcajou (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/le-carcajou-60-secondes.html" title="Le carcajou (60 secondes)">Le carcajou (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-30-secondes.html" title="La forêt boréale (30 secondes) ">La forêt boréale (30 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-60-secondes.html" title="La forêt boréale (60 secondes) ">La forêt boréale (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au.html" title="Les espèces en péril au Canada (30 secondes)">Les espèces en péril au Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au-1.html" title="Les espèces en péril au Canada (60 secondes)">Les espèces en péril au Canada (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-toundra-30-secondes.html" title="La toundra (30 secondes)">La toundra (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-toundra.html" title="La toundra (60 secondes)">La toundra (60 secondes)</a> 
+                       <article class="description">
+                               <p><span>Bien que le carcajou (<em>Gulo gulo</em>) appartienne &agrave; la famille de la belette (les must&eacute;lid&eacute;s), il n&rsquo;est pas aussi long et fin qu&rsquo;elle, mais court et trapu comme un petit ours. Il a la t&ecirc;te large et ronde, de petits yeux, et des oreilles courtes et arrondies. Ses pattes sont courtes et robustes, et chaque pied compte cinq orteils. Ses longues griffes recourb&eacute;es sont semi-r&eacute;tractiles, ce qui signifie qu&rsquo;il peut les rentrer partiellement; elles servent &agrave; grimper et &agrave; creuser. Ses dents sont solides, et sa t&ecirc;te, de m&ecirc;me que son cou et les muscles de ses &eacute;paules sont bien d&eacute;velopp&eacute;s. Ces caract&eacute;ristiques permettent au carcajou de se nourrir de chair et d&rsquo;os congel&eacute;s, une tactique de survie adapt&eacute;e aux environnements difficiles et &eacute;loign&eacute;s dans lesquels il r&eacute;side.</span></p>
+<table align="left" style="width: auto; margin-right: 0.5em; margin-bottom: 0.5em;">
+<tbody>
+<tr>
+<td style="width: 100%;"><img alt="Le carcajou a des marques p&acirc;les sur sa poitrine" src="http://www.hww.ca/assets/images/mammals/wolverine/wolverine-6.jpg" /></td>
+</tr>
+<tr>
+<td><span style="font-size: x-small;">Le carcajou a des marques p&acirc;les sur sa poitrine</span></td>
+</tr>
+</tbody>
+</table>
+<p><span>Un carcajou adulte a &agrave; peu pr&egrave;s la corpulence d&rsquo;un chien de taille moyenne. Les m&acirc;les adultes p&egrave;sent de 12 &agrave; 18 kg, les femelles adultes de 8 &agrave; 12 kg. Les carcajous qui vivent le plus au Nord sont g&eacute;n&eacute;ralement plus grands que ceux qui vivent au Sud.<br />Le carcajou poss&egrave;de l&rsquo;une des fourrures les plus remarquables parmi tous les animaux &agrave; fourrure. Celle-ci est g&eacute;n&eacute;ralement d&rsquo;un brun fonc&eacute; riche et brillant. Deux rayures p&acirc;les commencent au niveau de la nuque et se prolongent sur chaque flanc, pour se rejoindre &agrave; la base de sa longue queue touffue. Il a souvent des taches blanches ou orange sur la poitrine ou la gorge, et ses orteils, ses pattes avant ou ses pattes arri&egrave;re sont parfois marqu&eacute;s de blanc.<br /></span></p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Mammals</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/poissons-amphibiens-reptiles/la-tortue-luth.html" title="La tortue luth">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/fish_amphibians_-reptiles/leatherback-seaturtle.jpg" title="Hathcling Leatherback Sea Turtle" alt="Hathcling Leatherback Sea Turtle" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Thinkstock</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/poissons-amphibiens-reptiles/la-tortue-luth.html" title="La tortue luth">La tortue luth</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/la-tortue-luth-30-secondes.html" title="La tortue luth (30 secondes) ">La tortue luth (30 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-tortue-luth-60-secondes.html" title="La tortue luth (60 secondes) ">La tortue luth (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au.html" title="Les espèces en péril au Canada (30 secondes)">Les espèces en péril au Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au-1.html" title="Les espèces en péril au Canada (60 secondes)">Les espèces en péril au Canada (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/sos-ocean.html" title="S.O.S. Océan (webisode)">S.O.S. Océan (webisode)</a> 
+                       <article class="description">
+                               <p>La tortue luth est non seulement beaucoup plus grosse que toutes les autres tortues marines, mais elle est un des plus gros reptiles de la plan&egrave;te. Son corps est en forme de larme se terminant en une pointe arrondie. Sa carapace, ou sa dossi&egrave;re, peut atteindre plus de 2 m de longueur, et son poids, plus de 900 kg. Comme toutes les tortues marines, la tortue luth poss&egrave;de des nageoires ant&eacute;rieures et post&eacute;rieures, mais elle est la seule tortue marine dont les nageoires sont d&eacute;pourvues de griffes. Ses grosses nageoires ant&eacute;rieures sont g&eacute;n&eacute;ralement aussi longues que la moiti&eacute; de sa carapace. Comme toutes les tortues marines, la tortue luth ne peut pas replier sa t&ecirc;te ni ses nageoires sous sa carapace comme le font les tortues terrestres et les tortues d&rsquo;eau douce. <br /><br />La tortue luth est aussi la seule tortue marine qui ne poss&egrave;de pas une carapace dure ni d&rsquo;&eacute;cailles. Plut&ocirc;t, sa carapace est recouverte d&rsquo;une peau coriace, d&rsquo;o&ugrave; le nom anglais &laquo; leatherback &raquo;. Sous cette peau, l&rsquo;on trouve une couche tr&egrave;s &eacute;paisse de tissu conjonctif graisseux ainsi qu&rsquo;une matrice de petits nodules osseux imbriqu&eacute;s, ressemblant &agrave; un casse-t&ecirc;te, le tout formant la carapace. Sept cr&ecirc;tes longitudinales d&eacute;corent la carapace de l&rsquo;esp&egrave;ce, laquelle est de couleur bleu-noir. La carapace peut parfois para&icirc;tre brune en mer. Le cou, la t&ecirc;te, les nageoires ant&eacute;rieures et la carapace sont g&eacute;n&eacute;ralement orn&eacute;s de taches blanches ou blanches &agrave; reflets bleut&eacute;s. Le plastron, ou partie ventrale de la carapace, est blanc ros&acirc;tre. <br /><br />La tortue luth a une tache rose sur le dessus de la t&ecirc;te. Comme nos empreintes digitales, cette tache est unique &agrave; chaque individu. Les scientifiques ne sont pas certains de sa fonction, mais certains pensent que la tortue luth s&rsquo;en sert pour d&eacute;tecter de la lumi&egrave;re ou d&eacute;terminer sa position en mer.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Fish, Amphibians and Reptiles</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/oiseaux/la-mesange-a-tete-noire.html" title="La Mésange à tête noire">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Birds/Black-capped-Chickadee.jpg" title="Black-capped Chickadee" alt="Black-capped Chickadee" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Missy Dawn Mandel</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/oiseaux/la-mesange-a-tete-noire.html" title="La Mésange à tête noire">La Mésange à tête noire</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/mesange-a-tete-noire-30-secondes.html" title="La Mésange à tête noire (30 secondes)">La Mésange à tête noire (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-mesange-a-tete-noire-60-secondes.html" title="La Mésange à tête noire (60 secondes)">La Mésange à tête noire (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-30-secondes.html" title="La forêt boréale (30 secondes) ">La forêt boréale (30 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-foret-boreale-60-secondes.html" title="La forêt boréale (60 secondes) ">La forêt boréale (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-urbaine-30.html" title="La faune urbaine (30 secondes)">La faune urbaine (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-urbaine-60.html" title="La faune urbaine (60 secondes)">La faune urbaine (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/je-sens-quil-y-a-un-probleme.html" title="Je sens qu'il y a un problème : Cohabiter avec les animaux sauvages au Canada urbain (webisode)">Je sens qu'il y a un problème : Cohabiter avec les animaux sauvages au Canada urbain (webisode)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-hivernale-30.html" title="La faune hivernale (30 secondes)">La faune hivernale (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/la-faune-hivernale-60.html" title="La faune hivernale (60 secondes)">La faune hivernale (60 secondes)</a> 
+                       <article class="description">
+                               <p>Du bec &agrave; la queue, la M&eacute;sange &agrave; t&ecirc;te noire (<em>Poecile atricapilla</em>) mesure de 12 &agrave; 15&nbsp;cm seulement. Elle a le dos gris verd&acirc;tre, la poitrine blanche et les flancs de couleur chamois. Sa longue queue gris fonc&eacute; ressemble &agrave; un manche. Une calotte noire, bien ajust&eacute;e au-dessus de ses yeux p&eacute;tillants, lui recouvre la t&ecirc;te depuis le bec en forme de c&ocirc;ne jusqu&rsquo;&agrave; la nuque, ou la partie post&eacute;rieure du cou. L&rsquo;esp&egrave;ce a les joues blanc pur et une tache triangulaire noire sur la gorge, ce qui compl&egrave;te ses marques les plus discernables. Parce que les m&eacute;sanges habitent dans une si grande vari&eacute;t&eacute; de climats et d&rsquo;habitats, les oiseaux de populations diff&eacute;rentes peuvent diff&eacute;rer quelque peu quant &agrave; la taille et au plumage. <br /><br />Un certain nombre d&rsquo;esp&egrave;ces de m&eacute;sanges ressemblent &agrave; la M&eacute;sange &agrave; t&ecirc;te noire. La M&eacute;sange de Gambel (<em>Poecile gambeli</em>) se diff&eacute;rencie de la M&eacute;sange &agrave; t&ecirc;te noire par sa rayure blanche au-dessus de l&rsquo;śil. Au Canada, elle ne se trouve que dans les montagnes de la Colombie-Britannique et de l&rsquo;Alberta. La M&eacute;sange de Gambel est &eacute;troitement apparent&eacute;e &agrave; la M&eacute;sange &agrave; t&ecirc;te noire, et les deux esp&egrave;ces se reproduisent par hybridation ou par croisement &agrave; l&rsquo;occasion. <br /><br />L&rsquo;aire de r&eacute;partition de la M&eacute;sange lapone (<em>Poecile cincta</em>) est tr&egrave;s &eacute;tendue en Asie et en Europe. En Am&eacute;rique du Nord, cet oiseau gris brun&acirc;tre ne se trouve que dans un petit secteur du nord-ouest du Yukon et de l&rsquo;est de l&rsquo;Alaska, o&ugrave; il vit dans les for&ecirc;ts de saules et d&rsquo;&eacute;pinettes &agrave; la limite des arbres. <br /><br />La M&eacute;sange &agrave; t&ecirc;te brune (<em>Poecile hudsonica</em>) a une calotte brune, le dos brun gris&acirc;tre, la poitrine d&rsquo;un blanc mat ou l&eacute;g&egrave;rement gris&acirc;tre et les flancs roux. Les joues sont souvent d&rsquo;un blanc mat et la gorge est noire. Comme la M&eacute;sange &agrave; t&ecirc;te noire, on la trouve partout au Canada, mais elle habite dans la ceinture de for&ecirc;ts de conif&egrave;res qui s&rsquo;&eacute;tend au nord jusqu&rsquo;&agrave; la limite des arbres. Les M&eacute;sanges &agrave; t&ecirc;te brune et &agrave; t&ecirc;te noire partagent les limites de leurs aires de reproduction, mais elles ne s&rsquo;hybrident pas. <br /><br />La M&eacute;sange &agrave; dos marron (<em>Poecile rufescens</em>) vit dans la for&ecirc;t c&ocirc;ti&egrave;re et dans le sud de la Colombie-Britannique. Elle a la calotte brune, la gorge noir brun&acirc;tre, et les flancs et le dos marron. <br /><br /><strong>Signes et sons</strong> <br /><br />La M&eacute;sange produit au moins 15&nbsp;cris diff&eacute;rents pour communiquer avec ses compagnons de groupe et ses petits. Le plus connu est le <em>tchik-a-di-di-di</em>. &Agrave; l&rsquo;aide de ce cri, la femelle et le m&acirc;le cherchent souvent &agrave; chasser les envahisseurs et envoient de l&rsquo;information &agrave; leurs partenaires, &agrave; leurs petits et aux membres de leur groupe, sur l&rsquo;endroit o&ugrave; se trouvent de la nourriture et des pr&eacute;dateurs. <br /><br /><br /></p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Birds</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/oiseaux/le-canard-branchu.html" title="Le Canard branchu">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Birds/Wood_Duck.jpg" title="Wood Duck" alt="Wood Duck" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Simon Bolyn</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/oiseaux/le-canard-branchu.html" title="Le Canard branchu">Le Canard branchu</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/les-terres-humides.html" title="Les terres humides (30 secondes)">Les terres humides (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-terres-humides-60-secondes.html" title="Les terres humides (60 secondes) ">Les terres humides (60 secondes) </a>  <a class="video" href="http://www.hww.ca/xfr/Videos/le-secret-terres-humides.html" title="Le secret des terres humides (webisode)">Le secret des terres humides (webisode)</a> 
+                       <article class="description">
+                               <div class="image"><img align="right" alt="Canard Branchu en plein vol" border="0" src="http://www.hww.ca/images/Photo1fr-6.gif" /></div>
+<p>Beaucoup de naturalistes et de chasseurs consid&egrave;rent le Canard branchu (<em>Aix sponsa</em>) comme le plus beau canard d&rsquo;Am&eacute;rique du Nord, voire du monde entier. Le m&acirc;le, dans le plumage nuptial qu&rsquo;il porte d&rsquo;octobre &agrave; juin, surpasse en beaut&eacute; tous ses cong&eacute;n&egrave;res. La femelle, aux couleurs plus ternes, est quand m&ecirc;me plus belle et plus color&eacute;e que ses cousines. <br /><br />La taille des Canards branchus est interm&eacute;diaire entre celle du Canard colvert et celle de la Sarcelle &agrave; ailes bleues; les m&acirc;les p&egrave;sent en moyenne 680&nbsp;g et les femelles environ 460&nbsp;g. De loin, le m&acirc;le semble avoir la poitrine et le corps fonc&eacute;s, les flancs p&acirc;les, une huppe ray&eacute;e et la gorge claire. De pr&egrave;s cependant, son plumage iris&eacute;, son bec noir, rouge et blanc et ses yeux rouges sont tr&egrave;s frappants. La femelle se distingue du m&acirc;le et des femelles des autres esp&egrave;ces par une surface blanche autour des yeux, une gorge p&acirc;le et une huppe plus courte. Les deux sexes portent leur huppe point&eacute;e vers le bas et se distinguent en vol par leur longue queue, large et carr&eacute;e. <br /><br />Leurs ailes sont tr&egrave;s caract&eacute;ristiques. Fix&eacute;es &agrave; l&rsquo;aile au-dessus du poignet, les r&eacute;miges primaires, qui sont les dix plumes de vol les plus ext&eacute;rieures, sont de couleur fonc&eacute;e. Les vexilles externes de ces plumes semblent avoir &eacute;t&eacute; couverts au pulv&eacute;risateur de peinture aluminium, trait unique parmi les canards d&rsquo;Am&eacute;rique du Nord. <br /><br />La plupart du temps, on peut distinguer les canards adultes des jeunes et les m&acirc;les des femelles uniquement par leurs ailes. Dans le cas du Canard branchu, comme de ses cong&eacute;n&egrave;res, les plumes des jeunes de l&rsquo;ann&eacute;e sont plus fines, plus pointues, plus lisses et moins color&eacute;es que chez les adultes. Les femelles se distinguent par quelques petites plumes violac&eacute;es sur le dessus des ailes, dont le lustre fait penser &agrave; une tache d&rsquo;huile sur l&rsquo;eau. On ne retrouve pas cette caract&eacute;ristique chez les m&acirc;les. De m&ecirc;me, chez les femelles, le bout blanc sur le bord post&eacute;rieur des ailes pr&eacute;sente la forme d&rsquo;une larme, mais, chez les m&acirc;les, il est en ligne droite ou en forme de V. Par l&rsquo;examen des ailes des canards abattus par les chasseurs, les biologistes peuvent d&eacute;terminer la proportion de jeunes par rapport aux adultes et &eacute;valuer ainsi le taux de reproduction au sein d&rsquo;une population de sauvagine. <br /><br />Le Canard branchu est une esp&egrave;ce typiquement nord-am&eacute;ricaine. On l&rsquo;a d&eacute;j&agrave; appel&eacute; Canard hupp&eacute;. Son seul proche parent est le Canard mandarin, d&rsquo;Asie orientale. Comme des restes fossiles ont &eacute;t&eacute; retrouv&eacute;s seulement en des endroits tr&egrave;s dispers&eacute;s dans l&rsquo;Est du continent, il semble que le Canard branchu soit d&rsquo;origine nord-am&eacute;ricaine. <br /><br /><strong>Signes et sons <br /></strong><br />Le Canard branchu m&acirc;le &eacute;met un <em>djiii</em> accentu&eacute; semblable &agrave; celui du roselin en temps normal et un <em>hoű-icc</em> aigu lorsqu&rsquo;il s&rsquo;effarouche. La femelle fait un <em>cr-r-&ecirc;que, cr-r-&ecirc;que</em>.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Birds</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/mammiferes/le-renard-veloce.html" title="Le renard véloce">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/Mammals/Swift-Fox.jpg" title="Swift Fox" alt="Swift Fox" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">Mike Kyffin Jeffery</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/mammiferes/le-renard-veloce.html" title="Le renard véloce">Le renard véloce</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/le-renard-veloce.html" title="Le renard véloce, clip vidéo">Le renard véloce, clip vidéo</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-prairies-30.html" title="Les prairies (30 secondes)">Les prairies (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-prairies-60-secondes.html" title="Les prairies (60 secondes)">Les prairies (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au.html" title="Les espèces en péril au Canada (30 secondes)">Les espèces en péril au Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au-1.html" title="Les espèces en péril au Canada (60 secondes)">Les espèces en péril au Canada (60 secondes)</a> 
+                       <article class="description">
+                               <p>Le renard v&eacute;loce, <em>Vulpes velox,</em> est membre de la famille des canid&eacute;s (chiens), &agrave; laquelle appartiennent &eacute;galement le loup, le coyote, le chien et les autres renards. Il se distingue des autres renards du Canada (renard roux, renard arctique et renard gris) par sa petite taille (&agrave; peu pr&egrave;s celle d&rsquo;un chat domestique), par la tache noire qu&rsquo;il a de chaque c&ocirc;t&eacute; du museau et par sa queue &agrave; bout noir. <br /><br />En hiver, le pelage du renard v&eacute;loce est long et fourni, principalement gris chamois sur la t&ecirc;te, le dos et le dessus de la queue, et roux orang&eacute; sur les flancs, les pattes et le dessous de la queue. La gorge, la poitrine et le ventre sont p&acirc;les (de chamois &agrave; blanc). En &eacute;t&eacute;, la fourrure est courte et rude, de couleur plut&ocirc;t gris rouge&acirc;tre. <br /><br />Les m&acirc;les sont un peu plus gros que les femelles, pesant en moyenne 2,45 kg contre 2,25 kg pour les femelles. Le renard v&eacute;loce mesure environ 30 cm &agrave; l&rsquo;&eacute;paule, et sa longueur totale est d&rsquo;environ 80 cm. <br /><br />Les premiers colons des Prairies canadiennes utilisaient le terme &laquo; renard nain &raquo; pour d&eacute;signer le renard v&eacute;loce, et on utilise depuis l&rsquo;un ou l&rsquo;autre de ces deux noms. Cependant, des &eacute;tudes sur les renards nains des Prairies du Canada et du Centre des &Eacute;tats-Unis, ainsi que sur le renard nain du d&eacute;sert du Sud-Ouest des &Eacute;tats-Unis ont d&eacute;montr&eacute; que les deux animaux ne sont pas enti&egrave;rement identiques. Aussi, l&rsquo;esp&egrave;ce habitant les Prairies a &eacute;t&eacute; d&eacute;sign&eacute;e sous le nom de &laquo; renard v&eacute;loce &raquo;, tandis que celle qui habite le d&eacute;sert a gard&eacute; le nom de &laquo; renard nain &raquo;. <br /><br />Le renard v&eacute;loce se distingue du renard nain (<em>Vulpes macrotis</em>) par ses oreilles plus courtes et plus espac&eacute;es, par sa t&ecirc;te plus arrondie ressemblant davantage &agrave; celle d&rsquo;un chien (chez le renard nain, l&rsquo;&eacute;cart entre les yeux est plus grand et le museau plus &eacute;troit). Sa queue est &eacute;galement plus courte et repr&eacute;sente en moyenne 52 p. 100 de la longueur du corps comparativement &agrave; 62 p. 100 dans le cas du renard nain.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Mammals</span></li>
+                      
+                      <li class="featuredItem">
+
+                      <a href="http://www.hww.ca/fr/faune/invertebres/monarque.html" title="Le monarque">
+
+	               
+
+		           <img src="http://www.hww.ca/kaboom/images/invertebrates/monarch.jpg" title="Monarch Butterfly" alt="Monarch Butterfly" />
+
+	               
+
+                       </a>
+
+                      
+                         <span id="photo-credit">André Denis</span>
+                       
+
+                       <a class="link" href="http://www.hww.ca/fr/faune/invertebres/monarque.html" title="Le monarque">Le monarque</a>
+                        <a class="video" href="http://www.hww.ca/xfr/Videos/les-pollinisateurs-30.html" title="Les pollinisateurs (30 secondes)">Les pollinisateurs (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-pollinisateurs-60.html" title="Les pollinisateurs (60 secondes)">Les pollinisateurs (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/le-monarque-30-secondes.html" title="Le monarque (30 secondes)">Le monarque (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/le-monarque-60-secondes.html" title="Le monarque (60 secondes)">Le monarque (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au.html" title="Les espèces en péril au Canada (30 secondes)">Les espèces en péril au Canada (30 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/les-espces-en-peril-au-1.html" title="Les espèces en péril au Canada (60 secondes)">Les espèces en péril au Canada (60 secondes)</a>  <a class="video" href="http://www.hww.ca/xfr/Videos/psstt-tas-besoin-des.html" title="Psstt!—T'as besoin des pollinisateurs!">Psstt!—T'as besoin des pollinisateurs!</a> 
+                       <article class="description">
+                               <p>Avec ses couleurs vives, sa grande taille et son vol lent et puissant, le monarque (<em>Danaus plexippus)</em> est probablement le papillon de l&rsquo;Am&eacute;rique du Nord le plus reconnu. Les ailes orange fonc&eacute;, dont l&rsquo;envergure est de 93 &agrave; 105 mm, sont orn&eacute;es d&rsquo;une large bordure noire &eacute;talant deux rang&eacute;es de taches blanches. Les monarques m&acirc;les disposent aussi de deux taches noires tr&egrave;s visibles sur les ailes post&eacute;rieures. Les bandes noires sur les veines des ailes sont plus larges sur les monarques femelles. <br /><br />&Agrave; premi&egrave;re vue, on peut confondre le monarque avec le sylvain royal (<em>Limenitis archippus)</em>, qui a une apparence semblable. Ce dernier est plus petit, et ses ailes sont d&rsquo;une envergure de 70 &agrave; 75 mm. Il a aussi une rayure noire sur la largeur qui traverse le bas de ses ailes post&eacute;rieures.</p><!-- for fact sheets -->
+                               <p style="text-align: justify;"></p><!-- for web pages -->
+                       </article>
+                       <span id="category_animals">Invertebrates</span></li>
+                      </ul>
+                    
+                 </div>
+                 <!-- \\New Kaboom slideshow list -->
+		
+		</div>
+		<div id="videoLoader" style="display: none;">
+
+			<div id="templatelist-535972207" style="display: inline;">
+
+
+
+
+  
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/birds/snowy-owl-1.html" target="_blank" title="Snowy Owl">Snowy Owl</a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/birds/snowy-owl-15-seconds.html" target="_blank" title="Snowy Owl (15 seconds)">Snowy Owl (15 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/birds/snowy-owl-youth.html" target="_blank" title="Snowy Owl (Youth)">Snowy Owl (Youth)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/birds/snowy-owl-30-seconds.html" target="_blank" title="Snowy Owl (30 seconds)">Snowy Owl (30 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/american-bison.html" target="_blank" title="American Bison">American Bison</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/american-bison-30-seconds.html" target="_blank" title="American Bison (30 seconds)">American Bison (30 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/american-bison-15-seconds.html" target="_blank" title="American Bison (15 seconds)">American Bison (15 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/american.html" target="_blank" title="American Bison (Youth)">American Bison (Youth)</a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/atlantic-cod-youth.html" target="_blank" title="Atlantic Cod (Youth)">Atlantic Cod (Youth)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/atlantic-cod-15-seconds.html" target="_blank" title="Atlantic Cod (15 seconds)">Atlantic Cod (15 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/atlantic-cod-30-seconds.html" target="_blank" title="Atlantic Cod (30 seconds)">Atlantic Cod (30 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/atlantic-cod.html" target="_blank" title="Atlantic Cod">Atlantic Cod</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/pacific-salmon.html" target="_blank" title="Pacific Salmon  ">Pacific Salmon  </a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/pacific-salmon-youth.html" target="_blank" title="Pacific Salmon (Youth)">Pacific Salmon (Youth)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/pacific-salmon-30-seconds.html" target="_blank" title="Pacific Salmon (30 seconds)">Pacific Salmon (30 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/fish-amphibians-and-reptiles/pacific-salmon-15-seconds.html" target="_blank" title="Pacific Salmon (15 seconds)">Pacific Salmon (15 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/north-atlantic-right-whale-3.html" target="_blank" title="North Atlantic Right Whale">North Atlantic Right Whale</a>
+</div>
+
+<div class="list_item">
+
+Youth<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/north-atlantic-right-whale-2.html" target="_blank" title="North Atlantic Right Whale (Youth)">North Atlantic Right Whale (Youth)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/north-atlantic-right-whale-1.html" target="_blank" title="North Atlantic Right Whale (30 seconds)">North Atlantic Right Whale (30 seconds)</a>
+</div>
+
+<div class="list_item">
+
+Classic<br/>
+
+<a href="http://www.hww.ca/en/multimedia/videos/mammals/north-atlantic-right-whale.html" target="_blank" title="North Atlantic Right Whale (15 seconds)">North Atlantic Right Whale (15 seconds)</a>
+</div>
+
+
+
+<div id="pagination-285270801" style="DISPLAY: inline">
+
+
+
+
+</div></div>
+
+		</div>
+		
+	</body>
+</html><!-- Powered by Convio -->
+<!-- 10.12.0.43:8901 -->
+

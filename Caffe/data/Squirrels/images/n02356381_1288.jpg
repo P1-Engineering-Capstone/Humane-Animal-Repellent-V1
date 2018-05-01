@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="en">
+	    
+	<head>
+		
+		<link rel="stylesheet" type="text/css" href="http://www.redsquirrels.info/wp-content/themes/Squirrels-Theme/style.css" />
+		<link rel="shortcut icon" href="http://www.redsquirrels.info/wp-content/themes/Squirrels-Theme/images/favicon.png">
+		
+<!-- This site is optimized with the Yoast SEO plugin v4.2.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Page Not Found - Squirrels Map</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Squirrels Map" />
+<meta property="og:site_name" content="Squirrels Map" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.redsquirrels.info\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.8"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpsc-thickbox-css'  href='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.css?ver=3.11.7.fb03617' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-theme-css-css'  href='http://www.redsquirrels.info/wp-content/themes/Squirrels-Theme/wpsc-default.css?ver=3.11.7.fb03617' type='text/css' media='all' />
+<style id='wpsc-theme-css-inline-css' type='text/css'>
+
+		/*
+		* Default View Styling
+		*/
+		div.default_product_display div.textcol{
+			margin-left: 158px !important;
+			min-height: 148px;
+			_height: 148px;
+		}
+
+		div.default_product_display  div.textcol div.imagecol{
+			position:absolute;
+			top:0px;
+			left: 0px;
+			margin-left: -158px !important;
+		}
+
+		div.default_product_display  div.textcol div.imagecol a img {
+			width: 148px;
+			height: 148px;
+		}
+
+		.wpsc_category_grid_item  {
+			display:block;
+			float:left;
+			width: 148px;
+			height: 148px;
+		}
+		.wpsc_category_grid_item  span{
+			position:relative;
+			top:16.2222222222px;
+		}
+		div.default_product_display div.item_no_image a  {
+			width: 146px;
+		}
+
+		div.default_product_display .imagecol img.no-image, #content div.default_product_display .imagecol img.no-image {
+			width: 148px;
+			height: 148px;
+        }
+
+		
+		/*
+		* Single View Styling
+		*/
+
+		div.single_product_display div.item_no_image  {
+			width: 146px;
+			height: 146px;
+		}
+		div.single_product_display div.item_no_image a  {
+			width: 146px;
+		}
+
+		div.single_product_display div.textcol{
+			margin-left: 158px !important;
+			min-height: 148px;
+			_height: 148px;
+		}
+
+
+		div.single_product_display  div.textcol div.imagecol{
+			position:absolute;
+
+			margin-left: -158px !important;
+		}
+
+		div.single_product_display  div.textcol div.imagecol a img {
+			width: 148px;
+			height: 148px;
+		}
+
+	div#categorydisplay{
+		display: block;
+	}
+
+	div#branddisplay{
+		display: none;
+	}
+
+</style>
+<link rel='stylesheet' id='wpsc-theme-css-compatibility-css'  href='http://www.redsquirrels.info/wp-content/themes/Squirrels-Theme/compatibility.css?ver=3.11.7.fb03617' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.redsquirrels.info/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery.fancybox-css'  href='http://www.redsquirrels.info/wp-content/plugins/fancy-box/jquery.fancybox.css?ver=1.2.6' type='text/css' media='all' />
+<link rel='stylesheet' id='printomatic-css-css'  href='http://www.redsquirrels.info/wp-content/plugins/print-o-matic/css/style.css?ver=1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsc-fancy-notifications-css'  href='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-components/fancy-notifications/css/fancy-notifications.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='oikCSS-css'  href='http://www.redsquirrels.info/wp-content/plugins/oik/oik.css?ver=4.7.8' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpsc_vars = {"wpsc_ajax":{"ajaxurl":"\/wp-admin\/admin-ajax.php","spinner":"http:\/\/www.redsquirrels.info\/wp-admin\/images\/spinner.gif","no_quotes":"It appears that there are no shipping quotes for the shipping information provided.  Please check the information and try again.","ajax_get_cart_error":"There was a problem getting the current contents of the shopping cart.","slide_to_shipping_error":true},"base_url":"http:\/\/www.redsquirrels.info","WPSC_URL":"http:\/\/www.redsquirrels.info\/wp-content\/plugins\/wp-e-commerce","WPSC_IMAGE_URL":"http:\/\/www.redsquirrels.info\/wp-content\/uploads\/wpsc\/product_images\/","WPSC_CORE_IMAGES_URL":"http:\/\/www.redsquirrels.info\/wp-content\/plugins\/wp-e-commerce\/wpsc-core\/images","fileThickboxLoadingImage":"http:\/\/www.redsquirrels.info\/wp-content\/plugins\/wp-e-commerce\/wpsc-core\/images\/loadingAnimation.gif","msg_shipping_need_recalc":"Please click the <em>Calculate<\/em> button to refresh your shipping quotes, as your shipping information has been modified.","no_country_selected":"Please select a country","no_region_selected_format":"Please select a %s","no_region_label":"State\/Province","base_country":"GB","wpsc_country_IE_region_label":"State\/Province","wpsc_country_IM_region_label":"State\/Province","wpsc_country_GB_region_label":"County","wpsc_countries":{"IE":"Ireland","IM":"Isle of Man","GB":"United Kingdom"},"wpsc_checkout_unique_name_to_form_id_map":{"your-billingcontact-details":"wpsc_checkout_form_1","billingfirstname":"wpsc_checkout_form_2","billinglastname":"wpsc_checkout_form_3","billingaddress":"wpsc_checkout_form_4","billingcity":"wpsc_checkout_form_5","billingstate":"wpsc_checkout_form_6","billingcountry":"wpsc_checkout_form_7","billingpostcode":"wpsc_checkout_form_8","billingphone":"wpsc_checkout_form_18","billingemail":"wpsc_checkout_form_9","delivertoafriend":"wpsc_checkout_form_10","shippingfirstname":"wpsc_checkout_form_11","shippinglastname":"wpsc_checkout_form_12","shippingaddress":"wpsc_checkout_form_13","shippingcity":"wpsc_checkout_form_14","shippingstate":"wpsc_checkout_form_15","shippingcountry":"wpsc_checkout_form_16","shippingpostcode":"wpsc_checkout_form_17"},"wpsc_checkout_item_active":{"your-billingcontact-details":true,"billingfirstname":true,"billinglastname":true,"billingaddress":true,"billingcity":true,"billingstate":true,"billingcountry":true,"billingpostcode":true,"billingphone":true,"billingemail":true,"delivertoafriend":true,"shippingfirstname":true,"shippinglastname":true,"shippingaddress":true,"shippingcity":true,"shippingstate":true,"shippingcountry":true,"shippingpostcode":true},"wpsc_checkout_item_required":{"your-billingcontact-details":false,"billingfirstname":true,"billinglastname":true,"billingaddress":true,"billingcity":true,"billingstate":false,"billingcountry":true,"billingpostcode":false,"billingphone":true,"billingemail":true,"delivertoafriend":false,"shippingfirstname":false,"shippinglastname":false,"shippingaddress":false,"shippingcity":false,"shippingstate":false,"shippingcountry":false,"shippingpostcode":false},"store_uses_shipping":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-core/js/wp-e-commerce.js?ver=3.11.7.fb03617'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-core/js/user.js?ver=3.11.7fb03617'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-core/js/thickbox.js?ver=Instinct_e-commerce'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/fancy-box/jquery.fancybox.js?ver=1.2.6'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/fancy-box/jquery.easing.js?ver=1.3'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/print-o-matic/printomat.js?ver=1.8.4'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/wp-e-commerce/wpsc-components/fancy-notifications/js/fancy-notifications.js?ver=1.0'></script>
+<link rel='https://api.w.org/' href='http://www.redsquirrels.info/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.redsquirrels.info/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.redsquirrels.info/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.8" />
+<script type="text/javascript">
+  jQuery(document).ready(function($){
+    var select = $('a[href$=".bmp"],a[href$=".gif"],a[href$=".jpg"],a[href$=".jpeg"],a[href$=".png"],a[href$=".BMP"],a[href$=".GIF"],a[href$=".JPG"],a[href$=".JPEG"],a[href$=".PNG"]');
+    select.attr('rel', 'fancybox');
+    select.fancybox();
+  });
+</script>
+<style type="text/css">
+.qtranxs_flag_en {background-image: url(http://www.redsquirrels.info/wp-content/plugins/qtranslate/flags/gb.png); background-repeat: no-repeat;}
+.qtranxs_flag_cy {background-image: url(http://www.redsquirrels.info/wp-content/plugins/qtranslate/flags/cy.png); background-repeat: no-repeat;}
+</style>
+<meta name="generator" content="qTranslate-X 3.4.6.8" />
+<link rel='alternate' type='application/rss+xml' title='Squirrels Map Product List RSS' href='http://www.redsquirrels.info?wpsc_action=rss'/>				
+
+
+
+<!--<script src='http://www.google.com/jsapi?key= AIzaSyAKsT7krIjXv2eB0lShGYhv8ZT5wtGX0uE' type='text/javascript'></script>
+
+
+
+
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=AIzaSyAKsT7krIjXv2eB0lShGYhv8ZT5wtGX0uE" type="text/javascript"></script>-->
+
+
+<style>
+      #map_canvas {
+        width: 600px;  
+        height: 400px;
+      }
+
+</style>
+	</head>
+		<body class="error404 index.php">
+<div id="wrapper">
+		<div id="head">
+
+
+			<div class="translation lang bold large">
+
+				
+					
+<ul class="language-chooser language-chooser-text qtranxs_language_chooser" id="qtranslate-chooser">
+<li class="lang-en active"><a href="http://www.redsquirrels.info/en" hreflang="en" title="English (en)" class="qtranxs_text qtranxs_text_en"><span>English</span></a></li>
+<li class="lang-cy"><a href="http://www.redsquirrels.info/cy" hreflang="cy" title="Cymraeg (cy)" class="qtranxs_text qtranxs_text_cy"><span>Cymraeg</span></a></li>
+</ul><div class="qtranxs_widget_end"></div>
+				
+            
+                           
+        <script> jQuery(document).ready(function(){ 
+						jQuery('.qtrans_language_chooser li').first().append('<span class="linebreak">|</span>');
+				 	});
+				 </script>
+  
+
+
+			</div>
+
+			<div class="phone-number">
+
+				  <p><span>Call Us:</span>07966 150847</p>
+
+				</div>
+
+		</div>
+
+	
+
+				<ul id="nav" class="menu"><li id="menu-item-179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-179"><a href="http://www.redsquirrels.info/">Home</a></li>
+<li id="menu-item-496" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-496"><a href="#">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-288"><a href="http://www.redsquirrels.info/about/patron/">Patron</a></li>
+	<li id="menu-item-297" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-297"><a href="http://www.redsquirrels.info/about/view-squirrels/">View Squirrels</a></li>
+	<li id="menu-item-293" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-293"><a href="http://www.redsquirrels.info/about/members/">Members</a></li>
+	<li id="menu-item-345" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-345"><a href="http://www.redsquirrels.info/about/membership/">Membership</a></li>
+	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="http://www.redsquirrels.info/about/directors/">Directors</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-378"><a href="http://www.redsquirrels.info/project-sponsors/">Project Sponsors</a></li>
+	<li id="menu-item-596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a href="http://www.redsquirrels.info/report-sightings/">Report sightings</a></li>
+</ul>
+</li>
+<li id="menu-item-264" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-264"><a href="http://www.redsquirrels.info/category/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-477" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-477"><a href="http://www.redsquirrels.info/category/news/events/">Events</a></li>
+	<li id="menu-item-300" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-300"><a href="http://www.redsquirrels.info/news/newsletters/">Newsletters</a></li>
+	<li id="menu-item-1195" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1195"><a href="http://www.redsquirrels.info/news/help-us-halt-decline-precious-red-squirrels-clocaenog-forest/">Clocaenog Forest</a></li>
+</ul>
+</li>
+<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-364"><a href="http://www.redsquirrels.info/gallery/">Gallery</a>
+<ul class="sub-menu">
+	<li id="menu-item-280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-280"><a href="http://www.redsquirrels.info/videos/">Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-400" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-400"><a href="http://www.redsquirrels.info/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-393"><a href="http://www.redsquirrels.info/education/red-squirrel-conservation/">Red squirrel conservation</a></li>
+	<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="http://www.redsquirrels.info/conwy/">Painting the Town Red</a></li>
+	<li id="menu-item-411" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-411"><a href="http://www.redsquirrels.info/education/feeding-red-squirrels/">Feeding Red Squirrels</a></li>
+	<li id="menu-item-424" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-424"><a href="http://www.redsquirrels.info/education/woodland-management/">Woodland management</a></li>
+	<li id="menu-item-440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-440"><a href="http://www.redsquirrels.info/education/grey-squirrel-control/">Grey Squirrel Control</a></li>
+	<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-459"><a href="http://www.redsquirrels.info/education/genetic-research/">Genetic Research</a></li>
+	<li id="menu-item-465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-465"><a href="http://www.redsquirrels.info/education/disease-monitoring/">Disease Monitoring</a></li>
+</ul>
+</li>
+<li id="menu-item-283" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-283"><a href="http://www.redsquirrels.info/map-holder/">Map</a>
+<ul class="sub-menu">
+	<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="http://www.redsquirrels.info/submit-a-sighting/">Submit a Sighting</a></li>
+	<li id="menu-item-473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-473"><a href="http://www.redsquirrels.info/map-holder/distribution-maps/">Distribution Maps</a></li>
+</ul>
+</li>
+<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-636"><a href="http://www.redsquirrels.info/shop/">Shop</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://www.redsquirrels.info/contacts/">Contact Us</a></li>
+<li id="menu-item-1073" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1073"><a href="http://www.redsquirrels.info/eu-life14-natuk000467-grey-squirrel-eradication-tender-ojeu/">EU LIFE14 NAT/UK/000467 Grey squirrel eradication tender (OJEU)</a></li>
+</ul>					<div class="content-right-col-top"><!-- --></div>
+			<div class="content-right-col content">
+			<div class="content-right-col-left">
+
+
+						
+		           	<h2>Latest News</h2>
+								
+
+								
+
+
+						</div>
+			
+							
+			<div class="clear"><!-- --></div>
+			</div>
+			<div class="content-right-col-bottom"><!-- --></div>
+		
+
+		<div class="content-top"><!-- -->
+		</div>
+		<div class="content">
+			<div class="follow">
+			
+			
+						<div id="follow-us">
+								    	<h2>Engage with Us</h2>
+				            </div>
+
+				            <div id="fb">
+											<h3>Facebook</h3>
+											<p><a href="https://www.facebook.com/groups/143610382316300/" target="_blank">Connect with us</a></p>
+										</div>
+
+										<div id="tw">
+											<h3>Twitter</h3>
+											<p><a href="https://twitter.com/RedSquirrelsinW" target="_blank">Follow Us</a></p>
+										</div>
+
+
+
+
+												
+								
+				<div class="emailist">
+
+								<div role="form" class="wpcf7" id="wpcf7-f501-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/grey_squirrel_hopper_june07.jpg#wpcf7-f501-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="501" />
+<input type="hidden" name="_wpcf7_version" value="4.6.1" />
+<input type="hidden" name="_wpcf7_locale" value="en_US" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f501-o1" />
+<input type="hidden" name="_wpnonce" value="b6d183efde" />
+</div>
+<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Subscribe to our email list" /></span><input type="submit" value="Send" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div>        
+        	
+				 </div>
+			
+			<div class="clear"> </div>
+			
+			</div>
+		</div>
+		
+		<div class="footer-span">
+			<div class="footer">
+			  <div id="footer_address">
+
+						
+									
+										
+										<p>Telephone: <strong>07966 150847</strong><br />
+											Email: <a href="#">info@redsquirrels.info</a></p>
+
+									
+											</div>
+
+				<div class="copyright">
+					
+									
+							
+											<p>Copyright &copy; 2018 Red Squirrels Trust Wales <a href="http://www.livetech.co.uk" target="_blank">Web design North Wales by</a> Livetech</p>
+									
+
+
+												
+				</div>
+
+			</div>
+		</div>
+	</div>
+	<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://www.redsquirrels.info/wp-includes/js/wp-embed.min.js?ver=4.7.8'></script>
+	</body>
+</html><!-- Page generated by LiteSpeed Cache 1.5 on 2018-01-16 04:57:51 -->

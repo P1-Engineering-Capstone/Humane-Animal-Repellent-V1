@@ -1,0 +1,301 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="nl" xmlns="http://www.w3.org/1999/xhtml" lang="nl">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title> :: Praemium Erasmianum</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<link href='http://fonts.googleapis.com/css?family=Cabin:400,500,600,700,400italic,500italic,600italic,700italic' rel='stylesheet' type='text/css' />
+<link rel="stylesheet" href="/resources/styles/struct.css" type="text/css" media="screen" />
+
+<link rel="stylesheet" href="/resources/styles/common.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/resources/styles/print.css" type="text/css" media="print" />
+<!--[if lt IE 9]>
+	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+<!-- jQuery -->
+<script type="text/javascript" src="/resources/scripts/jquery-1.7.2.min.js"></script>
+<!-- superfish menu -->
+<link rel="stylesheet" type="text/css" href="/resources/scripts/superfish/superfish.css" media="screen">
+<script type="text/javascript" src="/resources/scripts/superfish/superfish.js"></script>
+<script type="text/javascript" src="/resources/scripts/superfish/supersubs.js"></script>
+<!-- colorbox -->
+<link type="text/css" rel="stylesheet" href="/resources/scripts/colorbox/colorbox.css" media="screen" />
+<script type="text/javascript" src="/resources/scripts/colorbox/jquery.colorbox-min.js"></script>
+<script language="JavaScript" type="text/javascript">
+	$(document).ready(function() {
+		$(function(){
+			$('ul.sf-menu').superfish();
+			// initialise supersubs before it gets hidden by tabs or superfish. Need to measure widths while visible.
+			$.fn.superfish.defaults.autoArrows = false;
+			$('ul.sf-menu').supersubs({
+				minWidth:    19,
+				maxWidth:    35,
+				extraWidth:  1
+			}).superfish();
+		});
+		$("#searchSite").focus(function() {
+			if( this.value == this.defaultValue ) {
+				this.value = "";
+			}
+		}).blur(function() {
+			if( !this.value.length ) {
+			this.value = this.defaultValue;
+			}
+		});
+		// open external links in new windowws
+		$("a[href^='http://'],a[href^='https://']").click(function(){
+			var myHref=$(this).attr('href');
+			var goodDomain="http://www.erasmusprijs.org";
+			if(myHref.toLowerCase().substr(0,goodDomain.length)==goodDomain)
+				return true;
+			window.open(myHref);
+			return false;
+		});
+		// open video in modal window
+		$(".modalVideo").colorbox({iframe:true, innerWidth:650, innerHeight:380, opacity:.5 });
+	});
+</script>
+</head>
+<body>
+
+	<a name="pageTop" id="pageTop"></a>
+
+	<div id="print_logo"><img src="/resources/images/logo_print.png" /> Praemium Erasmianum</div>
+
+	<div id="header_bg"></div>
+	<div id="nav_bg"></div>
+
+	<!-- pageWrapper -->
+	<div id="pageWrapper">
+
+		<!-- header row -->
+		<div id="headerRow">
+			<div id="header">
+				<!-- logo -->
+				<div id="logo" onclick="location.href='/?lang=nl'" title="Home">
+					Stichting Praemium Erasmianum
+				</div>
+				<!-- toolbar -->
+				<div id="toolbar">
+					<!-- serach form -->
+					<div id="search">
+						<form name="searchForm_header" id="searchForm_header" action="/search" method="post">
+							<input type="text" name="searchKey" id="searchSite" value="zoeken..." maxlength="100" />
+						</form>
+					</div>
+					<!-- news letter -->
+					<a href="http://erasmusprijs.us8.list-manage.com/subscribe?u=f36c3f98bf6142bde9de01200&id=5ff9885aba" target="_blank" class="selected" style="display:block;  margin-top: 5px; margin-right: 20px; padding: 2px 7px 2px 7px; font-size: 12px; color: #fff;background-color: #ca912c;; border:none;">nieuwsbrief</a>
+                    
+					<!-- language and social media icons -->
+					<a href="https://www.facebook.com/stichtingerasmusprijs" target="_blank"><img src="/resources/images/icons/facebook_12x12.png" alt="facebook" width="14" height="14" border="0" class="selected" /></a>
+					<a href="https://twitter.com/erasmusprijs" target="_blank" style="margin-right:20px;"><img src="/resources/images/icons/twitter_12x12.gif" alt="twitter" width="14" height="14" border="0" /></a>
+					<a href="?lang=nl"><img src="/resources/images/icons/flag_nl.gif" alt="nl" width="19" height="14" class="icon_lang selected" /></a>
+					<a href="?lang=en"><img src="/resources/images/icons/flag_en.gif" alt="en" width="19" height="14" class="icon_lang" /></a>
+				</div>
+				<!-- main menu -->
+				<div id="topNavBar">
+					
+
+<ul class="sf-menu">
+
+	
+
+		<li> <a href="/Home" >Home</a>
+			<ul>
+				<li> <a href="/Home" >Home</a></li>
+
+				
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Erasmusprijs" >Erasmusprijs</a>
+			<ul>
+				<li> <a href="/Erasmusprijs" >Erasmusprijs</a></li>
+
+				
+
+						<li> <a href="/Prijswinnaars" >Oud-prijswinnaars</a> </li>
+
+					
+
+						<li> <a href="/Prijs_en_Versierselen" >Prijs en Versierselen</a> </li>
+
+					
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Dissertatieprijzen" >Dissertatieprijzen</a>
+			<ul>
+				<li> <a href="/Dissertatieprijzen" >Dissertatieprijzen</a></li>
+
+				
+
+						<li> <a href="/Reglement_Dissertatieprijzen" >Reglement Dissertatieprijzen</a> </li>
+
+					
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Publicaties" >Publicaties</a>
+			<ul>
+				<li> <a href="/Publicaties" >Publicaties</a></li>
+
+				
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Nieuws" >Nieuws</a>
+			<ul>
+				<li> <a href="/Nieuws" >Nieuws</a></li>
+
+				
+
+						<li> <a href="/Nieuwsbrief" >Nieuwsbrief</a> </li>
+
+					
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Agenda" class="current">Agenda</a>
+			<ul>
+				<li> <a href="/Agenda" class="current">Agenda</a></li>
+
+				
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Organisatie" >Organisatie</a>
+			<ul>
+				<li> <a href="/Organisatie" >Organisatie</a></li>
+
+				
+
+						<li> <a href="/Bestuur_Stichting_Praemium_Erasmianum" >Bestuur Stichting Praemium Erasmianum</a> </li>
+
+					
+
+						<li> <a href="/ANBI_Status" >ANBI Status</a> </li>
+
+					
+
+						<li> <a href="/Contact" >Contact</a> </li>
+
+					
+
+						<li> <a href="/Copyright" >Copyright</a> </li>
+
+					
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Erasmus" >Erasmus</a>
+			<ul>
+				<li> <a href="/Erasmus" >Erasmus</a></li>
+
+				
+			</ul>
+		</li>
+
+	
+
+		<li> <a href="/Schrijfwedstrijd" >Schrijfwedstrijd</a>
+			<ul>
+				<li> <a href="/Schrijfwedstrijd" >Schrijfwedstrijd</a></li>
+
+				
+			</ul>
+		</li>
+
+	
+
+	<li><a href="/Contact" >Contact</a>
+		<ul>
+			<li><a href="/Contact" >Contact</a> </li>
+		</ul>
+	</li>
+
+</ul>
+
+
+				</div>
+			</div>
+		</div>
+		<!-- // header row -->
+
+		<!-- content row -->
+		<div id="contentRow">
+
+			<!-- content wrapper -->
+			<div id="contentWrapper">
+
+		 
+
+		<!-- left column -->
+		<div id="left_column">
+
+			
+			
+
+			<div class="clearfix"></div>
+
+		</div>
+
+		<!-- content column -->
+		<div id="right_column">
+
+			<!-- content -->
+			<div id="content">
+
+				<div id="breadcrumb">
+					
+				</div>
+				<!-- // breadcrumb -->
+
+				
+				
+
+	<h1 id="pageTitle">De opgevraagde pagina bestaat niet.</h1>
+	<p>Controleer het webadres of klik hier om naar de homepage te gaan.</p>
+
+
+
+			</div>
+			<!-- // content -->
+
+		</div>
+		<!-- // content column -->
+
+	 
+
+				<div class="clear"></div>
+
+			</div>
+			<!-- // content wrapper -->
+
+			<div style="height:120px;"></div>
+
+		</div>
+		<!-- // content row -->
+
+	</div>
+	<!-- // pageWrapper -->
+
+</body>
+</html>

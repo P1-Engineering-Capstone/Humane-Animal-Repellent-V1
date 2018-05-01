@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<title>404 - Pagina niet gevonden.</title>
+	<meta http-equiv="content-language" content="nl" />
+	<link rel="stylesheet" type="text/css" href="/admin/_modules/paginabeheer/error.css" />
+</head>
+<body>
+
+<div id="main">
+	<div id="content"><b>Foutcode:</b> 404 - Pagina niet gevonden.
+	<br />
+	De opgevraagde pagina kan niet worden gevonden, controleer de URL en probeer het opnieuw.
+	<br />
+	<br />
+	<br />
+	Indien u problemen blijft ondervinden neem dan contact op met de webmaster.
+	<br />
+	<a href="http://www.gse.nl" alt="GSE Automatisering te Zwaag">GSE Automatisering</a>
+	</div>
+</div>
+<script type="text/javascript" src="/awstats/js/awstats_misc_tracker.js"></script>
+<noscript><p><img src="/awstats/js/awstats_misc_tracker.js?nojs=y" alt="" height="0" width="0" style="display: none" /></p></noscript> 
+</body>
+</html>

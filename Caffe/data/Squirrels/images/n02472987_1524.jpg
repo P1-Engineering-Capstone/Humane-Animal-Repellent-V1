@@ -1,0 +1,92 @@
+
+
+<!DOCTYPE html><html lang="en-GB"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Isle of Man Government - Error Page</title>
+    <meta name="description" content="Error page">
+    <link href="/css/cf/default.min.css" media="screen" type="text/css" rel="stylesheet">
+</head>
+<body>
+    <div class="outer-container" id="top">
+        <div class="body-container">
+            <div id="skip">
+                <a href="#content">Skip to content</a>
+            </div>
+            <div id="header" role="banner">
+                <div class="header-logo">
+                    <a href="/"><img src="/img/cf/crest.png" alt="gov.im - the official Isle of Man Government web site" width="447" height="97"></a>
+                </div>
+                <div role="navigation" class="header-links">
+                    <ul>
+                        <li><a href="/about-this-site/accessibility/">Accessibility</a></li>
+                        <li><a href="/about-this-site/cookies/">Cookies</a></li>
+                        <li><a href="/about-this-site/help/">Help</a></li>
+                        <li><a href="/about-this-site/contact-us/">Contact Us</a></li>
+                    </ul>
+                </div>                
+            </div>
+            <div class="breadcrumb-trail" role="navigation">
+                <ul>
+                    <li>
+                        <div class="sd">
+                            <a href="/">Home</a></div>
+                    </li>
+                    <li class="breadcrumb-current">
+                        <div class="sd">
+                            <span>Error Page</span></div>
+                    </li>
+                </ul>
+            </div>
+            <div class="main-container">
+                <div class="inner-container">
+                    <div class="content-container" id="content" role="main">
+                        <div class="main-content">
+                            <h1>Page Not Found</h1>
+                            <img src="/img/warning.png" style="float: left; padding-right: 10px;" alt="Warning">
+                            <h2>Sorry, the requested page could not be found</h2>
+                            <p>
+                                The page may have moved, been deleted or may be temporarily unavailable. You may
+                                have typed the web address incorrectly, please check the address and spelling.</p>
+                            <p>
+                                Requested page: <strong>https://www.gov.im:443/lib/images/post/resources/human.jpg</strong></p>
+                            <h3>
+                                What would you like to do?</h3>
+                            <ul>
+                                <li>Search for '<a id="SearchLink" href="/search-results?Search=human">human</a>'</li>                               
+                                <li>Go to the <a href="/">homepage</a></li>                                
+                                <li>If you are still having problems, please <a href="/about-this-site/contact-us/">
+                                                                                 contact us</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="clear">
+                    </div>
+                </div>
+            </div>            
+            <div id="footer">
+                <div class="footer-image-links">
+                    <a href="http://www.whereyoucan.im/">
+                        <img src="/img/cf/where-you-can.png" alt="Isle of Man - Where You Can" width="282" height="49"></a> <a href="http://www.visitisleofman.com/">
+                                <img src="/img/cf/visitiom.png" alt="visitisleofman.com" width="282" height="47"></a>
+                    <a href="/about-the-government/">
+                        <img src="/img/cf/About-Gov.png" alt="About the Government - Agencies, Boards and Divisions" width="282" height="49"></a>
+                </div>
+                <div role="navigation" class="footer-menu">
+                    <ul>
+                        <li><a href="/social-media-hub/">Social Media Hub</a></li>
+                        <li><a href="/about-this-site/site-map/">Site Map</a></li>
+                        <li><a href="/about-this-site/privacy-policy/">Terms and Conditions</a></li>                        
+                    </ul>
+                </div>
+                <div class="copyright">
+                    © 2013 Crown Copyright</div>
+            </div>
+            <div class="back-to-top">
+                <a href="#top">
+                    <img src="/img/cf/top_button.png" alt="Back to top" class="hover-image"></a>
+            </div>
+        </div>
+    </div>
+
+
+</body></html>

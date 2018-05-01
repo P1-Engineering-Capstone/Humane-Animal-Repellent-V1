@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://belowthecrowd.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://belowthecrowd.com/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found &#8211; Below the Crowd</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
+<link rel="alternate" type="application/rss+xml" title="Below the Crowd &raquo; Feed" href="http://belowthecrowd.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Below the Crowd &raquo; Comments Feed" href="http://belowthecrowd.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/belowthecrowd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://belowthecrowd.com/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://belowthecrowd.com/wp-content/themes/twentyfifteen/style.css?ver=4.7.9' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://belowthecrowd.com/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://belowthecrowd.com/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://belowthecrowd.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://belowthecrowd.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://belowthecrowd.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://belowthecrowd.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://belowthecrowd.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.7.9" />
+		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		</head>
+
+<body class="error404">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<p class="site-title"><a href="http://belowthecrowd.com/" rel="home">Below the Crowd</a></p>
+											<p class="site-description">Investing Advice</p>
+									<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://belowthecrowd.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Recent Posts</h2>		<ul>
+					<li>
+				<a href="http://belowthecrowd.com/cancer-treatment-centers-of-america-its-never-ending-battle-against-cancer/">Cancer Treatment Centers of America &#038; Its Never-ending Battle Against Cancer</a>
+						</li>
+					<li>
+				<a href="http://belowthecrowd.com/top-investment-firm-highland-capital-management/">Top Investment Firm Highland Capital Management</a>
+						</li>
+					<li>
+				<a href="http://belowthecrowd.com/agora-financial-great-publsing-company/">Agora Financial Great Publsing Company</a>
+						</li>
+					<li>
+				<a href="http://belowthecrowd.com/different-ways-to-bring-people-to-mighty-fortress-church/">Different Ways to Bring People To Mighty Fortress Church</a>
+						</li>
+					<li>
+				<a href="http://belowthecrowd.com/agora-financial-media-trailblazer-with-investment-content-through-online-publications/">Agora Financial: Media Trailblazer with Investment Content through Online Publications</a>
+						</li>
+				</ul>
+		</aside>		<aside id="recent-comments-2" class="widget widget_recent_comments"><h2 class="widget-title">Recent Comments</h2><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link">Marco Rubio</span> on <a href="http://belowthecrowd.com/pass-the-dutchie-to-the-un-debatable-side/#comment-12">Pass the dutchie to the un-debatable side</a></li><li class="recentcomments"><span class="comment-author-link">Mallory Legend</span> on <a href="http://belowthecrowd.com/success-and-igor-cornelsen/#comment-11">Success and Igor Cornelsen</a></li><li class="recentcomments"><span class="comment-author-link">Phoebe Kyler</span> on <a href="http://belowthecrowd.com/brl-trust-the-company-that-you-can-trust/#comment-10">BRL Trust: The Company That You Can Trust</a></li><li class="recentcomments"><span class="comment-author-link">Marco Rubio</span> on <a href="http://belowthecrowd.com/bruce-levenson-the-philanthropist-businessman-striving-to-make-positive-impacts-in-our-communities-on-a-continuous-basis/#comment-9">Bruce Levenson, the Philanthropist, Businessman, Striving to Make Positive Impacts In Our Communities On a Continuous Basis</a></li><li class="recentcomments"><span class="comment-author-link">Marco Rubio</span> on <a href="http://belowthecrowd.com/question-of-european-input-to-aiib-still-unanswered/#comment-8">Question of European Input to AIIB Still Unanswered</a></li></ul></aside><aside id="archives-2" class="widget widget_archive"><h2 class="widget-title">Archives</h2>		<ul>
+			<li><a href='http://belowthecrowd.com/2018/01/'>January 2018</a></li>
+	<li><a href='http://belowthecrowd.com/2017/12/'>December 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/11/'>November 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/10/'>October 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/09/'>September 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/08/'>August 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/07/'>July 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/06/'>June 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/05/'>May 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/04/'>April 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/03/'>March 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/02/'>February 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2017/01/'>January 2017</a></li>
+	<li><a href='http://belowthecrowd.com/2016/12/'>December 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/11/'>November 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/10/'>October 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/09/'>September 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/08/'>August 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/07/'>July 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/06/'>June 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/05/'>May 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/04/'>April 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/03/'>March 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/02/'>February 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2016/01/'>January 2016</a></li>
+	<li><a href='http://belowthecrowd.com/2015/12/'>December 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/11/'>November 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/10/'>October 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/09/'>September 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/08/'>August 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/07/'>July 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/04/'>April 2015</a></li>
+	<li><a href='http://belowthecrowd.com/2015/03/'>March 2015</a></li>
+		</ul>
+		</aside><aside id="categories-2" class="widget widget_categories"><h2 class="widget-title">Categories</h2>		<ul>
+	<li class="cat-item cat-item-68"><a href="http://belowthecrowd.com/category/activism/" >Activism</a>
+</li>
+	<li class="cat-item cat-item-140"><a href="http://belowthecrowd.com/category/advertising/" >Advertising</a>
+</li>
+	<li class="cat-item cat-item-285"><a href="http://belowthecrowd.com/category/advertising-expert/" >Advertising Expert</a>
+</li>
+	<li class="cat-item cat-item-242"><a href="http://belowthecrowd.com/category/advertising-firm/" >Advertising Firm</a>
+</li>
+	<li class="cat-item cat-item-179"><a href="http://belowthecrowd.com/category/advertising-management-girm/" >Advertising Management Girm</a>
+</li>
+	<li class="cat-item cat-item-296"><a href="http://belowthecrowd.com/category/advisor/" >advisor</a>
+</li>
+	<li class="cat-item cat-item-155"><a href="http://belowthecrowd.com/category/affordable-care-act/" >Affordable Care Act</a>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://belowthecrowd.com/category/affordable-pet-food/" >Affordable Pet Food</a>
+</li>
+	<li class="cat-item cat-item-326"><a href="http://belowthecrowd.com/category/air-conditioner/" >Air Conditioner</a>
+</li>
+	<li class="cat-item cat-item-160"><a href="http://belowthecrowd.com/category/amazon/" >Amazon</a>
+</li>
+	<li class="cat-item cat-item-158"><a href="http://belowthecrowd.com/category/amazon-effect/" >Amazon Effect</a>
+</li>
+	<li class="cat-item cat-item-102"><a href="http://belowthecrowd.com/category/american-investors/" >American Investors</a>
+</li>
+	<li class="cat-item cat-item-252"><a href="http://belowthecrowd.com/category/anti-aging/" >Anti Aging</a>
+</li>
+	<li class="cat-item cat-item-327"><a href="http://belowthecrowd.com/category/antibodies/" >Antibodies</a>
+</li>
+	<li class="cat-item cat-item-239"><a href="http://belowthecrowd.com/category/apple-smart-glasses/" >Apple Smart Glasses</a>
+</li>
+	<li class="cat-item cat-item-29"><a href="http://belowthecrowd.com/category/apps/" >Apps</a>
+</li>
+	<li class="cat-item cat-item-211"><a href="http://belowthecrowd.com/category/aspiring-entrepreneurs/" >Aspiring Entrepreneurs</a>
+</li>
+	<li class="cat-item cat-item-259"><a href="http://belowthecrowd.com/category/attorney/" >Attorney</a>
+</li>
+	<li class="cat-item cat-item-189"><a href="http://belowthecrowd.com/category/automobile-industry/" >Automobile Industry</a>
+</li>
+	<li class="cat-item cat-item-193"><a href="http://belowthecrowd.com/category/bad-business/" >bad business</a>
+</li>
+	<li class="cat-item cat-item-269"><a href="http://belowthecrowd.com/category/bank/" >Bank</a>
+</li>
+	<li class="cat-item cat-item-50"><a href="http://belowthecrowd.com/category/banking/" >Banking</a>
+</li>
+	<li class="cat-item cat-item-91"><a href="http://belowthecrowd.com/category/banking-sector/" >Banking Sector</a>
+</li>
+	<li class="cat-item cat-item-238"><a href="http://belowthecrowd.com/category/bankruptcy/" >Bankruptcy</a>
+</li>
+	<li class="cat-item cat-item-39"><a href="http://belowthecrowd.com/category/banks/" >Banks</a>
+</li>
+	<li class="cat-item cat-item-278"><a href="http://belowthecrowd.com/category/basketball-manager/" >Basketball Manager</a>
+</li>
+	<li class="cat-item cat-item-267"><a href="http://belowthecrowd.com/category/beauty-essentials/" >Beauty Essentials</a>
+</li>
+	<li class="cat-item cat-item-182"><a href="http://belowthecrowd.com/category/beauty-of-panama/" >Beauty of Panama</a>
+</li>
+	<li class="cat-item cat-item-294"><a href="http://belowthecrowd.com/category/beauty-products/" >beauty products</a>
+</li>
+	<li class="cat-item cat-item-125"><a href="http://belowthecrowd.com/category/berkshire-hathaway/" >Berkshire Hathaway</a>
+</li>
+	<li class="cat-item cat-item-342"><a href="http://belowthecrowd.com/category/biotechnology/" >Biotechnology</a>
+</li>
+	<li class="cat-item cat-item-129"><a href="http://belowthecrowd.com/category/bitcoin/" >Bitcoin</a>
+</li>
+	<li class="cat-item cat-item-49"><a href="http://belowthecrowd.com/category/bmg/" >BMG</a>
+</li>
+	<li class="cat-item cat-item-263"><a href="http://belowthecrowd.com/category/book-home-cleaning/" >Book Home Cleaning</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://belowthecrowd.com/category/boston/" >Boston</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://belowthecrowd.com/category/brazil/" >Brazil</a>
+</li>
+	<li class="cat-item cat-item-221"><a href="http://belowthecrowd.com/category/breach-on-contract/" >breach on contract</a>
+</li>
+	<li class="cat-item cat-item-123"><a href="http://belowthecrowd.com/category/brewdog/" >BrewDog</a>
+</li>
+	<li class="cat-item cat-item-130"><a href="http://belowthecrowd.com/category/brewdog-craft-brewery/" >BrewDog Craft Brewery</a>
+</li>
+	<li class="cat-item cat-item-101"><a href="http://belowthecrowd.com/category/brexit/" >Brexit</a>
+</li>
+	<li class="cat-item cat-item-144"><a href="http://belowthecrowd.com/category/brian-bonar/" >Brian Bonar</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://belowthecrowd.com/category/brl-trust/" >BRL Trust</a>
+</li>
+	<li class="cat-item cat-item-213"><a href="http://belowthecrowd.com/category/brown-model-agency/" >Brown Model Agency</a>
+</li>
+	<li class="cat-item cat-item-282"><a href="http://belowthecrowd.com/category/bumble-app/" >Bumble App</a>
+</li>
+	<li class="cat-item cat-item-53"><a href="http://belowthecrowd.com/category/business/" >Business</a>
+</li>
+	<li class="cat-item cat-item-244"><a href="http://belowthecrowd.com/category/business-expansion/" >Business Expansion</a>
+</li>
+	<li class="cat-item cat-item-308"><a href="http://belowthecrowd.com/category/business-expert/" >Business Expert</a>
+</li>
+	<li class="cat-item cat-item-237"><a href="http://belowthecrowd.com/category/business-insights/" >Business Insights</a>
+</li>
+	<li class="cat-item cat-item-169"><a href="http://belowthecrowd.com/category/business-leader/" >Business Leader</a>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://belowthecrowd.com/category/business-leaders/" >Business Leaders</a>
+</li>
+	<li class="cat-item cat-item-186"><a href="http://belowthecrowd.com/category/business-news/" >Business News</a>
+</li>
+	<li class="cat-item cat-item-46"><a href="http://belowthecrowd.com/category/cancer-research/" >Cancer Research</a>
+</li>
+	<li class="cat-item cat-item-272"><a href="http://belowthecrowd.com/category/cannes-film-festival/" >Cannes Film Festival</a>
+</li>
+	<li class="cat-item cat-item-142"><a href="http://belowthecrowd.com/category/ccmp/" >CCMP</a>
+</li>
+	<li class="cat-item cat-item-170"><a href="http://belowthecrowd.com/category/ccmp-capital/" >CCMP Capital</a>
+</li>
+	<li class="cat-item cat-item-44"><a href="http://belowthecrowd.com/category/celebrity-advice/" >Celebrity Advice</a>
+</li>
+	<li class="cat-item cat-item-34"><a href="http://belowthecrowd.com/category/celebs/" >Celebs</a>
+</li>
+	<li class="cat-item cat-item-171"><a href="http://belowthecrowd.com/category/ceo/" >CEO</a>
+</li>
+	<li class="cat-item cat-item-135"><a href="http://belowthecrowd.com/category/charity/" >Charity</a>
+</li>
+	<li class="cat-item cat-item-52"><a href="http://belowthecrowd.com/category/chicagoans/" >Chicagoans</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://belowthecrowd.com/category/china/" >China</a>
+</li>
+	<li class="cat-item cat-item-345"><a href="http://belowthecrowd.com/category/church/" >Church</a>
+</li>
+	<li class="cat-item cat-item-183"><a href="http://belowthecrowd.com/category/clay-siegall/" >Clay Siegall</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://belowthecrowd.com/category/cleaning-services/" >Cleaning Services</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="http://belowthecrowd.com/category/colorado-state-university/" >Colorado State University</a>
+</li>
+	<li class="cat-item cat-item-118"><a href="http://belowthecrowd.com/category/commerical-real-estate/" >Commerical Real Estate</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://belowthecrowd.com/category/commodity-trading/" >Commodity Trading</a>
+</li>
+	<li class="cat-item cat-item-38"><a href="http://belowthecrowd.com/category/complaints/" >Complaints</a>
+</li>
+	<li class="cat-item cat-item-124"><a href="http://belowthecrowd.com/category/corporate-earnings/" >Corporate Earnings</a>
+</li>
+	<li class="cat-item cat-item-41"><a href="http://belowthecrowd.com/category/cosmetics-line/" >Cosmetics Line</a>
+</li>
+	<li class="cat-item cat-item-201"><a href="http://belowthecrowd.com/category/costco/" >Costco</a>
+</li>
+	<li class="cat-item cat-item-254"><a href="http://belowthecrowd.com/category/crosman-corporation/" >Crosman Corporation</a>
+</li>
+	<li class="cat-item cat-item-98"><a href="http://belowthecrowd.com/category/cuba/" >Cuba</a>
+</li>
+	<li class="cat-item cat-item-33"><a href="http://belowthecrowd.com/category/dancing/" >Dancing</a>
+</li>
+	<li class="cat-item cat-item-303"><a href="http://belowthecrowd.com/category/dental-industry/" >Dental Industry</a>
+</li>
+	<li class="cat-item cat-item-335"><a href="http://belowthecrowd.com/category/designs/" >Designs</a>
+</li>
+	<li class="cat-item cat-item-141"><a href="http://belowthecrowd.com/category/diet/" >diet</a>
+</li>
+	<li class="cat-item cat-item-87"><a href="http://belowthecrowd.com/category/diet-pills/" >Diet Pills</a>
+</li>
+	<li class="cat-item cat-item-128"><a href="http://belowthecrowd.com/category/digital-currency-exchange/" >Digital Currency Exchange</a>
+</li>
+	<li class="cat-item cat-item-64"><a href="http://belowthecrowd.com/category/digital-marketing/" >Digital Marketing</a>
+</li>
+	<li class="cat-item cat-item-226"><a href="http://belowthecrowd.com/category/discovering-new-brands/" >Discovering New Brands</a>
+</li>
+	<li class="cat-item cat-item-288"><a href="http://belowthecrowd.com/category/doctors/" >Doctors</a>
+</li>
+	<li class="cat-item cat-item-54"><a href="http://belowthecrowd.com/category/dog-food-formula/" >Dog Food Formula</a>
+</li>
+	<li class="cat-item cat-item-240"><a href="http://belowthecrowd.com/category/e-commerce/" >e-Commerce</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://belowthecrowd.com/category/economy/" >Economy</a>
+</li>
+	<li class="cat-item cat-item-301"><a href="http://belowthecrowd.com/category/education-fund/" >Education Fund</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://belowthecrowd.com/category/educators/" >Educators</a>
+</li>
+	<li class="cat-item cat-item-166"><a href="http://belowthecrowd.com/category/election-2016/" >Election 2016</a>
+</li>
+	<li class="cat-item cat-item-94"><a href="http://belowthecrowd.com/category/elon-musk/" >Elon Musk</a>
+</li>
+	<li class="cat-item cat-item-227"><a href="http://belowthecrowd.com/category/emergency-solutions/" >Emergency Solutions</a>
+</li>
+	<li class="cat-item cat-item-89"><a href="http://belowthecrowd.com/category/employment-rate/" >Employment Rate</a>
+</li>
+	<li class="cat-item cat-item-79"><a href="http://belowthecrowd.com/category/energy-conservation/" >Energy Conservation</a>
+</li>
+	<li class="cat-item cat-item-311"><a href="http://belowthecrowd.com/category/equities-business/" >Equities Business</a>
+</li>
+	<li class="cat-item cat-item-312"><a href="http://belowthecrowd.com/category/equities-first/" >Equities First</a>
+</li>
+	<li class="cat-item cat-item-133"><a href="http://belowthecrowd.com/category/equity-funds/" >Equity Funds</a>
+</li>
+	<li class="cat-item cat-item-307"><a href="http://belowthecrowd.com/category/eradicating-poverty/" >Eradicating Poverty</a>
+</li>
+	<li class="cat-item cat-item-234"><a href="http://belowthecrowd.com/category/europe/" >Europe</a>
+</li>
+	<li class="cat-item cat-item-114"><a href="http://belowthecrowd.com/category/exchange-traded-funds/" >Exchange-Traded Funds</a>
+</li>
+	<li class="cat-item cat-item-302"><a href="http://belowthecrowd.com/category/expert/" >Expert</a>
+</li>
+	<li class="cat-item cat-item-293"><a href="http://belowthecrowd.com/category/expert-realtors/" >Expert Realtors</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="http://belowthecrowd.com/category/experts/" >Experts</a>
+</li>
+	<li class="cat-item cat-item-295"><a href="http://belowthecrowd.com/category/fashion/" >fashion</a>
+</li>
+	<li class="cat-item cat-item-249"><a href="http://belowthecrowd.com/category/fashion-designer/" >Fashion Designer</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://belowthecrowd.com/category/fashion-styles/" >Fashion Styles</a>
+</li>
+	<li class="cat-item cat-item-159"><a href="http://belowthecrowd.com/category/feminism/" >Feminism</a>
+</li>
+	<li class="cat-item cat-item-115"><a href="http://belowthecrowd.com/category/fiatchrysler/" >FiatChrysler</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://belowthecrowd.com/category/finance/" >Finance</a>
+</li>
+	<li class="cat-item cat-item-96"><a href="http://belowthecrowd.com/category/finance-and-investment-industries/" >Finance and Investment Industries</a>
+</li>
+	<li class="cat-item cat-item-132"><a href="http://belowthecrowd.com/category/finance-crisis/" >Finance Crisis</a>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://belowthecrowd.com/category/finance-expert/" >Finance Expert</a>
+</li>
+	<li class="cat-item cat-item-145"><a href="http://belowthecrowd.com/category/finances/" >Finances</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://belowthecrowd.com/category/financial-centers/" >Financial Centers</a>
+</li>
+	<li class="cat-item cat-item-224"><a href="http://belowthecrowd.com/category/financial-concepts/" >Financial Concepts</a>
+</li>
+	<li class="cat-item cat-item-298"><a href="http://belowthecrowd.com/category/financial-exprt/" >financial exprt</a>
+</li>
+	<li class="cat-item cat-item-287"><a href="http://belowthecrowd.com/category/financial-institution/" >Financial Institution</a>
+</li>
+	<li class="cat-item cat-item-107"><a href="http://belowthecrowd.com/category/financial-literacy/" >Financial Literacy</a>
+</li>
+	<li class="cat-item cat-item-225"><a href="http://belowthecrowd.com/category/financial-planning/" >Financial Planning</a>
+</li>
+	<li class="cat-item cat-item-220"><a href="http://belowthecrowd.com/category/financial-solution/" >Financial Solution</a>
+</li>
+	<li class="cat-item cat-item-291"><a href="http://belowthecrowd.com/category/finding-donors/" >Finding Donors</a>
+</li>
+	<li class="cat-item cat-item-148"><a href="http://belowthecrowd.com/category/food/" >Food</a>
+</li>
+	<li class="cat-item cat-item-230"><a href="http://belowthecrowd.com/category/food-processing/" >Food Processing</a>
+</li>
+	<li class="cat-item cat-item-271"><a href="http://belowthecrowd.com/category/for-the-ladies/" >For The Ladies</a>
+</li>
+	<li class="cat-item cat-item-153"><a href="http://belowthecrowd.com/category/forbes-magazine/" >Forbes Magazine</a>
+</li>
+	<li class="cat-item cat-item-310"><a href="http://belowthecrowd.com/category/foundation/" >Foundation</a>
+</li>
+	<li class="cat-item cat-item-338"><a href="http://belowthecrowd.com/category/founder/" >Founder</a>
+</li>
+	<li class="cat-item cat-item-47"><a href="http://belowthecrowd.com/category/giving-back/" >Giving Back</a>
+</li>
+	<li class="cat-item cat-item-43"><a href="http://belowthecrowd.com/category/giving-freebies/" >Giving Freebies</a>
+</li>
+	<li class="cat-item cat-item-246"><a href="http://belowthecrowd.com/category/global-services/" >Global Services</a>
+</li>
+	<li class="cat-item cat-item-143"><a href="http://belowthecrowd.com/category/goettl/" >Goettl</a>
+</li>
+	<li class="cat-item cat-item-30"><a href="http://belowthecrowd.com/category/gold-coins-and-bars/" >Gold Coins and Bars</a>
+</li>
+	<li class="cat-item cat-item-104"><a href="http://belowthecrowd.com/category/goldman-sachs/" >Goldman Sachs</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://belowthecrowd.com/category/google/" >Google</a>
+</li>
+	<li class="cat-item cat-item-314"><a href="http://belowthecrowd.com/category/government/" >government</a>
+</li>
+	<li class="cat-item cat-item-317"><a href="http://belowthecrowd.com/category/government-system/" >government system</a>
+</li>
+	<li class="cat-item cat-item-163"><a href="http://belowthecrowd.com/category/grant-cardone/" >Grant Cardone</a>
+</li>
+	<li class="cat-item cat-item-77"><a href="http://belowthecrowd.com/category/growing-market/" >Growing Market</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://belowthecrowd.com/category/hair-care-regimen/" >Hair Care Regimen</a>
+</li>
+	<li class="cat-item cat-item-275"><a href="http://belowthecrowd.com/category/health-advice/" >Health Advice</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://belowthecrowd.com/category/health-business/" >Health Business</a>
+</li>
+	<li class="cat-item cat-item-154"><a href="http://belowthecrowd.com/category/health-care-exchanges/" >Health Care Exchanges</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://belowthecrowd.com/category/health-insurance-firms/" >Health Insurance Firms</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://belowthecrowd.com/category/healthy-pet/" >Healthy Pet</a>
+</li>
+	<li class="cat-item cat-item-75"><a href="http://belowthecrowd.com/category/healthy-trends/" >Healthy Trends</a>
+</li>
+	<li class="cat-item cat-item-137"><a href="http://belowthecrowd.com/category/hispanic-marketing/" >Hispanic Marketing</a>
+</li>
+	<li class="cat-item cat-item-157"><a href="http://belowthecrowd.com/category/home-improvement-market/" >Home Improvement Market</a>
+</li>
+	<li class="cat-item cat-item-57"><a href="http://belowthecrowd.com/category/homeless-services/" >Homeless Services</a>
+</li>
+	<li class="cat-item cat-item-231"><a href="http://belowthecrowd.com/category/hospitality/" >Hospitality</a>
+</li>
+	<li class="cat-item cat-item-119"><a href="http://belowthecrowd.com/category/hotel-real-estate/" >Hotel Real Estate</a>
+</li>
+	<li class="cat-item cat-item-324"><a href="http://belowthecrowd.com/category/houston/" >Houston</a>
+</li>
+	<li class="cat-item cat-item-73"><a href="http://belowthecrowd.com/category/human-rights/" >Human Rights</a>
+</li>
+	<li class="cat-item cat-item-51"><a href="http://belowthecrowd.com/category/human-rights-activist/" >Human Rights Activist</a>
+</li>
+	<li class="cat-item cat-item-198"><a href="http://belowthecrowd.com/category/hvac-industry/" >HVAC Industry</a>
+</li>
+	<li class="cat-item cat-item-105"><a href="http://belowthecrowd.com/category/ibm/" >IBM</a>
+</li>
+	<li class="cat-item cat-item-207"><a href="http://belowthecrowd.com/category/inc/" >Inc</a>
+</li>
+	<li class="cat-item cat-item-341"><a href="http://belowthecrowd.com/category/industry/" >Industry</a>
+</li>
+	<li class="cat-item cat-item-299"><a href="http://belowthecrowd.com/category/infrastructure-expert/" >infrastructure expert</a>
+</li>
+	<li class="cat-item cat-item-138"><a href="http://belowthecrowd.com/category/inmate-communication/" >Inmate Communication</a>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://belowthecrowd.com/category/insurance/" >Insurance</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://belowthecrowd.com/category/interesting/" >Interesting</a>
+</li>
+	<li class="cat-item cat-item-331"><a href="http://belowthecrowd.com/category/internal-medicine/" >Internal Medicine</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://belowthecrowd.com/category/international-business/" >International Business</a>
+</li>
+	<li class="cat-item cat-item-204"><a href="http://belowthecrowd.com/category/internet/" >Internet</a>
+</li>
+	<li class="cat-item cat-item-149"><a href="http://belowthecrowd.com/category/internet-marketing/" >Internet Marketing</a>
+</li>
+	<li class="cat-item cat-item-232"><a href="http://belowthecrowd.com/category/internet-of-things/" >Internet of Things</a>
+</li>
+	<li class="cat-item cat-item-45"><a href="http://belowthecrowd.com/category/internet-service/" >Internet Service</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://belowthecrowd.com/category/investing/" >Investing</a>
+</li>
+	<li class="cat-item cat-item-318"><a href="http://belowthecrowd.com/category/investment/" >Investment</a>
+</li>
+	<li class="cat-item cat-item-257"><a href="http://belowthecrowd.com/category/investment-banker/" >Investment Banker</a>
+</li>
+	<li class="cat-item cat-item-305"><a href="http://belowthecrowd.com/category/investment-banking/" >investment banking</a>
+</li>
+	<li class="cat-item cat-item-297"><a href="http://belowthecrowd.com/category/investment-expert/" >investment expert</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://belowthecrowd.com/category/investment-funds/" >Investment Funds</a>
+</li>
+	<li class="cat-item cat-item-323"><a href="http://belowthecrowd.com/category/investment-management/" >Investment Management</a>
+</li>
+	<li class="cat-item cat-item-106"><a href="http://belowthecrowd.com/category/investments/" >Investments</a>
+</li>
+	<li class="cat-item cat-item-190"><a href="http://belowthecrowd.com/category/investors/" >Investors</a>
+</li>
+	<li class="cat-item cat-item-253"><a href="http://belowthecrowd.com/category/jason-hope/" >Jason Hope</a>
+</li>
+	<li class="cat-item cat-item-167"><a href="http://belowthecrowd.com/category/judicial-system/" >Judicial System</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://belowthecrowd.com/category/kabbalah/" >Kabbalah</a>
+</li>
+	<li class="cat-item cat-item-281"><a href="http://belowthecrowd.com/category/kabbalah-centre/" >Kabbalah Centre</a>
+</li>
+	<li class="cat-item cat-item-196"><a href="http://belowthecrowd.com/category/keith-mann/" >Keith Mann</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://belowthecrowd.com/category/law/" >Law</a>
+</li>
+	<li class="cat-item cat-item-329"><a href="http://belowthecrowd.com/category/lawyer/" >Lawyer</a>
+</li>
+	<li class="cat-item cat-item-42"><a href="http://belowthecrowd.com/category/lawyers/" >Lawyers</a>
+</li>
+	<li class="cat-item cat-item-284"><a href="http://belowthecrowd.com/category/leadership-skills/" >Leadership Skills</a>
+</li>
+	<li class="cat-item cat-item-217"><a href="http://belowthecrowd.com/category/led-lighting/" >LED Lighting</a>
+</li>
+	<li class="cat-item cat-item-236"><a href="http://belowthecrowd.com/category/led-lights/" >LED Lights</a>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://belowthecrowd.com/category/legal/" >Legal</a>
+</li>
+	<li class="cat-item cat-item-195"><a href="http://belowthecrowd.com/category/legal-trouble/" >Legal Trouble</a>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://belowthecrowd.com/category/liberal/" >Liberal</a>
+</li>
+	<li class="cat-item cat-item-235"><a href="http://belowthecrowd.com/category/lighting-technology/" >Lighting Technology</a>
+</li>
+	<li class="cat-item cat-item-256"><a href="http://belowthecrowd.com/category/loan-banks/" >Loan Banks</a>
+</li>
+	<li class="cat-item cat-item-56"><a href="http://belowthecrowd.com/category/london/" >London</a>
+</li>
+	<li class="cat-item cat-item-214"><a href="http://belowthecrowd.com/category/lubar/" >Lubar</a>
+</li>
+	<li class="cat-item cat-item-218"><a href="http://belowthecrowd.com/category/magnises/" >Magnises</a>
+</li>
+	<li class="cat-item cat-item-215"><a href="http://belowthecrowd.com/category/makari/" >Makari</a>
+</li>
+	<li class="cat-item cat-item-333"><a href="http://belowthecrowd.com/category/market-america/" >Market America</a>
+</li>
+	<li class="cat-item cat-item-197"><a href="http://belowthecrowd.com/category/marketing-in-brazil/" >Marketing in Brazil</a>
+</li>
+	<li class="cat-item cat-item-173"><a href="http://belowthecrowd.com/category/marketing-plan/" >Marketing Plan</a>
+</li>
+	<li class="cat-item cat-item-258"><a href="http://belowthecrowd.com/category/martin-lustgarten/" >Martin Lustgarten</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://belowthecrowd.com/category/marvel-custom-solutions/" >Marvel Custom Solutions</a>
+</li>
+	<li class="cat-item cat-item-70"><a href="http://belowthecrowd.com/category/mayo-clinic/" >Mayo Clinic</a>
+</li>
+	<li class="cat-item cat-item-83"><a href="http://belowthecrowd.com/category/mba/" >MBA</a>
+</li>
+	<li class="cat-item cat-item-126"><a href="http://belowthecrowd.com/category/mcdonalds-franchise/" >McDonald&#039;s Franchise</a>
+</li>
+	<li class="cat-item cat-item-262"><a href="http://belowthecrowd.com/category/mcfarland/" >McFarland</a>
+</li>
+	<li class="cat-item cat-item-243"><a href="http://belowthecrowd.com/category/meat-processing/" >Meat Processing</a>
+</li>
+	<li class="cat-item cat-item-229"><a href="http://belowthecrowd.com/category/meat-supplier/" >Meat Supplier</a>
+</li>
+	<li class="cat-item cat-item-48"><a href="http://belowthecrowd.com/category/medical-services/" >Medical Services</a>
+</li>
+	<li class="cat-item cat-item-266"><a href="http://belowthecrowd.com/category/memorial-healths-mission/" >Memorial Health&#039;s mission</a>
+</li>
+	<li class="cat-item cat-item-122"><a href="http://belowthecrowd.com/category/mercedes-benz/" >Mercedes-Benz</a>
+</li>
+	<li class="cat-item cat-item-112"><a href="http://belowthecrowd.com/category/mobile-gaming/" >Mobile Gaming</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="http://belowthecrowd.com/category/modeling-agency/" >modeling agency</a>
+</li>
+	<li class="cat-item cat-item-277"><a href="http://belowthecrowd.com/category/modeling-industry/" >Modeling Industry</a>
+</li>
+	<li class="cat-item cat-item-150"><a href="http://belowthecrowd.com/category/modelling-industry/" >Modelling Industry</a>
+</li>
+	<li class="cat-item cat-item-146"><a href="http://belowthecrowd.com/category/money-matters/" >Money Matters</a>
+</li>
+	<li class="cat-item cat-item-330"><a href="http://belowthecrowd.com/category/motorsports/" >Motorsports</a>
+</li>
+	<li class="cat-item cat-item-260"><a href="http://belowthecrowd.com/category/moving-picture-producer/" >Moving Picture Producer</a>
+</li>
+	<li class="cat-item cat-item-164"><a href="http://belowthecrowd.com/category/multi-family-dwellings/" >Multi-Family Dwellings</a>
+</li>
+	<li class="cat-item cat-item-32"><a href="http://belowthecrowd.com/category/music/" >Music</a>
+</li>
+	<li class="cat-item cat-item-61"><a href="http://belowthecrowd.com/category/nashville/" >Nashville</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="http://belowthecrowd.com/category/natural-lip-balm/" >Natural Lip Balm</a>
+</li>
+	<li class="cat-item cat-item-172"><a href="http://belowthecrowd.com/category/navy-seals/" >Navy SEALs</a>
+</li>
+	<li class="cat-item cat-item-113"><a href="http://belowthecrowd.com/category/netflix/" >Netflix</a>
+</li>
+	<li class="cat-item cat-item-306"><a href="http://belowthecrowd.com/category/neurologist/" >Neurologist</a>
+</li>
+	<li class="cat-item cat-item-147"><a href="http://belowthecrowd.com/category/new-brands/" >New Brands</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://belowthecrowd.com/category/new-jersey/" >New Jersey</a>
+</li>
+	<li class="cat-item cat-item-289"><a href="http://belowthecrowd.com/category/nine9/" >Nine9</a>
+</li>
+	<li class="cat-item cat-item-110"><a href="http://belowthecrowd.com/category/nintendo/" >Nintendo</a>
+</li>
+	<li class="cat-item cat-item-255"><a href="http://belowthecrowd.com/category/northwood-university/" >Northwood University</a>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://belowthecrowd.com/category/nyc/" >NYC</a>
+</li>
+	<li class="cat-item cat-item-139"><a href="http://belowthecrowd.com/category/nyc-apartments/" >NYC Apartments</a>
+</li>
+	<li class="cat-item cat-item-71"><a href="http://belowthecrowd.com/category/obesity/" >Obesity</a>
+</li>
+	<li class="cat-item cat-item-325"><a href="http://belowthecrowd.com/category/oil-gas/" >Oil &amp; Gas</a>
+</li>
+	<li class="cat-item cat-item-320"><a href="http://belowthecrowd.com/category/oil-and-gas/" >Oil and Gas</a>
+</li>
+	<li class="cat-item cat-item-100"><a href="http://belowthecrowd.com/category/oil-price/" >Oil Price</a>
+</li>
+	<li class="cat-item cat-item-99"><a href="http://belowthecrowd.com/category/oil-production/" >Oil Production</a>
+</li>
+	<li class="cat-item cat-item-209"><a href="http://belowthecrowd.com/category/online-access-for-local-pizzerias/" >Online Access For Local Pizzerias</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://belowthecrowd.com/category/online-investing/" >Online Investing</a>
+</li>
+	<li class="cat-item cat-item-265"><a href="http://belowthecrowd.com/category/online-marketing/" >Online Marketing</a>
+</li>
+	<li class="cat-item cat-item-63"><a href="http://belowthecrowd.com/category/online-pr/" >Online PR</a>
+</li>
+	<li class="cat-item cat-item-120"><a href="http://belowthecrowd.com/category/online-reputation-management/" >Online Reputation Management</a>
+</li>
+	<li class="cat-item cat-item-316"><a href="http://belowthecrowd.com/category/orthopedic/" >Orthopedic</a>
+</li>
+	<li class="cat-item cat-item-245"><a href="http://belowthecrowd.com/category/osi-group/" >OSI Group</a>
+</li>
+	<li class="cat-item cat-item-175"><a href="http://belowthecrowd.com/category/panama/" >Panama</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://belowthecrowd.com/category/people/" >People</a>
+</li>
+	<li class="cat-item cat-item-274"><a href="http://belowthecrowd.com/category/people-attorney/" >People Attorney</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://belowthecrowd.com/category/philanthropist/" >Philanthropist</a>
+</li>
+	<li class="cat-item cat-item-202"><a href="http://belowthecrowd.com/category/phone-and-technology-companies/" >Phone and Technology Companies</a>
+</li>
+	<li class="cat-item cat-item-292"><a href="http://belowthecrowd.com/category/physicians/" >Physicians</a>
+</li>
+	<li class="cat-item cat-item-208"><a href="http://belowthecrowd.com/category/pizza-business/" >Pizza Business</a>
+</li>
+	<li class="cat-item cat-item-117"><a href="http://belowthecrowd.com/category/plastic-surgeon/" >Plastic Surgeon</a>
+</li>
+	<li class="cat-item cat-item-283"><a href="http://belowthecrowd.com/category/plumbing-services/" >Plumbing Services</a>
+</li>
+	<li class="cat-item cat-item-111"><a href="http://belowthecrowd.com/category/pokemon-go/" >Pokémon Go</a>
+</li>
+	<li class="cat-item cat-item-286"><a href="http://belowthecrowd.com/category/political-fundraiser/" >Political Fundraiser</a>
+</li>
+	<li class="cat-item cat-item-59"><a href="http://belowthecrowd.com/category/politics/" >Politics</a>
+</li>
+	<li class="cat-item cat-item-180"><a href="http://belowthecrowd.com/category/ppc-management/" >PPC Management</a>
+</li>
+	<li class="cat-item cat-item-165"><a href="http://belowthecrowd.com/category/presidential-race/" >Presidential Race</a>
+</li>
+	<li class="cat-item cat-item-228"><a href="http://belowthecrowd.com/category/private-companies/" >Private Companies</a>
+</li>
+	<li class="cat-item cat-item-328"><a href="http://belowthecrowd.com/category/public-school/" >Public School</a>
+</li>
+	<li class="cat-item cat-item-223"><a href="http://belowthecrowd.com/category/qms/" >QMS</a>
+</li>
+	<li class="cat-item cat-item-337"><a href="http://belowthecrowd.com/category/rally-racer/" >Rally Racer</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://belowthecrowd.com/category/real-estate/" >Real Estate</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://belowthecrowd.com/category/real-estate-development/" >Real Estate Development</a>
+</li>
+	<li class="cat-item cat-item-279"><a href="http://belowthecrowd.com/category/real-estate-entrepreneur/" >Real Estate Entrepreneur</a>
+</li>
+	<li class="cat-item cat-item-300"><a href="http://belowthecrowd.com/category/real-estate-industry/" >Real Estate Industry</a>
+</li>
+	<li class="cat-item cat-item-65"><a href="http://belowthecrowd.com/category/real-estate-investors/" >Real Estate Investors</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://belowthecrowd.com/category/recession/" >Recession</a>
+</li>
+	<li class="cat-item cat-item-85"><a href="http://belowthecrowd.com/category/religion/" >Religion</a>
+</li>
+	<li class="cat-item cat-item-55"><a href="http://belowthecrowd.com/category/rentals/" >Rentals</a>
+</li>
+	<li class="cat-item cat-item-194"><a href="http://belowthecrowd.com/category/research-and-medicine/" >Research and Medicine</a>
+</li>
+	<li class="cat-item cat-item-280"><a href="http://belowthecrowd.com/category/research-centre/" >Research Centre</a>
+</li>
+	<li class="cat-item cat-item-264"><a href="http://belowthecrowd.com/category/retail-center/" >Retail Center</a>
+</li>
+	<li class="cat-item cat-item-248"><a href="http://belowthecrowd.com/category/running-a-business/" >Running A Business</a>
+</li>
+	<li class="cat-item cat-item-276"><a href="http://belowthecrowd.com/category/samsumg/" >Samsumg</a>
+</li>
+	<li class="cat-item cat-item-97"><a href="http://belowthecrowd.com/category/samsung/" >Samsung</a>
+</li>
+	<li class="cat-item cat-item-222"><a href="http://belowthecrowd.com/category/san-diego-magazine/" >San Diego Magazine</a>
+</li>
+	<li class="cat-item cat-item-191"><a href="http://belowthecrowd.com/category/science/" >Science</a>
+</li>
+	<li class="cat-item cat-item-200"><a href="http://belowthecrowd.com/category/science-leaders/" >Science Leaders</a>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://belowthecrowd.com/category/securities-and-exchange-commission/" >Securities and Exchange Commission</a>
+</li>
+	<li class="cat-item cat-item-250"><a href="http://belowthecrowd.com/category/sens-foundation/" >SENS Foundation</a>
+</li>
+	<li class="cat-item cat-item-37"><a href="http://belowthecrowd.com/category/seo/" >Seo</a>
+</li>
+	<li class="cat-item cat-item-35"><a href="http://belowthecrowd.com/category/sergio-cortes/" >Sergio Cortes</a>
+</li>
+	<li class="cat-item cat-item-247"><a href="http://belowthecrowd.com/category/serial-entrepreneur/" >Serial Entrepreneur</a>
+</li>
+	<li class="cat-item cat-item-36"><a href="http://belowthecrowd.com/category/skiing/" >Skiing</a>
+</li>
+	<li class="cat-item cat-item-181"><a href="http://belowthecrowd.com/category/skin-care-essentials/" >Skin Care Essentials</a>
+</li>
+	<li class="cat-item cat-item-192"><a href="http://belowthecrowd.com/category/skin-moisturizer/" >Skin Moisturizer</a>
+</li>
+	<li class="cat-item cat-item-216"><a href="http://belowthecrowd.com/category/smart-lights/" >Smart Lights</a>
+</li>
+	<li class="cat-item cat-item-241"><a href="http://belowthecrowd.com/category/snapbots/" >Snapbots</a>
+</li>
+	<li class="cat-item cat-item-151"><a href="http://belowthecrowd.com/category/snapchat/" >Snapchat</a>
+</li>
+	<li class="cat-item cat-item-66"><a href="http://belowthecrowd.com/category/social-media/" >Social Media</a>
+</li>
+	<li class="cat-item cat-item-205"><a href="http://belowthecrowd.com/category/social-media-networks/" >Social Media Networks</a>
+</li>
+	<li class="cat-item cat-item-67"><a href="http://belowthecrowd.com/category/south-africa/" >South Africa</a>
+</li>
+	<li class="cat-item cat-item-270"><a href="http://belowthecrowd.com/category/spling/" >Spling</a>
+</li>
+	<li class="cat-item cat-item-199"><a href="http://belowthecrowd.com/category/sports/" >Sports</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://belowthecrowd.com/category/squaw-valley/" >Squaw Valley</a>
+</li>
+	<li class="cat-item cat-item-174"><a href="http://belowthecrowd.com/category/stephen-murray/" >Stephen Murray</a>
+</li>
+	<li class="cat-item cat-item-93"><a href="http://belowthecrowd.com/category/stock-market/" >Stock Market</a>
+</li>
+	<li class="cat-item cat-item-185"><a href="http://belowthecrowd.com/category/subrime-loaning/" >Subrime Loaning</a>
+</li>
+	<li class="cat-item cat-item-62"><a href="http://belowthecrowd.com/category/successful-women/" >Successful Women</a>
+</li>
+	<li class="cat-item cat-item-315"><a href="http://belowthecrowd.com/category/surgery/" >Surgery</a>
+</li>
+	<li class="cat-item cat-item-313"><a href="http://belowthecrowd.com/category/system/" >system</a>
+</li>
+	<li class="cat-item cat-item-290"><a href="http://belowthecrowd.com/category/talent-agency/" >Talent Agency</a>
+</li>
+	<li class="cat-item cat-item-40"><a href="http://belowthecrowd.com/category/technology/" >Technology</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://belowthecrowd.com/category/technology-solutions/" >Technology Solutions</a>
+</li>
+	<li class="cat-item cat-item-95"><a href="http://belowthecrowd.com/category/tesla/" >Tesla</a>
+</li>
+	<li class="cat-item cat-item-127"><a href="http://belowthecrowd.com/category/tesla-motors/" >Tesla Motors</a>
+</li>
+	<li class="cat-item cat-item-188"><a href="http://belowthecrowd.com/category/the-ford-motor-company/" >The Ford Motor Company</a>
+</li>
+	<li class="cat-item cat-item-74"><a href="http://belowthecrowd.com/category/the-world-today/" >The World Today</a>
+</li>
+	<li class="cat-item cat-item-336"><a href="http://belowthecrowd.com/category/tips-for-entrepreneurs/" >Tips For Entrepreneurs</a>
+</li>
+	<li class="cat-item cat-item-219"><a href="http://belowthecrowd.com/category/todd-lubar/" >Todd Lubar</a>
+</li>
+	<li class="cat-item cat-item-58"><a href="http://belowthecrowd.com/category/travel/" >Travel</a>
+</li>
+	<li class="cat-item cat-item-304"><a href="http://belowthecrowd.com/category/twisted/" >Twisted</a>
+</li>
+	<li class="cat-item cat-item-161"><a href="http://belowthecrowd.com/category/twitch/" >Twitch</a>
+</li>
+	<li class="cat-item cat-item-210"><a href="http://belowthecrowd.com/category/tyson-foods/" >Tyson Foods</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://belowthecrowd.com/category/uncategorized/" >Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-187"><a href="http://belowthecrowd.com/category/us-stock-markets/" >US Stock Markets</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://belowthecrowd.com/category/venezualan-news/" >Venezualan News</a>
+</li>
+	<li class="cat-item cat-item-131"><a href="http://belowthecrowd.com/category/viacom/" >Viacom</a>
+</li>
+	<li class="cat-item cat-item-162"><a href="http://belowthecrowd.com/category/video-game-streaming/" >Video Game Streaming</a>
+</li>
+	<li class="cat-item cat-item-109"><a href="http://belowthecrowd.com/category/visa/" >Visa</a>
+</li>
+	<li class="cat-item cat-item-152"><a href="http://belowthecrowd.com/category/vurb/" >Vurb</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://belowthecrowd.com/category/wall-street/" >Wall Street</a>
+</li>
+	<li class="cat-item cat-item-69"><a href="http://belowthecrowd.com/category/weight-loss/" >Weight Loss</a>
+</li>
+	<li class="cat-item cat-item-203"><a href="http://belowthecrowd.com/category/wells-fargo/" >Wells Fargo</a>
+</li>
+	<li class="cat-item cat-item-178"><a href="http://belowthecrowd.com/category/westchester-county/" >Westchester County</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://belowthecrowd.com/category/where-to-live/" >Where to live</a>
+</li>
+	<li class="cat-item cat-item-136"><a href="http://belowthecrowd.com/category/white-shark/" >White Shark</a>
+</li>
+	<li class="cat-item cat-item-212"><a href="http://belowthecrowd.com/category/wiki-page-development/" >Wiki Page Development</a>
+</li>
+	<li class="cat-item cat-item-268"><a href="http://belowthecrowd.com/category/wine/" >Wine</a>
+</li>
+	<li class="cat-item cat-item-233"><a href="http://belowthecrowd.com/category/wine-production/" >Wine Production</a>
+</li>
+	<li class="cat-item cat-item-121"><a href="http://belowthecrowd.com/category/women-in-business/" >Women in Business</a>
+</li>
+	<li class="cat-item cat-item-134"><a href="http://belowthecrowd.com/category/world-celebration/" >World Celebration</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://belowthecrowd.com/category/world-news/" >World News</a>
+</li>
+		</ul>
+</aside><aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>			<ul>
+						<li><a href="http://belowthecrowd.com/wp-login.php">Log in</a></li>
+			<li><a href="http://belowthecrowd.com/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://belowthecrowd.com/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+			</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://belowthecrowd.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form>				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://belowthecrowd.com/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://belowthecrowd.com/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+<script type='text/javascript' src='http://belowthecrowd.com/wp-includes/js/wp-embed.min.js?ver=4.7.9'></script>
+
+</body>
+</html>

@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>
+      Pagina bestaat niet
+    </title>
+    <style type="text/css">
+body{padding:30px;background-color:#ddd;font-family:"Lucida Grande","Lucida Sans Unicode","Lucida Sans","Helvetica Neue","Helvetica","Verdana",sans-serif;color:#222;font-size:12px;}h1{text-transform:uppercase;font-family:"Helvetica Neue","Helvetica","Tahoma",sans-serif;font-weight:200;font-size:1.5em;color:#369;}h2{font-size:2.5em;font-family:"Georgia","Garamond",serif;font-weight:500;margin-top:10px;color:#000;}a{color:#369;}#wrapper{background-color:#fff;width:500px;padding:40px 60px;margin:0 auto;border:10px solid #369;}li{margin:5px 0;}
+    </style>
+  </head>
+  <body>
+    <div id="wrapper">
+      <h1>
+        Fotoblog Joris van Alphen
+      </h1>
+      <h2>Hé, wat is er gebeurd?</h2>
+      <p>Sorry, dit fotografie blog is <a href="http://jorisvanalphen.com/blog/" title="Photography Blog">verhuisd</a> en het lijkt erop dat de pagina waar je naar op zoek bent (nog) geen nieuwe plaats heeft gekregen.</p>
+      <div style="font-size:13px;margin:30px 0;">
+      <p><strong>Bekijk het nieuwe <a href="http://jorisvanalphen.com/blog/" title="Photography and Biology Blog, Mostly Underwater">fotografie blog</a>, of ga naar:</strong></p>
+      <ul xml:lang="en" lang="en">
+        <li>
+          <strong><a href="http://jorisvanalphen.com/" title="Underwater Photography and Portraits">Joris van Alphen Photography</a></strong>
+          <ul>
+            <li><a href="http://jorisvanalphen.com/portfolio/" title="Photography Portfolios: Portraits, Underwater and Science Photography">Portfolios</a></li>
+            <li><a href="http://jorisvanalphen.com/portfolio/" title="About Joris van Alphen Photography">About Joris</a></li>
+            <li><a href="http://jorisvanalphen.com/contact/" title="Contact Joris">Contact</a></li>
+          </ul>
+        </li>
+      </ul>
+      </div>
+      <p>Mocht je op zoek zijn naar een bepaalde foto dan kun je daar altijd naar <a href="http://jorisvanalphen.com/contact/">vragen</a>.</p>
+    </div>
+    <script type="text/javascript">
+      //<![CDATA[
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        var pageTracker = _gat._getTracker("UA-797593-1");
+        pageTracker._addOrganic("images.google", "prev");
+        pageTracker._addOrganic("ilse", "search_for");
+        pageTracker._addOrganic("zoeken", "query");
+        pageTracker._addOrganic("vinden", "q");
+        pageTracker._addOrganic("home", "q");
+        pageTracker._addOrganic("hetnet", "keyword");
+        pageTracker._addOrganic("eerstekeuze", "Terms");
+        pageTracker._addOrganic("planet", "googleq");
+        pageTracker._initData();
+        pageTracker._trackPageview();
+      //]]>
+    </script>
+  </body>
+</html>

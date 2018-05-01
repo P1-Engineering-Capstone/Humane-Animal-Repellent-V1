@@ -1,0 +1,1624 @@
+<!DOCTYPE html><script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="http://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=472beb185dc3d62d59bcf893499ebf45"></script><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+                                         
+        .                                 .o8       oooo               
+      .o8                                "888       `888               
+    .o888oo oooo  oooo  ooo. .oo.  .oo.   888oooo.   888  oooo d8b     
+      888   `888  `888  `888P"Y88bP"Y88b  d88' `88b  888  `888""8P     
+      888    888   888   888   888   888  888   888  888   888        
+      888 .  888   888   888   888   888  888   888  888   888    .o. 
+      "888"  `V88V"V8P' o888o o888o o888o `Y8bod8P' o888o d888b   Y8P
+
+-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#">
+    <!-- DEFAULT VARIABLES -->
+    <meta name="color:Background" content="#3b627e" />
+    
+    <meta name="font:Title" content="Arial" />
+    <meta name="font:Body" content="Arial" />
+    <meta name="font:Accent" content="Lucida Sans" />
+    
+    <meta name="if:Show People I Follow" content="1" />
+    <meta name="if:Show Tags" content="1" />
+    <meta name="if:Show Album Art on Audio Posts" content="1" />
+    <meta name="if:Enable Jump Pagination" content="0" />
+    
+    <meta name="text:Disqus Shortname" content="" />
+    
+    <meta name="image:Header" content="" />
+    <meta name="image:Background" content="" />
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Comedy Central</title>
+    <meta name="description" content="The Official Tumblr Blog of Comedy Central. Go ahead, laugh in our face." />
+    <style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="shortcut icon" href="http://78.media.tumblr.com/avatar_ff5fa61222d2_128.pnj" />
+    <link rel="apple-touch-icon" href="http://78.media.tumblr.com/avatar_ff5fa61222d2_128.pnj"/>
+    <link rel="alternate" type="application/rss+xml" href="http://comedycentral.tumblr.com/rss" />
+     <style type="text/css">
+     @font-face {font-family:”brandon”;src:url(‘http://static.tumblr.com/bhjdez4/wLBm79gq3/brando01.ttf’);}
+  
+      body {
+background: #f3f4f5 url('http://static.tumblr.com/bhjdez4/3DCm72l2m/cc_tumblr_f3f4f5.jpg') no-repeat scroll center top;
+
+/* SPONSOR SKIN */
+/* background: #f3f4f5 url('http://www.comedycentral.com/images/tumblr/skins/cc_tumblr_axe-1b_notitle.jpg') top center fixed; */
+
+
+           margin-top: 118px;
+            padding: 0;
+            font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+        }
+        
+        .clear {
+            clear: both;
+            height: 0px;
+            overflow: hidden;
+        }
+        
+        a img {
+            border: none;
+        }
+        
+        #wrapper {
+            width: 845px;
+            margin: 0 auto;
+        }
+        
+            #wrapper #title {
+                margin: 30px 0;
+                color: #fff;
+                font-size: 50px;
+                font-weight: bold;
+                font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+                text-shadow: 1px 3px 5px rgba(0,0,0, 0.5);
+                letter-spacing: -1px;
+            }
+            
+                #wrapper #title a {
+                    color: #fff;
+                    text-decoration: none;
+                }
+            
+            #wrapper #content {
+                width: 520px;
+                float: left;
+            }
+            
+                #wrapper #content .post {
+                    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+                    background: #fff;
+                    padding: 10px;
+                    position: relative;
+                }
+                    
+                    #wrapper #content .post .media {
+                        text-align: center;
+                        margin-bottom: 10px;
+                    }
+                    
+                    #wrapper #content .post .quotebg {
+                        font-family: georgia, serif;
+                        font-size: 150px;
+                        color: #5ebcc6;
+                        opacity: 0.2;
+                        filter: alpha(opacity=20);
+                        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=20)";
+                        position: absolute;
+                        top: 70px;
+                        left: 10px;
+                    }
+                    
+                    #wrapper #content .post .quote {
+                        color: #5ebcc6;
+                        font-weight: bold;
+                        padding: 20px 20px 5px 20px;
+                    }
+                    
+                    #wrapper #content .post .quote.short {
+                        font-size: 33px;
+                        line-height: 35px;
+                    }
+                    
+                    #wrapper #content .post .quote.medium {
+                        font-size: 25px;
+                        line-height: 28px;
+                    }
+                    
+                    #wrapper #content .post .quote.long {
+                        font-size: 18px;
+                        line-height: 22px;
+                    }
+                                        
+                        #wrapper #content .post .quote_source *:first-child {
+                            margin-top: 0px;
+                        }
+                        
+                        #wrapper #content .post .quote_source *:last-child {
+                            margin-bottom: 0px;
+                        }
+                        
+                        #wrapper #content .post .quote *:first-child {
+                            margin-top: 0px;
+                        }
+                        
+                        #wrapper #content .post .quote *:last-child {
+                            margin-bottom: 0px;
+                        }
+                        
+                    #wrapper #content .post .copy {
+                        color: #6e7173;
+                        padding: 10px;
+                        font-size: 13px;
+                        line-height: 15px;
+                    }
+                        
+                        #wrapper #content .post .copy a {
+                            color: #6e7173;
+                            text-decoration: underline;
+                        }
+                        
+                        #wrapper #content .post .copy p {
+                            margin: 10px 0 0 0;
+                            padding: 0;
+                        }
+                        
+                        #wrapper #content .post .copy pre {
+                            margin: 10px 0px 10px 0px;
+                            padding: 10px;
+                            background-color: #e6e6e6;
+                            font: normal 11px Courier, monospace;
+                            overflow: auto;
+                        }
+                        
+                        #wrapper #content .post .copy > p:first-child {
+                            margin-top: 0;
+                        }
+                        
+                        #wrapper #content .post .copy img {
+                            max-width: 100%;
+                        }
+                    
+                    #wrapper #content .post .audio {
+                        background: #eaeaea;
+                        float: left;
+                        padding: 7px;
+                        margin-bottom: 10px;
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 4px;
+                    }
+                                                        
+                        #wrapper #content .post .audio .player {
+                            float: left;
+                        }
+                        
+                            #wrapper #content .post .audio .player .audio_player embed {
+                                border: 1px solid #c8c8c8;
+                            }
+                        
+                        #wrapper #content .post .audio .meta {
+                            padding: 8px 13px;
+                            height: 13px;
+                            float: left;
+                            color: #666;
+                            font-family: Helvetica, Arial, sans-serif;
+                            font-size: 11px;
+                            text-transform: lowercase;
+                        }
+                        
+                            #wrapper #content .post .audio .meta a {
+                                color: #666;
+                                text-decoration: none;
+                            }
+                    
+                    #wrapper #content .post .album_art {
+                        text-align: center;
+                    }
+                    
+                    #wrapper #content .post .question {
+                        color: #494949;
+                        font-size: 16px;
+                        font-weight: bold;
+                        background: #f1f1f1;
+                        -moz-border-radius: 8px;
+                        -webkit-border-radius: 8px;
+                        border-radius: 8px;
+                        margin: 0 0 15px 0;
+                        padding: 15px 20px;
+                        position: relative;
+                    }
+                    
+                        #wrapper #content .post .question .nipple {
+                            width: 13px;
+                            height: 7px;
+                            background: #f1f1f1 url('http://static.tumblr.com/vr9xgox/PDjnf8t10/ask-mask.png');
+                            position: absolute;
+                            bottom: -7px;
+                            left: 30px;
+                        }
+                        
+                    #wrapper #content .post .asker_container {
+                        margin: 0 0 20px 24px;
+                    }
+                    
+                        #wrapper #content .post .asker_container img {
+                            margin: 0 12px -7px 0;
+                        }
+                        
+                        #wrapper #content .post .asker_container a.asker {
+                            color: ;
+                        }
+                    
+                    #wrapper #content .post .title {
+                        color: #494949;
+                        font-size: 16px;
+                        font-weight: bold;
+                        padding: 10px 10px 0 10px;
+                    }
+                    
+                    #wrapper #content .post img {
+                      max-width: 500px;
+                    }
+                                        
+                    #wrapper #content .post .chat {
+                        background-color: #fff;
+                        border-left: 5px solid #dedddd;
+                        margin: 10px 10px 0 10px;
+                        font-size: 14px;
+                    }
+                                        
+                        #wrapper #content .post .chat .lines {
+                            margin-left: 1px;
+                        }
+                        
+                            #wrapper #content .post .chat .lines .line {
+                                background-color: #eaeaea;
+                                color: #494949;
+                                margin-bottom: 1px;
+                                padding: 3px 5px;
+                            }
+                            
+                            #wrapper #content .post .chat .lines .line.even {
+                                background-color: #dedddd;
+                            }
+                        
+                        #wrapper #content .post .link {
+                            margin: 4px 0 2px 0;
+                            font-size: 16px;
+                            line-height: 25px;
+                        }
+                            
+                            #wrapper #content .post .link a {
+                                background-color: #5ebcc6;
+                                color: #fff;
+                                padding: 5px 7px;
+                                -moz-border-radius: 4px;
+                                -webkit-border-radius: 4px;
+                                border-radius: 4px;
+                            }
+                            
+                            #wrapper #content .post .link a:hover {
+                                opacity: 0.9;
+                                filter: alpha(opacity=90);
+                                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                            }
+                    
+                    #wrapper #content .post .footer {
+                        background: #eaeaea;
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 4px;
+                        font-family: Helvetica, Arial, sans-serif;
+                        font-size: 11px;
+                        color: #666;
+                        padding: 5px 10px;
+                        margin-top: 10px;
+                    }
+                        
+                        #wrapper #content .post .footer.for_permalink:hover {
+                            opacity: 0.9;
+                            filter: alpha(opacity=90);
+                            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                        }
+                        
+                        #wrapper #content .post .footer .date {
+                            width: 67%;
+                            float: left;
+                            color: #666;
+                        }
+                        
+                        #wrapper #content .post .footer .notes {
+                            width: 33%;
+                            float: right;
+                            text-align: right;
+                            color: #666;
+                        }
+                            
+                            #wrapper #content .post .footer .notes a {
+                                color: #666;
+                            }
+                            
+                            #wrapper #content .post .footer .tags a {
+                                color: #4a4a51;
+                                text-decoration: underline;
+                            }
+                            
+                                #wrapper #content .post .footer .tags .tag-commas:last-child {
+                                    display: none;
+                                }
+                            
+                            #wrapper #content .post .footer.with_source_url .tags {
+                                max-width: 330px;
+                                float: left;
+                            }
+                            
+                            #wrapper #content .post .footer.with_source_url .source_url {
+                                float: right;
+                                max-width: 160px;
+                                overflow: hidden;
+                                white-space: nowrap;
+                                
+                            }
+                            
+                                #wrapper #content .post .footer.with_source_url .source_url img {
+                                    vertical-align: top;
+                                    -moz-opacity: 0.5;
+                                    opacity: 0.5;
+                                }
+                                
+                                #wrapper #content .post .footer.with_source_url .source_url:hover img {
+                                    -moz-opacity: 0.7;
+                                    opacity: 0.7;
+                                }
+                        
+                        #wrapper #content .post a {
+                            color: #6e7173;
+                            text-decoration: none;
+                        }
+                        
+                            #wrapper #content .post .copy blockquote {
+                                margin: 10px 0px 10px 10px;
+                                padding-left: 15px;
+                                border-left: solid 4px #dcdcdc;
+                            }
+                            
+                                #wrapper #content .post .copy blockquote blockquote {
+                                    border-left: solid 4px #cccccc;
+                                }
+                                
+                                    #wrapper #content .post .copy blockquote blockquote blockquote {
+                                        border-left: solid 4px #bcbcbc;
+                                    }
+                                    
+                                        #wrapper #content .post .copy blockquote blockquote blockquote blockquote {
+                                            border-left: solid 4px #acacac;
+                                        }
+                                        
+                                            #wrapper #content .post .copy blockquote blockquote blockquote blockquote blockquote {
+                                                border-left: solid 4px #9c9c9c;
+                                            }
+                                            
+                                                #wrapper #content .post .copy blockquote blockquote blockquote blockquote blockquote blockquote {
+                                                    border-left: solid 4px #8c8c8c;
+                                                }
+                        
+                        #wrapper #content .bottom {
+                            background: url('http://static.tumblr.com/vr9xgox/TDAnf8t3n/shadow-post.png') top center no-repeat transparent;
+                            width: 513px;
+                            height: 40px;
+                            margin: 0 auto;
+                        }
+                        
+                        #wrapper #content #navigation {
+                            text-align: right;
+                            padding-bottom: 35px;
+                            text-transform: lowercase;
+                        }
+                        
+                            #wrapper #content #navigation a {
+                                background-color: #fff;
+                                color: #5ebcc6;
+                                padding: 5px 10px;
+                                text-decoration: none;
+                                margin-left: 25px;
+                            }
+                            
+                            #wrapper #content #navigation a:hover {
+                                opacity: 0.9;
+                                filter: alpha(opacity=90);
+                                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                            }
+                            
+                        #wrapper #content #navigation.jump_pagination {}
+                            
+                            #wrapper #content #navigation.jump_pagination a {
+                                margin: 0 0 0 4px;
+                            }
+                            
+                            #wrapper #content #navigation.jump_pagination .current_page {
+                                color: #fff;
+                                background-color: rgba(255,255,255, 0.1);
+                                border: 2px solid #fff;
+                                padding: 3px 8px;
+                                margin: 0 0 0 4px;
+                                cursor: default;
+                            }
+                            
+                            #wrapper #content #navigation.jump_pagination .jump_page {}
+                            
+                            #wrapper #content .post .notecontainer {
+                                background: #eaeaea;
+                                -moz-border-radius: 4px;
+                                -webkit-border-radius: 4px;
+                                border-radius: 4px;
+                                font-family: Helvetica, Arial, sans-serif;
+                                font-size: 11px;
+                                color: #666;
+                                margin-top: 10px;
+                                margin-bottom: -10px;
+                            }
+                            
+                                    #wrapper #content .post .notecontainer a {
+                                        color: #666;
+                                        text-decoration: underline;
+                                    }
+                                    
+                                    #wrapper #content .post .notecontainer ol.notes {
+                                        padding: 0px 0 10px 0;
+                                        list-style-type: none;
+                                        font-size: 11px;
+                                    }
+                                    
+                                        #wrapper #content .post .notecontainer ol.notes li.note {
+                                            padding: 10px 10px 0 10px;
+                                        }
+                                        
+                                            #wrapper #content .post .notecontainer ol.notes li.note img.avatar {
+                                                vertical-align: -4px;
+                                                margin-right: 10px;
+                                                width: 16px;
+                                                height: 16px;
+                                            }
+                                            
+                                            #wrapper #content .post .notecontainer ol.notes li.note span.action {
+                                                font-weight: normal;
+                                            }
+                                            
+                                            #wrapper #content .post .notecontainer ol.notes li.note .answer_content {
+                                                font-weight: normal;
+                                            }
+                                            
+                                            #wrapper #content .post .notecontainer ol.notes li.note blockquote {
+                                                border-left: 2px solid #666;
+                                                padding: 4px 10px;
+                                                margin: 10px 0px 0px 25px;
+                                            }
+                                            
+                                                #wrapper #content .post .notecontainer ol.notes li.note blockquote a {
+                                                    text-decoration: none;
+                                                }
+                
+                #wrapper #content #searchresults {
+                    color: #fff;
+                    margin: 0 0 15px 0;
+                    text-shadow: 1px 3px 5px rgba(0,0,0, 0.5);
+                    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+                    font-size: 20px;
+                }
+                
+                    #wrapper #content #searchresults .search_query {
+                        font-weight: bold;
+                    }
+                    
+                    #wrapper #content #searchresults .search_query:before {
+                        content:'“';
+                    }
+                    
+                    #wrapper #content #searchresults .search_query:after {
+                        content:'”';
+                    }
+            
+            #wrapper #sidebar {
+                width: 250px;
+                float: right;
+                color: #f3f4f5;
+                font-family:Arial, 'Helvetica Neue', Helvetica, sans-serif ;
+            
+            }
+            
+                #wrapper #sidebar a {
+                    color: ;
+                }
+                
+                #wrapper #sidebar #top {
+                    background: #747070;
+                    padding: 0 20px;
+                    
+                    -webkit-border-top-left-radius: 10px;
+                    -webkit-border-top-right-radius: 10px;
+                    -moz-border-radius-topleft: 10px;
+                    -moz-border-radius-topright: 10px;
+                    border-top-left-radius: 10px;
+                    border-top-right-radius: 10px;
+                }
+                
+                    #wrapper #sidebar #top #avatar {
+                        width: 146px;
+                        height: 146px;
+                        padding: 8px 0 0 9px;
+                        background: url('http://static.tumblr.com/vr9xgox/mi9nf8t4z/avatar-bg.png') top left no-repeat transparent;
+                        position: relative;
+                        top: -24px;
+                        left: -5px;
+                    }
+                    
+                    #wrapper #sidebar #top #pages {
+                        margin-bottom: 15px;
+                        font-size: 11px;
+                    }
+                    
+                        #wrapper #sidebar #top #pages.ask_and_submit {
+                            display: none;
+                            
+                            
+                        }
+                    
+                        #wrapper #sidebar #top #pages a.page {
+                            display: block;
+                            float: left;
+                         
+                          
+                            padding: 4px 5px;
+                            margin: 0 5px 5px 0;
+                            -webkit-border-radius: 3px;
+                            -moz-border-radius: 3px;
+                            border-radius: 3px;
+                        }
+                        
+                        #wrapper #sidebar #top #pages a.page:last-child {
+                            margin-right: 0;
+                        }
+                        
+                        #wrapper #sidebar #top #pages a.page:hover {
+                            opacity: 0.9;
+                            filter: alpha(opacity=90);
+                            -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                        }
+                        
+                    #wrapper #sidebar #top #description {
+                        font-size: 12px;
+                        position: relative;
+                        top: -18px;
+                    }
+                    
+                        #wrapper #sidebar #top #description a {
+                            color: #fff;
+                            text-decoration: none;
+                        }
+                    
+                    #wrapper #sidebar #top #search {
+                        background: #fff;
+                        border: 1px solid #5ebcc6;
+                        
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 4px;
+                    }
+                    
+                    #wrapper #sidebar #top #search-scope {
+                        padding-top: 5px;
+                        font-size: 11px;
+                        text-align: center;
+                    }
+                    
+                        #wrapper #sidebar #top #search-scope input,
+                        #wrapper #sidebar #top #search-scope label {
+                            cursor: pointer;
+                        }
+                        
+                        #wrapper #sidebar #top #search form {
+                            margin: 0;
+                        }
+                            
+                            #wrapper #sidebar #top #search form .query {
+                                padding: 5px;
+                                border: none;
+                                background: transparent;
+                                outline: none;
+                                width: 125px;
+                                float: left;
+                                color: #5ebcc6;
+                            }
+                            
+                            #wrapper #sidebar #top #search form .submit {
+                                background: #5ebcc6;
+                                color: #fff;
+                                border: none;
+                                padding: 5px 7px;
+                                margin: 3px 3px 2px 0;
+                                float: right;
+                                -moz-border-radius: 3px;
+                                -webkit-border-radius: 3px;
+                                border-radius: 3px;
+                                cursor: pointer;
+                            }
+                            
+                            #wrapper #sidebar #top #search form .submit:hover {
+                                opacity: 0.9;
+                                filter: alpha(opacity=90);
+                                -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                            }
+                    
+                    #wrapper #sidebar #top .heading {
+                        color: #fff;
+                        font-family: helvetica, arial, sans-serif;
+                        font-size: 17px;
+                        margin-top: 20px;
+                        padding: 10px;
+                        background-color: #6f6b6b;
+                        -webkit-border-top-left-radius: 4px;
+                        -webkit-border-top-right-radius: 4px;
+                        -moz-border-radius-topleft: 4px;
+                        -moz-border-radius-topright: 4px;
+                        border-top-left-radius: 4px;
+                        border-top-right-radius: 4px;
+                    }
+                    
+                    #wrapper #sidebar #top a .heading {
+                        color: #fff;
+                        text-decoration: none;
+                    }
+                    
+                    #wrapper #sidebar #top .heading#followontumblr {
+                        background: url('http://static.tumblr.com/vr9xgox/xSxnf8t6x/sidebar-follow-on-en_us.png') center left no-repeat #5ebcc6;
+                        text-indent: -9999px;
+                        -moz-border-radius: 4px;
+                        -webkit-border-radius: 4px;
+                        border-radius: 4px;
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    }
+                    
+                    #wrapper #sidebar #top .heading#followontumblr:hover,
+                    #wrapper #sidebar #top .heading#twitter:hover {
+                        opacity: 0.9;
+                        filter: alpha(opacity=90);
+                        -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+                    }
+                    
+                    #wrapper #sidebar #top .heading#twitter {
+                        background: url('http://static.tumblr.com/vr9xgox/0zgnf8tbl/sidebar-twitter.png') right center no-repeat{ color:background};
+                    }
+                    
+                    #wrapper #sidebar #top .heading#following {
+                        background: url('http://static.tumblr.com/vr9xgox/lKbnf8tc5/sidebar-following.png') right center no-repeat #5ebcc6;
+                    }
+                    
+                    #wrapper #sidebar #top .content {
+                        margin-top: 2px;
+                        padding: 7px 10px;
+                        background: #f3f4f5;
+                        color: #6bcadc;
+                        font-size: 11px;
+                        overflow: hidden;
+                    }
+                    
+                        #wrapper #sidebar #top a {
+                            text-decoration: none;
+                        }
+                    
+                        #wrapper #sidebar #top #following-avatars.content {
+                            padding: 4px;
+                        }
+                    
+                                #wrapper #sidebar #top #following-avatars.content a img {
+                                    margin: 5px;
+                                }
+                                
+                        #wrapper #sidebar #top #buttons {
+                            padding: 20px 0 0 0;
+                        }
+                        
+                            #wrapper #sidebar #top #buttons .button {
+                                width: 35%;
+                                height: 21px;
+                                float: left;
+                                background: left center no-repeat transparent;
+                                padding: 2px 0 0 30px;
+                                font-size: 14px;
+                            }
+                            
+                                #wrapper #sidebar #top #buttons a {
+                                    color: #fff;
+                                    text-decoration: none;
+                                }
+                            
+                                #wrapper #sidebar #top #buttons div {
+                                    padding-bottom: 10px;
+                                }
+                            
+                            #wrapper #sidebar #top #buttons .button#button-rss {
+                                background-image: url('http://static.tumblr.com/vr9xgox/VlPnf8tt8/button-rss.png');
+                                text-transform: capitalize;
+                            }
+                            
+                            #wrapper #sidebar #top #buttons .button#button-random {
+                                background-image: url('http://static.tumblr.com/vr9xgox/vRHnf8tv4/button-random.png');
+                            }
+                            
+                            #wrapper #sidebar #top #buttons .button#button-archive {
+                                background-image: url('http://static.tumblr.com/vr9xgox/VT4nf8tvk/button-archive.png');
+                            }
+                            
+                            #wrapper #sidebar #top #buttons .button#button-mobile {
+                                background-image: url('http://static.tumblr.com/vr9xgox/Vd7nf8tw0/button-mobile.png');
+                            }
+                
+                    #wrapper #sidebar #bottom {
+                        background: #747070 url('http://static.tumblr.com/vr9xgox/wySnf8twm/sidebar-bottom.png') top center no-repeat transparent;
+                        width: 250px;
+                        height: 25px;
+                        
+                    }
+                    
+                    #wrapper #sidebar #copyright {
+                        text-align: center;
+                        color: #6f6b6b;
+                        font-size: 12px;
+                        margin-bottom: 10px;
+                    }
+                    
+                        #wrapper #sidebar #copyright a {
+                            color: #6f6b6b;
+                            margin-left: 15px;
+                        }
+    
+    </style>
+    <!--[if lt IE 7.]>
+        <style type="text/css">
+            #wrapper #sidebar #bottom {
+                background: transparent;
+            }
+            
+            #wrapper #sidebar #top #avatar {
+                background: none;
+            }
+            
+            #wrapper #sidebar #top #avatar img {
+                border: 5px solid #f1f1f1;
+            }
+            
+            #wrapper #sidebar #top .heading#followontumblr {
+                background-image: none;
+                text-indent: 0;
+            }
+        
+            #wrapper #sidebar #top .heading#twitter {
+                background-image: none;
+            }
+        
+            #wrapper #sidebar #top .heading#following {
+                background-image: none;
+            }
+
+            #wrapper #content .post .audio .player {
+                float: none;
+            }
+            
+            #wrapper #content .post .audio .meta {
+                display: none;
+                float: none;
+            }
+        </style>
+    <![endif]-->
+    
+    <!--[if lt IE 8.]>
+        <style type="text/css">
+            #wrapper #content .bottom {
+                background: transparent;
+            }
+            
+            #wrapper #content .post .footer {
+                background: transparent;
+                color: #000;
+            }
+            
+            #wrapper #content .post .audio {
+                float: none;
+                background: transparent;
+            }
+            
+            #wrapper #content .post .notecontainer .notes {
+                padding: 0;
+                margin: 0;
+            }
+        </style>
+    <![endif]-->
+    <style type="text/css"></style>
+<link rel="alternate" href="android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=comedycentral" /><link rel="alternate" href="ios-app://305343404/tumblr/x-callback-url/blog?blogName=comedycentral" /><script src="http://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=8a635a4514a95df9615127e354b374d0"></script><meta name="keywords" content="gif,chappelle,chappelle&#039;s show,dave chappelle,work" /><!-- BEGIN TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- If you'd like to specify your own Open Graph tags, define the og:url and og:title tags in your theme's HTML. --><!-- Read more: http://ogp.me/ --><meta property="fb:app_id" content="48119224995" /><meta property="og:title" content="Comedy Central" /><meta property="og:url" content="http://comedycentral.tumblr.com/?og=1" /><meta property="og:description" content="The Official Tumblr Blog of Comedy Central. Go ahead, laugh in our face." /><meta property="og:type" content="tumblr-feed:tumblelog" /><meta property="og:image" content="http://78.media.tumblr.com/avatar_ff5fa61222d2_128.pnj" /><meta property="al:ios:url" content="tumblr://x-callback-url/blog?blogName=comedycentral" /><meta property="al:ios:app_name" content="Tumblr" /><meta property="al:ios:app_store_id" content="305343404" /><meta property="al:android:url" content="tumblr://x-callback-url/blog?blogName=comedycentral" /><meta property="al:android:app_name" content="Tumblr" /><meta property="al:android:package" content="com.tumblr" /><!-- END TUMBLR FACEBOOK OPENGRAPH TAGS --><!-- TWITTER TAGS --><meta charset="utf-8"><meta name="twitter:site" content="tumblr" /><meta name="twitter:card" content="app" /><meta name="twitter:description" content="comedycentral" /><meta name="twitter:title" content="comedycentral" /><meta name="twitter:app:name:iphone" content="Tumblr" /><meta name="twitter:app:name:ipad" content="Tumblr" /><meta name="twitter:app:name:googleplay" content="Tumblr" /><meta name="twitter:app:id:iphone" content="305343404" /><meta name="twitter:app:id:ipad" content="305343404" /><meta name="twitter:app:id:googleplay" content="com.tumblr" /><meta name="twitter:app:url:iphone" content="tumblr://x-callback-url/blog?blogName=comedycentral&amp;referrer=twitter-cards" /><meta name="twitter:app:url:ipad" content="tumblr://x-callback-url/blog?blogName=comedycentral&amp;referrer=twitter-cards" /><meta name="twitter:app:url:googleplay" content="tumblr://x-callback-url/blog?blogName=comedycentral&amp;referrer=twitter-cards" /><!-- GOOGLE CAROUSEL --><script type="application/ld+json">
+	{"@type":"ItemList","url":"http:\/\/comedycentral.tumblr.com","itemListElement":[{"@type":"ListItem","position":1,"url":"http:\/\/comedycentral.tumblr.com\/post\/169277471750"},{"@type":"ListItem","position":2,"url":"http:\/\/comedycentral.tumblr.com\/post\/169201119630\/take-a-ride-down-memory-lane-with-dave-chappelle"},{"@type":"ListItem","position":3,"url":"http:\/\/comedycentral.tumblr.com\/post\/169194822680\/get-some-legal-advice-from-an-expert"},{"@type":"ListItem","position":4,"url":"http:\/\/comedycentral.tumblr.com\/post\/169189021965\/paul-mooney-is-here-to-educate-us-all"},{"@type":"ListItem","position":5,"url":"http:\/\/comedycentral.tumblr.com\/post\/169184344205\/were-lovin-it"},{"@type":"ListItem","position":6,"url":"http:\/\/comedycentral.tumblr.com\/post\/168755466095\/if-they-dont-catch-you-it-never-happened"},{"@type":"ListItem","position":7,"url":"http:\/\/comedycentral.tumblr.com\/post\/168301213330\/you-can-binge-all-of-broad-city-season-4-on-the"},{"@type":"ListItem","position":8,"url":"http:\/\/comedycentral.tumblr.com\/post\/168191142995"},{"@type":"ListItem","position":9,"url":"http:\/\/comedycentral.tumblr.com\/post\/167316406970\/abbi-and-ilana-pretty-much-became-the-coolest"},{"@type":"ListItem","position":10,"url":"http:\/\/comedycentral.tumblr.com\/post\/166981017990\/the-kama-boo-tra-is-your-guide-to-having-the"}],"@context":"http:\/\/schema.org"}</script><link rel="canonical" href="http://comedycentral.tumblr.com" /></head>
+<body>
+    <div id="wrapper">
+        
+        
+        <div id="content">
+            
+            
+            
+            
+                <div class="post">
+                    
+                    
+                        <div class="media"><img src="http://78.media.tumblr.com/b577e1dfb60f9641a9d744691cd04378/tumblr_p1zzldf4As1qz8x31o1_500.gif" alt="" /></div>
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/169277471750">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 2 weeks ago
+                                    
+                                </div>
+                                <div class="notes">108 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/mitchmcconnel">mitchmcconnel</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/mitch-mcconnel">mitch mcconnel</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/politics">politics</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/funny">funny</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/lol">lol</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/political">political</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/political-humor">political humor</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><iframe class="embedly-embed" width='100%' height='282px' scrolling="no" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/X-zSJljpKNc"></iframe></div>
+                        <div class="copy"><p class="p1">Take a ride down memory lane with&nbsp;<a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fon.cc.com%2F2lqa1Y0&amp;t=ZWFkZGNkZWY4MGQzMjM3MTY4OTgyODg3ODBlMjMxNTA2ZDFhNDQxYixvdDVvTE5vNg%3D%3D&amp;b=t%3AOC5rOiSyydU_NxIK1IDGbQ&amp;p=http%3A%2F%2Fcomedycentral.tumblr.com%2Fpost%2F169201119630%2Ftake-a-ride-down-memory-lane-with-dave-chappelle&amp;m=0" target="_blank"><span class="s1">Dave Chappelle and Wayne Brady</span></a>.</p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/169201119630/take-a-ride-down-memory-lane-with-dave-chappelle">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 3 weeks ago
+                                    
+                                </div>
+                                <div class="notes">79 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/chappelle">chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/chappelle%27s-show">chappelle&#039;s show</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/dave-chappelle">dave chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/wayne-brady">wayne brady</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/sketch">sketch</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/wayne-brady-show">wayne brady show</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                        <div class="media"><a href="http://comedycentral.tumblr.com/image/169194822680"><img src="http://78.media.tumblr.com/c0f44f94c8e58e53e4b8d49462454917/tumblr_p1w7k0bafa1qz8x31o1_500.jpg" alt="Get some legal advice from an expert." /></a></div>
+                        <div class="copy"><p class="p1"><span class="s1">Get some legal advice from <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fon.cc.com%2F2EffdXt&amp;t=NGI1YWU1NDNmZTI0MmFiN2MxYTAxZDYyZTE3YTcxYWRmOTI3YWU3NCwxeUVEWE1xeg%3D%3D&amp;b=t%3AOC5rOiSyydU_NxIK1IDGbQ&amp;p=http%3A%2F%2Fcomedycentral.tumblr.com%2Fpost%2F169194822680%2Fget-some-legal-advice-from-an-expert&amp;m=0" target="_blank">an expert</a>.</span></p></div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/169194822680/get-some-legal-advice-from-an-expert">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 3 weeks ago
+                                    
+                                </div>
+                                <div class="notes">544 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/chappelle">chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/chappelle%27s-show">chappelle&#039;s show</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/dave-chappelle">dave chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/prince">prince</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/charlie-murphy">charlie murphy</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/true-hollywood-stories">true hollywood stories</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/pancakes">pancakes</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/gif">gif</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><iframe class="embedly-embed" width='100%' height='282px' scrolling="no" frameborder="0" allowfullscreen src="https://www.youtube.com/embed/8ilHR6-TEkU"></iframe></div>
+                        <div class="copy"><p class="p1"><span class="s1"><a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fon.cc.com%2F2ljCFL9&amp;t=ZWUzMDhhNTk0MWYyZmU1MjUxNWVlZWRlMjdlNGYyZTBjYzQ2ODFjMixDMzZkN1BvYw%3D%3D&amp;b=t%3AOC5rOiSyydU_NxIK1IDGbQ&amp;p=http%3A%2F%2Fcomedycentral.tumblr.com%2Fpost%2F169189021965%2Fpaul-mooney-is-here-to-educate-us-all&amp;m=0" target="_blank">Paul Mooney</a></span>&nbsp;is here to educate us all.</p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/169189021965/paul-mooney-is-here-to-educate-us-all">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 3 weeks ago
+                                    
+                                </div>
+                                <div class="notes">66 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/chappelle">chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/chappelle%27s-show">chappelle&#039;s show</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/dave-chappelle">dave chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/sketch">sketch</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/ask-a-black-man">ask a black man</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/paul-mooney">paul mooney</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><div id="photoset_169184344205" class="html_photoset">    <iframe
+                id="photoset_iframe_169184344205" name="photoset_iframe_169184344205"
+                class="photoset" scrolling="no" frameborder="0"
+                height="2609" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/169184344205/photoset_iframe/comedycentral/tumblr_p1vqwchAxV1qz8x31/500/false"
+            ></iframe></div></div>
+                        <div class="copy"><p class="p1"><a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fon.cc.com%2F2pWnR9V&amp;t=NzdhNGVhYWU4MmVkY2JjNDc4ZGJjODQ3ZTI1ZWUxM2I3NDBjYWQ4MixaNUNuSTFtaQ%3D%3D&amp;b=t%3AOC5rOiSyydU_NxIK1IDGbQ&amp;p=http%3A%2F%2Fcomedycentral.tumblr.com%2Fpost%2F169184344205%2Fwere-lovin-it&amp;m=0" target="_blank">We&rsquo;re lovin&rsquo; it.</a></p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/169184344205/were-lovin-it">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 3 weeks ago
+                                    
+                                </div>
+                                <div class="notes">294 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/chappelle">chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/chappelle%27s-show">chappelle&#039;s show</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/dave-chappelle">dave chappelle</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/wacarnold%27s">wacarnold&#039;s</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/gif">gif</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><div id="photoset_168755466095" class="html_photoset">    <iframe
+                id="photoset_iframe_168755466095" name="photoset_iframe_168755466095"
+                class="photoset" scrolling="no" frameborder="0"
+                height="1958" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/168755466095/photoset_iframe/comedycentral/tumblr_p19r84zMNd1qz8x31/500/false"
+            ></iframe></div></div>
+                        <div class="copy"><p>If they&nbsp;don't&nbsp;catch you, it never happened.</p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/168755466095/if-they-dont-catch-you-it-never-happened">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 1 month ago
+                                    
+                                </div>
+                                <div class="notes">622 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/CCisCorporate">CCisCorporate</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/corporate">corporate</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/comedy-central">comedy central</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/work">work</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/office">office</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/trophy">trophy</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                        <div class="media"><img src="http://78.media.tumblr.com/d12ed83e09aa66fa3e50630920ca212e/tumblr_p0m1r0wewG1qz8x31o1_500.gif" alt="You can binge all of Broad City Season 4 on the app right now. We&rsquo;ll drink to that." /></div>
+                        <div class="copy"><p>You can <a href="https://t.umblr.com/redirect?z=http%3A%2F%2Fon.cc.com%2F2AWp5X5&amp;t=MDZkZTVjNWYzYjcxZjRjZjAzZTAyNzRjNzRlYTUwMzQ5YmUyOTNiYyx1S3lNOVRXaw%3D%3D&amp;b=t%3AOC5rOiSyydU_NxIK1IDGbQ&amp;p=http%3A%2F%2Fcomedycentral.tumblr.com%2Fpost%2F168301213330%2Fyou-can-binge-all-of-broad-city-season-4-on-the&amp;m=0" target="_blank">binge all of Broad City Season 4</a> on the app right now. We&rsquo;ll drink to that.</p></div>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/168301213330/you-can-binge-all-of-broad-city-season-4-on-the">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 1 month ago
+                                    
+                                </div>
+                                <div class="notes">110 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/broad-city">broad city</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/binge">binge</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/season-4">season 4</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/abbi-and-ilana">abbi and ilana</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/abbi-jacobson">abbi jacobson</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/ilana-glazer">ilana glazer</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/cheers">cheers</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/gif">gif</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/reaction-gif">reaction gif</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/drink">drink</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><div id="photoset_168191142995" class="html_photoset">    <iframe
+                id="photoset_iframe_168191142995" name="photoset_iframe_168191142995"
+                class="photoset" scrolling="no" frameborder="0"
+                height="5726" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/168191142995/photoset_iframe/comedycentral/tumblr_p0g8m1ivuu1qz8x31/500/false"
+            ></iframe></div></div>
+                        
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/168191142995">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 1 month ago
+                                    
+                                </div>
+                                <div class="notes">797 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/sexual-harassment">sexual harassment</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/flow-chart">flow chart</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/sexual-misconduct">sexual misconduct</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/work">work</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/office">office</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/flowchart">flowchart</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/funny">funny</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/don%27t-take-your-dick-out">don&#039;t take your dick out</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><div id="photoset_167316406970" class="html_photoset">    <iframe
+                id="photoset_iframe_167316406970" name="photoset_iframe_167316406970"
+                class="photoset" scrolling="no" frameborder="0"
+                height="1445" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/167316406970/photoset_iframe/comedycentral/tumblr_oz675sDuOD1qz8x31/500/false"
+            ></iframe></div></div>
+                        <div class="copy"><p>Abbi and Ilana pretty much became the coolest people in Florida this week.</p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/167316406970/abbi-and-ilana-pretty-much-became-the-coolest">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 2 months ago
+                                    
+                                </div>
+                                <div class="notes">296 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/broad-city">broad city</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/like-a-boss">like a boss</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/florida">florida</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/gif">gif</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/dancing">dancing</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/ilana-glazer">ilana glazer</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/abbi-jacobson">abbi jacobson</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/abbi-and-ilana">abbi and ilana</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+                <div class="post">
+                    
+                    
+                    
+                    
+                        <div class="media"><div id="photoset_166981017990" class="html_photoset">    <iframe
+                id="photoset_iframe_166981017990" name="photoset_iframe_166981017990"
+                class="photoset" scrolling="no" frameborder="0"
+                height="2030" width="500" style="border:0px; background-color:transparent; overflow:hidden;" src="/post/166981017990/photoset_iframe/comedycentral/tumblr_oyoxk9zUR81qz8x31/500/false"
+            ></iframe></div></div>
+                        <div class="copy"><p><span>The Kama Boo-tra is your guide to having the sexiest Halloween possible.</span></p></div>
+                    
+                    
+                    
+                    
+                    
+                        
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                        <a href="http://comedycentral.tumblr.com/post/166981017990/the-kama-boo-tra-is-your-guide-to-having-the">
+                            <div class="footer for_permalink">
+                                <div class="date">
+                                    
+                                    
+                                    
+                                        Posted 2 months ago
+                                    
+                                </div>
+                                <div class="notes">296 notes </div>
+                                <div class="clear"></div>
+                            </div>
+                        </a>
+                    
+                    
+                    <div class="footer " style="
+                        display:none;
+                        display:block;
+                        
+                    ">
+                        
+                            <div class="tags">Tagged: <a href="http://comedycentral.tumblr.com/tagged/halloween">halloween</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/kama-boo-tra">kama boo-tra</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/sex">sex</a><span class="tag-commas">, </span><a href="http://comedycentral.tumblr.com/tagged/nsfw">nsfw</a><span class="tag-commas">, </span>.</div>
+                        
+                        
+                        
+                        
+                        <div class="clear"></div>
+                    </div>
+                    
+                    
+                    
+                    
+                    
+                </div>
+                <div class="bottom"></div>
+            
+            
+            
+                <div id="navigation" >
+                    
+                    
+                    
+                    
+                    <a href="/page/2">Next page &rarr;</a>
+                </div>
+            
+            
+        </div>
+        
+        <div id="sidebar">
+            <div id="top">
+                <div id="avatar"><a href="/"><img src="http://78.media.tumblr.com/avatar_ff5fa61222d2_128.pnj" /></a></div>
+                <div id="description">The Official Tumblr Blog of <a href="http://www.cc.com/">Comedy Central</a>. Go ahead, laugh in our face.</div>
+                
+                <div id="pages" class="ask_and_submit">
+                    
+                    
+                    <div class="clear"></div>
+                </div>
+                
+                
+                
+                <div id="search">
+                    <form action="/search" method="get" id="search-form">
+                        <input type="hidden" name="t" value="comedycentral" />
+                        <input type="hidden" name="scope" value="all_of_tumblr" />
+                        <input type="text" name="q" class="query" value="" />
+                        <input type="submit" value="Search" class="submit" />
+                        <div class="clear"></div>
+                    </form>
+                </div>
+                <div id="search-scope">
+                    <input type="radio" id="search-scope-me" name="scope" checked onclick="document.getElementById('search-form').action='/search'" /> <label for="search-scope-me" onclick="document.getElementById('search-form').action='/search'">My blog</label>
+                    <input type="radio" id="search-scope-all" name="scope" onclick="document.getElementById('search-form').action='http://www.tumblr.com/search'" /> <label for="search-scope-all" onclick="document.getElementById('search-form').action='http://www.tumblr.com/search'">All of Tumblr</label>
+                </div>
+                
+                <a href="http://www.tumblr.com/follow/comedycentral"><div class="heading" id="followontumblr">Follow on Tumblr</div></a>
+                
+                
+                
+                
+                    
+                        <div class="heading" id="following">Following</div>
+                        <div class="content" id="following-avatars">
+                            <a href="http://theonion.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a81d1219359d_40.pnj" /></a><a href="http://rollingstone.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_44316039c4bb_40.pnj" /></a><a href="https://wilwheaton.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fc8162fc8279_40.pnj" /></a><a href="http://links.laughingsquid.com/"><img src="http://78.media.tumblr.com/avatar_bbd62608b2e3_40.pnj" /></a><a href="http://theweekmagazine.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_c6b754b340c7_40.pnj" /></a><a href="https://buzzfeed.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_c6d9058bbbfc_40.pnj" /></a><a href="https://topherchris.com/"><img src="http://78.media.tumblr.com/avatar_f00901c05c17_40.pnj" /></a><a href="http://fallontonight.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d0b5809e99e8_40.pnj" /></a><a href="http://inothernews.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2693951f31e4_40.pnj" /></a><a href="https://staff.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6c82716d2c18_40.pnj" /></a><a href="http://funnyordie.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a114fbe91121_40.pnj" /></a><a href="https://clickholeofficial.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0a1e32150e70_40.pnj" /></a><a href="http://mattbraunger.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6ddbfc2ebec0_40.pnj" /></a><a href="http://scottaukerman.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2285517d5e18_40.pnj" /></a><a href="http://goldenfiddle.com/"><img src="http://78.media.tumblr.com/avatar_d79f20b98f76_40.pnj" /></a><a href="https://jimgaffigan.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_19334082ae71_40.pnj" /></a><a href="http://popculturebrain.com/"><img src="http://78.media.tumblr.com/avatar_5aeb44567186_40.pnj" /></a><a href="http://unionmetrics.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_043661d703cc_40.pnj" /></a><a href="http://nakedcomedy.org/"><img src="http://78.media.tumblr.com/avatar_602006f6cf27_40.pnj" /></a><a href="https://robdelaney.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_17398348ef62_40.pnj" /></a><a href="http://cordjefferson.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d4f44f5b5d96_40.pnj" /></a><a href="https://megsokay.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a708af20a771_40.pnj" /></a><a href="http://www.nickkroll.com/"><img src="http://78.media.tumblr.com/avatar_cc131efd00b6_40.pnj" /></a><a href="http://mrmattenlow.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6811306c218f_40.pnj" /></a><a href="https://sarabenincasa.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d093f428dfc5_40.pnj" /></a><a href="http://stream.pleated-jeans.com/"><img src="http://78.media.tumblr.com/avatar_9ca1e3369b41_40.pnj" /></a><a href="http://www.johnhodgman.com/"><img src="http://78.media.tumblr.com/avatar_fb67a3b9b8f5_40.pnj" /></a><a href="http://broadcity.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1f13740800be_40.pnj" /></a><a href="http://www.thelarrywilmore.com/"><img src="http://78.media.tumblr.com/avatar_6edd82ecd81e_40.pnj" /></a><a href="http://newsweekscience.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8549f0306fb3_40.pnj" /></a><a href="http://yoisthisracist.com/"><img src="http://78.media.tumblr.com/avatar_29db9f94f320_40.pnj" /></a><a href="http://growltiger.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fe7ae23d48d9_40.pnj" /></a><a href="http://teamcoco.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ad8eb286b7d8_40.pnj" /></a><a href="http://fuckyeahnickkroll.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a87e9eef6279_40.pnj" /></a><a href="http://danmeth.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_55e5f7e75700_40.pnj" /></a><a href="https://kmkirby.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_084040c67eab_40.pnj" /></a><a href="http://blog.collegehumor.com/"><img src="http://78.media.tumblr.com/avatar_4bd94bef698b_40.pnj" /></a><a href="http://daveswheelhouse.com/"><img src="http://78.media.tumblr.com/avatar_9f98f5d651bd_40.pnj" /></a><a href="http://serialoptimist.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f14b6a4308f3_40.pnj" /></a><a href="http://brooklynmutt.com/"><img src="http://78.media.tumblr.com/avatar_0cec330e2396_40.pnj" /></a><a href="http://mtv.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0b825cacf1c6_40.pnj" /></a><a href="http://splitsider.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ad3f8fccc763_40.pnj" /></a><a href="http://92y.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6ce75f75f613_40.pnj" /></a><a href="http://listgenerator.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a90ffad28b14_40.pnj" /></a><a href="http://entertainmentweekly.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d9d02da426b3_40.pnj" /></a><a href="http://paulftompkins.com/"><img src="http://78.media.tumblr.com/avatar_1496cabd3e08_40.pnj" /></a><a href="http://markcoatney.com/"><img src="http://78.media.tumblr.com/avatar_67094a8995db_40.gif" /></a><a href="http://toomuchnick.com/"><img src="http://78.media.tumblr.com/avatar_f1e37821f424_40.pnj" /></a><a href="http://soupsoup.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fe16412737a6_40.pnj" /></a><a href="http://timheidecker.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_413b11380cba_40.pnj" /></a><a href="http://theavc.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d13e9b04107c_40.pnj" /></a><a href="http://andrewti.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f423e35aa893_40.pnj" /></a><a href="http://shortformblog.com/"><img src="http://78.media.tumblr.com/avatar_6f99cfe43dac_40.pnj" /></a><a href="https://www.davidslog.com/"><img src="http://78.media.tumblr.com/avatar_fdf0635a9d74_40.pnj" /></a><a href="http://southparkdigital.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_9273e341432b_40.pnj" /></a><a href="http://tumblr.ifc.com/"><img src="http://78.media.tumblr.com/avatar_f49f656167c2_40.pnj" /></a><a href="http://robhuebel.com/"><img src="http://78.media.tumblr.com/avatar_3fd7c4e9f8f3_40.pnj" /></a><a href="http://comedynerdsunited.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_04cc5a2fb24d_40.pnj" /></a><a href="http://toddbarry.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d070f228985a_40.pnj" /></a><a href="http://datawhat.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_7cf52ff0713d_40.pnj" /></a><a href="http://imwithkanye.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_305c4cb74a9b_40.pnj" /></a><a href="http://delocatedblog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a456987e8752_40.pnj" /></a><a href="http://tomoatmeal.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_94c6c0a9dd27_40.pnj" /></a><a href="http://jeffrubinjeffrubin.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b6835be69fc1_40.gif" /></a><a href="http://wgladstone.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0d830accd76e_40.pnj" /></a><a href="http://somuchfunithurts.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1077aaeb7ce4_40.pnj" /></a><a href="http://vh1.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3dd7e9dde304_40.pnj" /></a><a href="http://lessig.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b7acab00d9fd_40.pnj" /></a><a href="http://brettgelman.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0dcad7b9d2f5_40.pnj" /></a><a href="http://jonahray.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_84525752a420_40.pnj" /></a><a href="http://low.highindustrial.com/"><img src="http://78.media.tumblr.com/avatar_88931d909be8_40.pnj" /></a><a href="https://abedinthemorning.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8e5531d52739_40.gif" /></a><a href="https://situationist.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e91471d4da46_40.pnj" /></a><a href="https://jondaly.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b08e2ac9beb4_40.pnj" /></a><a href="http://thedailyshow.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ec07ddd607fe_40.pnj" /></a><a href="http://tanya77.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_85e151e6689e_40.pnj" /></a><a href="http://www.money-cash-hos.com/"><img src="http://78.media.tumblr.com/avatar_66ac9d91d2ca_40.pnj" /></a><a href="http://kurtbraunohler.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_53c72549922c_40.pnj" /></a><a href="http://spiegelman.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_9e5ee5d1ce98_40.gif" /></a><a href="https://alexblagg.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ba2e7250ff8a_40.pnj" /></a><a href="http://goodpoints.tv/"><img src="http://78.media.tumblr.com/avatar_2f3a63c44628_40.pnj" /></a><a href="http://comedycentralstandup.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ddc681158838_40.pnj" /></a><a href="http://atencio.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2bbde784765b_40.pnj" /></a><a href="http://yoshouldidumpthisahole.com/"><img src="http://78.media.tumblr.com/avatar_46aff8901d4c_40.pnj" /></a><a href="http://daveholmes.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_aed591d61ceb_40.pnj" /></a><a href="http://workaholics.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fb1513692e9f_40.pnj" /></a><a href="http://whatevs.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_cada1662d1ca_40.gif" /></a><a href="http://flavorwire.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1d80cf790a5b_40.pnj" /></a><a href="http://manimator.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_c09208724168_40.pnj" /></a><a href="https://mediaite-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ab2a9f0a5fd8_40.pnj" /></a><a href="http://spike.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ea6c4be06d67_40.pnj" /></a><a href="http://thesofiya.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ecf563751013_40.pnj" /></a><a href="http://mulaney.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_c58e1b95f4cb_40.pnj" /></a><a href="http://nickblogthune.com/"><img src="http://78.media.tumblr.com/avatar_5c60ff6bdbff_40.pnj" /></a><a href="http://fuckyeahstevejonandstephen.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_bc5a1b3e1346_40.pnj" /></a><a href="http://timeout.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_cdb779053780_40.pnj" /></a><a href="http://www.streeterseidell.com/"><img src="http://78.media.tumblr.com/avatar_4cb45447fcae_40.gif" /></a><a href="http://literallyunbelievable.org/"><img src="http://78.media.tumblr.com/avatar_0e3fa69eb454_40.pnj" /></a><a href="http://obamawhitehouse.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e8c9ccf78172_40.pnj" /></a><a href="http://davidseger.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_df000473804c_40.gif" /></a><a href="http://ilyagerner.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3d00ddd6ecb4_40.pnj" /></a><a href="http://sterlewine.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2ca31643449c_40.pnj" /></a><a href="http://lonelysandwich.com/"><img src="http://78.media.tumblr.com/avatar_5cbdc7e48184_40.gif" /></a><a href="http://yearinreview.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e476a2778a4f_40.pnj" /></a><a href="http://breakingnews.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_92d5e7873d10_40.pnj" /></a><a href="http://juliasegal.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_aad166648865_40.pnj" /></a><a href="http://kaylamoriarty.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3dc7e094be1b_40.pnj" /></a><a href="http://danharmon.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2aef26a7066e_40.pnj" /></a><a href="https://thecomicscomic.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4b823f8176c6_40.pnj" /></a><a href="http://themeltdownwithjonahandkumail.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0e0b08a8ab1d_40.pnj" /></a><a href="http://gq.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_5612cedcc88c_40.pnj" /></a><a href="https://kylekinane.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e64b61d3ebe0_40.pnj" /></a><a href="http://drunkhistory.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_593f800768de_40.pnj" /></a><a href="http://choire.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1e8c0f88b35b_40.pnj" /></a><a href="http://katespencer.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3704d2125440_40.pnj" /></a><a href="http://thatandycohen.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e220786c0df0_40.pnj" /></a><a href="http://nightlyshow.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_11c6c062d52a_40.pnj" /></a><a href="http://paulscheer.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4c58c8abde63_40.pnj" /></a><a href="https://steveagee.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_454217697440_40.pnj" /></a><a href="https://jeffandsomealiens.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8fc288089c5c_40.pnj" /></a><a href="http://tumblrisforlulz.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ac5f9320d6cc_40.pnj" /></a><a href="http://p00000000000p.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d47083e94ec0_40.pnj" /></a><a href="https://travonfree.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4cec124d01d7_40.pnj" /></a><a href="http://natashaleggero-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_260b65b96b58_40.pnj" /></a><a href="http://scottgairdner.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_522a304f1ea2_40.pnj" /></a><a href="http://bobbyfinger.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_93d4cb8731b6_40.pnj" /></a><a href="http://gabedelahaye.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f8f2166d8f14_40.pnj" /></a><a href="http://timeisaflatcircus.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_30b47af93e56_40.pnj" /></a><a href="http://youngmanhattanite.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_debc9a545abc_40.pnj" /></a><a href="http://theawl.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_175ff08bb6e3_40.pnj" /></a><a href="http://walshbrothers.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_15361894b766_40.pnj" /></a><a href="http://onlinedealsdotcom.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar/cube_closed_40.png" /></a><a href="http://mtvother.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_5f675c782fd9_40.pnj" /></a><a href="http://tumblr.knowyourmeme.com/"><img src="http://78.media.tumblr.com/avatar_f43cd6077d13_40.pnj" /></a><a href="https://hannibalhannibal.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_62bf44ed59f7_40.pnj" /></a><a href="http://azizisbored.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3c5b9eb4a60e_40.gif" /></a><a href="http://gifnews.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b1fac38f0773_40.pnj" /></a><a href="http://howtosharpenpencils.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ef9a1e109e14_40.pnj" /></a><a href="http://abcworldnews.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a649ecad8f0f_40.pnj" /></a><a href="http://julieklausner.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6f1dd0dd1352_40.pnj" /></a><a href="http://ellocoart.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fa682479cc49_40.pnj" /></a><a href="http://andydaly.com/"><img src="http://78.media.tumblr.com/avatar_ccb6b604259e_40.pnj" /></a><a href="http://utnereader-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4e351563deb9_40.pnj" /></a><a href="http://jhnmyr.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a14d2dabae63_40.pnj" /></a><a href="http://getthatlook.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1973411548ba_40.gif" /></a><a href="http://rachelwebber.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_84e7a6934159_40.pnj" /></a><a href="http://joemande.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a730240ad976_40.pnj" /></a><a href="https://laughspin.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_57683cc00dff_40.pnj" /></a><a href="http://ilanaglazer-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_13b0eb5dd6c4_40.pnj" /></a><a href="http://findforrestmacneil.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b32ab2efd7ec_40.pnj" /></a><a href="http://michaelianblack.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_61f50c3feda3_40.pnj" /></a><a href="http://mydamnchannel-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d8ed1c68b5dc_40.pnj" /></a><a href="http://adhp.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_cfee63a9153c_40.pnj" /></a><a href="http://thehalfhour.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_28cdde7a969f_40.pnj" /></a><a href="http://moviesimpsons.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_364d365fc401_40.pnj" /></a><a href="http://krollshow.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0a93b594d3a5_40.pnj" /></a><a href="http://abbijacobson.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_dbc6f123d9b2_40.pnj" /></a><a href="http://wyattcenac-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a09d7a62acca_40.pnj" /></a><a href="https://lindsayrobertson-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2306fd71dc0f_40.pnj" /></a><a href="http://keyandpeeles.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6e63c3fb8580_40.pnj" /></a><a href="https://sayitwithseaotters.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1da4ffbe47cd_40.pnj" /></a><a href="http://fakenewsjunkie.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6864e48cb329_40.pnj" /></a><a href="http://wendyandaspen.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3c63c48ccb36_40.pnj" /></a><a href="http://videolou.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_872cd6c1ec68_40.pnj" /></a><a href="https://maxsilvestri.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d926f1e968c1_40.gif" /></a><a href="http://colbertreport.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_7d12f91c48c4_40.pnj" /></a><a href="http://msjwilly.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e473f9994ff3_40.pnj" /></a><a href="http://comedianslookingawesome-bl-blog1.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_c7231ab8c6b3_40.pnj" /></a><a href="http://marklisanti.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_eef9b6ac1eb6_40.pnj" /></a><a href="http://iamdonald.com/"><img src="http://78.media.tumblr.com/avatar_359f20e28365_40.pnj" /></a><a href="http://not-with-standing.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_9d976d3b924e_40.pnj" /></a><a href="http://thehairpin.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f3412949198d_40.pnj" /></a><a href="http://tobeyfarts.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_bcd08192939a_40.gif" /></a><a href="http://thewebmovie.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_01fc6fc4fcbc_40.pnj" /></a><a href="http://jasonnashismarried.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://uncleblazer-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_794a1891253e_40.pnj" /></a><a href="http://maryphillipssandy.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_063ff055884b_40.pnj" /></a><a href="http://comedyunderground.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_228b27fb07e9_40.pnj" /></a><a href="http://barktheory-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3a3f608daeee_40.pnj" /></a><a href="http://mynameisboburnham-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ae3ca93531e9_40.pnj" /></a><a href="https://anokaything-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_960fda5b068f_40.pnj" /></a><a href="https://standupcomedyblog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_33a6546401f3_40.pnj" /></a><a href="https://amyohconnor-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_091ab90b2232_40.pnj" /></a><a href="http://blog.witstream.com/"><img src="http://78.media.tumblr.com/avatar_eb9bb690106d_40.pnj" /></a><a href="https://cc-studios.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_68dbf956d6e8_40.pnj" /></a><a href="https://fuckyeahstephencolbert-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a75933e57699_40.pnj" /></a><a href="http://barackobama.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1176d3218e48_40.pnj" /></a><a href="https://shitsngigglestheblog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_57ac8d3cb6c8_40.pnj" /></a><a href="http://jamesfranco-blog1.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1a27e9fe9fd4_40.pnj" /></a><a href="http://adultswimdotcom.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a405cab3e2b9_40.pnj" /></a><a href="http://stickingwithyouthemovie.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_a07bd0f7ef42_40.pnj" /></a><a href="http://videogum.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_143b7a1e8a91_40.pnj" /></a><a href="http://brodystevensenjoyit.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4aa556d295bb_40.pnj" /></a><a href="http://lartnecydemoc.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3774b3f4cab9_40.pnj" /></a><a href="http://ccindecision.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8fb736753c3e_40.pnj" /></a><a href="http://citizencaninecomic.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_70630027143f_40.pnj" /></a><a href="https://vaginagonzalogues.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_ae0e7590aafa_40.pnj" /></a><a href="https://mtvgeek.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8790425aabd9_40.pnj" /></a><a href="https://thedailywhat.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_72e68a2dede0_40.pnj" /></a><a href="http://letstalkaboutsystems-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b9fc61b50edb_40.pnj" /></a><a href="http://fuckyeahjonstewart.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_979ea5bd881f_40.pnj" /></a><a href="https://theapiary.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_005e22f19dfd_40.pnj" /></a><a href="http://thejeselnikoffensive-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b48aaa556469_40.pnj" /></a><a href="http://fuckyeahofficefriends.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_00ebcacf1bc0_40.pnj" /></a><a href="http://huffpostmedia-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_602b14529072_40.pnj" /></a><a href="http://kryz.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_5ce588c27ebf_40.pnj" /></a><a href="http://pushandbelieve.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://urlesque.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_483e1d866ba8_40.pnj" /></a><a href="http://theburntv.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d0973b5301ec_40.pnj" /></a><a href="http://behindamyschumer.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_9d3fcb7d40c7_40.pnj" /></a><a href="http://benshow-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4f002e7c917c_40.pnj" /></a><a href="http://storyboard.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_700376025a99_40.pnj" /></a><a href="http://gandhiyouguys-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_776be1adf35c_40.pnj" /></a><a href="http://greatandsecretcomedyshow.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_6af9dc2c2e5f_40.pnj" /></a><a href="http://couchedseries.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_efae4181ae67_40.pnj" /></a><a href="http://akashgoyal.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fa58347a8f14_40.pnj" /></a><a href="http://taraschuster-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_31618d57d33f_40.pnj" /></a><a href="http://merryfuckingxmas-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_033cefb6f2db_40.pnj" /></a><a href="http://thecomedystore-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_486deae8a065_40.pnj" /></a><a href="http://ladybirdj.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f3375a32e714_40.pnj" /></a><a href="http://detnews-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_da4c872554cb_40.pnj" /></a><a href="http://reblorg.com/"><img src="http://78.media.tumblr.com/avatar_a9d538832515_40.pnj" /></a><a href="http://one-starreviews-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d9a8527bc2fe_40.pnj" /></a><a href="http://ccroasts-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fdb3935fa19e_40.pnj" /></a><a href="http://matescast-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_aa42b1439e9e_40.pnj" /></a><a href="http://romney140.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_b982ef1bdf85_40.pnj" /></a><a href="http://thespbunker-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d090850be80c_40.pnj" /></a><a href="http://whitneycummings.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f654728bc08f_40.pnj" /></a><a href="http://coachericcartman-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0d45796a54de_40.pnj" /></a><a href="http://tosh529.org/"><img src="http://78.media.tumblr.com/avatar_b496d89f349e_40.pnj" /></a><a href="http://summertrydays-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_7c8bcd4cde67_40.pnj" /></a><a href="http://kbwwa.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://actuallyyourethe47percent-b-blog.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://party-boys.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_3f523e62c730_40.pnj" /></a><a href="http://andersholmvik-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_7ecf327be455_40.pnj" /></a><a href="http://adamdemamp.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_36c346e34e62_40.pnj" /></a><a href="http://richsommer.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d1dae384dfbe_40.pnj" /></a><a href="http://atomcomedy-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_1fb0db81f423_40.pnj" /></a><a href="http://blakehenderson.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_fb73814456ad_40.pnj" /></a><a href="http://comedybangbang-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8fdce7b08e4b_40.pnj" /></a><a href="http://sheencats-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d52bf7f443ab_40.pnj" /></a><a href="http://punchlinemagazine-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_0f1dd5e265e4_40.pnj" /></a><a href="http://jasonmustian-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e2fa130a99b9_40.pnj" /></a><a href="http://sadpoliticians.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8e967e36416b_40.pnj" /></a><a href="http://nytimes-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_199d3d92fd2c_40.pnj" /></a><a href="http://bassethoundsrunning.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://bigterrific.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://davidanddarcy.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_d477d7163e19_40.pnj" /></a><a href="http://thetitularline.tumblr.com/"><img src="http://assets.tumblr.com/images/default_avatar_40.png" /></a><a href="http://lowagainsthigh.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_2d747ef066b6_40.pnj" /></a><a href="http://danieljpowell-blog-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_8d3c34c8cf49_40.pnj" /></a><a href="http://blackshowalterwain.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_207248c044a6_40.pnj" /></a><a href="http://uglyamericans-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_e0dfde9d8f79_40.pnj" /></a><a href="http://julieannpietrangelo-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_f870c236b486_40.pnj" /></a><a href="http://fringechats.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_4ea191c7315c_40.pnj" /></a><a href="http://humangiant-blog.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_55cbbc83cf40_40.gif" /></a><a href="http://aubreyplaza.tumblr.com/"><img src="http://78.media.tumblr.com/avatar_80b6ad740a10_40.pnj" /></a>
+                        </div>
+                    
+                
+                
+                <div id="buttons">
+                    <div class="row">
+                        <div class="button" id="button-rss"><a href="http://comedycentral.tumblr.com/rss">RSS feed</a></div>
+                        <div class="button" id="button-random"><a href="/random">Random</a></div>
+                    </div>
+                    <div class="clear"></div>
+                    <div class="row">
+                        <div class="button" id="button-archive"><a href="/archive">Archive</a></div>
+                        <div class="button" id="button-mobile"><a href="/mobile">Mobile</a></div>
+                    </div>
+                    <div class="clear"></div>
+                </div>
+                
+            </div>
+            
+            <div id="bottom"></div>
+            <div id="copyright">&copy; 2008–2018 <a href="http://www.tumblr.com">Powered by Tumblr</a></div>
+        </div>
+        
+        <div class="clear"></div>
+    </div>
+    
+    
+    
+    
+
+<iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+    (function(){
+        var analytics_frame = document.getElementById('ga_target');
+        var analytics_iframe_loaded;
+        var user_logged_in;
+        var blog_is_nsfw = 'No';
+        var addthis_enabled = true;
+
+        var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+        var eventer = window[eventMethod];
+        var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+        eventer(messageEvent,function(e) {
+            var message = (e.data && e.data.split) ? e.data.split(';') : '';
+            switch (message[0]) {
+                case 'analytics_iframe_loaded':
+                    analytics_iframe_loaded = true;
+                    postCSMessage();
+                    postGAMessage();
+                    postATMessage();
+                    postRapidMessage();
+                    break;
+                case 'user_logged_in':
+                    user_logged_in = message[1];
+                    postGAMessage();
+                    postATMessage();
+                    break;
+            }
+        }, false);
+
+        analytics_frame.src = "https://assets.tumblr.com/analytics.html?a76144f6ac3f4c5ec0b80b2f2a5b4fd0#" +
+                              "http://comedycentral.tumblr.com";
+        function postGAMessage() {
+            if (analytics_iframe_loaded && user_logged_in) {
+                var is_ajax = false;
+                analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postCSMessage() {
+            COMSCORE = true;
+            analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+        }
+        function postATMessage() {
+            if (addthis_enabled && analytics_iframe_loaded) {
+                analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+            }
+        }
+        function postRapidMessage() {
+                            if (analytics_iframe_loaded) {
+                    var is_ajax = '';
+                    var route = '/';
+                    var tumblelog_id = '193453';
+                    var yahoo_space_id = '1197719229';
+                    var rapid_client_only = '1';
+                    var apv = '1';
+                    var rapid_ex = '';
+
+                    analytics_frame.contentWindow.postMessage(
+                        [
+                            'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                            yahoo_space_id, rapid_client_only, apv, rapid_ex
+                        ].join(';'),
+                        analytics_frame.src.split('/analytics.html')[0]
+                    );
+                }
+                    }
+    })();
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1516662253&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvY29tZWR5Y2VudHJhbC50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIn0=&U=PIKOAOAOCL&K=b91592f9d9841c33b5062f95ef4598186f6cac871e17109991f192716fe28187&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1516662253&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvY29tZWR5Y2VudHJhbC50dW1ibHIuY29tXC8iLCJyZXF0eXBlIjowLCJyb3V0ZSI6IlwvIiwibm9zY3JpcHQiOjF9&U=PIKOAOAOCL&K=97335e4f1a30d94a6bb1d05d328264bc18fcd154c4c343393d73c3f396d05631&R="></noscript><script >
+        (function (w,d) {
+            'use strict';
+            var l = function(el, type, listener, useCapture) {
+                el.addEventListener ?
+                el.addEventListener(type, listener, !!useCapture) :
+                el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+            };
+            var a = function () {
+                                if (d.getElementById('tumblr-cdx')) {
+                    return;
+                }
+                var s = d.createElement('script');
+                var el = d.getElementsByTagName('script')[0];
+                s.async = true;
+                s.src = 'http://assets.tumblr.com/assets/scripts/vendor/cedexis/1-13960-radar10.min.js?_v=0620cee9a1cd7262086db377835362d6';
+                s.type = 'text/javascript';
+                s.id = 'tumblr-cdx';
+                d.body.appendChild(s);
+            };
+            l(w,'load',a);
+        }(window, document));
+</script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1516662253&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2NvbWVkeWNlbnRyYWwudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNjkyNzc0NzE3NTAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2OTIwMTExOTYzMCIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY5MTk0ODIyNjgwIiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjkxODkwMjE5NjUiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2OTE4NDM0NDIwNSIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY4NzU1NDY2MDk1IiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjgzMDEyMTMzMzAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2ODE5MTE0Mjk5NSIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY3MzE2NDA2OTcwIiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjY5ODEwMTc5OTAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfV19&U=GMOOMADFDE&K=6f182c6ec182fd17ecefd85512e1300b5788bd97f9587e9574b77b8d93b9790a&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1516662253&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2NvbWVkeWNlbnRyYWwudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsInBvc3RzIjpbeyJwb3N0aWQiOiIxNjkyNzc0NzE3NTAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2OTIwMTExOTYzMCIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY5MTk0ODIyNjgwIiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjkxODkwMjE5NjUiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2OTE4NDM0NDIwNSIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY4NzU1NDY2MDk1IiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjgzMDEyMTMzMzAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfSx7InBvc3RpZCI6IjE2ODE5MTE0Mjk5NSIsImJsb2dpZCI6IjE5MzQ1MyIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTY3MzE2NDA2OTcwIiwiYmxvZ2lkIjoiMTkzNDUzIiwic291cmNlIjozM30seyJwb3N0aWQiOiIxNjY5ODEwMTc5OTAiLCJibG9naWQiOiIxOTM0NTMiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=GMOOMADFDE&K=7ef65bccdbbcff78c3c15cf6817b0d863a5141fc6eda9a90873887a0b797a6b6&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;c86f8a500596474a7ef5034081f694bd&quot;,&quot;inbox_unread&quot;:0},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=167b261b517eeac6aa72cc5a3d78f436&quot;,&quot;tumblelogName&quot;:&quot;comedycentral&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Comedy Central&quot;,&quot;tumblelogAvatar&quot;:&quot;http:\/\/78.media.tumblr.com\/avatar_ff5fa61222d2_40.pnj&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/comedycentral.tumblr.com&quot;,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;&quot;,&quot;themeBackgroundColor&quot;:&quot;#F6F6F6&quot;,&quot;themeTitleColor&quot;:&quot;#444444&quot;,&quot;themeAccentColor&quot;:&quot;#529ECC&quot;,&quot;brag&quot;:true,&quot;adsEnabled&quot;:false,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:true,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/comedycentral.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=a7930a424784262b51489b3cbe0e96ab&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dblog_network_floating_cta&quot;,&quot;ios&quot;:&quot;https:\/\/itunes.apple.com\/app\/apple-store\/id305343404?pt=9029\u0026ct=blog_network_floating_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;tumblr_new_iframe&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:-1}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwic2FmZV9tb2RlIjp0cnVlLCJzYWZlX21vZGVfZW5hYmxlZCI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwia3Jha2VuX3dlYl9sb2dnaW5nX2xpYnJhcnkiOnRydWUsInNlY3VyZV9mb3JtX2tleSI6dHJ1ZSwic2VjdXJlX2Zvcm1fa2V5X2Z1bGx5X29uIjp0cnVlLCJ0dW1ibGVsb2dfcG9wb3ZlciI6dHJ1ZSwiY2Fub25pY2FsX3VybF93cml0ZXMiOnRydWUsImVuYWJsZV9jYXB0dXJlX2pzIjp0cnVlLCJwcmltYV9wb3N0X2Zvcm1zIjp0cnVlLCJsb2NrZWRfcmVibG9nX3VpIjp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2Vycm9yc19sb2ciOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicmVkZGl0X3NoYXJpbmciOnRydWUsInBvc3RfaXRfZm9yd2FyZCI6dHJ1ZSwicGVlcHJfc2VhcmNoX2FuZF9maWx0ZXIiOnRydWUsImludGVybnNfcGFnZSI6dHJ1ZSwiZm9sbG93ZWRfc2VhcmNoZXNfYmlnX3dlYiI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInNhZmVfbW9kZV9vd25fcG9zdCI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwia3Jha2VuX3dlYl9iYmxvZ19hY3RpdmUiOnRydWUsImFyY2hpdmUtcGx1cyI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3JzX3VpIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJsaXZlcGhvdG9zIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1516662253000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript><script src="http://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=167b261b517eeac6aa72cc5a3d78f436"></script></body>
+</html>

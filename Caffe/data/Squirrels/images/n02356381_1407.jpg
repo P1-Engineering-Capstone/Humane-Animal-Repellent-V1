@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="pingback" href="http://folsomzoofriends.org/xmlrpc.php" />
+<!--[if lt IE 9]>
+<script src="http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+<title>Page not found &#8211; Folsom Zoo Friends</title>
+
+<!-- This section is created with the SZ-Google for WordPress plugin 1.9.4 -->
+<!-- ===================================================================== -->
+<!-- ===================================================================== -->
+<link rel='dns-prefetch' href='//platform-api.sharethis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Folsom Zoo Friends &raquo; Feed" href="http://folsomzoofriends.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Folsom Zoo Friends &raquo; Comments Feed" href="http://folsomzoofriends.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/folsomzoofriends.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.1"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-css'  href='http://folsomzoofriends.org/wp-content/plugins/it-spiders-instagram-widget/assets/style.css?ver=ITSL_VERSION' type='text/css' media='all' />
+<link rel='stylesheet' id='vcyt-font-awesome-css-css'  href='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/css/font-awesome.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cms-plugin-stylesheet-css'  href='http://folsomzoofriends.org/wp-content/plugins/cmssuperheroes/assets/css/cms-style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://folsomzoofriends.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='http://folsomzoofriends.org/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.0.9' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='http://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://folsomzoofriends.org/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.6.4' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='SFSImainCss-css'  href='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/css/sfsi-style.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='disable_sfsi-css'  href='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/css/disable_sfsi.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cmssuperheroes-bootstrap-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/bootstrap.min.css?ver=3.3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='cmssuperheroes-font-awesome-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/font-awesome.min.css?ver=4.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cmssuperheroes-font-ionicons-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/ionicons.min.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cmssuperheroes-pe-icon-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/pe-icon-7-stroke.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cmssuperheroes-style-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/style.css?ver=4.9.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentytwelve-ie-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/ie.css?ver=20121010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='cmssuperheroes-static-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/css/static.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='evcal_google_fonts-css'  href='//fonts.googleapis.com/css?family=Oswald%3A400%2C300%7COpen+Sans%3A400%2C300&#038;ver=4.9.1' type='text/css' media='screen' />
+<link rel='stylesheet' id='evcal_cal_default-css'  href='http://folsomzoofriends.org/wp-content/plugins/eventON/assets/css/eventon_styles.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='evo_font_icons-css'  href='http://folsomzoofriends.org/wp-content/plugins/eventON/assets/fonts/font-awesome.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wptt_front-css'  href='http://folsomzoofriends.org/wp-content/plugins/wp-twitter-feeds/controller/../css/admin_style.min.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='widget_cart_search_scripts-css'  href='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/inc/widgets/widgets.css?ver=4.9.1' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-smof_data-css'  href='http://fonts.googleapis.com/css?family=Dosis%3A200%2C300%2C400%2C500%2C600%2C700%2C800%7CAmatic+SC%3A400%2C700&#038;subset=latin&#038;ver=1456198181' type='text/css' media='all' />
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/js/isotope.pkgd.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/js/imagesloaded.pkgd.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/js/moment.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/js/instafeed.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../assets/js/jquery.flexverticalcenter.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.0.9'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.0.9'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.essential.min.js?ver=2.0.9'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.6.4'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/js/bootstrap.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/inc/widgets/widgets.js?ver=4.9.1'></script>
+<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
+<link rel='https://api.w.org/' href='http://folsomzoofriends.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://folsomzoofriends.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://folsomzoofriends.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.1" />
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '26efd47b21';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://folsomzoofriends.org/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		
+<!-- GA tracking code with SZ-Google 1.9.4 : activated mode UNIVERSAL      -->
+<!-- ===================================================================== -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create','UA-6116875-1','folsomzoofriends.org');
+ga('send','pageview');
+</script>
+<!-- ===================================================================== -->
+
+<meta name="specificfeeds-verification-code-ZU1mQjhNRGFqU1BNZWp4enNPNEMyU05zNlVrRzVXWlR5aUpQVklTajYwRHZmbEtKK0JyQVFBeTVUTXFSb0JqSWVlUVpmeGRNV1R1WG1EcitDSnliUjIzSXVkNzNlOVVVZU9sbWFEeXpkY1RGaDlzNTk0Y1JvOUwwa3FYYU41TDl8L1RtWmduci9rMFd6WEVQNDFqQklYQ0Y3QVZPYkYvVjFKKzN6M0lSVUQwRT0=" content="dakfafnRJMUZSg1L1c8e"/>    <style>
+	.svc_social_stream_container{ display:none;}
+	#loader {background-image: url("http://folsomzoofriends.org/wp-content/plugins/vc-instagram-feed/inc/../addons/social-stream/css/loader.GIF");}
+	</style>
+    <script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//folsomzoofriends.org/?wordfence_lh=1&hid=90431B44FB7F0AA85BABC97EC826FE4D');
+</script><style type="text/css" data-type="cms_shortcodes-custom-css"></style>
+
+<!-- EventON Version -->
+<meta name="generator" content="EventON 2.3.12" />
+
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://folsomzoofriends.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><meta name="generator" content="Powered by Slider Revolution 5.4.6.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript">function setREVStartSize(e){
+				try{ var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;					
+					if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
+				}catch(d){console.log("Failure at Presize of Slider:"+d)}
+			};</script>
+<style type="text/css" title="dynamic-css" class="options-output">.page-title{background-color:#6e4692;background-repeat:no-repeat;background-size:cover;background-position:center center;background-image:url('http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/images/bg-vector-lg.png');}.page-title #page-title-text h1{font-family:Dosis;text-align:center;line-height:42px;font-weight:normal;font-style:normal;color:#fff;font-size:42px;}footer #cshero-footer-top{background-color:#6e4692;background-repeat:repeat;background-size:contain;background-position:center center;background-image:url('http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/images/bg-vector-lg.png');}a{color:#6f4792;}a:hover{color:#9c9c9c;}body{font-family:Dosis;line-height:26px;font-weight:normal;font-style:normal;color:#2b2b2b;font-size:18px;}body h1{font-family:"Amatic SC";line-height:72px;font-weight:normal;font-style:normal;color:#6f4792;font-size:62px;}body h2{font-family:"Amatic SC";line-height:58px;font-weight:normal;font-style:normal;color:#6f4792;font-size:53px;}body h3{font-family:"Amatic SC";line-height:54px;font-weight:normal;font-style:normal;color:#6f4792;font-size:48px;}body h4{font-family:Dosis;line-height:34px;font-weight:normal;font-style:normal;font-size:34px;}body h5{font-family:Dosis;line-height:26px;font-weight:normal;font-style:normal;font-size:24px;}body h6{font-family:Dosis;line-height:18px;font-weight:normal;font-style:normal;font-size:14px;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="error404 wpb-js-composer js-comp-ver-5.4.5 vc_responsive">
+<div id="page" class="cs-wide">
+	<header id="masthead" class="site-header lol" role="banner">
+		<div id="cshero-header" class="cshero-main-header    ">
+    <div class="container">
+        <div class="row">
+            <div id="cshero-header-logo" class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                <a href="http://folsomzoofriends.org"><img alt="" src="http://folsomzoofriends.org/wp-content/uploads/2015/11/logo.png"></a>
+            </div>
+            <div id="cshero-header-navigation" class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                <nav id="site-navigation" class="main-navigation" role="navigation">
+                    <div class="menu-main-menu-container"><ul id="menu-main-menu" class="nav-menu menu-main-menu"><li id="menu-item-3591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-3591" data-depth="0"><a href="#"><span class="menu-title">Visit</span></a>
+<ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
+	<li id="menu-item-3065" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3065" data-depth="1"><a href="http://folsomzoofriends.org/directions-hours-and-pricing/"><i style="color: ; font-size: " class="clock-o"></i> <span class="menu-title">Hours and Pricing</span></a></li>
+	<li id="menu-item-3171" class="menu-item menu-item-type-custom menu-item-object-custom no_group menu-item-3171" data-depth="1"><a href="/directions-hours-and-pricing/#directions"><i style="color: ; font-size: " class="automobile"></i> <span class="menu-title">Directions</span></a></li>
+	<li id="menu-item-3567" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3567" data-depth="1"><a href="http://folsomzoofriends.org/upcoming-events/"><i style="color: ; font-size: " class="calendar"></i> <span class="menu-title">Upcoming Events</span></a></li>
+	<li id="menu-item-3096" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3096" data-depth="1"><a href="http://folsomzoofriends.org/dining/"><i style="color: ; font-size: " class="cutlery"></i> <span class="menu-title">Dining</span></a></li>
+	<li id="menu-item-3126" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3126" data-depth="1"><a href="http://folsomzoofriends.org/tour-the-zoo/"><i style="color: ; font-size: " class="child"></i> <span class="menu-title">Tour The Zoo</span></a></li>
+	<li id="menu-item-3180" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3180" data-depth="1"><a href="http://folsomzoofriends.org/plan-your-event/"><i style="color: ; font-size: " class="check"></i> <span class="menu-title">Plan Your Event</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2704" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-2704" data-depth="0"><a href="#"><span class="menu-title">Learn</span></a>
+<ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
+	<li id="menu-item-2971" class="menu-item menu-item-type-taxonomy menu-item-object-category no_group menu-item-2971" data-depth="1"><a href="http://folsomzoofriends.org/category/folsom-zoo-friends-news/"><i style="color: ; font-size: " class="rss"></i> <span class="menu-title">Latest News</span></a></li>
+	<li id="menu-item-3213" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3213" data-depth="1"><a href="http://folsomzoofriends.org/history/"><i style="color: ; font-size: " class="bank"></i> <span class="menu-title">History</span></a></li>
+	<li id="menu-item-3222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children no_group menu-item-3222" data-depth="1"><a href="http://folsomzoofriends.org/our-animals/"><i style="color: ; font-size: " class="heart"></i> <span class="menu-title">Our Animals</span></a>
+	<ul class='   sub-menu' style="">
+		<li id="menu-item-3295" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3295" data-depth="2"><a href="http://folsomzoofriends.org/avian/"><span class="menu-title">Avian</span></a></li>
+		<li id="menu-item-3300" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3300" data-depth="2"><a href="http://folsomzoofriends.org/bears/"><span class="menu-title">Bears</span></a></li>
+		<li id="menu-item-3312" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3312" data-depth="2"><a href="http://folsomzoofriends.org/canine/"><span class="menu-title">Canine</span></a></li>
+		<li id="menu-item-3337" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3337" data-depth="2"><a href="http://folsomzoofriends.org/feline/"><span class="menu-title">Feline</span></a></li>
+		<li id="menu-item-3307" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3307" data-depth="2"><a href="http://folsomzoofriends.org/insects/"><span class="menu-title">Insects</span></a></li>
+		<li id="menu-item-3348" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3348" data-depth="2"><a href="http://folsomzoofriends.org/pasture-hoofstock/"><span class="menu-title">Pasture Hoofstock</span></a></li>
+		<li id="menu-item-3354" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3354" data-depth="2"><a href="http://folsomzoofriends.org/primates/"><span class="menu-title">Primates</span></a></li>
+		<li id="menu-item-3366" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3366" data-depth="2"><a href="http://folsomzoofriends.org/reptile/"><span class="menu-title">Reptile</span></a></li>
+		<li id="menu-item-3379" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3379" data-depth="2"><a href="http://folsomzoofriends.org/small-animals/"><span class="menu-title">Small Animals</span></a></li>
+		<li id="menu-item-4140" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-4140" data-depth="2"><a href="http://folsomzoofriends.org/wildlife/"><span class="menu-title">Wildlife Concerns</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-3447" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3447" data-depth="1"><a href="http://folsomzoofriends.org/newsletter-archive/"><i style="color: ; font-size: " class="inbox"></i> <span class="menu-title">Newsletter Archive</span></a></li>
+</ul>
+</li>
+<li id="menu-item-2705" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-2705" data-depth="0"><a href="#"><span class="menu-title">Support</span></a>
+<ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
+	<li id="menu-item-3505" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3505" data-depth="1"><a href="http://folsomzoofriends.org/donations/"><i style="color: ; font-size: " class="heart"></i> <span class="menu-title">Donations</span></a></li>
+	<li id="menu-item-3509" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3509" data-depth="1"><a href="http://folsomzoofriends.org/sponsorship/"><i style="color: ; font-size: " class="heart-o"></i> <span class="menu-title">Sponsorship</span></a></li>
+	<li id="menu-item-3514" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3514" data-depth="1"><a href="http://folsomzoofriends.org/planned-giving/"><i style="color: ; font-size: " class="gittip"></i> <span class="menu-title">Planned Giving</span></a></li>
+	<li id="menu-item-3518" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3518" data-depth="1"><a href="http://folsomzoofriends.org/vehicle-donation/"><i style="color: ; font-size: " class="automobile"></i> <span class="menu-title">Vehicle Donation</span></a></li>
+	<li id="menu-item-3521" class="menu-item menu-item-type-custom menu-item-object-custom no_group menu-item-3521" data-depth="1"><a href="https://folsomzoo.z2systems.com/np/clients/folsomzoo/giftstore.jsp"><i style="color: ; font-size: " class="shopping-cart"></i> <span class="menu-title">Online Store</span></a></li>
+	<li id="menu-item-3533" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3533" data-depth="1"><a href="http://folsomzoofriends.org/volunteer/"><i style="color: ; font-size: " class="user"></i> <span class="menu-title">Volunteer</span></a></li>
+	<li id="menu-item-3537" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3537" data-depth="1"><a href="http://folsomzoofriends.org/wish-list/"><i style="color: ; font-size: " class="list-alt"></i> <span class="menu-title">Wish List</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children no_group menu-item-3198" data-depth="0"><a href="#"><span class="menu-title">About</span></a>
+<ul class='standar-dropdown standard autodrop_submenu sub-menu' style="width:200px;">
+	<li id="menu-item-3421" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3421" data-depth="1"><a href="http://folsomzoofriends.org/leadership/"><i style="color: ; font-size: " class="graduation-cap"></i> <span class="menu-title">About Us</span></a></li>
+	<li id="menu-item-3450" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3450" data-depth="1"><a href="http://folsomzoofriends.org/donations-at-work/"><i style="color: ; font-size: " class="usd"></i> <span class="menu-title">Donations at work</span></a></li>
+	<li id="menu-item-3123" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3123" data-depth="1"><a href="http://folsomzoofriends.org/contact/"><i style="color: ; font-size: " class="phone"></i> <span class="menu-title">Contact Us</span></a></li>
+	<li id="menu-item-3385" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3385" data-depth="1"><a href="http://folsomzoofriends.org/credits/"><i style="color: ; font-size: " class="camera"></i> <span class="menu-title">Credits</span></a></li>
+	<li id="menu-item-3388" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3388" data-depth="1"><a href="http://folsomzoofriends.org/privacy-policy/"><i style="color: ; font-size: " class="gavel"></i> <span class="menu-title">Privacy &#038; Disclaimer</span></a></li>
+</ul>
+</li>
+<li id="menu-item-3484" class="menu-item menu-item-type-post_type menu-item-object-page no_group menu-item-3484" data-depth="0"><a href="http://folsomzoofriends.org/join/"><span class="menu-title">Join</span></a></li>
+</ul></div>                </nav>
+            </div>
+            <div id="cshero-menu-mobile" class="collapse navbar-collapse"><i class="pe-7s-menu"></i></div>
+        </div>
+    </div>
+</div>
+<!-- #site-navigation -->	</header><!-- #masthead -->
+            <div id="page-title" class="page-title">
+            <div class="container">
+            <div class="row">
+                                <div id="page-title-text" class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><h1>404</h1></div>
+                                </div>
+            </div>
+        </div><!-- #page-title -->
+        	<div id="main">
+	<div id="primary" class="site-content">
+		<div id="content" role="main" class="container">
+
+			<article id="post-0" class="post error404 no-results not-found">
+				<header class="entry-header">
+					<h1 class="entry-title">This is somewhat embarrassing, isn&rsquo;t it?</h1>
+				</header>
+
+				<div class="entry-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="http://folsomzoofriends.org/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>				</div><!-- .entry-content -->
+			</article><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+        </div><!-- #main -->
+			<footer>
+                                    <div id="cshero-footer-top">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><aside id="text-11" class="widget widget_text"><h3 class="wg-title">Location</h3>			<div class="textwidget"><p><b>Folsom City Zoo Sanctuary</b></p>
+<p>403 Stafford Street<br>
+Folsom, CA 95630</p> 
+<p>(916) 351-3527</p>
+<p>Tax ID 94-2783698</p>
+<p><a href="/privacy-policy/">Content © 2016 Friends of the Folsom Zoo, Inc. All Rights Reserved</a></p></div>
+		</aside></div>
+                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><aside id="null-instagram-feed-2" class="widget null-instagram-feed"><h3 class="wg-title">Instagram</h3>  
+    <ul class="instagram-pics"><li class=""><a href="//instagram.com/p/Bd6Gdw4A5pF" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/d99cc1c79621ee91f50e958caa13c9a2/5A5FE513/t51.2885-15/e15/26180158_166664577278147_2227736984531501056_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/Bd1RVnkAZfi" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/7f409275c724c4f87bff3d6210dcc591/5AEA0ED6/t51.2885-15/e35/26300871_361155504357447_4406460845958103040_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/Bd0WjxkgzRa" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/28da7321bbfe9d01b4ba52777152228c/5A5FF08F/t51.2885-15/e15/26070983_1986260528257253_3926954492121055232_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/Bdy-pPdg_FA" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/202fd6ab46bcd56452b084551d7a44b1/5ADCCCF1/t51.2885-15/e35/26154849_144007302981946_6972603023910502400_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/BdylUKHAJ_w" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/592228750de2eab2f2d10ad8fb07c991/5AE54572/t51.2885-15/e35/26183444_329304624242571_5299197741488930816_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/Bdv8x5RgSUX" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/81366c88074100c2b4265df0801ec0fc/5AFBA762/t51.2885-15/e35/26309302_161132937994970_5070968367699984384_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/BdlxnFjApvC" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/18da6c99aca1069160bb6d3c08c676f1/5ADCAFCF/t51.2885-15/e35/26068395_644169212373491_8799423881015197696_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/BdlkI55ApzJ" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/95b4609ed6e8afd71db83760f43467b6/5AF0ACDD/t51.2885-15/e35/26153160_1003787093107265_7716320595972980736_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li><li class=""><a href="//instagram.com/p/BdlH2MqAmU-" target="_blank"  class=""><img src="https://scontent-ort2-2.cdninstagram.com/vp/d6c0128801733831a358f7825621b14a/5AFA7332/t51.2885-15/e35/26157157_390750918043963_4212123492893589504_n.jpg"  alt="Instagram Image" title="Instagram Image"  class=""/></a></li></ul><p class="folow-insta"><a href="//instagram.com/folsomcityzoosanctuary" rel="me" target="_blank">Follow Us</a></p></aside></div>
+                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><aside id="wptt_twittertweets-2" class="widget TwitterTweets"><h3 class="wg-title">Latest Tweets</h3>			
+
+<ul class="fetched_tweets dark">
+	
+			    
+			        <li class="tweets_avatar">
+			        	<div class="tweet_wrap"><div class="wdtf-user-card ltr"><img width="45px" height="45px"src="//pbs.twimg.com/profile_images/733711941391290368/ZFmq3Znc_normal.jpg" alt="Tweet Avatar" class="circular"/><div class="wdtf-screen-name"><span class="screen_name">FolsomZoo</span><br><a href="https://twitter.com/FolsomZoo" target="_blank" dir="ltr">@FolsomZoo</a></div><div class="clear"></div></div>			       		<div class="tweet_data">
+			        	RT <a href="https://twitter.com/tuleyomeorg" target="_blank" rel="nofollow">@tuleyomeorg</a>: <a href="https://twitter.com/tuleyomeorg" target="_blank" rel="nofollow">@tuleyomeorg</a> thanks the <a href="https://twitter.com/FolsomZoo" target="_blank" rel="nofollow">@FolsomZoo</a> for their lecture on their sanctuary zoo on Thursday. Check out the photos here:… <a href="https://t.co/1wo1jFaAUO" target="_blank" rel="nofollow">https://t.co/1wo1jFaAUO</a>			        	</div>
+			            <br/>
+			            <div class="clear"></div>
+			            <div class="times">
+			            <em>
+			            
+						<a href="https://www.twitter.com/FolsomZoo" target="_blank" title="Follow FolsomZoo on Twitter [Opens new window]">
+							7 months							</a>
+			            </em>
+			            </div>
+												<div class="clear"></div>
+</div><div class="clear"></div>
+			        </li>
+			    
+						</ul>
+			
+			</aside></div>
+                                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><aside id="text-4" class="widget widget_text"><h3 class="wg-title">About Us</h3>			<div class="textwidget">The mission of the Friends of the Folsom Zoo Sanctuary, Inc., is to preserve and enhance a city treasure by assisting in the enrichment of the lives of the animals living at the Folsom City Zoo Sanctuary.
+<img style="display: block; margin-top: 22px;" src="http://folsomzoofriends.org/wp-content/uploads/2015/11/logo.png" alt="" /></div>
+		</aside></div>
+                            </div>
+                        </div>
+                    </div>
+                                		</footer><!-- #site-footer -->
+	</div><!-- #page -->
+			<script type="text/javascript">
+		/*<![CDATA[*/
+		var gmapstyles = 'default';
+		/* ]]> */
+		</script>		
+		
+<!-- This section is created with the SZ-Google for WordPress plugin 1.9.4 -->
+<!-- ===================================================================== -->
+<!-- ===================================================================== -->
+        <!--facebook like and share js -->
+        <div id="fb-root"></div>
+		<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+		  	if (d.getElementById(id)) return;
+		  	js = d.createElement(s); js.id = id;
+		  	js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+		  	fjs.parentNode.insertBefore(js, fjs);
+		}(document, 'script', 'facebook-jssdk'));</script>
+		<!--<div id="fb-root"></div>
+        <script>
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1425108201100352&version=v2.0";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>-->
+ 	         <!--google share and  like and e js -->
+        <script type="text/javascript">
+            window.___gcfg = {
+              lang: 'en-US'
+            };
+            (function() {
+                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                po.src = 'https://apis.google.com/js/plusone.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+            })();
+        </script>
+		
+		<!-- google share -->
+        <script type="text/javascript">
+          (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/platform.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+          })();
+        </script>
+		
+       <!-- linkedIn share and  follow js -->
+        <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+		 	<!-- Addthis js -->
+        <script type="text/javascript" src="https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-558ac14e7f79bff7"></script>
+        <script type="text/javascript">
+       		var addthis_config = {  ui_click: true  };
+       	</script>
+			<!-- twitter JS End -->
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
+	     <script>
+	    jQuery( document ).scroll(function( $ )
+		{
+	    	var y = jQuery(this).scrollTop();
+	      	if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent))
+			{	 
+			   if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-100)
+			   {
+				  jQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+"px",position:"absolute"});
+				  jQuery('.sfsi_outr_div').fadeIn(200);
+				  jQuery('.sfsi_FrntInner_chg').fadeIn(200);
+			   }
+			   else{
+				   jQuery('.sfsi_outr_div').fadeOut();
+				   jQuery('.sfsi_FrntInner_chg').fadeOut();
+			   }
+		  }
+		  else
+		  {
+			   if(jQuery(window).scrollTop() + jQuery(window).height() >= jQuery(document).height()-3)
+			   {
+					jQuery('.sfsi_outr_div').css({'z-index':'9996',opacity:1,top:jQuery(window).scrollTop()+200+"px",position:"absolute"});
+					jQuery('.sfsi_outr_div').fadeIn(200);
+					jQuery('.sfsi_FrntInner_chg').fadeIn(200);
+		  	   }
+	 		   else
+			   {
+				 jQuery('.sfsi_outr_div').fadeOut();
+				 jQuery('.sfsi_FrntInner_chg').fadeOut();
+			   }
+	 	  } 
+		});
+     </script>
+     <style type="text/css">#sfsi_floater { margin-right:px; }</style><div class="norm_row sfsi_wDiv" id="sfsi_floater"  style="z-index: 9999;width:45px;text-align:right;position:absolute;position:absolute;right:30px;top:50%"><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='fade_in' target='_blank'  href='https://instagram.com/folsomcityzoosanctuary/' id='sfsiid_instagram' alt='Instagram' style='opacity:0.6' ><img alt='Instagram' title='Instagram' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_instagram.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a></div></div><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='fade_in' target='_blank'  href='https://www.facebook.com/FolsomCityZooSanctuary/' id='sfsiid_facebook' alt='Facebook' style='opacity:0.6' ><img alt='Facebook' title='Facebook' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_facebook.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a><div class="sfsi_tool_tip_2 fb_tool_bdr sfsiTlleft" style="width:62px ;opacity:0;z-index:-1;margin-left:-47.5px;" id="sfsiid_facebook"><span class="bot_arow bot_fb_arow"></span><div class="sfsi_inside"><div  class='icon1'><a href='https://www.facebook.com/FolsomCityZooSanctuary/' target='_blank'><img alt='Facebook' title='Facebook' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/facebook.png'  /></a></div><div  class='icon2'><div class="fb-like" data-href="http://folsomzoofriends.org/animals/small/Nessie.jpg" data-layout="button" data-action="like" data-show-faces="false" data-share="true"></div></div><div  class='icon3'><div class="fb-share-button" data-href="http://folsomzoofriends.org/animals/small/Nessie.jpg" data-layout="button"></div></div></div></div></div></div><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='fade_in' target='_blank'  href='https://twitter.com/folsomzoo' id='sfsiid_twitter' alt='Twitter' style='opacity:0.6' ><img alt='Twitter' title='Twitter' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_twitter.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a><div class="sfsi_tool_tip_2 twt_tool_bdr sfsiTlleft" style="width:59px ;opacity:0;z-index:-1;margin-left:-46px;" id="sfsiid_twitter"><span class="bot_arow bot_twt_arow"></span><div class="sfsi_inside"><div  class='cstmicon1'><a href='https://twitter.com/folsomzoo' target='_blank'><img alt='Visit Us' title='Visit Us' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/visit_icons/twitter.png'  /></a></div><div  class='icon1'><a href="https://twitter.com/folsomzoo" class="twitter-follow-button"  data-show-count="false" data-show-screen-name="false">Follow </a></div><div  class='icon2'><a rel="nofollow" href="http://twitter.com/share" data-count="none" class="sr-twitter-button twitter-share-button" lang="en" data-url="http://folsomzoofriends.org/animals/small/Nessie.jpg" data-text="Hey, check out this cool site I found: www.folsomzoofriends.org #Topic via@folsomzoo" ></a></div></div></div></div></div><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='fade_in' target='_blank'  href='https://www.youtube.com/user/FolsomZooFriends' id='sfsiid_youtube' alt='YOUTUBE' style='opacity:0.6' ><img alt='YOUTUBE' title='YOUTUBE' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_youtube.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a></div></div><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class=' sficn' effect='fade_in' target='_blank'  href='https://www.linkedin.com/company/friends-of-the-folsom-zoo-inc.' id='sfsiid_linkedin' alt='LINKEDIN' style='opacity:0.6' ><img alt='LINKEDIN' title='LINKEDIN' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_linkedin.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a></div></div><div style='width:40px; height:40px;margin-left:5px;margin-bottom:5px;' class='sfsi_wicons shuffeldiv '><div class='inerCnt'><a class='addthis_button sficn' effect='fade_in' target='_blank'  href='http://www.addthis.com/bookmark.php?v=250' id='sfsiid_share' alt='SHARE' style='opacity:0.6' ><img alt='SHARE' title='SHARE' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/images/icons_theme/flat/flat_share.png' width='40' height='40' style='' class='sfcm sfsi_wicon' effect='fade_in'   /></a></div></div></div ><input type='hidden' id='sfsi_floater_sec' value='center-right' /></div><script>jQuery(".sfsi_widget").each(function( index ) {
+					if(jQuery(this).attr("data-position") == "widget")
+					{
+						var wdgt_hght = jQuery(this).children(".norm_row.sfsi_wDiv").height();
+						var title_hght = jQuery(this).parent(".widget.sfsi").children(".widget-title").height();
+						var totl_hght = parseInt( title_hght ) + parseInt( wdgt_hght );
+						jQuery(this).parent(".widget.sfsi").css("min-height", totl_hght+"px");
+					}
+				});jQuery( document ).ready(function( $ )
+					  {
+						var topalign = ( jQuery(window).height() - jQuery('#sfsi_floater').height() ) / 2;
+						jQuery('#sfsi_floater').css('top',topalign);
+					  	sfsi_float_widget('center');
+					  });</script>    	<script>
+			jQuery(document).ready(function(e) {
+                jQuery("body").addClass("sfsi_1.82")
+            });
+			function sfsi_processfurther(ref) {
+				var feed_id = 'ZU1mQjhNRGFqU1BNZWp4enNPNEMyU05zNlVrRzVXWlR5aUpQVklTajYwRHZmbEtKK0JyQVFBeTVUTXFSb0JqSWVlUVpmeGRNV1R1WG1EcitDSnliUjIzSXVkNzNlOVVVZU9sbWFEeXpkY1RGaDlzNTk0Y1JvOUwwa3FYYU41TDl8L1RtWmduci9rMFd6WEVQNDFqQklYQ0Y3QVZPYkYvVjFKKzN6M0lSVUQwRT0=';
+				var feedtype = 8;
+				var email = jQuery(ref).find('input[name="data[Widget][email]"]').val();
+				var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+				if ((email != "Enter your email") && (filter.test(email))) {
+					if (feedtype == "8") {
+						var url ="https://www.specificfeeds.com/widgets/subscribeWidget/"+feed_id+"/"+feedtype;
+						window.open(url, "popupwindow", "scrollbars=yes,width=1080,height=760");
+						return true;
+					}
+				} else {
+					alert("Please enter email address");
+					jQuery(ref).find('input[name="data[Widget][email]"]').focus();
+					return false;
+				}
+			}
+		</script>
+        <style type="text/css" aria-selected="true">
+			.sfsi_subscribe_Popinner
+			{
+								width: 100% !important;
+				height: auto !important;
+												border: 1px solid #b5b5b5 !important;
+								padding: 18px 0px !important;
+				background-color: #ffffff !important;
+			}
+			.sfsi_subscribe_Popinner form
+			{
+				margin: 0 20px !important;
+			}
+			.sfsi_subscribe_Popinner h5
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				margin: 0 0 10px !important;
+    			padding: 0 !important;
+			}
+			.sfsi_subscription_form_field {
+				margin: 5px 0 !important;
+				width: 100% !important;
+				display: inline-flex;
+				display: -webkit-inline-flex;
+			}
+			.sfsi_subscription_form_field input {
+				width: 100% !important;
+				padding: 10px 0px !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]::-webkit-input-placeholder {
+			   	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]:-moz-placeholder { /* Firefox 18- */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]::-moz-placeholder {  /* Firefox 19+ */
+			    font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=email]:-ms-input-placeholder {  
+			  	font-family: Helvetica,Arial,sans-serif !important;
+								font-style: normal !important;
+								color:  !important;
+				font-size: 14px !important;
+				text-align: center !important;
+			}
+			.sfsi_subscribe_Popinner input[type=submit]
+			{
+				font-family: Helvetica,Arial,sans-serif !important;
+								font-weight: bold !important;
+								color: #000000 !important;
+				font-size: 16px !important;
+				text-align: center !important;
+				background-color: #dedede !important;
+			}
+		</style>
+	<script>
+    jQuery(document).ready(function () {
+		jQuery.post('http://folsomzoofriends.org?ga_action=googleanalytics_get_script', {action: 'googleanalytics_get_script'}, function(response) {
+			var F = new Function ( response );
+			return( F() );
+		});
+    });
+</script><link rel='stylesheet' id='eventon_dynamic_styles-css'  href='http://folsomzoofriends.org/wp-content/plugins/eventON/assets/css/eventon_dynamic_styles.css?ver=4.9.1' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/folsomzoofriends.org\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/js/shuffle/modernizr.custom.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/js/shuffle/jquery.shuffle.min.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/js/shuffle/random-shuffle-min.js?ver=4.9.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"http:\/\/folsomzoofriends.org\/wp-admin\/admin-ajax.php"};
+var ajax_object = {"ajax_url":"http:\/\/folsomzoofriends.org\/wp-admin\/admin-ajax.php","plugin_url":"http:\/\/folsomzoofriends.org\/wp-content\/plugins\/ultimate-social-media-icons\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/plugins/ultimate-social-media-icons/js/custom.js?ver=4.9.1'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/js/jquery.parallax-1.1.3.js?ver=1.1.3'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/js/smoothscroll.min.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CMSOptions = {"menu_sticky":"1","menu_sticky_tablets":"0","menu_sticky_mobile":"","paralax":"1","back_to_top":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/js/main.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-content/themes/wp_kindergarten/assets/js/menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://folsomzoofriends.org/wp-includes/js/wp-embed.min.js?ver=4.9.1'></script>
+</body>
+</html>

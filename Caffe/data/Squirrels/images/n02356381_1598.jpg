@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>SIUC University Carbondale</title>
+<style type="text/css">
+body {
+	background-color: #d9d6cb;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+img {
+	border:none;
+}
+a {
+	outline:none;
+	color:#600;
+}
+.container {
+	width:940px;
+	margin:0 auto;
+}
+.text {
+	background-color:#ebebe3;
+	padding:1em;
+}
+hr {
+	border-color: #7E0620;
+	border-style: none none dotted;
+	border-width: 2px;
+}
+</style>
+</head>
+<body>
+<div class="container"> <a href="http://siu.edu"><img src="http://asset.siu.edu/_assets/images/SIUlogo.png" alt="SIU logo" /></a>
+  <div class="text">
+    <h1>Sorry: &nbsp;404 Not Found </h1>
+    <h1>An error occurred when you requested this page.</h1>
+    <p>Please send e-mail with the following information to <a href="mailto:webmaster@siu.edu">webmaster@siu.edu</a> to report this error.</p>
+    <p><b>Error Information</b> <br />
+      Date and time: <br />
+      Page (URL) you are trying to find.<br />
+      Page (URL)  with the broken link.<br />
+    </p>
+    <p>We apologize for the inconvenience and will work to correct the problem.</p>
+    <hr />
+    <p>Check the <a tabindex="20" href="http://www.siuc.edu/jiffy/">A
+      to Z index</a> or</p>
+    &nbsp;
+    <form action="http://www.google.com/u/siu" method="get" name="search" id="search">
+      <input name="sitesearch" type="hidden" value="siu.edu" />
+      <input name="domains" type="hidden" value="siu.edu" />
+      <label for="label">Search SIUC</label>
+      <input name="q" id="label" tabindex="21" size="15" maxlength="255" type="text" value="Search SIUC" />
+      &nbsp;
+      <input name="sa" tabindex="22" type="submit" value="Go" />
+    </form>
+   
+  </div>
+</div>
+</body>
+</html>

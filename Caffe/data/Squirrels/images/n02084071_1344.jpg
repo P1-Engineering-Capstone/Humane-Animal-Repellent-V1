@@ -1,0 +1,286 @@
+
+
+<html>
+<head>
+<title>Tweedehands boeken en antieke boeken : online 2e hands kopen</title>
+<META NAME="DESCRIPTION" CONTENT="Meer dan 600.000 tweedehandsboeken (2e hands) en antieke boeken te koop. Doorzoekbaar op auteur,titel,categorie isbn en serie. Tweedehands boeken tegen de laagste prijzen">
+<META NAME="KEYWORDS" CONTENT="tweedehandsboeken,tweedehands boeken,verkoop,2e hands, boeken, boekwinkel, boekenwinkel, verzendantiquariaat, antiquariaat, kinderboeken, jeugdboeken, literatuur, romans, proza, poëzie, studieboeken, geschiedenisboeken, wetenschappelijke boeken, hobbyboeken, boekenweekgeschenken, pockets, sprookjes, sprookjesboeken, prentenboeken, secundaire literatuur, naslagwerken, thrillers, misdaadromans, detectives,baantjer, konsalik, lezen, nieuw, boeken, hobby, auto, literatuur, nederlands, nederlandse, science fiction, horror, studie, advertentie, aangeboden, gevraagd, gezocht, kinderboeken, detectives, engels, frans, duits, russisch, karl may, tolkien, jaarboek, roggeveen, , boekjes, wolkers,Hans Christian Andersen,Beauvoir ">
+<META NAME="robots" CONTENT="FOLLOW,INDEX">
+<meta NAME="publisher" CONTENT="Boekenverkoper.nl">
+<meta NAME="Identifier-URL" CONTENT="http://www.BoekenVerkoper.nl">
+<meta http-equiv="Content-Type" content="text/html;">
+<meta name="verify-v1" content="0y9ALDfEzbsQW3oGbzgN/GwUiRoMJSvvwG+0lauhF0Y=" />
+<META NAME="COPYRIGHT" CONTENT="Copyright (c) 2004-2007 by Boekenverkoper.nl - Boeken Gemeenschap">
+
+<link rel="stylesheet" type="text/css" href="main.css">
+<script language='javascript'>
+var myFC;
+function preCheck() {	
+
+
+if ((document.forms['myFC'].auteur.value.length == 0) && (document.forms['myFC'].titel.value.length == 0 )) {
+		alert('Vul een titel of auteur in.');
+		return false;
+	}
+		return true
+}	
+
+</script>
+
+</head>
+<body marginheight="0" margintop="0" style="margin: 0 px;" topmargin=0 margin="0" leftmargin="0" bottommargin="0" rightmargin="0">
+
+<table border="0" cellpadding="0" cellspacing="0" width=100%>
+<tr>
+<td background="logo.gif" height=116 width=370><a href="index.php"><img src="spacer.gif" height="115" width="370" border="0" alt="Tweedehands boeken voor liefhebbers"></a>
+</td>
+<td width="10">&nbsp;</td>
+<td>
+<table height=120 border=0 cellpadding="0" cellspacing="0" width=350>
+	<tr>
+		
+		
+			
+			
+
+		<td style='padding-left:20px;'>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- header bv -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8106137397275834"
+     data-ad-slot="7692650278"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+   <!-- 
+    <a href="http://www.boekenverkoper.nl/bannerinfo.php"><img hspace=10 src="http://www.boekenverkoper.nl/img/banner1.gif" border="0" hspace=0></a></td>
+		<td><a href="http://www.boekenverkoper.nl/bannerinfo.php"><img hspace=10 src="http://www.boekenverkoper.nl/img/banner1.gif" border="0" hspace=0></a>
+    -->
+    </td>
+		
+		<td width=250>
+		
+		</td>
+				
+	</tr>
+</table>
+
+
+</td>
+</tr>
+</table>
+
+<form action="search.php" name="myheaderFC" id="myheaderFC">
+<table border="0" cellpadding="0" cellspacing="0" width=100%>
+<tr>
+
+<td class="bgred" style='padding-top:5px;'>
+
+
+<table border="0" cellpadding="2" cellspacing="0">
+<tr><td style="color:white;font-weigh:bold;">Auteur</td><td><input type="text" name="auteur" value=""> <td style="color:white;font-weigh:bold;">Titel</td><td><input type="text" name="titel" value="">
+<td>&nbsp;<td><input type='submit' value='Zoek boeken' class="submit_new"></td>
+
+	
+<!-- <td><div style="padding:0px;margin:0px;color:white;">Tweedehands boeken zoeken</div></td> -->
+<!--td class="bgred"  nowrap>&nbsp;<select name="type"><option value="">Zoek op</option><option value="auteur" >Auteur</option><option value="titel" >Titel</option></select> <input type="text"name="q" size=15 value=""> <input type="submit" class="submit_norm" value="Zoek"></td-->
+<td class="bgred"  colspan="3" height="30" valign="top" style="padding-top:5px;valign:middle;padding-left:50px;">
+
+	<b>
+		&nbsp;   
+	<a href="http://www.boekenverkoper.nl/categorie/">Snuffelen</a>   &nbsp;&nbsp;
+	<a href="http://www.boekenverkoper.nl/titels/">Populaire titels</a>   &nbsp;&nbsp;
+	<a href="http://www.boekenverkoper.nl/auteurs/">Populaire auteurs</a>&nbsp;&nbsp;
+	<a href="http://www.boekenverkoper.nl/winkels/">Winkels</a>  &nbsp;&nbsp;
+	
+	<a href="http://www.boekenverkoper.nl/verkopen/" title="boeken verkopen">Zelf verkopen</a></b>
+	<a href="http://www.boekenverkoper.nl/100-nieuwste-boeken.php">Nieuwste boeken</a>   &nbsp;&nbsp;
+  <a href="http://www.boekenverkoper.nl/uitgebreid.php">Uitgebreid zoeken</a> &nbsp;	&nbsp;</div>
+</td>
+<td width=15 class="bgred" >&nbsp;</td>
+</tr>
+</table>
+</tr>
+</table>
+</form></td><td width=25>&nbsp;</td><td valign=top>
+
+<table border="0" cellpadding="0" cellspacing="0" style='border-collapse: collapse' bordercolor='#666' width=100%>
+
+<tr><td width=20>&nbsp;</td><td colspan="2" valign=top>
+
+<table width="150" border="1" cellpadding="2" cellspacing="0" class='pane'>
+<tr><th  class="right">Buitenlandse Auteurs
+</th></tr>
+<tr><td>
+<a href="auteurs/agatha-christie/">Agatha Christie</a><br>
+<a href="auteurs/hans-christian-andersen/">Hans Christian Andersen</a><br>
+<a href="auteurs/charles-dickens/">Charles Dickens</a><br>
+<a href="auteurs/emile-zola/">Emile Zola</a><br>
+<a href="auteurs/konsalik/">Heinz G. Konsalik</a><br>
+<a href="auteurs/simone-de-beauvoir/">Simone de Beauvoir</a><br>
+<a href="auteurs/shakespeare/">Shakespeare</a><br>
+<a href="auteurs/nabokov/">Vladimir Nabokov</a><br>
+<a href="auteurs/steinbeck/">John Steinbeck</a><br>
+<a href="auteurs/asimov/">Isaac Asimov</a><br>
+<a href="auteurs_buitenland.php">Meer....</a><br>
+
+</td>
+</tr>
+</table>
+<br>
+<table width="150" border="1" cellpadding="2" cellspacing="0" class='pane'>
+<tr><th  class="right">Nederlandstalige auteurs
+</th></tr>
+<tr><td>
+<a href="auteurs/harry-mulisch/">Harry Mulisch</a><br>
+<a href="auteurs/wf-hermans/">W.F. Hermans</a><br>
+<a href="auteurs/gerard-reve/">Gerard Reve</a><br>
+<a href="auteurs/jan-wolkers/">Jan Wolkers</a><br>
+<a href="auteurs/hugo-claus/">Hugo Claus</a><br>
+<a href="auteurs_nl.php">Meer....</a><br>
+
+</td>
+</tr>
+</table><br>
+<table width="150" border="1" cellpadding="0" cellspacing="0" class="pane"><tr><th class="right">Snuffelen</th></tr><tr><td><b>Kunst<br></b><a href="categorie.php?cat=Fotografie">Fotografie</a><br><a href="categorie.php?cat=Kunstgeschiedenis">Kunstgeschiedenis</a><br><a href="categorie.php?cat=Opera">Opera</a><br><a href="categorie.php?cat=Design">Design</a><br><p><p><b>Religie & Spiritualiteit</b><br><a href="categorie.php?cat=Esoterie">Esoterie</a><br><a href="categorie.php?cat=Meditatie">Meditatie</a><br><a href="categorie.php?cat=Religie">Religie Overig</a><br><a href="categorie.php?cat=Yoga">Yoga</a><br></u><a href="titels/">Veel gezochte titels</a><br><a href="auteurs/">Veel gezochte auteurs</a><br></td></tr></table><br>
+<!--table width="150" border="1" cellpadding="2" cellspacing="0" class='pane'>
+<tr><th  class="right">Series
+</th></tr>
+<tr><td>
+<a href="serie.php?serie=Grote ABC">Grote ABC</a><br>
+<a href="serie.php?serie=Salamander">Salamander</a><br>
+<a href="serie.php?serie=LRP">LRP</a><br>
+<a href="serie.php?serie=Zwarte Beertjes">Zwarte Beertjes </a><br>
+<a href="serie.php?serie=Parool/LIFE">Parool/LIFE</a><br>
+</td>
+</tr>
+</table><br--></td><td width='10'>&nbsp;</td><td valign=top>
+	<!--  onsubmit="return preCheck()"  -->
+<form action="search.php" name="myFC" id="myFC">
+<h1>Tweedehands boeken en antiekeboeken</h1>
+<h2>online zoeken in 600.000 boeken van honderden verkopers</h2>
+<table border="0" cellpadding="2" cellspacing="0" style="border: 1px solid #666;">
+<tr><th bgcolor="#660000" class="right" colspan="2">&nbsp;
+</th></tr>
+<tr><td>Auteur</td><td><input type="text"name="auteur">&nbsp; (tip zoek eerst alleen op de achternaam)
+<tr><td>Titel</td><td><input type="text"name="titel">
+<tr><td>&nbsp;<td><input type='submit' value='Zoek' class="submit"></form></td></tr>
+<tr><td colspan="2">
+<p>
+
+Boekenverkoper.nl is een online marktplaats voor zowel tweedehands boeken als antieke boeken. 
+Op deze site bieden enkele honderden antiquaren en particuliere verkopers hun tweedehands/antiquarische boeken te koop aan, en inmiddels vonden al 50.000 boeken op deze manier een nieuwe eigenaar.<br>
+
+Of het nu gaat om de <a href="/search.php?auteur=andersen&titel=sprookjes"> Sprookjes van Hans Christian Andersen</a> of de boeken van <a href="simone_de_beauvoir.php">Simone de Beauvoir</a>
+; op deze site vindt u het.<p>&nbsp;</p>
+<div style="width:650px;min-height:480px;">
+	<div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Vriends, Dr. Thijs<br><a href='titels/prisma-duivenboek/8937167016977566840/'>prisma duivenboek...</a><br>Prijs: 6.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Mark, van der RRP<br><a href='titels/tropische-duiven/8937167016977566839/'>tropische duiven...</a><br>Prijs: 7.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Logman Jr, H<br><a href='titels/sierduiven/8937167016977566838/'>sierduiven...</a><br>Prijs: 35.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Mulder, B / Jong, de J<br><a href='titels/sierduiven/8937167016977566836/'>sierduiven...</a><br>Prijs: 7.50</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Soetaert, Eddy / Laere van Stefan<br><a href='titels/met-vallen-en-opstaan-wielerseizoen-1980-van-a-tot-z/8937167016977566835/'>met vallen en opstaan - wielerseizoen 1980 van A t...</a><br>Prijs: 10.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Huis, Frits<br><a href='titels/laat-louis-maar-schuiven/8937167016977566834/'>laat louis maar schuiven...</a><br>Prijs: 7.50</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Kornaat, K. e.a.<br><a href='titels/uitgezeild-de-hoogtijdagen-van-de-nederlandse-logger-1866-1930/8937167016977566827/'>Uitgezeild. De hoogtijdagen van de Nederlandse Log...</a><br>Prijs: 45.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'><br><a href='titels/ajax-seizoengids-2003-2004/8937167016977566826/'>ajax seizoengids 2003-2004...</a><br>Prijs: 6.50</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Vermeer, Evert<br><a href='titels/90-jaren-ajax-1900-1990/8937167016977566825/'>90 jaren ajax 1900-1990...</a><br>Prijs: 10.00</div></div><div class="divleft"><div class='divinnerleft'><div class='divimagecontainer'><img src='' width='110'></div></div><div class='divright'>Endt, David<br><a href='titels/het-officiele-ajax-jaarboek-1995-1996/8937167016977566824/'>het officiele ajax jaarboek 1995-1996...</a><br>Prijs: 10.00</div></div></div>
+<p>&nbsp;</p><br>
+<div class="normaltekst">
+<h2>Op zoek naar een boek?</h2><br>
+Bent u nieuw hier? Onder <a href="categorie/">snuffelen</a> vindt u boeken in alle denkbare categorie&euml;n, handig gesorteerd op thema. Bent u op zoek boeken van een <a href="winkels/">specifieke verkoper</a>? Kijk dan bij Verkopers waar u in het specifieke boekenmagazijn van een boekenhandelaar kunt zoeken.
+Daarnaast hebben wij een lijst met unieke <a href="collectors_items.php">Collector's Items</a>.<p>
+<p>
+<h2>Zelf tweedehandsboeken verkopen</h2><br>
+Heeft u een zolder vol met boeken maar geen tijd om op een boekenmarkt te gaan staan? Als u wilt kunt u zelf boeken verkopen via Boekenhandelaar.nl, eenvoudig en betrouwbaar. 
+Profiteer van een groot klantenbestand en de kracht van het internet... doorzoekbaarheid. Door u ingevoerde boeken worden doorzoekbaar gemaakt voor bijvoorbeeld Google. Nog belangrijker, 
+bezoekers van boekenverkoper.nl kunnen op uiteenlopende manieren boeken zoeken. Natuurlijk op auteur en titel, maar ook op <a href="uitgebreid.php">isbn, 
+prijsklasse, serie</a>. Daarnaast is het mogelijk om via meer dan <a href="snuffelen.php">200 verschillende subcategorie&euml;n</a> boeken te vinden. 
+<p>
+
+</div>
+</td></tr>
+</table>
+
+<!-- eind zoekpaneel--->
+</td><td width=25>&nbsp;</td>
+<td valign=top>
+<!--- community --->
+
+<script language="JavaScript1.2" src="http://www.boekenverkoper.nl/bookmark_page.js"></script>
+<script>
+var bookmarktitle="Boekenverkoper.nl -Tweedehands boeken"
+</script>
+<table width="170" border="1" cellpadding="0" cellspacing="0" class="pane">
+<tr><th class="right">Snelkoppelingen
+</th></tr>
+<tr><td><u>
+<a href="http://www.boekenverkoper.nl/index.php">Home</a><br><!---<a href="nieuwsbrief.php">Nieuwsbrief</a><br>--->
+<a href="#" onclick="favorieten('http://www.boekenverkoper.nl/index.php')">Toevoegen aan favorieten</a><br>
+<a href="#" onClick="HomePage = 'http://www.boekenverkoper.nl';
+if (document.layers)
+alert('Dit is helaas niet automatisch mogelijk.');
+else if (document.all){
+if (navigator.appVersion.indexOf(4.01)!=-1){
+alert('Dit is helaas niet automatisch mogelijk.');
+}
+else{
+this.style.behavior='url(#default#homepage))';
+this.setHomePage(HomePage);
+}
+}
+else
+alert('Dit is helaas niet automatisch mogelijk.');
+return false;
+">Maak van deze site uw startpagina</a><br>
+
+<a href="http://www.boekenverkoper.nl/over_boekenverkoper.php">Over deze site</a><br>
+<a href='verkopers_perstad.php'>Verkopers per stad</a>
+
+</u>
+</td>
+
+</tr>
+</table>
+<br><table width="170" border="1" cellpadding="2" cellspacing="0" class="pane">
+<tr><th class="right">De klassieken
+</th></tr>
+<tr><td><a href="deklassieken.php"><img src="img/deklassieken.jpg" border="0" width=170></a></td></tr></table>
+<br><table width='170' border='1' cellpadding='2' cellspacing='0' class='pane'>
+	<tr><th  class='right'>Nieuwe verkopers</th></tr><tr><td><a href='http://www.boekenverkoper.nl/winkel.php?owner=20051177'>Beauregard te BERGEN NH</a></td></tr>
+<tr><td><a href='http://www.boekenverkoper.nl/winkel.php?owner=20051176'>dupont te brunssum</a></td></tr>
+<tr><td><a href='http://www.boekenverkoper.nl/winkel.php?owner=20051175'>vlaanderen-boeken te Bertogne</a></td></tr>
+<tr><td><a href='http://www.boekenverkoper.nl/winkel.php?owner=20051174'>Spaciaal te Geldrop</a></td></tr>
+<tr><td><a href='http://www.boekenverkoper.nl/winkel.php?owner=20051173'>Reader te Nijmegen</a></td></tr>
+</table><br>
+<table width='170' border='1' cellpadding='2' cellspacing='0' class='pane'>
+	<tr><th  class='right'>Recente zoekopdrachten</th></tr>
+	
+	<tr><td><a href='http://www.boekenverkoper.nl/titels/het-spaens-heydinnetje/'>Het spaens heydinnetje</a></td></tr>
+	<tr><td><a href='http://www.boekenverkoper.nl/auteurs/johan-mevius/'>Mevius</a></td></tr>
+	<tr><td><a href='http://www.boekenverkoper.nl/distinct_author.php?auteur=Hard+gras'>Hard gras</a></td></tr>
+	<tr><td><a href='http://www.boekenverkoper.nl/auteurs/dickens-charles'>Charles Dickens</a></td></tr>
+	<tr><td><a href='http://www.boekenverkoper.nl/search.php?auteur=rowling&titel=harry%20potter'>harry potter rowling</a></td></tr>
+</table>
+
+
+<!-- eind communivty --->
+</td>
+<td width=10>&nbsp;</td>
+</table>
+</td>
+</tr>
+</table>
+<p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-518779-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</body>
+
+
+</html><p><font face="Verdana" size="2">The details of this error have automatically been mailed to the webmaster.--</body></html><script>
+_gaq.push(['_trackEvent','gevonden 404 meldingen', document.location.pathname + document.location.search + '&ref=' + document.referrer,',0,true]);
+</script>
+
+
+

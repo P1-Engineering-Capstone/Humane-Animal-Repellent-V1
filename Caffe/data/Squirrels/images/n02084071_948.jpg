@@ -1,0 +1,137 @@
+
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<meta name="keywords" content="">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width,user-scalable=no,maximum-scale=1" />
+<link rel="stylesheet" media="all" type="text/css" href="../../../ax-template/arm1403l_brown/styles.css" />
+<!-- ���f�t�H���g�̃X�^�C���istyle.css�j -->
+<link rel="alternate" type="application/rss+xml" href="http://www.19dog.com/rss.xml">
+<link rel="help" href="http://www.19dog.com/sitemap.html" title="サイトマップ">
+<link rel="stylesheet" href="../../../ax-admin/css/font-awesome.min.css">
+<script src="../../../ax-template/_common/openclose.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript">
+$(function(){
+	$('a[href^=#]').click(function(){
+		var speed = 800;
+		var href= $(this).attr("href");
+		var target = $(href == "#" || href == "" ? 'html' : href);
+		var position = target.offset().top;
+		$("html, body").animate({scrollTop:position}, speed, "swing");
+		return false;
+	});
+});
+</script>
+<script type="text/javascript" src="path/footerFixed.js"></script>
+<!-- [if lt IE 9] >
+<script src="../../../ax-template/_common/html5shiv.js"></script>
+<script src="../../../ax-template/_common/css3-mediaqueries.js"></script>
+<! [endif] -->
+</head>
+<body>
+
+<div id="wrap">
+<!--ヘッダー部分はじまり-->
+<div id="top_b"><h1>ページが見つかりません</h1>
+		<h2><a href="../../../">カードローン金利のある時ない時</a></h2>
+		</div>
+<!--ヘッダー部分終わり-->
+
+<!-- ▼グローバルメニュー  -->
+	<div id="area_globalmenu_bar"></div>
+
+<div id="bm_b"><ul>
+<li class="sitemap"><a href="../../../sitemap.html">&nbsp;</a></li>
+<li class="rss"><a href="../../../rss.xml">&nbsp;</a></li>
+<li class="twitter"><a href="https://twitter.com/share" class="twitter-share-button">&nbsp;</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="img/hatena_btn.png";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+<li class="hatena"><a href="http://b.hatena.ne.jp/entry/" class="none" title="このエントリーをはてなブックマークに追加">&nbsp;</a><script type="text/javascript" src="http://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script></li>
+</ul></div>
+<!-- ▼グローバルメニュー  -->
+
+
+<!-- ▼メイン  -->
+<div id="area_main">
+
+	<!-- ▽ページエリア  -->
+	<div id="area_page">
+
+		<!-- ▽コンテンツ  -->
+		<div id="area_contents">
+						<h3>ページが見つかりません</h3>
+			<div class="child">
+			<p>申し訳ありませんが、お探しのページは存在しませんでした。</p>
+			</div>
+					</div>
+		<!-- △コンテンツ  -->
+	
+		<!--左サイドバーはじまり-->
+<div id="l_b">
+
+										<h3 class="cate-title">カテゴリ</h3>
+						<ul class="cate">
+			<!-- �\�����������ǉ� -->
+ <!-- �\�����������ǉ� -->
+			</ul>
+			
+<!-- お気に入りに追加ボタン開始 -->
+<div class="favorite-space">
+<script type="text/javascript">
+<!--
+//Internet Explorer
+if(navigator.userAgent.indexOf("MSIE") > -1){
+document.write('<!-'+'-[if IE]>');
+document.write('<input type="button" value="お気に入りに追加" class="favorite-button"');
+document.write(' onclick="window.external.AddFavorite(\'http://test.com/\',\'テンプレートテスト\')">');
+document.write('<![endif]-'+'->');
+}
+//Firefox
+else if(navigator.userAgent.indexOf("Firefox") > -1){
+document.write('<input type="button" value="ブックマークに追加" class="favorite-button"');
+document.write(' onclick="window.sidebar.addPanel(\'テンプレートテスト\',\'http://test.com/\',\'\');">');
+}
+//Opera
+else if(navigator.userAgent.indexOf("Opera") > -1){
+document.write('<a href="http://test.com/" rel="sidebar" title="テンプレートテスト">ブックマークに追加</a>');
+}
+else {
+void(0);
+}
+//-->
+</script>
+</div>
+<!-- お気に入りに追加ボタン終了 -->
+
+</div>
+<!--左サイドバー終わり-->
+
+	</div>
+	<!-- △ページエリア  -->
+
+</div>
+<!-- ▲メイン  -->
+
+<!--topへ戻るボタンはじまり-->
+<div id="top"><a href="#">&nbsp;</a></div>
+<!--topへ戻るボタン終わり-->
+</div>
+<!-- ▼フッター  -->
+<div id="footer">
+
+		<!-- ▽フッターメニュー  -->
+	<p>
+										<a href="http://www.19dog.com/" target="_blank">19dog.com</a>
+			</p>
+	<!-- △フッターメニュー  -->
+	
+	<p>Copyright &copy;　カードローン金利のある時ない時　All Rights Reserved.</p>
+</div>
+<!-- ▲フッター  -->
+
+</body>
+</html>

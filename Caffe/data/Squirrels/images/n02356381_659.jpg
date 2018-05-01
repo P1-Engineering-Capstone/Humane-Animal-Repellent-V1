@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+  <head>
+    
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<!-- Stylesheets -->
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link href="//fonts.googleapis.com/css?family=Merriweather:700,700i%7CSource+Sans+Pro:400,400i,700,700i" rel="stylesheet">
+<link rel="stylesheet" href="/css/app.css?v=2">
+
+<!-- Favicons -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#076324">
+<meta name="theme-color" content="#076324">
+
+<!-- Randomized scientist portraits -->
+<style>
+  @media screen and (min-width: 50em) {
+    .site-header {
+      background-image: url(/images/portraits/stephanie-worley-firley-bg.jpg);
+    }
+    .portrait {
+      background-image: url(/images/portraits/stephanie-worley-firley.png);
+    }
+  }
+</style>
+
+<!-- ForeSee embed code. -->
+<script>
+var subsiteCode = "1133";
+;(function (g) {
+  var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+  aex = {
+    "src": "//gateway.answerscloud.com/fs-fed-us/production/gateway.min.js",
+    "type": "text/javascript",
+    "async": "true",
+    "data-vendor": "acs",
+    "data-role": "gateway"
+  };
+  for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
+  h.appendChild(am);
+  g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
+})(window);
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+ga("create", "UA-47791907-1", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);var _gaq = _gaq || [];
+
+_gaq.push(['a._setAccount', 'UA-27627304-16']);
+_gaq.push(['a._setDomainName', 'usda.gov']);
+_gaq.push(['a._setAllowLinker', true]);
+_gaq.push(['a._trackPageview']);
+
+_gaq.push(['b._setAccount', 'UA-27627304-1']);
+_gaq.push(['b._setDomainName', 'usda.gov']);
+_gaq.push(['b._setAllowLinker', true]);
+_gaq.push(['b._trackPageview']);
+
+// Shared
+_gaq.push(['c._setAccount', 'UA-25293892-6']);
+_gaq.push(['c._setDomainName', 'usda.gov']);
+_gaq.push(['c._setAllowLinker', true]);
+_gaq.push(['c._trackPageview']);
+
+// Site specific Universal Analytics (UA) code directive
+// _gaq.push(['c._setAccount', 'UA-1701108-1']);
+// _gaq.push(['c._setDomainName', 'www.srs.fs.usda.gov']);
+// _gaq.push(['c._trackPageview']);
+
+ga('create', 'UA-1701108-1', 'www.srs.fs.usda.gov', 'srs_ga');
+ga('srs_ga.send', 'pageview');
+
+(function() {
+  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();ga("send", "pageview");
+</script>
+
+<!-- Federated Analytics -->
+<script id="_fed_an_ua_tag" type="text/javascript" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=FS"></script>
+    <title>Page Not Found | USDA Forest Service Southern Research Station</title>
+    <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NDJM9J');</script>
+<!-- End Google Tag Manager -->
+  </head>
+
+  <body class="home">
+
+    
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NDJM9J"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<!-- DigitalGov search -->
+<script>
+//<![CDATA[
+var usasearch_config = { siteHandle:"usfssouthernresearchstation" };
+
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "//search.usa.gov/javascripts/remote.loader.js";
+document.getElementsByTagName("head")[0].appendChild(script);
+//]]>
+</script>
+
+    <a class="skipnav show-for-sr" href="#main">Skip main navigation</a>
+<header class="site-header">
+  <div class="site-header-inner">
+
+        <div class="row column site-branding">
+      <!-- <div class="small-5 medium-12 large-4 columns"> -->
+        <div class="usfsbranding">
+          <div class="rowone">
+            <div class="logos">
+              <a href="//www.usda.gov/" title="Go to the USDA website" target="_blank"><img src="/images/usdalogo.png" class="usdalogo" alt="USDA logo"></a>
+              <a href="//www.fs.fed.us/" title="Go to the National Forest Service website" target="_blank"><img src="/images/usfslogo.png" class="usfslogo" alt="Forest Service logo"></a>
+            </div>
+            <div class="slogan show-for-medium">
+              U.S. Forest Service
+              <br>
+              <span class="small">Caring for the land and serving people</span>
+            </div>
+          </div>
+          <div class="rowdivider show-for-medium">
+            <!--placeholder-->
+          </div>
+          <div class="rowtwo show-for-medium">
+            <p>United States Department of Agriculture</p>
+          </div>
+        </div>
+      <!-- </div> -->
+
+      <!-- <div class="small-7 medium-12 large-8 columns"> -->
+        <h1 class="site-title"><a href="//www.srs.fs.usda.gov/" title="Southern Research Station homepage"><span>Southern</span><br class="show-for-large"> Research Station</a></h1>
+
+                <div class="portrait-outer show-for-medium">
+          <a href="/staff/46" title="Stephanie Worley-Firley's profile page" class="portrait">
+            <div class="badge-label badge-label--scientist">Stephanie Worley-Firley, Biological Scientist Information Specialist</div>
+          </a>
+        </div>
+      <!-- </div> -->
+    </div>
+    <!-- / .site-branding row -->
+
+        <div class="title-bar" data-responsive-toggle="mainMenu" data-hide-for="medium">
+      <button class="menu-icon" type="button" data-toggle>Menu</button>
+      <div class="title-bar-title">Menu</div>
+    </div>
+
+    <div class="top-bar site-navigation" id="mainMenu">
+      <div class="row">
+
+        <div class="top-bar-left">
+          <ul class="menu vertical medium-horizontal" data-responsive-menu="drilldown medium-dropdown">
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li class="has-submenu">
+              <a href="/research">Research</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/research">Research Overview</a></li>
+                <li><a href="/research/research_watershed.php">Forest Watershed Science</a></li>
+                <li><a href="/research/research_restoration.php">Restoration and Management</a></li>
+                <li><a href="/research/research_threats.php">Forest Threats</a></li>
+                <li><a href="/research/research_values.php">Forest Values</a></li>
+                <li><a href="/research/research_analysis.php">Forest Inventory &amp; Analysis</a></li>
+                <li><a href="/locations/forests">Experimental Forests</a></li>
+                <li><a href="/rna">Research Natural Areas</a></li>
+              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/pubs">Publications</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/pubs">Search Publications</a></li>
+                <li><a href="/pubs/new-publications">New Publications</a></li>
+                <li><a href="/compass">CompassLive</a></li>
+                <li><a href="/soundresearch">Sound Research</a></li>
+                <li><a href="/futures">Southern Forest Futures Project</a></li>
+                                <li><a href="mailto:pubrequest@fs.fed.us" title="Order Publications">Order Publications</a></li>
+              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/products">Products</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/video">Videos</a></li>
+                <li><a href="/pubs">Publications</a></li>
+                <li><a href="/products/tools">Tools and Data</a></li>
+                <li><a href="/products/story-maps">Story Maps</a></li>
+                                <li><a href="/products/marketing">Marketing Materials</a></li>
+                <li><a href="/products/courses">Courses &amp; Webinars</a></li>
+                              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/news">News</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/news/releases">News Releases</a></li>
+                <!-- <li><a href="/news/srs-in-the-news">In the News</a></li> -->
+                <li><a href="/news/events">Upcoming Events</a></li>
+                <li><a href="/news/events/past-events">Past Events</a></li>
+                <li><a href="/news/media-contacts">Media Contacts</a></li>
+              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/staff">People</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/staff">All Employees</a></li>
+                <li><a href="/staff/scientists">Scientists</a></li>
+                <li><a href="/staff/directors">Directors</a></li>
+                <li><a href="/women-in-science">Women in Science</a></li>
+              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/locations">Locations</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/locations/unit">Research Work Units</a></li>
+                <li><a href="/locations/forests">Experimental Forests</a></li>
+              </ul>
+            </li>
+            <li class="has-submenu">
+              <a href="/about-the-station">About Us</a>
+              <ul class="submenu menu vertical" data-submenu>
+                <li><a href="/about-the-station/history">History</a></li>
+                <li><a href="/strategic-framework">Strategic Framework</a></li>
+                <li><a href="/video/were-forest-service">We're the Forest Service</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+        <!-- / .top-bar-left -->
+
+                <div class="top-bar-right" id="search">
+          <form accept-charset="UTF-8" action="//search.usa.gov/search" id="search_form" method="get">
+            <input name="utf8" type="hidden" value="&#x2713;">
+            <input id="affiliate" name="affiliate" type="hidden" value="usfssouthernresearchstation">
+            <ul class="menu" style="width: 240px;">
+              <li class="menu-search-list">
+                <label for="query" class="show-for-sr" style="color: #010101;">Search</label>
+                <input type="search" class="usagov-search-autocomplete site-search-input" placeholder="Search" autocomplete="off" id="query" name="query">
+              </li>
+              <li><button type="submit" name="commit" value="Search" class="button site-search-button"><i class="fa fa-search"></i><span class="show-for-sr"> Search</span></button></li>
+            </ul>
+          </form>
+          <span class="small"><a href="https://www.fs.fed.us/research/search/" target="_blank" style="color: white !important;">Search all of R&amp;D</a></span>
+        </div>
+        <!-- / #search -->
+
+      </div>
+      <!-- / .row -->
+    </div>
+    <!-- / .top-bar -->
+
+  </div>
+  <!-- / .site-header-inner -->
+</header>
+<!-- / .site-header -->
+
+    <div class="row" id="main">
+
+      <div class="small-10 small-centered medium-8 columns content">
+        <h3 style="margin-top:2rem;">Page Not Found</h3>
+        <p class="lead">We're sorry, but the requested content could not be located. It is possible that the content has changed location.</p>
+
+        <form method="get" action="http://search.usa.gov/search">
+          <input name="utf8" type="hidden" value="&#x2713;">
+          <input type="hidden" name="affiliate" value="usfssouthernresearchstation">
+          <div class="input-group">
+            <span class="input-group-label"><label for="query-field"><i class="fa fa-search"></i><span class="show-for-sr">Search the Site</span></label></span>
+            <input type="text" name="query" id="query-field" autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all input-group-field" autofocus>
+            <div class="input-group-button">
+              <input type="submit" class="button" value="Search">
+            </div>
+          </div>
+        </form>
+
+        <p>You can help us improve the website by reporting this error at <a href="mailto:srswebmaster@fs.fed.us">srswebmaster@fs.fed.us</a>. Please note when you encountered the error, as well as the link that brought you here.</p>
+      </div>
+
+    </div>
+    <!-- / #main row -->
+
+    <footer class="site-footer">
+
+  <div class="footer-srs band">
+    <div class="row">
+      <div class="small-12 medium-6 large-6 columns">
+        <h4 class="footer-heading">About the Station</h4>
+        <p>The Southern Research Station is one of seven units that make up the U.S. Forest Service Research and Development organization – the most extensive natural resources research organization in the world.</p>
+        <h4 class="footer-heading">Follow Us</h4>
+        <ul class="vertical large-horizontal menu">
+          <li><a href="https://twitter.com/usfs_srs" title="The Southern Research Station's Twitter page" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+          <li><a href="https://www.facebook.com/southernresearchstation/"><i class="fa fa-facebook"></i> Facebook</a></li>
+          <li><a href="https://www.srs.fs.usda.gov/compass/" title="Subscribe to the CompassLive newsletter"><i class="fa fa-newspaper-o"></i> CompassLive Newsletter</a></li>
+                  </ul>
+        <div class="clearfix">
+        <h4 class="footer-heading" style="float:left;padding-right:10px;">Translate This Website:</h4>
+        <div id="google_translate_element" style="float:left;margin-top:14px;"></div><script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,es,fr,zh-CN', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-1701108-1'}, 'google_translate_element');
+        }
+        </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+        </div>
+      </div>
+
+      <div class="small-6 medium-6 large-3 columns">
+        <h4 class="footer-heading">Contact Us</h4>
+        <div class="address microdata" itemscope itemtype="https://schema.org/Organization">
+          <b class="organization-name" itemprop="name">Southern Research Station</b>
+          <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+            <span itemprop="streetAddress">200 W.T. Weaver Blvd.</span>
+            <br>
+            <span itemprop="addressLocality">Asheville</span>,
+            <span itemprop="addressRegion"><abbr title="North Carolina">NC</abbr></span>
+            <span itemprop="postalCode">28804-3454</span>
+          </div>
+          <abbr title="Telephone">Tel</abbr>: <span itemprop="telephone">828-257-4832</span>
+          <br>
+          <abbr title="Text Telephone">TTY</abbr>: <span itemprop="telephone">828-259-0503</span>
+          <br>
+          <a href="mailto:srswebmaster@fs.fed.us" title="Email SRS webmaster" itemprop="email">Email Webmaster</a>
+          <br>
+          <a href="/news/media-contacts">Media Contacts</a>
+        </div>
+        <!-- / address -->
+      </div>
+
+      <div class="small-6 medium-6 large-3 columns">
+        <nav class="footer-nav-fs">
+          <h4 class="footer-heading">National Forest Service Information</h4>
+          <ul class="vertical menu">
+            <li><a href="https://www.fs.fed.us/about-agency" title="About the National Forest Service" target="_blank">About the Forest Service</a></li>
+            <li><a href="https://www.fs.fed.us/about-agency/newsroom" title="National Forest Service news" target="_blank">News</a></li>
+            <li><a href="https://www.fs.fed.us/working-with-us/jobs" title="National Forest Service jobs" target="_blank">Jobs</a></li>
+            <li><a href="https://www.fs.fed.us/maps/" title="National Forest Service maps" target="_blank">Maps</a></li>
+            <li><a href="https://www.fs.fed.us/faq/" title="National Forest Service frequently asked questions" target="_blank"><abbr title="Frequently Asked Questions">FAQ</abbr></a></li>
+            <li><a href="https://www.fs.fed.us/about-agency/contact-us" title="Contact the National Forest Service" target="_blank">Contact</a></li>
+          </ul>
+        </nav>
+      </div>
+
+    </div>
+    <!-- / row -->
+  </div>
+
+  <div class="footer-national band">
+    <div class="row">
+      <nav class="footer-nav-national small-6 medium-6 large-12 columns">
+        <ul class="vertical large-horizontal menu">
+          <li><a href="https://www.usda.gov/" title="United States Department of Agriculture home page" target="_blank">USDA.gov</a></li>
+          <li><a href="https://www.fs.fed.us/" title="National Forest Service home page" target="_blank">National Forest Service</a></li>
+          <li><a href="https://www.fs.fed.us/research/" title="National Forest Service Research and Development home page" target="_blank">National Forest Service R&amp;D</a></li>
+          <!-- <li><a href="">Research.gov</a></li> -->
+          <!-- <li><a href="">Data.gov</a></li> -->
+        </ul>
+      </nav>
+
+      <nav class="footer-nav-national2 small-6 medium-6 large-12 columns">
+        <ul class="vertical large-horizontal menu">
+          <li><a href="https://www.usa.gov/" title="USA.gov: The U.S. Government's Official Web Portal" target="_blank">USA.gov</a></li>
+          <li><a href="https://www.foia.gov/" title="Freedom of Information Act home page" target="_blank"><abbr title="Freedom of Information Act">FOIA</abbr></a></li>
+          <li><a href="https://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=ACCESSIBILITY_STATEM" title="USDA Accessibility Statement" target="_blank">Accessibility Statement</a></li>
+          <li><a href="https://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=PRIVACY_POLICY" title="USDA Privacy Policy" target="_blank">Privacy Policy</a></li>
+          <li><a href="https://www.fs.fed.us/about-agency/disclaimers-important-notices" title="Forest Service Non-Discrimination Statement" target="_blank">Non-Discrimination Statement</a></li>
+          <li><a href="https://www.ocio.usda.gov/policy-directives-records-forms/information-quality-activities" title="Office of the Chief Information Officer Information Quality" target="_blank">Information Quality</a></li>
+          <li><a href="https://www.usda.gov/wps/portal/usda/usdahome?navid=PLAIN_WRITING" title="USDA Plain Writing Act" target="_blank">Plain Writing</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+
+</footer>
+
+<script src="/js/app.js"></script>
+
+      </body>
+</html>

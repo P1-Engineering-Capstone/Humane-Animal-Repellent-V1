@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-GB" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="en-GB" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="pingback" href="http://summersdale.com/xmlrpc.php" />
+<link rel="stylesheet" type="text/css" media="all" href="http://summersdale.com/wp-content/themes/summersdale/style.css" />
+<!--[if lt IE 9]>
+<script src="http://summersdale.com/wp-content/themes/summersdale/js/html5.js" type="text/javascript"></script>
+<![endif]-->
+
+<!-- This site is optimized with the Yoast SEO plugin v6.1.1 - https://yoa.st/1yg?utm_content=6.1.1 -->
+<title>Page not found | Summersdale</title>
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page not found | Summersdale" />
+<meta property="og:site_name" content="Summersdale" />
+<meta property="og:image" content="http://summersdale.com/wp-content/uploads/2016/10/summersdale-logo1x-1.png" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Page not found | Summersdale" />
+<meta name="twitter:site" content="@Summersdale" />
+<meta name="twitter:image" content="http://summersdale.com/wp-content/uploads/2016/10/summersdale-logo1x-1.png" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/summersdale.com\/","name":"Summersdale","alternateName":"Summersdale Publishers Ltd","potentialAction":{"@type":"SearchAction","target":"https:\/\/summersdale.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":false,"sameAs":["https:\/\/www.facebook.com\/Summersdale-Publishers-133747931503\/","https:\/\/www.instagram.com\/summersdalepublishers\/","https:\/\/www.youtube.com\/channel\/UCDLVjIWGYt_gvmnrA_aj6MA","https:\/\/uk.pinterest.com\/summersdale\/","https:\/\/twitter.com\/Summersdale"],"@id":"#organization","name":"Summersdale Publishers Ltd","logo":"http:\/\/summersdale.com\/wp-content\/uploads\/2016\/10\/summersdale-logo1x-1.png"}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//fast.fonts.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='prefix-style-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/bookswarm-social-bartender/css/sb-styles-2ad57fc78caa613cc79767dd512bd3a2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bookswarm-support-style-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/bookswarm-support/styles/bookswarm-support-styles-2ad57fc78caa613cc79767dd512bd3a2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb_instagram_styles-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/instagram-feed/css/sb-instagram.min-1.6.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sb-font-awesome-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A400%2C400italic%2C700&#038;ver=2ad57fc78caa613cc79767dd512bd3a2' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts2-css'  href='//fast.fonts.net/cssapi/c73967d0-f772-42a3-8fd9-adc547101115.css?ver=2ad57fc78caa613cc79767dd512bd3a2' type='text/css' media='all' />
+<link rel='stylesheet' id='flexslider-css'  href='https://cdn.jsdelivr.net/flexslider/2.6.2/flexslider.css?ver=2ad57fc78caa613cc79767dd512bd3a2' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/themes/summersdale/css/bootstrap-1.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/themes/summersdale/css/main-1.0.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/mediaelementplayer-legacy.min-4.2.6-78496d1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/wp-mediaelement.min-2ad57fc78caa613cc79767dd512bd3a2.css' type='text/css' media='all' />
+<link rel='stylesheet' id='views-pagination-style-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/wp-views/embedded/res/css/wpv-pagination-2.5.2.css' type='text/css' media='all' />
+<style id='views-pagination-style-inline-css' type='text/css'>
+.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item a {color: #444;background-color: #fff;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default a:focus {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-default .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #eee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item {border-color: #cdcdcd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item a {color: #444;background-color: #eeeeee;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey a:focus {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-grey .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #e5e5e5;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue > span.wpv-sort-list,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item {border-color: #0099cc;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item a {color: #444;background-color: #cbddeb;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:hover,.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue a:focus {color: #000;background-color: #95bedd;}.wpv-sort-list-dropdown.wpv-sort-list-dropdown-style-blue .wpv-sort-list-item.wpv-sort-list-current a {color: #000;background-color: #95bedd;}
+</style>
+<link rel='stylesheet' id='fancybox-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min-1.6.2.css' type='text/css' media='screen' />
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-1.12.4.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/jquery/jquery-migrate.min-1.4.1.js'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/classie/1.0.1/classie.js?ver=1'></script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/flexslider/2.6.2/jquery.flexslider-min.js?ver=1'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+var mejsL10n = {"language":"en","strings":{"mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Turn off Fullscreen","mejs.fullscreen-on":"Go Fullscreen","mejs.download-video":"Download Video","mejs.fullscreen":"Fullscreen","mejs.time-jump-forward":["Jump forward 1 second","Jump forward %1 seconds"],"mejs.loop":"Toggle Loop","mejs.play":"Play","mejs.pause":"Pause","mejs.close":"Close","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.time-skip-back":["Skip back 1 second","Skip back %1 seconds"],"mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.mute-toggle":"Mute Toggle","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.ad-skip":"Skip ad","mejs.ad-skip-info":["Skip in 1 second","Skip in %1 seconds"],"mejs.source-chooser":"Source Chooser","mejs.stop":"Stop","mejs.speed-rate":"Speed Rate","mejs.live-broadcast":"Live Broadcast","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/mediaelement-and-player.min-4.2.6-78496d1.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/mediaelement-migrate.min-2ad57fc78caa613cc79767dd512bd3a2.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='https://summersdale.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://summersdale.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://summersdale.com/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//summersdale.com/?wordfence_lh=1&hid=38BF58A7255B82B32248BFC26C207627');
+</script><link rel="icon" href="https://summersdale.com/wp-content/uploads/2016/09/cropped-Spine-Logo_512px-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://summersdale.com/wp-content/uploads/2016/09/cropped-Spine-Logo_512px-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://summersdale.com/wp-content/uploads/2016/09/cropped-Spine-Logo_512px-180x180.png" />
+<meta name="msapplication-TileImage" content="https://summersdale.com/wp-content/uploads/2016/09/cropped-Spine-Logo_512px-270x270.png" />
+
+<!-- Easy FancyBox 1.6.2 using FancyBox 1.3.8 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpg"]:not(.nolightbox), a[href*=".jpeg"]:not(.nolightbox,li.nolightbox>a), area[href*=".jpeg"]:not(.nolightbox), a[href*=".png"]:not(.nolightbox,li.nolightbox>a), area[href*=".png"]:not(.nolightbox)';
+	jQuery(fb_IMG_select).addClass('fancybox image');
+	var fb_IMG_sections = jQuery('div.gallery');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a').fancybox( jQuery.extend({}, fb_opts, { 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : false, 'titlePosition' : 'over', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+}
+var easy_fancybox_auto = function(){
+	/* Auto-click */
+	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
+}
+/* ]]> */
+</script>
+</head>
+
+<body class="error404 cbp-spmenu-push" data-surname="-surname">
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.6&appId=715916028498350";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<nav class="cbp-spmenu cbp-spmenu-vertical cbp-spmenu-left" id="cbp-spmenu-s1">
+	<div id="mobile-menu">
+		<div id="menuClose"><img src="http://summersdale.com/wp-content/themes/summersdale/images/close.png" alt="Close menu"></div>
+		<div class="menu-menu-1-container"><ul id="menu-menu-1" class="nav-menu"><li id="menu-item-7582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7582"><a href="https://summersdale.com/">Home</a></li>
+<li id="menu-item-7581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7581"><a href="https://summersdale.com/books/">Books</a>
+<ul class="sub-menu">
+	<li id="menu-item-12400" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12400"><a href="https://summersdale.com/subject/colouring-journals/">Colouring &#038; Journals</a></li>
+	<li id="menu-item-12401" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12401"><a href="https://summersdale.com/subject/food-drink/">Food &#038; Drink</a></li>
+	<li id="menu-item-12402" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12402"><a href="https://summersdale.com/subject/general-interest/">General Interest</a></li>
+	<li id="menu-item-12404" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12404"><a href="https://summersdale.com/subject/humour-gift/">Gift &#038; Humour</a></li>
+	<li id="menu-item-12403" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12403"><a href="https://summersdale.com/subject/health/">Health</a></li>
+	<li id="menu-item-12405" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12405"><a href="https://summersdale.com/subject/memoir-biography/">Memoir &#038; Biography</a></li>
+	<li id="menu-item-12407" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12407"><a href="https://summersdale.com/subject/mind-body-spirit/">Mind, Body &#038; Spirit</a></li>
+	<li id="menu-item-12408" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12408"><a href="https://summersdale.com/subject/pregnancy-parenting/">Pregnancy &#038; Parenting</a></li>
+	<li id="menu-item-12409" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12409"><a href="https://summersdale.com/subject/puzzles-games/">Puzzles &#038; Games</a></li>
+	<li id="menu-item-12410" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12410"><a href="https://summersdale.com/subject/sport/">Sport</a></li>
+	<li id="menu-item-12412" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12412"><a href="https://summersdale.com/subject/travel-writing/">Travel Writing</a></li>
+	<li id="menu-item-12413" class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12413"><a href="https://summersdale.com/subject/true-crime/">True Crime</a></li>
+</ul>
+</li>
+<li id="menu-item-7580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="https://summersdale.com/authors/">Authors</a></li>
+<li id="menu-item-19734" class="no-click menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19734"><a href="https://summersdale.com/imprints/">Imprints</a>
+<ul class="sub-menu">
+	<li id="menu-item-19738" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19738"><a href="https://summersdale.com/imprints/summersdale/">Summersdale</a></li>
+	<li id="menu-item-19743" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19743"><a href="https://summersdale.com/imprints/vie/">Vie Books</a></li>
+	<li id="menu-item-19748" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19748"><a href="https://summersdale.com/imprints/huck-pucker/">Huck &#038; Pucker</a></li>
+</ul>
+</li>
+<li id="menu-item-7579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7579"><a href="https://summersdale.com/trade/">Trade</a>
+<ul class="sub-menu">
+	<li id="menu-item-15548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15548"><a href="https://summersdale.com/trade/foreign-distribution-representation/">Overseas Distribution and Representation</a></li>
+	<li id="menu-item-15511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15511"><a href="https://summersdale.com/trade/special-sales/">Special Sales</a></li>
+	<li id="menu-item-15553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15553"><a href="https://summersdale.com/trade/rights/">Rights</a></li>
+</ul>
+</li>
+<li id="menu-item-7578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7578"><a href="https://summersdale.com/press/">Press</a>
+<ul class="sub-menu">
+	<li id="menu-item-15545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15545"><a href="https://summersdale.com/press/press-releases/">Press Releases</a></li>
+</ul>
+</li>
+<li id="menu-item-13000" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13000"><a href="https://summersdale.com/news/">News</a></li>
+<li id="menu-item-7577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7577"><a href="https://summersdale.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li id="menu-item-15507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15507"><a href="https://summersdale.com/about-us/jobs/">Careers</a></li>
+	<li id="menu-item-15506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15506"><a href="https://summersdale.com/about-us/work-experience/">Work Experience</a></li>
+	<li id="menu-item-15505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15505"><a href="https://summersdale.com/about-us/competition-terms-conditions/">Competition Terms and Conditions</a></li>
+	<li id="menu-item-15635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15635"><a href="https://summersdale.com/about-us/submissions-procedure/">Submissions Procedure</a></li>
+</ul>
+</li>
+<li id="menu-item-7576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7576"><a href="https://summersdale.com/contact-us/">Contact us</a></li>
+</ul></div>	</div>
+</nav>
+<div id="wrapper">
+<header id="masthead" role="banner">
+	<div id="top-bar">
+		<div class="container">
+			<div class="social-links">
+				<div class="widget-odd widget-last widget-first widget-1 widget sh_sb_widget_class"><div class="social-icons"><a href="https://twitter.com/Summersdale" class="sh-sb-link " target="_blank"><img src="http://summersdale.com/wp-content/themes/summersdale/images/sb-icons/twitter.png" alt="Summersdale on Twitter" class="sh-sb-icon" /></a><a href="https://www.facebook.com/Summersdale-Publishers-133747931503/" class="sh-sb-link " target="_blank"><img src="http://summersdale.com/wp-content/themes/summersdale/images/sb-icons/facebook.png" alt="Summersdale on Facebook" class="sh-sb-icon" /></a><a href="https://uk.pinterest.com/summersdale/" class="sh-sb-link " target="_blank"><img src="http://summersdale.com/wp-content/themes/summersdale/images/sb-icons/pinterest.png" alt="Summersdale on Pinterest" class="sh-sb-icon" /></a><a href="https://www.youtube.com/channel/UCDLVjIWGYt_gvmnrA_aj6MA" class="sh-sb-link " target="_blank"><img src="http://summersdale.com/wp-content/themes/summersdale/images/sb-icons/youtube.png" alt="Summersdale on YouTube" class="sh-sb-icon" /></a><a href="https://www.instagram.com/summersdalepublishers/" class="sh-sb-link " target="_blank"><img src="http://summersdale.com/wp-content/themes/summersdale/images/sb-icons/instagram.png" alt="Summersdale on Instagram" class="sh-sb-icon" /></a></div></div>			</div>
+			<div class="tagline">Books to inform, entertain and inspire</div>
+			<div class="search">
+				<form role="search" method="get" class="search-form" action="https://summersdale.com/">
+	<label>
+		<span class="hidden">SEARCH</span>
+		<input type="text" class="search-field" value="" name="s" title="Search for:" />
+	</label>
+	<input type="submit" class="search-submit" value="Go" />
+</form>			</div>
+		</div>
+	</div>
+	<div id="title" class="container">
+		<h1 class="hidden">Summersdale</h1>
+		<a href="https://summersdale.com">
+			<img src="http://summersdale.com/wp-content/themes/summersdale/images/summersdale-logo1x.png" srcset="http://summersdale.com/wp-content/themes/summersdale/images/summersdale-logo1x.png 1x, http://summersdale.com/wp-content/themes/summersdale/images/summersdale-logo2x.png 2x" alt="Summersdale">
+		</a>
+	</div>
+	<nav id="site-navigation" role="navigation">
+		<div class="menu-menu-1-container"><ul id="menu-menu-2" class="nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-7582"><a href="https://summersdale.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7581"><a href="https://summersdale.com/books/">Books</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12400"><a href="https://summersdale.com/subject/colouring-journals/">Colouring &#038; Journals</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12401"><a href="https://summersdale.com/subject/food-drink/">Food &#038; Drink</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12402"><a href="https://summersdale.com/subject/general-interest/">General Interest</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12404"><a href="https://summersdale.com/subject/humour-gift/">Gift &#038; Humour</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12403"><a href="https://summersdale.com/subject/health/">Health</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12405"><a href="https://summersdale.com/subject/memoir-biography/">Memoir &#038; Biography</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12407"><a href="https://summersdale.com/subject/mind-body-spirit/">Mind, Body &#038; Spirit</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12408"><a href="https://summersdale.com/subject/pregnancy-parenting/">Pregnancy &#038; Parenting</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12409"><a href="https://summersdale.com/subject/puzzles-games/">Puzzles &#038; Games</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12410"><a href="https://summersdale.com/subject/sport/">Sport</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12412"><a href="https://summersdale.com/subject/travel-writing/">Travel Writing</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-subject menu-item-12413"><a href="https://summersdale.com/subject/true-crime/">True Crime</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7580"><a href="https://summersdale.com/authors/">Authors</a></li>
+<li class="no-click menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19734"><a href="https://summersdale.com/imprints/">Imprints</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19738"><a href="https://summersdale.com/imprints/summersdale/">Summersdale</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19743"><a href="https://summersdale.com/imprints/vie/">Vie Books</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19748"><a href="https://summersdale.com/imprints/huck-pucker/">Huck &#038; Pucker</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7579"><a href="https://summersdale.com/trade/">Trade</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15548"><a href="https://summersdale.com/trade/foreign-distribution-representation/">Overseas Distribution and Representation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15511"><a href="https://summersdale.com/trade/special-sales/">Special Sales</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15553"><a href="https://summersdale.com/trade/rights/">Rights</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7578"><a href="https://summersdale.com/press/">Press</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15545"><a href="https://summersdale.com/press/press-releases/">Press Releases</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13000"><a href="https://summersdale.com/news/">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7577"><a href="https://summersdale.com/about-us/">About us</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15507"><a href="https://summersdale.com/about-us/jobs/">Careers</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15506"><a href="https://summersdale.com/about-us/work-experience/">Work Experience</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15505"><a href="https://summersdale.com/about-us/competition-terms-conditions/">Competition Terms and Conditions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15635"><a href="https://summersdale.com/about-us/submissions-procedure/">Submissions Procedure</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7576"><a href="https://summersdale.com/contact-us/">Contact us</a></li>
+</ul></div>	</nav><!-- #site-navigation end -->
+	<div id="mobile-toggle">
+	  <button id="showLeft">Menu</button>
+	</div>
+</header><!-- #masthead end-->
+	<section id="content" class="container">
+		<div class="row">
+			<div class="col-xs-12">
+				<h1>404: page not found</h1>
+				<p>Sorry but the page you are looking for could not be found. Please use the menu above or go to the <a href="https://summersdale.com">homepage</a>.</p>
+			</div>
+		</div><!-- /.row -->
+	</section><!-- /.container -->
+
+<footer id="footer">
+	<div id="subscribe">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					
+                <div class='gf_browser_unknown gform_wrapper' id='gform_wrapper_1' ><a id='gf_1' class='gform_anchor' ></a><form method='post' enctype='multipart/form-data' target='gform_ajax_frame_1' id='gform_1'  action='/images/Cats-in-the-Belfry.jpg#gf_1'>
+                        <div class='gform_heading'>
+                            <span class='gform_description'>Sign up to our newsletter for exclusives and offers:</span>
+                        </div>
+                        <div class='gform_body'><ul id='gform_fields_1' class='gform_fields top_label form_sublabel_below description_below'><li id='field_1_1' class='gfield field_sublabel_below field_description_below gfield_visibility_visible' ><label class='gfield_label' for='input_1_1' >Email</label><div class='ginput_container ginput_container_email'>
+                            <input name='input_1' id='input_1_1' type='text' value='' class='large' tabindex='50'   placeholder='EMAIL'  aria-invalid="false"/>
+                        </div></li>
+                            </ul></div>
+        <div class='gform_footer top_label'> <input type='submit' id='gform_submit_button_1' class='gform_button button' value='Subscribe' tabindex='51' onclick='if(window["gf_submitting_1"]){return false;}  window["gf_submitting_1"]=true;  ' onkeypress='if( event.keyCode == 13 ){ if(window["gf_submitting_1"]){return false;} window["gf_submitting_1"]=true;  jQuery("#gform_1").trigger("submit",[true]); }' /> <input type='hidden' name='gform_ajax' value='form_id=1&amp;title=&amp;description=1&amp;tabindex=1' />
+            <input type='hidden' class='gform_hidden' name='is_submit_1' value='1' />
+            <input type='hidden' class='gform_hidden' name='gform_submit' value='1' />
+            
+            <input type='hidden' class='gform_hidden' name='gform_unique_id' value='' />
+            <input type='hidden' class='gform_hidden' name='state_1' value='WyJbXSIsIjMwNDU3ZTBmZmZmZjI5NWQ5MTEzNWYxNWY3NWI3ZjY3Il0=' />
+            <input type='hidden' class='gform_hidden' name='gform_target_page_number_1' id='gform_target_page_number_1' value='0' />
+            <input type='hidden' class='gform_hidden' name='gform_source_page_number_1' id='gform_source_page_number_1' value='1' />
+            <input type='hidden' name='gform_field_values' value='' />
+            
+        </div>
+                        </form>
+                        </div>
+                <iframe style='display:none;width:0px;height:0px;' src='about:blank' name='gform_ajax_frame_1' id='gform_ajax_frame_1'>This iframe contains the logic required to handle Ajax powered Gravity Forms.</iframe>
+                <script type='text/javascript'>jQuery(document).ready(function($){gformInitSpinner( 1, 'http://summersdale.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery('#gform_ajax_frame_1').load( function(){var contents = jQuery(this).contents().find('*').html();var is_postback = contents.indexOf('GF_AJAX_POSTBACK') >= 0;if(!is_postback){return;}var form_content = jQuery(this).contents().find('#gform_wrapper_1');var is_confirmation = jQuery(this).contents().find('#gform_confirmation_wrapper_1').length > 0;var is_redirect = contents.indexOf('gformRedirect(){') >= 0;var is_form = form_content.length > 0 && ! is_redirect && ! is_confirmation;if(is_form){jQuery('#gform_wrapper_1').html(form_content.html());if(form_content.hasClass('gform_validation_error')){jQuery('#gform_wrapper_1').addClass('gform_validation_error');} else {jQuery('#gform_wrapper_1').removeClass('gform_validation_error');}setTimeout( function() { /* delay the scroll by 50 milliseconds to fix a bug in chrome */ jQuery(document).scrollTop(jQuery('#gform_wrapper_1').offset().top); }, 50 );if(window['gformInitDatepicker']) {gformInitDatepicker();}if(window['gformInitPriceFields']) {gformInitPriceFields();}var current_page = jQuery('#gform_source_page_number_1').val();gformInitSpinner( 1, 'http://summersdale.com/wp-content/plugins/gravityforms/images/spinner.gif' );jQuery(document).trigger('gform_page_loaded', [1, current_page]);window['gf_submitting_1'] = false;}else if(!is_redirect){var confirmation_content = jQuery(this).contents().find('.GF_AJAX_POSTBACK').html();if(!confirmation_content){confirmation_content = contents;}setTimeout(function(){jQuery('#gform_wrapper_1').replaceWith(confirmation_content);jQuery(document).scrollTop(jQuery('#gf_1').offset().top);jQuery(document).trigger('gform_confirmation_loaded', [1]);window['gf_submitting_1'] = false;}, 50);}else{jQuery('#gform_1').append(contents);if(window['gformRedirect']) {gformRedirect();}}jQuery(document).trigger('gform_post_render', [1, current_page]);} );} );</script><script type='text/javascript'> if(typeof gf_global == 'undefined') var gf_global = {"gf_currency_config":{"name":"U.S. Dollar","symbol_left":"$","symbol_right":"","symbol_padding":"","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/summersdale.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/summersdale.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render', function(event, formId, currentPage){if(formId == 1) {if(typeof Placeholders != 'undefined'){
+                        Placeholders.enable();
+                    }} } );jQuery(document).bind('gform_post_conditional_logic', function(event, formId, fields, isInit){} );</script><script type='text/javascript'> jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render', [1, 1]) } ); </script>				</div>
+			</div>
+		</div>
+	</div><!-- /#subscribe -->
+	<div id="credits">
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12 col-sm-7">
+					<p>&copy; Summersdale Publishers Ltd 2018 <span class="pipe">|</span> Made by <a href="http://bookswarm.co.uk/" target="_blank">Bookswarm</a><span class="pipe">|</span></p><div class="menu-footer-container"><ul id="menu-footer" class="nav-menu"><li id="menu-item-12393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12393"><a href="https://summersdale.com/terms-conditions/">Terms &#038; conditions</a></li>
+<li id="menu-item-12392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12392"><a href="https://summersdale.com/privacy-policy/">Privacy policy</a></li>
+</ul></div>				</div>
+				<div class="col-xs-12 col-sm-5" id="imprints-list">
+					<p>Our imprints:</p>
+					<a href="/imprints/summersdale/"><img src="http://summersdale.com/wp-content/themes/summersdale/images/Summersdale_footer_logo.png" alt="Summersdale"></a>
+					<a href="/imprints/vie/"><img src="http://summersdale.com/wp-content/themes/summersdale/images/Vie_footer_logo.png" alt="Vie Books"></a>
+					<a href="/imprints/huck-pucker/"><img src="http://summersdale.com/wp-content/themes/summersdale/images/HP_footer_logo.jpg" alt="Huck & Pucker"></a>
+				</div>
+			</div>
+		</div>
+	</div><!-- /#credits -->
+</footer>
+</div><!-- /#wrapper -->
+<script type="text/html" id="tmpl-wp-playlist-current-item">
+	<# if ( data.image ) { #>
+	<img src="{{ data.thumb.src }}" alt="" />
+	<# } #>
+	<div class="wp-playlist-caption">
+		<span class="wp-playlist-item-meta wp-playlist-item-title">&#8220;{{ data.title }}&#8221;</span>
+		<# if ( data.meta.album ) { #><span class="wp-playlist-item-meta wp-playlist-item-album">{{ data.meta.album }}</span><# } #>
+		<# if ( data.meta.artist ) { #><span class="wp-playlist-item-meta wp-playlist-item-artist">{{ data.meta.artist }}</span><# } #>
+	</div>
+</script>
+<script type="text/html" id="tmpl-wp-playlist-item">
+	<div class="wp-playlist-item">
+		<a class="wp-playlist-caption" href="{{ data.src }}">
+			{{ data.index ? ( data.index + '. ' ) : '' }}
+			<# if ( data.caption ) { #>
+				{{ data.caption }}
+			<# } else { #>
+				<span class="wp-playlist-item-title">&#8220;{{{ data.title }}}&#8221;</span>
+				<# if ( data.artists && data.meta.artist ) { #>
+				<span class="wp-playlist-item-artist"> &mdash; {{ data.meta.artist }}</span>
+				<# } #>
+			<# } #>
+		</a>
+		<# if ( data.meta.length_formatted ) { #>
+		<div class="wp-playlist-item-length">{{ data.meta.length_formatted }}</div>
+		<# } #>
+	</div>
+</script>
+
+<div id="views-extra-css-ie7" style="display:none;" aria-hidden="true">
+<!--[if IE 7]><style>
+.wpv-pagination { *zoom: 1; }
+</style><![endif]-->
+</div>
+
+<script type="text/javascript">
+jQuery( document ).ready( function( $ ) {
+	var extra_css = $( "#views-extra-css" ) ? $( "#views-extra-css" ).text() : null;	if( extra_css ) {		$( 'head' ).append( '<style style="text/css" media="screen">' + extra_css + '</style>' );
+		$( "#views-extra-css" ).remove();	}
+	$( 'head' ).append( $( "#views-extra-css-ie7" ).html() );
+	$( "#views-extra-css-ie7" ).remove();});
+</script>
+<!-- Tracking code easily added by NK Google Analytics -->
+<script type="text/javascript"> 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ 
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), 
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); 
+ga('create', 'UA-15393429-1', 'auto'); 
+ga('send', 'pageview'); 
+</script> 
+<link rel='stylesheet' id='gforms_reset_css-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/css/formreset.min-2.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/css/formsmain.min-2.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/css/readyclass.min-2.2.5.css' type='text/css' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css'  href='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/css/browsers.min-2.2.5.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var sb_instagram_js_options = {"sb_instagram_at":"1247797339.3a81a9f.6c2e99ad8fe047f2bd66ee0edd88aedd"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/instagram-feed/js/sb-instagram.min-1.6.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/themes/summersdale/js/functions-1.0.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/jquery/ui/core.min-1.11.4.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/jquery/ui/datepicker.min-1.11.4.js'></script>
+<script type='text/javascript'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/wp-mediaelement.min-2ad57fc78caa613cc79767dd512bd3a2.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/underscore.min-1.8.3.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/wp-util.min-2ad57fc78caa613cc79767dd512bd3a2.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/backbone.min-1.2.3.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-includes/js/mediaelement/wp-playlist.min-2ad57fc78caa613cc79767dd512bd3a2.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpv_pagination_local = {"front_ajaxurl":"http:\/\/summersdale.com\/wp-admin\/admin-ajax.php","calendar_image":"http:\/\/summersdale.com\/wp-content\/plugins\/wp-views\/embedded\/res\/img\/calendar.gif","calendar_text":"Select date","datepicker_min_date":null,"datepicker_max_date":null,"resize_debounce_tolerance":"100","datepicker_style_url":"http:\/\/summersdale.com\/wp-content\/plugins\/wp-views\/vendor\/toolset\/toolset-common\/toolset-forms\/css\/wpt-jquery-ui\/jquery-ui-1.11.4.custom.css"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/wp-views/embedded/res/js/wpv-pagination-embedded-2.5.2.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/js/jquery.json.min-2.2.5.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/js/gravityforms.min-2.2.5.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/gravityforms/js/placeholders.jquery.min-2.2.5.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min-1.6.2.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/easy-fancybox/js/jquery.easing.min-1.4.0.js'></script>
+<script type='text/javascript' src='https://summersdale.com/wp-content/cache/busting/1/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min-3.1.13.js'></script>
+<script type="text/javascript">
+jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create"]').addClass('nolightbox'); });
+jQuery(document).on('ready post-load',easy_fancybox_handler);
+jQuery(document).on('ready',easy_fancybox_auto);</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b1d2f4bae4","applicationID":"48405420","transactionName":"blJRYENVWBAEBhEKClcYcldFXVkNSlFVVw==","queueTime":0,"applicationTime":984,"atts":"QhVGFgtPS09HBEdZHkRK","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

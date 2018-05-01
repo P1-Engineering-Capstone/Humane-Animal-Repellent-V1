@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+
+	
+		
+
+		
+
+		<!-- Description, Keywords and Author -->
+		
+		
+		
+
+		
+
+		<!-- Styles -->
+		<!-- Bootstrap CSS -->
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	
+
+	
+
+		<!-- Outer Starts -->
+		<html><head><base href="assets/" id="acbd46d7-39e0-df7e-01d1-ff0acf687c0b"><meta charset="utf-8" id="d914176d-6426-4ab1-eedb-64b62d9af2ba"><style id="css_snippets"></style><link rel="stylesheet" href="css/slick-theme.css" id="36669370-05dc-df88-f705-79b12db80972"><link rel="stylesheet" href="css/slick.css" id="fba35046-3b3a-d94d-ed38-64907747f581"><script id="ga_code">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-71637537-14', 'auto');ga('send', 'pageview');</script><link rel="icon" type="image/x-icon" href="img/61345.png" id="0c4b6f04-3ea5-e059-c71c-74dacafb0c54"><link href="css/justifiedGallery.min.css" rel="stylesheet" type="text/css" id="1f071218-dba8-8c2c-f89f-758c86637b59"><link href="css/lightgallery.min.css" rel="stylesheet" type="text/css" id="e263cb0c-322b-20fe-a549-14b23610dbe8"><link href="css/ekko-lightbox.min.css" rel="stylesheet" type="text/css" id="8e4a7966-6a28-2057-e331-62552f35fd98"><link href="css/animate.min.css" rel="stylesheet" type="text/css" id="5a78cb4b-9121-0213-63d4-24246032d35a"><link href="css/custom.css" rel="stylesheet" type="text/css" id="43fe0d85-2a08-c985-2a41-3d84daffa0fa"><link href="css/styles/style.css" rel="stylesheet" type="text/css" id="afe14c69-99b3-617f-2647-b1804f73fc77"><link href="css/ionicons.min.css" rel="stylesheet" type="text/css" id="da20a5d5-8ff8-9371-40ec-3b22d68d30b3"><link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" id="0301afcc-e410-24d4-1fbc-6785161163c7"><link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" id="0b6d5402-1a52-0544-6af3-46bd83f1bd6a"><meta name="viewport" content="width=device-width, initial-scale=1.0" id="56426f78-323d-c92d-3c2b-a33a4eead683"><meta name="author" content="TGM Creative" id="e7d4b650-b0e8-504a-2772-8dbcbbbee187"><meta name="keywords" content="Kiwi, Taranaki, Organisation, Trust, Brown Kiwi,"/ id="aa4d58a8-d6c8-d712-7254-bc7e84ac38b2"><meta name="description" content="Taranaki Kiwi Trust is an independent, charitable organisation working throughout the Taranaki region to protect Western North Island Brown Kiwi."/ id="e4e897d0-b85d-872d-fb09-17c7569735e0"><div id="header_snippets"><meta name="google-site-verification" content="Dj4YQThYZjr-wMB2pATWZ-8shjLxFUVUYa0G1Y_1HpM" id="41ff36fe-9a0a-6a30-0693-6fa037d2c58e"></div><title>Taranaki Kiwi Trust - Home</title></head><body data-spy="scroll" data-target="#navbar-collapse" data-offset="121"><div class="outer brambl-theme" id="04d2d003-5034-d42a-8c2a-747343439dd2" style="background: url(img/68446.jpg) center center / cover no-repeat fixed;"><script id="gtm-snippet"></script>
+
+		<style id="brambl-editor-styles">@media (min-width: 768px) {
+  nav.navbar > div { position: relative; top: 30px; }
+}@media (min-width: 768px) {
+  #brambl-content > div:first-of-type { padding-top: 120px; }
+}@media (min-width: 768px) {
+  nav.navbar { min-height: 120px; }
+}.brambl-theme h2 { font-family: Overlock; font-weight: 700; font-style: italic; font-size: 30px; line-height: 40px; }.brambl-theme h3 { font-family: Overlock; font-size: 25px; line-height: 37px; }.brambl-theme h5 { font-family: Overlock; font-weight: 600; font-style: normal; font-size: 18px; line-height: 30px; }.brambl-theme .container, .brambl-theme nav > .container { max-width: 1150px; }.brambl-header nav.navbar.navbar-default li > a { font-family: Oxygen; font-size: 18px; line-height: 20px; }</style>
+		<style id="brambl-colours">.brambl-theme { color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); }.brambl-theme p { margin-bottom: 5px; }.brambl-theme .container-type { background-color: rgb(255, 255, 255); }.brambl-theme a { color: rgb(253, 199, 11); }.brambl-theme a:hover { color: rgb(0, 0, 0); }.brambl-theme a.btn, .brambl-theme button.btn { color: rgb(255, 255, 255); margin-bottom: 0px; background-color: rgb(48, 76, 112); }.brambl-theme a.btn:hover, .brambl-theme button.btn:hover { }.brambl-theme h1 { color: rgb(0, 0, 0); margin-bottom: 2px; }.brambl-theme h2 { color: rgb(0, 0, 0); margin-bottom: 2px; }.brambl-theme h3 { color: rgb(0, 0, 0); margin-bottom: 2px; }.brambl-theme h4 { color: rgb(253, 199, 11); margin-bottom: 2px; }.brambl-theme h5 { color: rgb(0, 0, 0); margin-bottom: 2px; }.brambl-theme h6 { color: rgb(0, 0, 0); margin-bottom: 2px; }.brambl-theme .brambl-footer { background-color: rgb(0, 0, 0); color: rgb(255, 255, 255); }nav.navbar.navbar-default { background: linear-gradient(to right, rgb(255, 255, 255), rgb(255, 255, 255)), url(img/68446.jpg) center top; }nav.navbar .navbar-collapse.collapse.in { background-color: rgb(255, 255, 255); }nav.navbar .navbar-collapse.collapsing { background-color: rgb(255, 255, 255); }.brambl-theme .brambl-header nav.navbar .nav .dropdown-menu { background-color: rgb(255, 255, 255); }.brambl-theme .brambl-header nav.navbar .nav .dropdown-menu a { color: rgb(0, 0, 0); }.brambl-theme .brambl-header nav.navbar .nav .dropdown-menu .divider { background-color: rgb(0, 0, 0); }.brambl-theme .brambl-header nav.navbar .navbar-toggle { background-color: rgb(0, 0, 0); border-color: rgb(255, 255, 255); }.brambl-header nav.navbar.navbar-default li > a { color: rgb(0, 0, 0); }.brambl-theme .brambl-header nav.navbar .navbar-toggle span.fa-bars { background-color: rgb(255, 255, 255); }.brambl-theme .brambl-header nav.navbar .navbar-toggle span.icon-bar { background-color: rgb(255, 255, 255); }.brambl-theme .brambl-header nav.navbar .nav > li > a:hover { color: rgb(0, 0, 0); background-color: inherit; }.brambl-theme .brambl-header nav.navbar .nav > li > a:focus { color: rgb(0, 0, 0); background-color: inherit; }.brambl-theme .brambl-header nav.navbar .nav > li.active > a { color: rgb(0, 0, 0); background-color: inherit; }.brambl-theme .brambl-header nav.navbar .nav .dropdown-menu a:hover { color: rgb(0, 0, 0); }.brambl-theme .brambl-header nav.navbar .nav .dropdown-menu a:focus { color: rgb(0, 0, 0); }</style>
+
+			<!-- Header two Starts -->
+			<div class="header-2 brambl-header" id="43936ef4-28d6-39ae-4787-bcbb8539403c">
+				<nav class="navbar navbar-default navb navbar-fixed-top" role="navigation" id="6ff4cf8c-d413-a7a7-e7c3-5502a30ebedd" style="
+    background-image: url(img/68446.jpg);
+    border-bottom: #304c70 solid 2px;
+">
+					<div class="container" id="dcdd5e35-f976-9a7d-e9a0-6c4ef716840b">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header" id="16c10bc5-ee21-b55f-8e80-409ae08d8586">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse" id="4c2991ff-a91f-3284-2b6e-3b14f44f6ef1" style="">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand visible-xs-block page-scroll navbar-left" href="/" style="height: 40px;position:relative;top:5px" id="26f4ed30-94d0-8abd-3849-eca14776d640">
+								<img src="img/61306.png" alt="" style="height: 40px" id="09f65f36-f05c-219e-2343-82411b3bb4a7">
+							</a>
+						</div>
+
+						<div class="collapse navbar-collapse" id="navbar-collapse" style="text-align: center;">
+							
+							<a class="navbar-brand page-scroll hidden-xs center-block navbar-left" href="/" style="height: 100px; position: relative; top: -20px; float: none;" id="620ef7d5-5bf9-d665-4567-36929ad86ea9">
+								<img src="img/61306.png" alt="" style="height: 100px;" id="3795904c-c967-8f54-2536-12eadc2110fe">
+							</a><ul class="nav navbar-nav center-block navbar-right" id="bcf115f3-0c13-f0a7-9d9a-032177600dab" style="float: none; display: inline-block; vertical-align: top;"><li id="36a6c0a0-bfd0-5c46-5540-255dead10934"><a nettl-link="" href="/index" data-target="/index" id="b37e8c41-bd36-822f-b2d4-dbad0f3e5e45">Home</a></li><li id="8a3359d7-3c9c-0081-ab3b-d00c77fa5e2b"><a nettl-link="" href="/our-kiwi" data-target="/our-kiwi" id="3538494e-0701-6a97-1c60-5b4a7de9f0a8">Our Kiwi</a></li><li class="dropdown" dropdown="" id="5f7eabff-02a6-124b-6938-2c7977b0bfe2"><a href="#" nettl-link="" class="dropdown-toggle" dropdown-toggle="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="616faea4-2b67-6388-cfc9-2c1661b7bd8c">Our Projects     <span class="caret"></span> </a><ul class="dropdown-menu" role="menu" id="ceafe288-c0da-682e-744f-1d0242102d13"><li id="45d30f0a-03e5-3ffa-80d8-ba8136cfec8e"><a href="/kohanga-kiwi" id="a4d44f64-87b4-e776-d497-2620becd6dd1">Kohanga Kiwi      </a></li><li id="f520d1f3-c9c6-0d23-2643-7cf2a19a01da"><a href="/mount-taranaki" id="f5686509-fe49-185b-7587-2d3cbe5f6b75">Mount Taranaki      </a></li><li id="eb5fa6b8-4bf5-2e63-d540-731cbd896c64"><a href="/community-kiwi-protection-programme" id="c853623c-ba8c-095b-b213-1f831d7476d9">Community Kiwi Protection Programme      </a></li><li id="4cbc53cb-0c5b-ca4d-edad-61e2ad70aaa5"><a href="/education" id="ac84b7e9-7ea6-54fd-ba3c-600bcd4180db">Education      </a></li></ul></li><li class="dropdown" dropdown="" id="1706ca04-3202-fe5c-fdc7-4daf780a44aa"><a href="#" nettl-link="" class="dropdown-toggle" dropdown-toggle="" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" id="1f760ed6-13e5-fd20-f527-3201ea0c1de4">Help The Kiwi                <span class="caret"></span> </a><ul class="dropdown-menu" role="menu" id="59a848ef-9fb8-a620-2e33-6eb494c40c5a"><li id="bf20218f-693b-088c-3116-a7572b15a737"><a href="/sponsor" id="745ec0d4-47c1-da02-419a-8f1d58f7de3d">Sponsor             </a></li><li id="6c850c74-7266-52cb-5f19-7ab694c79932"><a href="/donate" id="928e85be-417b-6d81-d105-2dc41b7a709b">Donate                 </a></li><li id="7166c130-7033-5fb8-7749-a4d4b9d1764c"><a href="/what-you-can-do" id="5b483bb2-0751-3ec3-02d0-573060dd9532">What can you do         </a></li><li id="1ed28f88-6a45-bb3a-1ee1-cf61bb991e13"><a href="/injured-kiwi" id="4913a75e-9732-5016-36c5-059a64ce7554">Injured Kiwi  </a></li></ul></li><li id="2c5f83fa-068a-9685-19d5-157a3dc7bb44"><a nettl-link="" href="/about-the-kiwi" data-target="/about-the-kiwi" id="a06b290b-333e-0fe7-ba9f-a0fa8c4d720c">About The Kiwi</a></li><li id="867bca6a-d1fc-b054-c17f-d5e1a4654598"><a nettl-link="" href="/news" data-target="/news" id="c77a842b-85e0-80ba-f830-8f64a37cbf99">News</a></li></ul>
+						</div>
+					</div>
+				</nav>
+
+			</div>
+
+			<!-- Header two ends -->
+
+			<!-- Main content starts -->
+
+			<div class="container-type container-fluid" id="fadaf5b6-d311-61c3-41e8-2ea205deccc8">
+				<div id="brambl-content">
+
+
+<div class="row hidden-md hidden-lg" nettl-droppable="row" id="1368e97d-6607-6e61-4ac2-4df1351c8fa2" style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/68446.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: scroll, fixed; background-size: cover, cover;">
+	<div class="col-md-12 col-sm-12 editing" nettl-droppable="column" id="930a954a-f10c-0c0c-5e1b-d5f5b15bdb73" style="background: none; margin: 0px; padding: 0px;">
+		<img class="img-responsive" src="img/68942.jpg" alt="" id="94a22078-8063-2cba-65d2-d5078b40853c" contenteditable="false" width="100%" height="100%">
+	</div>
+</div><div class="row hidden-xs hidden-sm" nettl-droppable="row" id="79511862-21b0-f7ee-3aef-4a4d20e4b7f8" style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/68446.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: scroll, fixed; min-height: 200px; padding-top: 120px; padding-bottom: 0px; background-size: cover, cover;">
+	<div class="col-sm-12 col-md-12 editing" style="padding-right: 0;padding-left: 0" nettl-droppable="column" id="63d02d01-9896-0cd8-9f45-f0d7d47c71ec">
+		<div class="carousel slide" id="36c2c3ef-c8f3-f08b-80af-d3e44d5f00b3" data-ride="carousel" data-interval="7000" style="height: 600px">
+			<ol class="carousel-indicators" id="0f84ffbc-19c1-07be-e61a-a7bd8f0ca484"><li data-target="#36c2c3ef-c8f3-f08b-80af-d3e44d5f00b3" data-slide-to="0" class="" id="5319b08c-3ff2-d480-6c0d-370065458b91"></li><li data-target="#36c2c3ef-c8f3-f08b-80af-d3e44d5f00b3" data-slide-to="1" class="active" id="4091b992-c3e4-fc30-6d82-88264581512d"></li></ol>
+
+			<div class="carousel-inner" id="80a567cc-8dde-35c6-49f6-df63e849f29b">
+				
+				
+			<div class="item" id="d54f956b-1b26-3ce1-756c-f5192f99846e">
+					<div data-imgsrc="img/68942.jpg" style="background-image: url(img/68942.jpg); background-size: cover; height: 600px;" id="32de430c-32e5-0c52-c7c1-eb6daf6914b7"></div>
+					<div class="carousel-caption" id="3a7a8ea4-95f7-520a-d6d0-7b07bc9d8714">
+						<h3 id="141836d6-b211-eed6-e464-eb30d96c7cce" class="" contenteditable="false" style="color: rgb(255, 255, 255);">Save the kiwi</h3>
+
+						<p id="0d4a2458-cab5-b0d9-5666-e7c2a25dae27" class="" contenteditable="false">Help reinstate a kiwi population on Mount Taranaki</p><a class="btn btn-default" href="/sponsor" id="2ce46577-0a58-5cfa-cc06-dc23d800fdf0" contenteditable="false" target="" style="border-color: rgb(48, 76, 112);">Sponsor a kiwi</a>
+					</div>
+				</div><div class="item active" id="28a06708-fdf4-737b-0a16-958b825972ca">
+					<div data-imgsrc="img/69140.jpg" style="background-image: url(img/69140.jpg); background-size: cover; height: 600px;" id="9f3af98a-8fc3-7e8d-548a-272be3f75fbd"></div>
+					<div class="carousel-caption" id="80e0e9b1-da31-e77b-eb9e-af559f7d032c">
+						<h3 id="651aeeac-59ae-a75c-3905-ac83711c7496" class="" contenteditable="false" style="color: rgb(255, 255, 255);">Protect the kiwi</h3>
+
+						<p id="b073ccc9-6385-0cc4-2057-3b2327a61cb6" class="" contenteditable="false">Help us expand protected kiwi areas in Taranaki</p><a class="btn btn-default" href="/donate" id="e3c70742-c76e-be5d-8de2-53ccc973561b" contenteditable="false" target="" style="border-color: rgb(48, 76, 112); line-height: 25px;">Make a donation</a>
+					</div>
+				</div></div>
+
+			<a class="left carousel-control" href="#36c2c3ef-c8f3-f08b-80af-d3e44d5f00b3" role="button" data-slide="prev" id="163cef91-1ce1-c8ab-215e-d244b4d26b20">
+				<span class="glyphicon glyphicon-chevron-left icon-prev" id="4396da59-5bbc-cf53-ce2d-ff2bd60dc344"></span>
+			</a>
+			<a class="right carousel-control" href="#36c2c3ef-c8f3-f08b-80af-d3e44d5f00b3" role="button" data-slide="next" id="c50f1d82-3708-2a86-123d-2db8d3e2a1cb">
+				<span class="glyphicon glyphicon-chevron-right icon-next" id="01c77b77-a865-7b11-7f9f-6bb619c9d372"></span>
+			</a>
+
+		</div>
+
+	</div>
+</div><div class="row" id="f902e980-e0f9-39ea-b642-8763db8bfe0c" nettl-droppable="row" style="background-image: linear-gradient(to right, rgba(48, 76, 112, 0), rgba(48, 76, 112, 0)), url(img/68446.jpg); background-attachment: scroll, fixed; background-size: cover, cover; background-position: center center; background-repeat: no-repeat; min-height: 200px; padding-top: 80px; padding-bottom: 50px;">
+	<div class="container" id="edf3b56f-82a9-b761-3499-e6ba021596a1">
+		<div class="col-sm-12 col-lg-12 editing" id="6cbea060-bd47-383e-4c87-e9f2c1026e5d" nettl-droppable="column" style="margin: 0px; padding: 20px 15px; background: none;">
+			<div class="text-center" id="656e691d-7893-ed61-a454-0d21398dede2">
+				<h3 id="3052e8f9-b469-538f-46d7-2d753d97e5ad" class="" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(0, 0, 0); text-align: left;">Kiwis protecting kiwi across Taranaki</h3>
+
+				
+			</div>
+		</div><div class="col-sm-6 col-lg-6" id="6593a0d2-dde6-d836-0b11-45684cbb4440" nettl-droppable="column">
+			<div class="text-center" id="f6a8095b-8eb7-75d1-07e8-f0e7037f5f12">
+				
+
+				<p contenteditable="false" class="" id="6c5dd1cc-ced0-c366-615e-65fe10f89efe" style="text-align: left; color: rgb(0, 0, 0);">Taranaki Kiwi Trust is a charitable trust working across Taranaki to protect Western Brown Kiwi in the wild. Kiwi are New Zealand’s iconic national bird, yet they are considered nationally vulnerable and without help they are likely to be extinct in the wild within two generations.  We are losing 2% of our un-managed populations every year.&nbsp;<br id="970cd7e7-6784-26ef-a9d8-6fe28a2d8c86"></p>
+			</div>
+		</div><div class="col-sm-6 col-lg-6 editing" id="7ef1069c-0288-2063-3d42-ad42064e0160" nettl-droppable="column">
+			<div class="text-center" id="32bbcb1d-6415-2066-5064-3543d6d7f5eb">
+				
+
+				<p id="d366c523-a29e-371a-af18-37ca3f51dbe9" class="" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.01) 0px 0px 1px; color: rgb(3, 3, 3); text-align: left;">Community involvement and engagement is an essential component for kiwi conservation, and this is a focus of the Taranaki Kiwi Trust (TKT).  We work across public and private land to protect kiwi.<br id="a5e171a1-3abd-93c1-fbdb-4c13d3674de3"></p>
+			</div>
+		</div><div class="col-sm-12 col-lg-12 editing" nettl-droppable="column" id="b643c0bb-e987-ca57-acad-f906a3500fbc" style="background: none; margin: 0px; padding: 30px 15px 0px;">
+			<div class="text-center" id="d9806bbf-ea7d-d98c-d237-4dca179e2962">
+				<a class="btn btn-default pull-left" href="/donate" id="e5a3bf40-fcb0-094e-ec54-54288f7e74c0" contenteditable="false" target="" style="border-color: rgb(48, 76, 112); border-width: 2px; border-radius: 3px; background-color: rgb(48, 76, 112); color: rgb(255, 255, 255); font-family: &quot;Open Sans&quot;; font-style: normal; font-size: 18px;">Donate to save kiwi in Taranaki</a>
+
+				
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="row" nettl-droppable="row" id="13a3776d-6d47-eee1-f4ee-c6addeaa2d2c" style="min-height: 50px; padding-top: 50px; padding-bottom: 0px; background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/68446.jpg); background-attachment: scroll, fixed; background-position: center center; background-repeat: no-repeat; background-size: cover, cover;">
+	<div class="container" id="61feb90f-1ec7-ec43-9d6c-55c4494b1172">
+		<div class="col-sm-12 col-lg-12" nettl-droppable="column" id="be1b3cb8-e900-3111-ddcc-68dacc6f31d4">
+			<div class="text-center" id="254dd074-1431-4d89-1042-c83819ac9a0b">
+				<h3 id="3b9d8461-584b-3a6a-8989-a8c9d1effcbc" class="" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(0, 0, 0);">Thanks to our supporters</h3>
+
+				
+			</div>
+		</div>
+	</div>
+</div><div class="row icon-box-1 text-center active" id="a3a3ecde-df5b-c404-cf6f-e55585619f0a" nettl-droppable="row" style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(img/68446.jpg); background-attachment: scroll, fixed; background-position: center center; background-repeat: no-repeat; background-size: cover, cover;">
+	<div class="container slick-carousel" id="d72537c5-729e-27ca-227b-9ef387bbf646" data-slick="{&quot;dots&quot;:true,&quot;arrows&quot;:false,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:5000,&quot;rows&quot;:1,&quot;slidesPerRow&quot;:2,&quot;slidesToShow&quot;:4,&quot;adaptiveHeight&quot;:true}">
+
+		<div class="col-md-6 col-sm-6 editing active" id="09b81dba-cbf3-6004-a399-18c2710e41b3" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61332.jpg" id="f63a4d6b-3e6d-c476-f0f4-17a96347944b" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="71faab35-40a3-e771-09fd-4e7f3fe3e2de" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61333.jpg" id="45090fe4-2da0-1aa5-86bb-89d0ce4b4ed8" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="b34b888d-6e60-473b-f29e-885092fa8a23" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61334.jpg" id="fb628341-7cdf-15c8-e309-093c972c839b" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="88bffa3b-7c53-173d-07d0-fa2d3a200ad4" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61335.jpg" id="1626e343-514e-58c9-904b-249e1419d299" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="934bea18-71a3-2bf2-5f55-ef079221a7b7" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61336.jpg" id="0b175ad7-330a-6074-ba5b-ba9e73d2d3ce" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="53c78ba4-6830-74e4-2864-479ceb5d2a50" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61337.jpg" id="14629123-3a73-ad1b-7ce8-301c5d0d35b2" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="75e1fd8d-2a64-081b-92ae-b7b28acec234" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61338.jpg" id="3437bc73-3710-c7aa-370a-8a6556b9e839" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="b0fc0620-1984-26e1-933e-d01da6f7721a" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61339.jpg" id="49495d65-d1f8-fdd8-bf3a-1c8c556bad30" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="2cbf4cc9-3960-63fb-281f-ee2ff137d605" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/67587.jpg" id="6def3c3e-d600-2996-472a-0a3f2b29e3af" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="08b50f62-075f-63eb-67a7-d74e944e099a" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/61341.jpg" id="13a0bfa5-bcf0-fe77-6d4d-197a4019551f" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="346b7aa3-e2cb-c07f-dece-3ba32f5c339e" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/67586.jpg" id="aa50e291-72c5-eded-838b-ff4feba92c50" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="5a1df7b1-2b70-dde5-ae64-1737017d0104" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/68142.jpg" id="e8c818df-fcbe-1493-e987-f4eec14a26b1" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="c5cc81a3-3cdd-5037-3750-d755f665ede9" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/68174.jpg" id="d7b82bae-b403-f6b7-b200-6c5b4e2aee95" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="735bb610-0da7-cac0-d62c-3d69a5b07d90" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/67588.jpg" id="b5ecb8c1-c918-ae89-29fe-d21b34a6eda0" contenteditable="false" width="100%" height="100%"></div><div class="col-md-6 col-sm-6 editing" id="6d0a99c8-681b-a504-51ec-cdbcd05f6e73" nettl-droppable="column">
+			
+		<img class="img-responsive center-block" src="img/68938.jpg" id="d931936c-ccb9-a538-9b4f-9758e1182de7" contenteditable="false" width="100%" height="100%"></div>
+		
+		
+		
+	</div>
+</div><div class="row" nettl-droppable="row" id="6fe963c5-22c1-4dc0-9171-f3bd5a5c9ddb" style="background-image: linear-gradient(to right, rgba(250, 250, 250, 0), rgba(250, 250, 250, 0)), url(img/68429.jpg); background-repeat: no-repeat; background-position: center center; background-attachment: scroll, fixed; min-height: 50px; padding-top: 100px; padding-bottom: 100px; background-size: cover, cover;">
+	<div class="container" id="5c86dc65-977b-5c53-ae57-daa691d6d90e">
+		<div class="col-sm-12 col-lg-12 editing" nettl-droppable="column" id="b482cfad-f51a-3760-1cc6-818f0490482f" style="background: none;">
+			
+		<h3 contenteditable="false" class="" id="b0d3887b-5ef1-f1e8-3320-f90aeb077013" style="text-align: center; color: rgb(255, 255, 255);"><p id="478b42e1-1d31-a38b-1a4e-ad7bd0d75c6b" class="" contenteditable="false" style="margin-bottom: 10px;">Keep up with the latest TKT news</p></h3></div><div class="col-sm-12 col-lg-12" nettl-droppable="column" id="7c1b2145-c1c7-d152-293a-9e082a2e7971" style="background: none;">
+			
+		<div class="button-centerer" style="text-align:center" id="57faf6ce-b8cb-edbd-9db0-7a8981e40c3b"><a class="btn btn-default" href="img/68515.pdf" id="5108d18a-a1e1-acd7-9de2-4a5e48b64256" contenteditable="false" target="_blank" style="border-color: rgb(48, 76, 112);">Read our newsletter</a></div></div>
+	</div>
+</div></div>
+			</div>
+
+			<!-- Foot Starts -->
+
+			<div class="brambl-footer" id="1f4bac20-a489-79be-323e-671a7af47fdc">
+				<!-- Container -->
+				<div class="container" id="3c821a0e-a6a5-b62a-4ad7-13c5e6542888">
+					<div class="row" id="7d323fc0-03bd-5f51-76a1-2e1dc48d1393" nettl-droppable="row" style="background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)); background-attachment: scroll; background-position: center center; background-repeat: no-repeat; background-size: cover;">
+						<div class="col-md-4 col-sm-6 editing" id="0767fee7-7f6b-f817-8b9b-0dd345cd8a55" nettl-droppable="column">
+
+							<h5 class="bold" id="8dc3fe34-82f5-bd81-b9b8-e0825c83d88b" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(255, 255, 255);">Contact Us</h5>
+
+							
+							<!-- Paragraph -->
+							<p class="add" id="78d88bfd-9605-9cce-a87f-0ed625d9a827" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px;">PO Box 308<br id="ee6cefa8-3c6e-bbc7-560b-d6908964b6e0">Stratford&nbsp;4352</p>
+							<p class="tel" id="67997efe-4103-0f0e-8cd9-439f94fcd795" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px;">Phone : 022 424 1933<br id="39085533-e47c-960d-f51b-ec7738e5b1ac">E-mail :&nbsp;<a id="b92e019f-0b4f-5b93-235d-58938240b124" href="mailto:contact@taranakikiwi.org.nz" class="" contenteditable="false" target="" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(255, 255, 255);">contact@taranakikiwi.org.nz</a><br id="269f3315-1821-7185-5282-4b466d284aee"></p><p class="tel" id="cec4fead-9462-a71e-5121-1f1bc41e5a08" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px;">Facebook: &nbsp;<a id="4ef8730d-650d-14d4-fe05-13a714bdc926" href="https://www.facebook.com/TaranakiKiwiTrust/?fref=ts" target="_blank" class="" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(255, 255, 255);">Taranaki Kiwi Trust</a><a href="mailto:contact@taranakikiwi.org.nz" id="77f6bdcb-a90d-3eab-139b-61b492269a29" class="" contenteditable="false" target="" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(48, 76, 112);"></a><br id="269f3315-1821-7185-5282-4b466d284aee"></p>
+						</div><div class="col-md-4 col-sm-6 editing" id="b615312e-4010-8433-e2b9-a042718f8a91" nettl-droppable="column">
+						<h5 contenteditable="false" class="" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px; color: rgb(255, 255, 255);" id="8a759b0d-19aa-a8b3-4cc2-c286b6aa8502">Sign up for TKT News</h5><p id="9f1af315-4c24-83ba-094f-0c7de0ffc7ca" class="" contenteditable="false" style="text-shadow: rgba(0, 0, 0, 0.00784314) 0px 0px 1px;">Receive regular news and updates.  Get involved in upcoming events and support the Taranaki Kiwi Trust.&nbsp;</p><a class="btn btn-default" href="http://eepurl.com/cre-4X" id="8058dbee-864e-e281-4f2f-4d50cd6f31ef" contenteditable="false" target="_blank" style="border-color: rgb(48, 76, 112);">Sign Up Now</a><a id="037284f1-1fb1-7ba1-85e2-549e956ec322" class="" href="https://www.facebook.com/TaranakiKiwiTrust/?fref=ts" target=""></a><a id="6801445b-888d-8faa-6c8a-e0a0bfa1044e" class="" href="www.paypal.co.nz" target=""></a></div><div class="col-md-4 col-sm-6 editing" id="190bc303-72a6-6789-7673-a7a6d5017811" nettl-droppable="column" style="background: none;">
+
+							
+							<div class="button-centerer" style="text-align:center" id="04128bd3-32f8-c1a9-0417-9639efda5a4d"><a class="btn btn-default" href="/donate" id="95e29111-50f3-675e-c6c9-862fba6e166f" contenteditable="false" target="" style="border-color: rgb(255, 255, 255); margin-bottom: 25px; background-color: rgb(255, 255, 255); color: rgb(48, 76, 112);">Make a donation</a></div><div class="button-centerer" style="text-align:center" id="3c35af22-a8dc-d943-3703-f190a1086019"></div>
+
+						</div><div class="col-md-4 col-sm-6" id="e7743e5d-7c85-ab97-b790-378f67879298" nettl-droppable="column" style="background: none;">
+
+							
+							<div class="button-centerer" style="text-align:center" id="ef970d82-4e4d-1ead-4812-d674b4a8078c"><a class="btn btn-default" href="/sponsor" id="dd87521f-a43e-cef4-32fc-731e72023748" contenteditable="false" target="" style="border-color: rgb(255, 255, 255); margin-bottom: 25px; background-color: rgb(255, 255, 255); color: rgb(48, 76, 112);">Sponsor a kiwi</a></div><div class="button-centerer" style="text-align:center" id="8493f97a-a778-62d0-0895-9fb7a17b737c"><a class="btn btn-default" href="mailto:michelle@taranakikiwi.org.nz" id="c91dd39b-fa8e-ad9f-cd85-50c6d41d45fe" contenteditable="false" target="" style="margin-bottom: 25px; border-color: rgb(48, 76, 112);">Report a sighting</a></div>
+
+						</div><div class="col-md-12 col-sm-12 active" id="f52809d3-dbd9-3220-7392-1f0c95e837c7" nettl-droppable="column" style="background: none; margin: 0px; padding: 40px 15px 0px;">
+
+							
+							
+
+						<p id="10fd0151-23a9-99e7-a949-73a6824c0a03" class="" contenteditable="false" style="text-align: center;">&nbsp;Copyright © 2018 Taranaki Kiwi Trust</p></div>
+						
+						
+						
+					</div>
+				</div>
+			</div>
+
+			<div class="modal fade" tabindex="-1" id="modalContainer" role="dialog" aria-hidden="true">
+				<div id="modalWrapper">
+
+				</div>
+			</div>
+
+		</div><span class="totop" style="display: inline;"><a href="#" id="ccdf0896-4490-ac72-beae-2975737dba12"><i class="fa fa-angle-up bg-color" id="24f40f1d-1cf8-cb38-6bb9-40f8d0b87156"></i></a></span><script src="js/jquery.js" id="ce0490aa-d57a-458b-b2df-435d01f85dc3"></script><script src="js/bootstrap.min.js" id="69b5b3bf-dec9-72e9-9b86-16484111c717"></script><script src="js/respond.min.js" id="1121382e-02a1-fd5e-ebe5-73fbe51d384c"></script><script src="js/html5shiv.js" id="17908a48-248c-dffc-b228-f35c1c800b29"></script><script src="js/main.js" id="5ce7f618-25a1-23b2-e781-f835f4c57eaf"></script><script src="js/jqBootstrapValidation.js" id="0d0a5c0c-5c2b-6e7c-fd1f-86a4287630ef"></script><script src="js/wow.js" id="adc0ff17-a129-57c2-6204-991c83265b89"></script><script src="js/ekko-lightbox.min.js" id="dc5a187c-f0fc-c359-bec9-94ea48499711"></script><script src="js/lightgallery-all.min.js" id="cca5647b-055e-2912-fe71-8484027f31ec"></script><script src="js/jquery.justifiedGallery.min.js" id="08784fed-797a-4ee7-516b-884a1276368f"></script><script type="text/javascript" id="5f03873f-25d8-cfd8-9db1-8ab9fe1f2afd">
+			new WOW( {mobile : false} ).init();
+		</script><script src="js/custom.js" id="bfac7d4a-e86a-7bac-7988-b892f7742f0a"></script><script src="js/slick.min.js" id="bff3fbed-50a5-663e-6e38-698d762296ac"></script><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oxygen:300,regular,700" id="84cf4ed0-383d-61b8-b00f-65f33d8a876a"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic" id="fe724fa4-2620-31c8-f90c-8f9c632adf4b"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Oswald:300,regular,700" id="0de39a0f-9501-32ef-7a34-c3e948904b43"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Overlock:regular,italic,700,700italic,900,900italic" id="ef405dc4-4e35-132e-c68e-142eb54c8e83"></body></html>
+
+		<!-- Outer Ends -->
+
+		<!-- Scroll to top -->
+		
+
+		<!-- Javascript files -->
+		<!-- jQuery -->
+		
+		<!-- Bootstrap JS -->
+		
+
+		<!-- Respond JS for IE8 -->
+		
+		<!-- HTML5 Support for IE -->
+		
+		<!-- Main JS -->
+		
+
+		
+
+		
+		
+		
+		
+
+		
+
+		<!-- Custom JS. Type your JS code in custom.js file -->
+		
+
+	
+

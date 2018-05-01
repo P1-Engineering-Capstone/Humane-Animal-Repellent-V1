@@ -1,0 +1,196 @@
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+            "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+    <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+        <meta name="author" content="CWcms"/>
+
+        <title></title>
+        <meta name="keywords" content=""/>
+        <meta name="description" content=""/>
+        <link rel="stylesheet" href="/skins/template10/stylesheet.css?v=2014021103" type="text/css" media="screen, projection"/>
+        <link rel="stylesheet" href="/skins/template10/colorbox.css" type="text/css" media="screen, projection"/>
+        <link rel="stylesheet" href="/skins/template10/javascript/waiting.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+        <script src="/skins/template10/general.js"></script>
+        <script src="/skins/template10/jquery.colorbox-min.js"></script>
+
+        <script src="/skins/template10/javascript/jquery.waiting.min.js"></script>
+
+        <script type="text/javascript">
+            // <![CDATA[
+            $(document).ready(function () {
+                $('.colorbox').colorbox({
+                    rel: "colorbox",
+                    current: "{current} / {total}"
+                });
+
+                /*wait overlay when changing variants*/
+                $("div#variants select").change(function () {
+                    $('body').waiting({fixed: true});
+                    /*$(this).siblings('#content').waiting({ fixed: true });*/
+                })
+            });
+
+
+            function tempAlert(msg, duration) {
+                var el = document.createElement("div");
+                el.setAttribute("style", "position:fixed;top:40%;left:50%;background-color:#e5e5e5;border:1px solid black;height:60px;width:200px;text-allign:center;color:#000;");
+                el.innerHTML = msg;
+                setTimeout(function () {
+                    el.parentNode.removeChild(el);
+                }, duration);
+                document.body.appendChild(el);
+            }
+
+            $(document).ready(function () {
+
+                $(".addToBasket button").click(function () {
+                    tempAlert("<br />Product is in winkelwagentje geplaatst!", 1500);
+                })
+
+            });
+
+
+            // ]]>
+        </script>
+    </head>
+    <body>
+
+    
+    <div id="wrapper">
+        <div id="header">
+            <img id="logo" src="/skins/template10/images/logo.gif"/>
+            <div id="imageSlider">
+                <img src="/skins/template10/images/headerImage.jpg"/>
+            </div>
+        </div><!--/header-->
+
+        <div id="leftColumn">
+            <div id="menu1">
+                <p>Menu</p>
+                <div id="productenMenu">
+                    <ul><li class="level1 hassub"><a  class="level1 hassub" href="/honden-en-kattten">Honden en katten</a><ul><li class="level2 hidden"><a  class="level2 hidden" href="/nl-nl/hond-en-kat/riemen-tuigjes-en-halsbanden/">Riemen, tuigjes en halsbanden</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/hond-en-kat-supplementen/">Supplementen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/wondverzorging-hond-en-kat/">Wondverzorging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/vachtverzorging-hond-en-kat/">Vachtverzorging</a></li><li class="level2 hidden"><a  class="level2 hidden" href="/nl-nl/hond-en-kat/training-en-opvoeding/">Training en Opvoeding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/manden-en-kussens/">Manden en Kussens</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/hond-en-kat-ontworming/">Ontworming</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/vlooien-teken-en-luizen/">Vlooien, teken en luizen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/hond-en-kat-voeding/">Voeding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/uitlaten-en-reizen/">Uitlaten en Reizen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/hondenspeelgoed/">Hondenspeelgoed</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/kattenspeelgoed/">Kattenspeelgoed</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/honden-hokken/">Hondenhokken</a></li><li class="level2 hidden"><a  class="level2 hidden" href="/nl-nl/hond-en-kat/chuckit-assessoires/">Chuckit accessoires</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/honden-en-katten-verjagen/">Honden en katten verjagen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/hond-en-kat/voer-en-drinkbakken-hond-en-kat/">Voer- en drinkbakken</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/paarden-producten">Paarden</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/voedingssupplementen/">Voedingsupplementen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/verzorgingsproducten/">Verzorgingsproducten</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/ontworming-ura/">Ontworming URA</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/poetsen-en-verzorging/">Poetsen en verzorging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/vliegenbestrijding/">Vliegenbestrijding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/lederverzorging/">Leder</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/beloningen/">Beloningen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/halsters-en-dekens/">Halsters en dekens</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/jolly-speelgoed/">Jolly speelgoed</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/paarden/ruiter/">Ruiter</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/koeien-producten">Koeien</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/bolussen-rundvee/">Bolussen rundvee</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/drachtigheid-en-kalveren/">Drachtigheid en kalveren</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/hulpmiddelen-koeien/">Hulpmiddelen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/ura-middelen-koeien/">URA middelen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/verzorging-koeien/">Verzorging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/vitaminen-en-mineralen/">Vitaminen en mineralen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/koeien/ziektes-en-aandoeningen-koe/">Ziektes en aandoeningen</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/schapen-producten">Schapen</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/drachtigheid-en-lammeren/">Drachtigheid en lammeren</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/hulpmiddelen-schaap/">Hulpmiddelen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/schapen-ura-ontworming/">URA ontworming</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/verzorging-schaap/">Verzorging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/voeding-schapen/">Voeding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/schapen/ziekte-en-aandoeningen-schaap/">Ziekte en aandoeningen</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/varkens-producten">Varkens</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/ura-middelen-varken/">URA middelen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/geboorte-varken/">Geboorte varkens</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/hulpmiddelen-varken/">Hulpmiddelen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/verzorging-varken/">Verzorging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/voeding-varken/">Voeding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/varkens/ziekte-en-aandoeningen-varkens/">Ziekte en aandoeningen</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/producten-ongediertebestrijding">Ongedierte Bestrijding</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/op-het-dier/">Op het dier</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/in-en-om-het-huis-en-stal/">In en om huis en stal</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/muggen-bestrijding/">Muggen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/maden-bestrijding/">Maden</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/wespen-bestrijding/">Wespen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/ratten-en-muizen-vergif/">Ratten en muizen vergif</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/ratten-vallen-en-voerdozen/">Rattenvallen en voerdozen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/muizen-vallen-en-voerdozen/">Muizenvallen en voerdozen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/ongedierte-verjagen/">Ongedierte verjagen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/vallen-en-vang-kooien/">Vallen en vangkooien</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/mollen-klemmen-en-vallen/">Mollenklemmen en -vallen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/ongedierte-bestrijding/bloedluis-bestrijding/">Bloedluis bestrijding</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/gevogelte-en-pluimvee">Gevogelte / Pluimvee</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/gevogelte-pluimvee/gevogelte-pluimvee-ontworming/">Gevogelte / Pluimvee ontworming</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/alles-voor-de-stal">Alles voor de Stal</a><ul><li class="level2 hidden"><a  class="level2 hidden" href="/nl-nl/stal-benodigdheden/buckler-veiligheidsschoenen-en-kleding/">Buckler veiligheidsschoenen en kleding</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/chip-readers/">Chip readers</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/emmers-en-gardes/">Emmers en Gardes</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/gereedschap/">Gereedschap</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/handschoenen/">Handschoenen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/hygiene-en-bezoekers/">Hygiene en bezoekers</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/stalinrichting/">Stalinrichting</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/top-overalls/">Top overalls</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/vorstbestrijding-en-warmte/">Vorstbestrijding en warmte</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/werksokken/">Werksokken</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/stal-benodigdheden/diversen/">Diversen</a></li></ul></li><li class="level1 hassub"><a  class="level1 hassub" href="/alles-voor-de-weide">Alles voor de Weide</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/weide/aarding-en-beveiliging/">Aarding en beveiliging</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/afrastering-testers/">Afrastering testers</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/batterijen/">Batterijen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/excellent-draad/">Excellent Draad</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/excellent-koord/">Excellent Koord</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/excellent-lint/">Excellent Lint</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/haspels-en-gereedschap/">Haspels en gereedschap</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/instappalen/">Instappalen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/isolatoren/">Isolatoren</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/poortgrepen/">Poortgrepen</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/schapen-en-pluimvee-netten/">Schapen- en pluimvee-netten</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/schrikdraadapparaten/">Schrikdraadapparaten</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/weide/verbindingen-en-spanners/">Verbindingen en spanners</a></li></ul></li><li class="level1 hidden  hassub"><a  class="level1 hidden  hassub" href="/nl-speelgoed">Speelgoed</a><ul><li class="level2 "><a  class="level2 " href="/nl-nl/speelgoed/bruder-traktoren/">Bruder tractoren</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/speelgoed/bruder-landbouw/">Bruder landbouw</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/speelgoed/bruder-grondverzet/">Bruder grondverzet</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/speelgoed/bruder-sleutelhangers/">Bruder sleutelhangers</a></li><li class="level2 "><a  class="level2 " href="/nl-nl/speelgoed/accesoires/">Accessoires</a></li></ul></li></ul>
+                </div>
+                <ul><li class="level1 "><a  class="level1 " href="/uw-klantgegevens">Uw klantgegevens</a></li><li class="level1 "><a  class="level1 " href="/klanten-registratie">Registreren</a></li><li class="level1 "><a  class="level1 " href="/">Home</a></li></ul>
+            </div>
+
+            
+            <div id="languageChoice">
+                <a href="/"><img src="/skins/template10/images/nederlands.png"/>Nederlands</a>
+                <a href="/home-duits"><img src="/skins/template10/images/duits.png"/>Deutsch</a>
+                <a href="/home-engels"><img src="/skins/template10/images/engels.png"/>English</a>
+            </div>
+
+            <div id="search">
+                <form method="get" action="/zoeken">
+                    <input type="text" name="query">
+                    <button type="submit">Zoeken</button>
+                </form>
+            </div>
+
+            <img id="ideal" src="/skins/template10/images/ideal.jpg" alt="Ideal logo"/>
+            <img id="paypal" src="/skins/template10/images/paypal.jpg" alt="Paypal logo"/>
+            <img id="sofort" src="/skins/template10/images/sofort.png" alt="Sofort logo"/>
+            <a href="http://www.mkbok.nl/keurmerk.php?url=dezingendesmid.nl" target="_blank"><img id="mkb-keurmerk"
+                                                                                                  src="/skins/template10/images/mkb-keurmerk.jpg"/></a>
+
+        </div>
+        <div id="content">
+            <br />De opgevraagde pagina is niet gevonden
+        </div><!--/content-->
+
+        <div id="rightcolumn">
+            		<div class="shoppingCartSmall">
+			<div class="header">Winkelmandje</div>
+			<div class="content">
+				Geen producten in winkelmandje.
+			</div>
+		</div><div class="basket">
+	<form id="removeFromBasket" method="post" action="">
+		<input type="hidden" name="action" value="removeFromBasket" />
+		<input type="hidden" name="id" value="" />
+	</form>
+	<form id="changeProductAmount" method="post" action="">
+		<input type="hidden" name="action" value="changeProductAmount" />
+		<input type="hidden" name="id" value="" />
+		<input type="hidden" name="amount" value="" />
+	</form>
+	<script type="text/javascript">
+
+		$("button.removeFromBasket").click(function () {
+
+			var id = $(this).parents("tr.product").attr("data-id");
+
+			$("#removeFromBasket input[name=id]").val(id);
+			$("#removeFromBasket").submit();
+
+		});
+
+		$("input.productAmount").change(function () {
+
+			var id = $(this).parents("tr.product").attr("data-id"),
+				amount = $(this).val();
+
+			$("#changeProductAmount input[name=id]").val(id);
+			$("#changeProductAmount input[name=amount]").val(amount);
+			$("#changeProductAmount").submit();
+
+		});
+
+	</script>
+</div>            <div class="header">Inloggen</div>
+            <div class="content">
+                <form method="post" action="/inloggen">
+                    <p>E-mail adres:</p>
+                    <input type="text" name="email"/>
+                    <p>Wachtwoord:</p>
+                    <input type="password" name="pass"/>
+                    <input type="submit" name="submitlogin" value="Login"/>
+                </form>
+                <a class="small" href="/inloggen?action=lostpass">Wachtwoord vergeten?</a>                                </div>
+            </div>
+
+            <div id="footer">
+                <p id="footerAdres">
+                    De Zingende Smid<br/>
+                    Zwanenveld 6<br/>
+                    6852 LX Huissen<br/>
+                    Tel: +31(0)26 32 54 208<br/>
+                    Fax: +31(0)26 32 75 828
+                </p>
+                <p>
+                    <a href="/contact">Contact</a> |
+                    <a href="/bestellen-en-verzenden">Bestellen &amp; Verzenden</a> |
+                    <a href="/privacy-verklaring">Privacy</a> |
+                    <a href="/leveringvoorwaarden">Leveringsvoorwaarden</a> |
+                    <a href="/retourneren">Retourneren</a>
+                </p>
+            </div><!--/footer-->
+
+        </div><!--/wrapper-->
+
+
+        <!-- Google Analytics -->
+        <script type="text/javascript">
+
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-3676952-1']);
+            _gaq.push(['_trackPageview']);
+
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+
+        </script>
+
+        
+
+    </body>
+    </html>
+

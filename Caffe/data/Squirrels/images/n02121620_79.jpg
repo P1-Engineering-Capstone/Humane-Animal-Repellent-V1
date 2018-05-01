@@ -1,0 +1,951 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en-US" class="pl no-js">
+<head>
+    <META http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta charset="UTF-8">
+        <title>410 Error: Page Removed</title>
+    
+
+    <meta name="viewport" content="width=device-width">
+   
+    <link rel="stylesheet" href="/css/style.css?v=2015-09-17-1018" media="all">
+    
+            
+     <script type="text/javascript" src="/scripts/js/vetmed-header-scripts-min.js"></script>  
+     <!--[if (lt IE 10)]>
+        <script type="text/javascript" src="/scripts/js/flexibility-min.js"></script>
+    <![endif]-->
+        
+    <!--[if (gte IE 6)&(lte IE 8)]>
+      <script type="text/javascript" src="/scripts/js/selectivizr.js"></script>
+      <noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+    <![endif]-->
+    
+        <!--//==================Google Anayltics Code=================-->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-831915-1', 'auto');
+ga('send', 'pageview');
+
+</script>
+<!--//==================END Google Analytics Code=================--> 
+
+</head>
+
+<body class="body">
+<div class="page" id="page">
+<header>
+<!-- Begin .header -->
+
+   
+
+   <div class="nav-bar page-header-topbar nocontent">
+    <div class="page-header-topbar-nav container" role="navigation">
+        <div class="audience-bar">
+            <div class="nav nav-audience-collapsed">
+                <a href="#" class="dropdown-menu-button" id="audience-drop-button">Resources for <i class="fa fa-angle-double-right"></i></a>
+                
+            </div>
+
+            <div class="nav nav-audience-wide">
+                <ul class="nav-audience menu menu-full">
+                    <li><a href="/resources/prospective-students.asp">Prospective Students</a>
+                    </li>
+                    <li><a href="/resources/current-students.asp">Students</a>
+                    </li>
+                    <li><a href="/resources/faculty-staff.asp">Faculty &amp; Staff</a>
+                    </li>
+                    <li><a href="/resources/veterinarians.asp">Veterinarians</a>
+                    </li>
+                    <li><a href="/resources/alumni.asp">Alumni</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="search-bar">
+          
+          <script>
+              (function() {
+                var cx = '011306667924803406921:bhr0t4zf50e';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                    '//cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+              })();
+            </script>
+            
+            <form method="get" id="searchform" class="inline-form search-form" id="searchbox_011306667924803406921:bhr0t4zf50e" action="/search.asp">
+
+                <fieldset class="search-field has-inset-button">
+                    <label for="search-input" class="is-vishidden">Search VA-MD Vet Med&hellip;</label>
+                    <div class="search-input-container">
+                        <input type="text" placeholder="Search" id="q" name="q" id="search-input" class="search-input" />
+                        <input value="011306667924803406921:bhr0t4zf50e" name="cx" type="hidden"/>
+                        <input value="FORID:11" name="cof" type="hidden"/>
+                        
+                        <input type="submit" id="searchsubmit" value="&#xf002&#x0000a0&#x0000a0" class="button button-icon button-search" />
+                    </div>
+                    <!--<a href="#" class="button button-icon button-search">Search</a>-->
+                </fieldset>
+
+            </form>
+
+        </div>
+        
+        <ul id="audience-dropdown" class="nav-audience menu menu-full">
+            <li><a href="/resources/prospective-students.asp">Prospective Students</a>
+            </li>
+            <li><a href="/resources/current-students.asp">Students</a>
+            </li>
+            <li><a href="/resources/faculty-staff.asp">Faculty &amp; Staff</a>
+            </li>
+            <li><a href="/resources/veterinarians.asp">Veterinarians</a>
+            </li>
+            <li><a href="/resources/alumni.asp">Alumni</a>
+            </li>
+                </ul>
+    </div>
+</div>
+<!-- End .header -->
+
+<div class="banner-site-header " role="">
+<div class="logo-bar container">
+<h1 class="is-vishidden">Virginia-Maryland College of Veterinary Medicine</h1>
+<div class="logo-page">
+<a href="/">
+<!--<img src="/images/logos/va-md-logo-short.png" class="logo-short" alt="Virgina-Maryland College of Veterinary Medicine" />-->
+</a>
+</div>
+
+    <nav id="nav-dropdown" class="nav-dropdown nocontent" role="navigation">
+        <a href="#" class="button button-theme-color" id="main-menu-button"><i class="fa fa-bars fa-lg"></i><span class="text-optional"> Menu</span></a>
+            <ul class="nav-list nav-primary-dropdown menu">
+
+            <li>
+    <a class="has-submenu" href="/about/">About</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu no-header">
+            <li><a href="/about/college-at-a-glance.asp">College at a Glance</a>
+            </li>
+            <li><a href="/about/mission.asp">Our Mission &amp; Values</a>
+            </li>
+            <li><a href="/about/accreditation.asp">Accreditation</a>
+            </li>
+            <li><a href="/about/directions.asp">Directions &amp; Maps</a>
+            </li>
+            <li><a href="/about/tours.asp">College Tours</a>
+            </li>
+            <li><a href="/about/college-admin.asp">College Administration</a>
+            </li>
+            <li><a href="/about/dean-bio.asp">Meet our Dean</a>
+            </li>
+            <li><a href="/about/diversity.asp">Diversity &amp; Inclusion</a>
+            </li>
+            <li><a href="/about/strategic-plan.asp">Strategic Plan</a>
+            </li>
+        </ul>
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/people/">People</a>
+    <div class="megamenu columns-3 medium">
+        <ul class="submenu no-header">
+            <li class="spacer"></li>
+            <li><a href="/people/directory.asp">College
+                                Directory</a>
+            </li>
+            <li><a href="/people/roster.asp">Faculty Roster</a>
+            </li>
+            <li><a href="/people/smom/">Staff Member of the Month</a>
+            </li>
+            <!--
+                        <li><a href="#">Student Clubs &amp; 
+                        Organizations</a>
+                        </li>
+                        -->
+        </ul>
+
+        <ul class="submenu-group columns-2-last">
+            <li class="submenu-header">Office Contacts
+            </li>
+            <li>
+                <ul class="submenu">
+                    <li><a href="/academics/dvm/contact.asp">Academic Affairs</a>
+                    </li>
+                    <li><a href="/alumni/contact.asp">Alumni Relations</a>
+                    </li>
+                    <li><a href="/about/dean-contacts.asp">Dean&rsquo;s Office</a>
+                    </li>
+                    <li><a href="/development/contact.asp">Development</a>
+                    </li>
+                    <li><a href="/information-systems/contact.asp">Information Systems</a>
+                    </li>
+                </ul>
+
+                <ul class="submenu no-header">
+                    <li><a href="/news/contacts.asp">Public Relations &amp;
+                                Communications</a>
+                    </li>
+                    <li><a href="/research/contact.asp">Research &amp; Graduate 
+                                Studies</a>
+                    </li>
+                    <li><a href="/clinical-trials/contact.asp">Veterinary Clinical Research
+                                Office</a>
+                    </li>
+                    <li><a href="/vth/admin.asp">Veterinary Teaching Hospital</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/education-and-research.asp">Education &amp;
+            Research</a>
+    <div class="megamenu columns-4">
+        <ul class="submenu">
+            <li class="submenu-header">Academic Programs
+            </li>
+            <li><a href="/academics/dvm/">Doctor of Veterinary Medicine
+                        (DVM) Professional Program</a>
+            </li>
+            <li><a href="/academics/bmvs/">Biomedical &amp; Veterinary Sciences
+                        (BMVS) PhD &amp; Masters Program</a>
+            </li>
+            <li><a href="/academics/mph/">Master of Public Health (MPH)
+                        Degree Program</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">Career &amp; Professional Training</li>
+            <li><a href="/career-training/cpcvm/">Center for Public &amp; Corporate Veterinary Medicine (CPCVM)</a>
+            </li>
+            <li><a href="/residency-internship/">Residencies &amp; Internships</a>
+            </li>
+            <li><a href="/continuing-education/">Continuing Education</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">
+                Departments
+            </li>
+            <li><a href="/departments/dbsp/">Biomedical Sciences &amp;
+                        Pathobiology</a>
+            </li>
+            <li><a href="/departments/dsacs/">Small Animal Clinical
+                        Sciences</a>
+            </li>
+            <li><a href="/departments/dlacs/">Large Animal Clinical 
+                        Sciences</a>
+            </li>
+            <li><a href="/departments/dphs/">Population Health Sciences</a>
+            </li>
+            <li><a href="/departments/md/">Veterinary Medicine at the
+                        University of Maryland</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">
+                Research
+            </li>
+            <li><a href="/research/">Research Home</a>
+            </li>
+            <li><a href="/clinical-trials/">Veterinary Clinical Research
+                        Office</a>
+            </li>
+
+            <li class="submenu-header">
+                Outreach
+            </li>
+            <li><a href="/centaur/">Center for Animal Human
+                        Relationships (CENTAUR)</a>
+            </li>
+            <li><a href="http://cphpr.mph.vetmed.vt.edu/" target="_blank">Center for Public Health Practice &amp; Research (CPHPR)</a>
+            </li>
+            <!--<li><a href="/international/">International Activities</a>
+            </li>-->
+            <li><a href="/extension/">Veterinary Extension 
+                        Services</a>
+            </li>
+        </ul>
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/hospitals.asp">Hospitals</a>
+    <div class="megamenu columns-4">
+
+        <ul class="submenu-group columns-3-of-4 submenu-hospital">
+            <li class="submenu-header">
+                <div class="spacer-1-line"></div>
+                <a href="/vth/">Veterinary Teaching Hospital</a>
+                <br>
+                <small>Blacksburg, VA</small>
+            </li>
+            <li>
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        <a href="/vth/small-animal/">Small Animal
+                              Services</a>
+                    </li>
+                    <li><a href="/vth/small-animal/">Small Animal Services Home</a>
+                    </li>
+                    <li><a href="/vth/small-animal/about-your-visit.asp">About Your Small Animal Visit</a>
+                    </li>
+                    <li><a href="/vth/small-animal/appointments.asp">Small Animal
+                                Appointments &amp; Emergencies</a>
+                    </li>
+                    <li><a href="/vth/small-animal/referrals.asp">Small Animal
+                                Referrals</a>
+                    </li>
+                    <li><a href="/vth/small-animal/faq.asp">Small Animal Services FAQ</a>
+                    </li>
+                    <li><a href="/vth/directions.asp#small-animal">Directions &amp; Parking</a>
+                    </li>
+                    <!--<li><a href="/vth/roanoke/"><strong class="color">Roanoke Referral Clinic</strong></a>
+                        <br>
+                        <small>Roanoke, VA</small>
+                    </li>-->
+                
+
+                </ul>
+
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        <a href="/vth/large-animal/">Large Animal Services</a>
+                    </li>
+
+                    <li><a href="/vth/large-animal/">Large Animal Services Home</a>
+                    </li>
+                    <li><a href="/vth/large-animal/about-your-visit.asp">About Your Large Animal Visit</a>
+                    </li>
+                    <li><a href="/vth/large-animal/appointments.asp">Large Animal
+                                Appointments &amp; Emergencies</a>
+                    </li>
+                    <li><a href="/vth/large-animal/referrals.asp">Large Animal
+                                Referrals</a>
+                    </li>
+                    <li><a href="/vth/services/equine/">Equine Field Service</a>
+                    </li>
+                    <li><a href="/vth/services/food-animal.asp">Food Animal Field Service</a>
+                    </li>
+                    <li><a href="/vth/directions.asp#large-animal">Directions &amp; Parking</a>
+                    </li>
+
+                </ul>
+
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        Other Services</li>
+                    <li><a href="/vth/services/">List of Clinical Services</a>
+                    </li>
+                    <li><a href="/lab-services/">ViTALS: Laboratory Services</a>
+                    </li>
+                    <li><a href="/clinical-trials/current-studies/">Clinical Trials</a>
+                    </li>
+                    <li><a href="/vth/services/pharmacy.asp">Pharmacy</a>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+
+
+        <ul class="submenu submenu-emc">
+            <li class="submenu-header">
+                <a href="https://emc.vetmed.vt.edu/" target="_blank">Marion duPont Scott<br>
+                      Equine Medical Center</a>
+                <br>
+                <small>Leesburg, VA</small>
+            </li>
+
+            <li><a href="https://emc.vetmed.vt.edu/" target="_blank">Equine Medical Center Home</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/clinical-services.html" target="_blank">EMC Clinical Services</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/about/maps-and-directions.html" target="_blank">Directions</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/about/veterinarians-and-staff.html" target="_blank">Our Veterinarians &amp; Staff</a>
+            </li>
+
+        </ul>
+
+
+
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/news/">News</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu">
+            <li><a href="/news/closer-look/">Featured Stories</a>
+            </li>
+            <li><a href="/news/press-releases.asp">Press Releases</a>
+            </li>
+            <li><a href="/news/vs/">Vital Signs Newsletter</a>
+            </li>
+            <li><a href="/news/tracks/">TRACKS Magazine</a>
+            </li>
+            <li><a href="/branding/">College Brand Guide</a>
+            </li>
+            <li><a href="/news/contacts.asp">News Contacts</a>
+            </li>
+        </ul>
+    </div>
+</li>
+
+
+<li><a class="has-submenu" href="/development/">Make a Gift</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu">
+            <li><a href="/development/">College Priorities</a>
+            </li>
+            <li><a href="/development/waystogive.asp">Ways to Give</a>
+            </li>
+            <!--<li><a href="/development/funds.asp">Fund Information</a>
+            </li>
+            <li><a href="/vet-memorial/">Veterinary Memorial Fund</a>
+            </li>-->
+            <li><a href="/development/contact.asp">Advancement Contacts</a>
+            </li>
+        </ul>
+    </div>
+</li>
+                <li><a href="https://intranet.vetmed.vt.edu" class="link-secure" target="_blank">Intranet</a></li>
+                <li><a href="http://www.calendar.vt.edu/index.php?calendar=vetmed" class="link-calendar" target="_blank">Calendar</a></li>
+
+        </ul>
+    </nav><ul class="nav-list nav-primary-reduced logo-bar-menu nocontent">
+    <li><a href="http://www.calendar.vt.edu/index.php?calendar=vetmed"><i class="fa fa-calendar"></i>Calendar</a>
+    </li>
+    <li><a href="https://intranet.vetmed.vt.edu/"><i class="fa fa-lock"></i>Intranet</a>
+    </li>
+</ul>
+
+</div>
+
+<div class="nav-primary-bar container">
+    <nav id="nav" class="nav" role="navigation">
+        <ul class="nav-list nav-primary menu">
+
+            <li>
+    <a class="has-submenu" href="/about/">About</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu no-header">
+            <li><a href="/about/college-at-a-glance.asp">College at a Glance</a>
+            </li>
+            <li><a href="/about/mission.asp">Our Mission &amp; Values</a>
+            </li>
+            <li><a href="/about/accreditation.asp">Accreditation</a>
+            </li>
+            <li><a href="/about/directions.asp">Directions &amp; Maps</a>
+            </li>
+            <li><a href="/about/tours.asp">College Tours</a>
+            </li>
+            <li><a href="/about/college-admin.asp">College Administration</a>
+            </li>
+            <li><a href="/about/dean-bio.asp">Meet our Dean</a>
+            </li>
+            <li><a href="/about/diversity.asp">Diversity &amp; Inclusion</a>
+            </li>
+            <li><a href="/about/strategic-plan.asp">Strategic Plan</a>
+            </li>
+        </ul>
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/people/">People</a>
+    <div class="megamenu columns-3 medium">
+        <ul class="submenu no-header">
+            <li class="spacer"></li>
+            <li><a href="/people/directory.asp">College
+                                Directory</a>
+            </li>
+            <li><a href="/people/roster.asp">Faculty Roster</a>
+            </li>
+            <li><a href="/people/smom/">Staff Member of the Month</a>
+            </li>
+            <!--
+                        <li><a href="#">Student Clubs &amp; 
+                        Organizations</a>
+                        </li>
+                        -->
+        </ul>
+
+        <ul class="submenu-group columns-2-last">
+            <li class="submenu-header">Office Contacts
+            </li>
+            <li>
+                <ul class="submenu">
+                    <li><a href="/academics/dvm/contact.asp">Academic Affairs</a>
+                    </li>
+                    <li><a href="/alumni/contact.asp">Alumni Relations</a>
+                    </li>
+                    <li><a href="/about/dean-contacts.asp">Dean&rsquo;s Office</a>
+                    </li>
+                    <li><a href="/development/contact.asp">Development</a>
+                    </li>
+                    <li><a href="/information-systems/contact.asp">Information Systems</a>
+                    </li>
+                </ul>
+
+                <ul class="submenu no-header">
+                    <li><a href="/news/contacts.asp">Public Relations &amp;
+                                Communications</a>
+                    </li>
+                    <li><a href="/research/contact.asp">Research &amp; Graduate 
+                                Studies</a>
+                    </li>
+                    <li><a href="/clinical-trials/contact.asp">Veterinary Clinical Research
+                                Office</a>
+                    </li>
+                    <li><a href="/vth/admin.asp">Veterinary Teaching Hospital</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/education-and-research.asp">Education &amp;
+            Research</a>
+    <div class="megamenu columns-4">
+        <ul class="submenu">
+            <li class="submenu-header">Academic Programs
+            </li>
+            <li><a href="/academics/dvm/">Doctor of Veterinary Medicine
+                        (DVM) Professional Program</a>
+            </li>
+            <li><a href="/academics/bmvs/">Biomedical &amp; Veterinary Sciences
+                        (BMVS) PhD &amp; Masters Program</a>
+            </li>
+            <li><a href="/academics/mph/">Master of Public Health (MPH)
+                        Degree Program</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">Career &amp; Professional Training</li>
+            <li><a href="/career-training/cpcvm/">Center for Public &amp; Corporate Veterinary Medicine (CPCVM)</a>
+            </li>
+            <li><a href="/residency-internship/">Residencies &amp; Internships</a>
+            </li>
+            <li><a href="/continuing-education/">Continuing Education</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">
+                Departments
+            </li>
+            <li><a href="/departments/dbsp/">Biomedical Sciences &amp;
+                        Pathobiology</a>
+            </li>
+            <li><a href="/departments/dsacs/">Small Animal Clinical
+                        Sciences</a>
+            </li>
+            <li><a href="/departments/dlacs/">Large Animal Clinical 
+                        Sciences</a>
+            </li>
+            <li><a href="/departments/dphs/">Population Health Sciences</a>
+            </li>
+            <li><a href="/departments/md/">Veterinary Medicine at the
+                        University of Maryland</a>
+            </li>
+        </ul>
+
+        <ul class="submenu">
+            <li class="submenu-header">
+                Research
+            </li>
+            <li><a href="/research/">Research Home</a>
+            </li>
+            <li><a href="/clinical-trials/">Veterinary Clinical Research
+                        Office</a>
+            </li>
+
+            <li class="submenu-header">
+                Outreach
+            </li>
+            <li><a href="/centaur/">Center for Animal Human
+                        Relationships (CENTAUR)</a>
+            </li>
+            <li><a href="http://cphpr.mph.vetmed.vt.edu/" target="_blank">Center for Public Health Practice &amp; Research (CPHPR)</a>
+            </li>
+            <!--<li><a href="/international/">International Activities</a>
+            </li>-->
+            <li><a href="/extension/">Veterinary Extension 
+                        Services</a>
+            </li>
+        </ul>
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/hospitals.asp">Hospitals</a>
+    <div class="megamenu columns-4">
+
+        <ul class="submenu-group columns-3-of-4 submenu-hospital">
+            <li class="submenu-header">
+                <div class="spacer-1-line"></div>
+                <a href="/vth/">Veterinary Teaching Hospital</a>
+                <br>
+                <small>Blacksburg, VA</small>
+            </li>
+            <li>
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        <a href="/vth/small-animal/">Small Animal
+                              Services</a>
+                    </li>
+                    <li><a href="/vth/small-animal/">Small Animal Services Home</a>
+                    </li>
+                    <li><a href="/vth/small-animal/about-your-visit.asp">About Your Small Animal Visit</a>
+                    </li>
+                    <li><a href="/vth/small-animal/appointments.asp">Small Animal
+                                Appointments &amp; Emergencies</a>
+                    </li>
+                    <li><a href="/vth/small-animal/referrals.asp">Small Animal
+                                Referrals</a>
+                    </li>
+                    <li><a href="/vth/small-animal/faq.asp">Small Animal Services FAQ</a>
+                    </li>
+                    <li><a href="/vth/directions.asp#small-animal">Directions &amp; Parking</a>
+                    </li>
+                    <!--<li><a href="/vth/roanoke/"><strong class="color">Roanoke Referral Clinic</strong></a>
+                        <br>
+                        <small>Roanoke, VA</small>
+                    </li>-->
+                
+
+                </ul>
+
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        <a href="/vth/large-animal/">Large Animal Services</a>
+                    </li>
+
+                    <li><a href="/vth/large-animal/">Large Animal Services Home</a>
+                    </li>
+                    <li><a href="/vth/large-animal/about-your-visit.asp">About Your Large Animal Visit</a>
+                    </li>
+                    <li><a href="/vth/large-animal/appointments.asp">Large Animal
+                                Appointments &amp; Emergencies</a>
+                    </li>
+                    <li><a href="/vth/large-animal/referrals.asp">Large Animal
+                                Referrals</a>
+                    </li>
+                    <li><a href="/vth/services/equine/">Equine Field Service</a>
+                    </li>
+                    <li><a href="/vth/services/food-animal.asp">Food Animal Field Service</a>
+                    </li>
+                    <li><a href="/vth/directions.asp#large-animal">Directions &amp; Parking</a>
+                    </li>
+
+                </ul>
+
+                <ul class="submenu">
+                    <li class="submenu-header no-hr">
+                        Other Services</li>
+                    <li><a href="/vth/services/">List of Clinical Services</a>
+                    </li>
+                    <li><a href="/lab-services/">ViTALS: Laboratory Services</a>
+                    </li>
+                    <li><a href="/clinical-trials/current-studies/">Clinical Trials</a>
+                    </li>
+                    <li><a href="/vth/services/pharmacy.asp">Pharmacy</a>
+                    </li>
+
+                </ul>
+            </li>
+        </ul>
+
+
+        <ul class="submenu submenu-emc">
+            <li class="submenu-header">
+                <a href="https://emc.vetmed.vt.edu/" target="_blank">Marion duPont Scott<br>
+                      Equine Medical Center</a>
+                <br>
+                <small>Leesburg, VA</small>
+            </li>
+
+            <li><a href="https://emc.vetmed.vt.edu/" target="_blank">Equine Medical Center Home</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/clinical-services.html" target="_blank">EMC Clinical Services</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/about/maps-and-directions.html" target="_blank">Directions</a>
+            </li>
+            <li><a href="https://emc.vetmed.vt.edu/about/veterinarians-and-staff.html" target="_blank">Our Veterinarians &amp; Staff</a>
+            </li>
+
+        </ul>
+
+
+
+
+    </div>
+</li>
+
+<li><a class="has-submenu" href="/news/">News</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu">
+            <li><a href="/news/closer-look/">Featured Stories</a>
+            </li>
+            <li><a href="/news/press-releases.asp">Press Releases</a>
+            </li>
+            <li><a href="/news/vs/">Vital Signs Newsletter</a>
+            </li>
+            <li><a href="/news/tracks/">TRACKS Magazine</a>
+            </li>
+            <li><a href="/branding/">College Brand Guide</a>
+            </li>
+            <li><a href="/news/contacts.asp">News Contacts</a>
+            </li>
+        </ul>
+    </div>
+</li>
+
+
+<li><a class="has-submenu" href="/development/">Make a Gift</a>
+    <div class="megamenu columns-1">
+        <ul class="submenu">
+            <li><a href="/development/">College Priorities</a>
+            </li>
+            <li><a href="/development/waystogive.asp">Ways to Give</a>
+            </li>
+            <!--<li><a href="/development/funds.asp">Fund Information</a>
+            </li>
+            <li><a href="/vet-memorial/">Veterinary Memorial Fund</a>
+            </li>-->
+            <li><a href="/development/contact.asp">Advancement Contacts</a>
+            </li>
+        </ul>
+    </div>
+</li>
+
+        </ul>
+    </nav>
+    <!--end .nav-->
+</div>
+
+</div>
+</header>
+
+
+
+
+
+<section role="main" class="">
+
+
+<div class="page-banner">
+    <h1 class="page-title">
+                Page or File Removed <small>(Error 410)</small>
+            </h1>
+</div>
+
+<div class="layout-wrapper">
+    <div id="page-content" class="page-content">
+    
+    <h2>We’re sorry!</h2>
+    <p>The resource you were trying to reach no longer exists at this address. It may have been removed because its information was outdated, or its content may have been merged with another page on the site.</p>
+    
+    <p>Due to a recent site redesign, some of our pages have moved to new addresses. We have tried our best to redirect the old addresses to the new content, but we may have missed this one.
+    To find what you're looking for:</p>
+    <ul>
+    	<li>Use the navigation located at the top and bottom of this page</li>
+        <li>Try searching for the page using the search in the page header</li>
+        
+        
+    </ul>
+		
+            
+            <h2>Want to help us fix this error?</h2>
+            <ul>
+            	<li>If you reached this page by clicking on a link on another page,
+                please contact the webmaster of the referring site and let them know
+                about the broken link.</li>
+                <li>If you got here by clicking a link on our own site, contact
+                us directly at <a href="mailto:VaMdVetMed@vt.edu">VaMdVetMed@vt.edu</a>.</li>
+                <li>If you feel that this content should not have been removed, or that it exists in a new location and should be redirected, please contact us at <a href="mailto:VaMdVetMed@vt.edu">VaMdVetMed@vt.edu</a>.</li>
+           	</ul>
+            
+    </div>
+</div>
+
+<!--End role=main-->
+</section>
+<footer class="nocontent">
+    <div class="footer-upper">
+        <div class="footer-content">
+
+            <div class="footer-contact">
+                <!-- // CONTACT INFORMATION // -->
+                <div class="vcard">
+                    <div class="fn">VA-MD College of Veterinary Medicine</div>
+                    <div class="address">
+                        <div class="street-address">205 Duck Pond Drive</div>
+                        <div>
+                            <span class="locality">Blacksburg</span>,
+                            <span class="state">Virginia</span>
+                            <span class="zip">24061</span>
+                        </div>
+                    </div>
+
+                    <div class="phone">540-231-7666</div>
+                </div>
+
+                <!-- // END CONTACT INFORMATION // -->
+
+                <!-- // SOCIAL MEDIA ICONS // -->
+<div class="social-link-block social-color">
+    <ul>
+        <li>
+            <a href="https://www.facebook.com/VaMdVetMed" class="social-facebook fa-stack fa-lg" title="Facebook Group" target="_blank">
+                <i class="fa fa-circle fa-fw fa-stack-2x"></i>
+                <i class="fa fa-facebook fa-fw fa-stack-1x fa-inverse"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/VaMdVetMed" class="social-twitter fa-stack fa-lg" title="Twitter Feed" target="_blank">
+                <i class="fa fa-circle fa-fw fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-fw fa-stack-1x fa-inverse"></i>
+            </a>
+        </li>
+        
+        <li>
+            <a href="https://www.instagram.com/vamdvetmed/" class="social-instagram fa-stack fa-lg" title="Instagram Feed" target="_blank">
+                <i class="fa fa-circle fa-fw fa-stack-2x"></i>
+                <i class="fa fa-instagram fa-fw fa-stack-1x fa-inverse"></i>
+            </a>
+        </li>
+        
+        <li>
+            <a href="https://www.flickr.com/photos/va-md-vetmed/" class="social-flickr fa-stack fa-lg" title="Flickr Galleries" target="_blank">
+                <i class="fa fa-circle fa-fw fa-stack-2x"></i>
+                <div class="social-flickr-dots">
+                    <i class="fa fa-square fa-fw fa-stack-1x social-flickr-dot-left"></i>
+                    <i class="fa fa-square fa-fw fa-stack-1x social-flickr-dot-right"></i>
+                    <i class="icon-expand fa fa-flickr fa-fw fa-stack-1x"></i>
+                </div>
+            </a>
+        </li>
+        
+        <li>
+            <a href="https://www.linkedin.com/grp/home?gid=3152431" class="social-linkedin fa-stack fa-lg" title="LinkedIn Group" target="_blank">
+                <i class="fa fa-circle fa-fw fa-stack-2x"></i>
+                <i class="fa fa-linkedin fa-fw fa-stack-1x fa-inverse"></i>
+            </a>
+        </li>
+        
+        
+    </ul>
+</div>
+<!-- // END SOCIAL MEDIA ICONS // -->
+
+            </div>
+
+            <!-- // VT & UMD LOGOS // -->
+            <div class="logos-universities">
+                <a href="http://www.vt.edu" target="_blank">
+                    <img src="/images/logos/VT-logo-white-small.png" alt="Virginia Tech: Invent the Future" />
+                </a>
+                <a href="http://www.umd.edu" target="_blank">
+                    <img src="/images/logos/UMD-logo-color-white.png" alt="University of Maryland" />
+                </a>
+            </div>
+            <!-- // END VT & UMD LOGOS // -->
+
+
+            <!-- // FOOTER CONTENT MENU (DISAPPEARS AT SMALLER PAGE WIDTHS) // -->
+<div class="footer-nav-menu nocontent">
+    <ul class="nav-list nav-primary menu">
+
+        <li><a href="/about/">About</a>
+        </li>
+
+        <li><a href="/people/">People</a>
+        </li>
+
+        <li><a href="/education-and-research.asp">Education &amp;
+            Research</a>
+        </li>
+
+        <li><a href="/hospitals.asp">Hospitals</span></a>
+        </li>
+        
+        <li><a href="/news/">News</span></a>
+        </li>
+
+
+        <li><a href="/development/waystogive.asp">Make a Gift</a>
+        </li>
+
+    </ul>
+</div>
+<!-- // END FOOTER CONTENT MENU // -->
+
+        </div>
+    </div>
+    <div class="footer-lower">
+
+        <div class="footer-content">
+            <!-- // FOOTER LINK LIST // -->
+<ul class="footer-links nocontent">
+    <li>
+        <a href="/people/directory.asp">Contact Us</a>
+    </li>
+    <li>
+        <a href="/privacy.asp">Privacy</a>
+    </li>
+    <li>
+        <a href="http://www.vt.edu/about/acceptable-use.html" target="_blank">Acceptable Use</a>
+    </li>
+    <li>
+        <a href="http://www.vt.edu/about/equal-opportunity.html" target="_blank">Equal Opportunity</a>
+    </li>
+    <li>
+        <a href="http://www.vt.edu/about/accessibility.html" target="_blank">Accessibility</a>
+    </li>
+    <li>
+        <a href="/jobs.asp">Employment</a>
+    </li>
+</ul>
+<!-- // END FOOTER LINK LIST // --><!-- // COPYRIGHT INFO // -->
+<p class="copyright">&copy; 2017 Virginia-Maryland College of Veterinary Medicine</p>
+<!-- // END COPYRIGHT INFO // -->
+
+        </div>
+
+
+    </div>
+</footer>
+</div>
+
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery.slick/1.3.15/slick.min.js"></script>
+
+<script src="/scripts/js/vetmed-footer-scripts-min.js"></script>
+
+
+</body>
+
+</html>

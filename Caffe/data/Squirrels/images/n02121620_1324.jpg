@@ -1,0 +1,723 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>
+Life's Abundance - Improving the Health of People, Pets & the Planet
+</title><meta charset="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+<style>html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}audio:not([controls]){display:none;height:0}a{background:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}img{border:0}svg:not(:root){overflow:hidden}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button,input[type="submit"]{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}input{line-height:normal}table{border-collapse:collapse;border-spacing:0}td{padding:0}*{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}*:before,*:after{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:62.5%;-webkit-tap-highlight-color:rgba(0,0,0,0)}body{font-family:nimbus-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff}input,button{font-family:inherit;font-size:inherit;line-height:inherit}a{color:#8c0e08;text-decoration:none}a:hover,a:focus{color:#7e0804;text-decoration:underline}a:focus{outline:none;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}img{vertical-align:middle}.img-responsive{display:block;max-width:100%;height:auto}h1,h3{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1,h3{margin-top:20px;margin-bottom:10px}h1{font-size:36px}h3{font-size:24px}.text-left{text-align:left}.text-right{text-align:right}.text-center{text-align:center}ul,ol{margin-top:0;margin-bottom:10px}ul ul{margin-bottom:0}.list-unstyled{padding-left:0;list-style:none}.container{margin-right:auto;margin-left:auto;padding-left:10px;padding-right:10px}@media (min-width:768px){.container{width:740px}}@media (min-width:992px){.container{width:960px}}@media (min-width:1200px){.container{width:1160px}}.row{margin-left:-10px;margin-right:-10px}.col-xs-2,.col-sm-2,.col-md-2,.col-lg-2,.col-lg-3,.col-sm-4,.col-md-4,.col-lg-4,.col-sm-5,.col-lg-5,.col-xs-6,.col-sm-6,.col-md-6,.col-lg-6,.col-md-7,.col-xs-8,.col-sm-8,.col-md-8,.col-lg-8,.col-sm-10,.col-md-10,.col-sm-11,.col-sm-12,.col-md-12,.col-lg-12,.col-md-14,.col-lg-14,.col-sm-15,.col-xs-16,.col-sm-17,.col-xs-18,.col-md-18,.col-lg-18,.col-xs-20,.col-sm-20,.col-md-20,.col-lg-20{position:relative;min-height:1px;padding-left:10px;padding-right:10px}.col-xs-2,.col-xs-6,.col-xs-8,.col-xs-16,.col-xs-18,.col-xs-20{float:left}.col-xs-20{width:100%}.col-xs-18{width:90%}.col-xs-16{width:80%}.col-xs-8{width:40%}.col-xs-6{width:30%}.col-xs-2{width:10%}@media (min-width:768px){.col-sm-2,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-8,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-15,.col-sm-17,.col-sm-20{float:left}.col-sm-20{width:100%}.col-sm-17{width:85%}.col-sm-15{width:75%}.col-sm-12{width:60%}.col-sm-11{width:55%}.col-sm-10{width:50%}.col-sm-8{width:40%}.col-sm-6{width:30%}.col-sm-5{width:25%}.col-sm-4{width:20%}.col-sm-2{width:10%}}@media (min-width:992px){.col-md-2,.col-md-4,.col-md-6,.col-md-7,.col-md-8,.col-md-10,.col-md-12,.col-md-14,.col-md-18,.col-md-20{float:left}.col-md-20{width:100%}.col-md-18{width:90%}.col-md-14{width:70%}.col-md-12{width:60%}.col-md-10{width:50%}.col-md-8{width:40%}.col-md-7{width:35%}.col-md-6{width:30%}.col-md-4{width:20%}.col-md-2{width:10%}.col-md-offset-5{margin-left:25%}.col-md-offset-2{margin-left:10%}}@media (min-width:1200px){.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-8,.col-lg-12,.col-lg-14,.col-lg-18,.col-lg-20{float:left}.col-lg-20{width:100%}.col-lg-18{width:90%}.col-lg-14{width:70%}.col-lg-12{width:60%}.col-lg-8{width:40%}.col-lg-6{width:30%}.col-lg-5{width:25%}.col-lg-4{width:20%}.col-lg-3{width:15%}.col-lg-2{width:10%}.col-lg-offset-7{margin-left:35%}.col-lg-offset-5{margin-left:25%}.col-lg-offset-3{margin-left:15%}}table{max-width:100%;background-color:transparent}.table-striped>tbody>tr:nth-child(odd)>td,.table-striped>tbody>tr:nth-child(odd)>th{background-color:#f9f9f9}.form-control{display:block;width:100%;height:34px;padding:6px 12px;font-size:14px;line-height:1.42857143;color:#555;background-color:#fff;background-image:none;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s, box-shadow ease-in-out .15s}.form-control:focus{border-color:#cecece;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(102, 175, 233, 0.6)}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.form-group{margin-bottom:15px}.btn{display:inline-block;margin-bottom:0;font-weight:normal;text-align:center;vertical-align:middle;cursor:pointer;background-image:none;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.btn:focus,.btn:active:focus{outline:none;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.btn:hover,.btn:focus{color:#333;text-decoration:none}.btn:active{outline:0;background-image:none;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn-info{color:#fff;background-color:#5bc0de;border-color:#46b8da}.btn-info:hover,.btn-info:focus,.btn-info:active{color:#fff;background-color:#39b3d7;border-color:#269abc}.btn-info:active{background-image:none}.btn-warning{color:#fff;background-color:#f0ad4e;border-color:#eea236}.btn-warning:hover,.btn-warning:focus,.btn-warning:active{color:#fff;background-color:#ed9c28;border-color:#d58512}.btn-warning:active{background-image:none}.btn-block{display:block;width:100%;padding-left:0;padding-right:0}.collapse{display:none}@font-face{font-family:'Glyphicons Halflings';src:url('fonts/glyphicons-halflings-regular.eot');src:url('fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('fonts/glyphicons-halflings-regular.woff') format('woff'),url('fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg')}.dropdown{position:relative}.dropdown-toggle:focus{outline:0}.dropdown-menu{position:absolute;top:100%;left:0;z-index:1000;display:none;float:left;min-width:160px;padding:5px 0;margin:2px 0 0;list-style:none;font-size:14px;background-color:#fff;border:1px solid #ccc;border:1px solid rgba(0,0,0,.15);border-radius:4px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);box-shadow:0 6px 12px rgba(0,0,0,.175);background-clip:padding-box}.btn-group{position:relative;display:inline-block;vertical-align:middle}.btn-group>.btn:not(:first-child):not(:last-child):not(.dropdown-toggle){border-radius:0}.btn-group>.btn:first-child:not(:last-child):not(.dropdown-toggle){border-bottom-right-radius:0;border-top-right-radius:0}.btn-group>.btn:last-child:not(:first-child),.btn-group>.dropdown-toggle:not(:first-child){border-bottom-left-radius:0;border-top-left-radius:0}.btn-group>.btn-group:not(:first-child):not(:last-child)>.btn{border-radius:0}.btn-group-vertical>.btn:not(:first-child):not(:last-child){border-radius:0}.btn-group-vertical>.btn:first-child:not(:last-child){border-top-right-radius:4px;border-bottom-right-radius:0;border-bottom-left-radius:0}.btn-group-vertical>.btn:last-child:not(:first-child){border-bottom-left-radius:4px;border-top-right-radius:0;border-top-left-radius:0}.btn-group-vertical>.btn-group:not(:first-child):not(:last-child)>.btn{border-radius:0}.btn-group-vertical>.btn-group:first-child:not(:last-child)>.btn:last-child,.btn-group-vertical>.btn-group:first-child:not(:last-child)>.dropdown-toggle{border-bottom-right-radius:0;border-bottom-left-radius:0}.btn-group-vertical>.btn-group:last-child:not(:first-child)>.btn:first-child{border-top-right-radius:0;border-top-left-radius:0}.input-group{position:relative;display:table;border-collapse:separate}.input-group .form-control{position:relative;z-index:2;float:left;width:100%;margin-bottom:0}.input-group-btn,.input-group .form-control{display:table-cell}.input-group-addon:not(:first-child):not(:last-child),.input-group-btn:not(:first-child):not(:last-child),.input-group .form-control:not(:first-child):not(:last-child){border-radius:0}.input-group-btn{width:1%;white-space:nowrap;vertical-align:middle}.input-group .form-control:first-child,.input-group-addon:first-child,.input-group-btn:first-child>.btn,.input-group-btn:first-child>.btn-group>.btn,.input-group-btn:first-child>.dropdown-toggle,.input-group-btn:last-child>.btn:not(:last-child):not(.dropdown-toggle),.input-group-btn:last-child>.btn-group:not(:last-child)>.btn{border-bottom-right-radius:0;border-top-right-radius:0}.input-group .form-control:last-child,.input-group-addon:last-child,.input-group-btn:last-child>.btn,.input-group-btn:last-child>.btn-group>.btn,.input-group-btn:last-child>.dropdown-toggle,.input-group-btn:first-child>.btn:not(:first-child),.input-group-btn:first-child>.btn-group:not(:first-child)>.btn{border-bottom-left-radius:0;border-top-left-radius:0}.input-group-btn{position:relative;font-size:0;white-space:nowrap}.input-group-btn>.btn{position:relative}.input-group-btn>.btn:hover,.input-group-btn>.btn:focus,.input-group-btn>.btn:active{z-index:2}.input-group-btn:first-child>.btn{margin-right:-1px}.input-group-btn:last-child>.btn{margin-left:-1px}.nav{margin-bottom:0;padding-left:0;list-style:none}.nav>li{position:relative;display:block}.nav>li>a{position:relative;display:block;padding:10px 15px}.nav>li>a:hover,.nav>li>a:focus{text-decoration:none;background-color:#eee}.nav-pills>li{float:left}.nav-pills>li>a{border-radius:4px}.nav-pills>li+li{margin-left:2px}.nav-justified{width:100%}.nav-justified>li{float:none}.nav-justified>li>a{text-align:center;margin-bottom:5px}.nav-justified>.dropdown .dropdown-menu{top:auto;left:auto}@media (min-width:768px){.nav-justified>li{display:table-cell;width:1%}.nav-justified>li>a{margin-bottom:0}}.navbar{position:relative;min-height:50px;margin-bottom:20px;border:1px solid transparent}@media (min-width:768px){.navbar{border-radius:4px}}.navbar-collapse{max-height:340px;overflow-x:visible;padding-right:10px;padding-left:10px;border-top:1px solid transparent;box-shadow:inset 0 1px 0 rgba(255,255,255,.1);-webkit-overflow-scrolling:touch}@media (min-width:768px){.navbar-collapse{width:auto;border-top:0;box-shadow:none}.navbar-collapse.collapse{display:block!important;height:auto!important;padding-bottom:0;overflow:visible!important}}.navbar-default{background-color:#f8f8f8;border-color:#e7e7e7}.navbar-default .navbar-collapse{border-color:#e7e7e7}@-webkit-keyframes progress-bar-stripes{from{background-position:40px 0}
+to{background-position:0 0}
+}@keyframes progress-bar-stripes{from{background-position:40px 0}
+to{background-position:0 0}
+}.carousel{position:relative}.carousel-inner{position:relative;overflow:hidden;width:100%}.carousel-inner>.item{display:none;position:relative;-webkit-transition:.6s ease-in-out left;transition:.6s ease-in-out left}.carousel-inner>.active{display:block}.carousel-inner>.active{left:0}.carousel-control{position:absolute;top:0;left:0;bottom:0;width:15%;opacity:.5;filter:alpha(opacity=50);font-size:20px;color:#fff;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.6)}.carousel-control.left{background-image:-webkit-linear-gradient(left,color-stop(rgba(0,0,0,.5) 0),color-stop(rgba(0,0,0,.0001) 100%));background-image:linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.0001) 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1)}.carousel-control.right{left:auto;right:0;background-image:-webkit-linear-gradient(left,color-stop(rgba(0,0,0,.0001) 0),color-stop(rgba(0,0,0,.5) 100%));background-image:linear-gradient(to right,rgba(0,0,0,.0001) 0,rgba(0,0,0,.5) 100%);background-repeat:repeat-x;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1)}.carousel-control:hover,.carousel-control:focus{outline:none;color:#fff;text-decoration:none;opacity:.9;filter:alpha(opacity=90)}.carousel-control .icon-prev,.carousel-control .icon-next{position:absolute;top:50%;z-index:5;display:inline-block}.carousel-control .icon-prev{left:50%}.carousel-control .icon-next{right:50%}.carousel-control .icon-prev,.carousel-control .icon-next{width:20px;height:20px;margin-top:-10px;margin-left:-10px;font-family:serif}.carousel-control .icon-prev:before{content:'\2039'}.carousel-control .icon-next:before{content:'\203a'}.carousel-indicators{position:absolute;bottom:10px;left:50%;z-index:15;width:60%;margin-left:-30%;padding-left:0;list-style:none;text-align:center}.carousel-indicators li{display:inline-block;width:10px;height:10px;margin:1px;text-indent:-999px;border:1px solid #fff;border-radius:10px;cursor:pointer;background-color:#000 \9 ;background-color:rgba(0,0,0,0)}.carousel-indicators .active{margin:0;width:12px;height:12px;background-color:#fff}.carousel-caption{position:absolute;left:15%;right:15%;bottom:20px;z-index:10;padding-top:20px;padding-bottom:20px;color:#fff;text-align:center;text-shadow:0 1px 2px rgba(0,0,0,.6)}@media screen and (min-width:768px){.carousel-control .icon-prev,.carousel-control .icon-next{width:30px;height:30px;margin-top:-15px;margin-left:-15px;font-size:30px}.carousel-caption{left:20%;right:20%;padding-bottom:30px}.carousel-indicators{bottom:20px}}.clearfix:before,.clearfix:after,.container:before,.container:after,.row:before,.row:after,.nav:before,.nav:after,.navbar:before,.navbar:after,.navbar-collapse:before,.navbar-collapse:after{content:" ";display:table}.clearfix:after,.container:after,.row:after,.nav:after,.navbar:after,.navbar-collapse:after{clear:both}.pull-right{float:right!important}.pull-left{float:left!important}@-ms-viewport{width:device-width}.visible-xs{display:none!important}@media (max-width:767px){.visible-xs{display:block!important}.hidden-xs{display:none!important}}@media (min-width:768px) and (max-width:991px){.hidden-sm{display:none!important}}@media (min-width:992px) and (max-width:1199px){.hidden-md{display:none!important}}@media (min-width:1200px){.hidden-lg{display:none!important}}.dropdown:hover .dropdown-menu{display:block}body{background:url(images/xbody_bg.png.pagespeed.ic.-6HLdyewGT.jpg) repeat left top}.sprite{background-image:url(images/xsprite.png.pagespeed.ic.VDNMp5vgks.png);background-repeat:no-repeat;display:inline-block}.sprite-cart_icon{width:35px;height:31px;background-position:-106px -50px}.sprite-call-icon{width:16px;height:16px;background-position:-304px -208px}.sprite-call2-icon{background-position:-349px -209px;width:59px;height:61px}.sprite-myacct-icon{background-position:-332px -278px;width:88px;height:61px}.sprite-signin-icon{background-position:-421px -208px;width:66px;height:61px}.sprite-mcafee_icon{background-position:-2px -348px;width:112px;height:41px}.sprite-30day_icon{background-position:-129px -348px;width:127px;height:41px}.sprite-bbb_icon{background-position:-270px -348px;width:138px;height:41px}.topbar{background:#626262;padding:7px 0;font:13px/14px Helvetica,"Helvetica Neue",Arial,sans-serif;color:#fff}.topbar a{color:#fff}.topbar .nav-pills>li{font:13px/14px Helvetica,"Helvetica Neue",Arial,sans-serif;color:#fff}.topbar .nav>li>a{padding:0px 15px;color:#fff}.topbar .nav>li>a:hover{padding:0px 15px;color:#fff;background:none}h1,h3{margin-bottom:10px;margin-top:0}h1{font-family:foco,nimbus-sans,'Helvetica Neue','Mongolian Baiti',Arial;font-size:36px;font-weight:300;color:#363333}h3{font-size:24px}#header{padding:15px 0 5px}.menubar{border-radius:5px;-moz-border-radius:5px;-ms-border-radius:5px;-o-border-radius:5px;-webkit-border-radius:5px}.menubarbg{background:#8b8b8b;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzhiOGI4YiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzY4Njg2OCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjUxJSIgc3RvcC1jb2xvcj0iIzU5NTk1OSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM4MzgzODMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,#8b8b8b 0%,#686868 50%,#595959 51%,#838383 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#8b8b8b),color-stop(50%,#686868),color-stop(51%,#595959),color-stop(100%,#838383));background:-webkit-linear-gradient(top,#8b8b8b 0%,#686868 50%,#595959 51%,#838383 100%);background:-o-linear-gradient(top,#8b8b8b 0%,#686868 50%,#595959 51%,#838383 100%);background:-ms-linear-gradient(top,#8b8b8b 0%,#686868 50%,#595959 51%,#838383 100%);background:linear-gradient(to bottom,#8b8b8b 0%,#686868 50%,#595959 51%,#838383 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#8b8b8b', endColorstr='#838383', GradientType=0 );border-radius:5px;-moz-border-radius:5px;-ms-border-radius:5px;-o-border-radius:5px;-webkit-border-radius:5px}.addtocart .sprite-cart_icon{color:#e40301;text-align:center;font:bold 13px/13px nimbus-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;height:28px;width:26px;padding-left:2px}.addtocart .btnbar{padding:3px;overflow:hidden;border-radius:4px;-moz-border-radius:4px;-ms-border-radius:4px;-o-border-radius:4px;-webkit-border-radius:4px}.addtocart .btnbar .btn.btn-warning{padding:1px 5px;line-height:28px}.btn-warning{background:#ffc200;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmYzIwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmE2MDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,#ffc200 0%,#ffa600 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffc200),color-stop(100%,#ffa600));background:-webkit-linear-gradient(top,#ffc200 0%,#ffa600 100%);background:-o-linear-gradient(top,#ffc200 0%,#ffa600 100%);background:-ms-linear-gradient(top,#ffc200 0%,#ffa600 100%);background:linear-gradient(to bottom,#ffc200 0%,#ffa600 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffc200', endColorstr='#ffa600', GradientType=0 );color:#6f4710;font-weight:bold;box-shadow:0 0 4px rgba(0,0,0,.5);-moz-box-shadow:0 0 4px rgba(0,0,0,.5);-ms-box-shadow:0 0 4px rgba(0,0,0,.5);-o-box-shadow:0 0 4px rgba(0,0,0,.5);-webkit-box-shadow:0 0 4px rgba(0,0,0,.5)}.btn-warning:hover,.btn-warning:focus{background:#ffa600;background:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmYTYwMCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmMyMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);background:-moz-linear-gradient(top,#ffa600 0%,#ffc200 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#ffa600),color-stop(100%,#ffc200));background:-webkit-linear-gradient(top,#ffa600 0%,#ffc200 100%);background:-o-linear-gradient(top,#ffa600 0%,#ffc200 100%);background:-ms-linear-gradient(top,#ffa600 0%,#ffc200 100%);background:linear-gradient(to bottom,#ffa600 0%,#ffc200 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffa600', endColorstr='#ffc200', GradientType=0 );color:#6f4710}.yamm .dropdown .dropdown-menu{width:630px}.slicknav_nav .nav-pills>li.dropdown:hover>a{text-decoration:none;color:#ffba00}.slicknav_nav .nav-pills li.dropdown .dropdown-menu{margin:0 0 0;font-size:14px;background-color:#dbdcde;border:0px solid #ccc;border:0px solid rgba(0,0,0,.15);border-radius:0px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);padding:15px 20px}.slicknav_nav .nav-pills>li .dropdown-menu ul li.head h3{font:24px/26px foco,'Mongolian Baiti',Arial;color:#8c0e08;margin:0px;position:relative}.slicknav_nav .nav-pills>li .dropdown-menu ul li.head .thumb{position:absolute;width:63px;overflow:hidden;right:10px;top:0px}.slicknav_nav .nav-pills>li .dropdown-menu ul li.head .thumb img{width:100%;height:auto}.slicknav_nav .nav-pills>li .dropdown-menu ul.col-sm-6{border-right:1px solid #b2b2b2}.slicknav_nav .nav-pills>li .dropdown-menu ul.col-sm-6:last-child{border-right:0px solid #b2b2b2}.slicknav_nav .nav-pills>li .dropdown-menu ul li{font:16px/20px nimbus-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;padding-bottom:5px}.slicknav_nav .nav-pills>li .dropdown-menu ul li a{color:#555}.slicknav_nav .nav-pills>li .dropdown-menu ul li a:hover{color:#272727}.slicknav_nav .nav-pills li.dropdown>a:hover{color:#ffba00}#footer{border-top:3px solid #008d96;min-height:430px;padding-top:55px;color:#f9f9f9;z-index:9;background-color:#696460}#footer h3{font:bold 18px/22px nimbus-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;color:#fff;margin:0 0 15px}#footer ul.list-unstyled li a{color:#f9f9f9}#footer ul.list-unstyled li a:hover{color:#000;text-decoration:none}.navbar{margin:0px}.navbar-default,#navbar{background:none;border:0px}.navbar{min-height:inherit}.top-buffer{margin-top:20px}@media (max-width:767px){#footer{background-image:none}.navbar-default,#navbar{background:none;border:0px}.topbar .container .row div{position:relative}.topbar .nav-pills>li a:first-child{padding-left:0px}#navbar{background:#8c0e08;border:0px}#mainnavbar .nav-pills>li .dropdown-menu ul.col-sm-6{border:0px}.navbar-fixed-top-xs{position:fixed;right:0;left:0;z-index:1030;top:0px}#mainnavbar .menubar{padding:0}.text-left-xs{text-align:left}.pull-xs-left{float:left!important}.topbar .nav-pills{padding-top:10px}#header{padding-bottom:10px}#mainnavbar{padding-bottom:10px}.sprite-call-icon{display:inline-block!important;vertical-align:middle;margin-right:5px}}@media (min-width:1200px){.text-right-lg{text-align:right}}@media screen and (max-width:1024px){#mainnavbar .nav>li>a.dropdown-toggle{position:relative}#mainnavbar .menubar{margin:0px!important;padding:0px!important}}@media screen and (max-width:500px){.pull-xs-left{float:left}}table{width:100%}@media only screen and (min-width:75px) and (max-width:319px){.hidden-xxs{display:none!important}}.slicknav_btn{position:relative;display:block;vertical-align:middle;float:right;padding:.438em .625em .438em .625em;line-height:1.125em;cursor:pointer}.slicknav_menu .slicknav_menutxt{display:block;line-height:1.188em;float:left}.slicknav_menu .slicknav_icon{float:left;margin:.188em 0 0 .438em}.slicknav_menu .slicknav_icon-bar{display:block;width:1.125em;height:.125em;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;-webkit-box-shadow:0 1px 0 rgba(0,0,0,.25);-moz-box-shadow:0 1px 0 rgba(0,0,0,.25);box-shadow:0 1px 0 rgba(0,0,0,.25)}.slicknav_btn .slicknav_icon-bar+.slicknav_icon-bar{margin-top:.188em}.slicknav_nav{clear:both}.slicknav_nav ul,.slicknav_nav li{display:block;margin:0px!important}.slicknav_nav .slicknav_arrow{font-size:.8em;margin:0 0 0 .4em}.slicknav_nav .slicknav_item{display:block;cursor:pointer}.slicknav_nav a{display:block}.slicknav_nav .slicknav_item a{display:inline}.slicknav_menu:before,.slicknav_menu:after{content:" ";display:table}.slicknav_menu:after{clear:both}.slicknav_menu{zoom:1}.slicknav_menu{font-size:16px}.slicknav_btn{margin:5px 5px 6px;text-decoration:none;text-shadow:0 1px 1px rgba(255,255,255,.75);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;background-color:#222}.slicknav_menu .slicknav_menutxt{color:#fff;text-shadow:0 1px 3px #000}.slicknav_menu .slicknav_icon-bar{background-color:#f5f5f5}.slicknav_menu{background:#008d96;padding:5px}.slicknav_nav{color:#fff;margin:0;padding:0;font-size:.875em}.slicknav_nav,.slicknav_nav ul{list-style:none;overflow:hidden}.slicknav_nav ul ul.dropdown-menu{margin:0 5px!important;width:auto;float:none;position:relative}.slicknav_nav .slicknav_item{}.slicknav_nav>ul>li>a,.slicknav_nav>ul>li>a a{padding:10px 10px;margin:2px 5px;text-decoration:none;color:#fff}.slicknav_nav .slicknav_item a{padding:0;margin:0}.slicknav_nav .slicknav_item a:hover,.slicknav_nav .slicknav_item a:active,.slicknav_nav .slicknav_item a:focus{color:#222}.slicknav_nav .slicknav_item:hover{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;color:#222}.slicknav_nav .slicknav_item:hover a,.slicknav_nav .slicknav_item:focus a,.slicknav_nav .slicknav_item:active a{color:#222}.slicknav_nav a:hover,.slicknav_nav a:active,.slicknav_nav a:focus{-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px;color:#222}.slicknav_menu{display:none}@media screen and (max-width:767px){.js .slicknav_menu{display:block}}#mainnavbar .menubar{margin-bottom:5px}#mainnavbar .nav>li>a{display:block;position:relative;font:16px/24px nimbus-sans,"Helvetica Neue",Helvetica,Arial,sans-serif;color:#fff;-webkit-border-radius:0;border-radius:0;padding:7px 15px}#mainnavbar .nav>li>a:hover,#mainnavbar .nav>li>a:focus{text-decoration:none;background:none;color:#ffba00}#mainnavbar .nav-pills>li.dropdown:hover>a,.slicknav_nav .nav-pills>li.dropdown:hover>a{text-decoration:none;color:#ffba00}#mainnavbar .nav-pills li.dropdown .dropdown-menu,.slicknav_nav .nav-pills li.dropdown .dropdown-menu{margin:0 0 0;font-size:14px;background-color:rgba(242,242,241,1);border:0px solid #ccc;border:0px solid rgba(0,0,0,.15);border-radius:0px;-webkit-box-shadow:0 6px 12px rgba(0,0,0,.175);padding:15px 20px}.dropdown-menu-bg{background-image:url(images/Banners/xchoc-protein-drop-down.png.pagespeed.ic.Nyovs7pnJp.png);background-size:100%;background-position:bottom;background-repeat:no-repeat}#mainnavbar .nav-pills>li .dropdown-menu ul li.head h3,.slicknav_nav .nav-pills>li .dropdown-menu ul li.head h3{font:24px/26px foco,'Mongolian Baiti',Arial;margin:0px;position:relative}#mainnavbar .nav-pills>li .dropdown-menu ul li.head .thumb,.slicknav_nav .nav-pills>li .dropdown-menu ul li.head .thumb{position:absolute;width:63px;overflow:hidden;right:10px;top:0px}#mainnavbar .nav-pills>li .dropdown-menu ul li.head .thumb img,.slicknav_nav .nav-pills>li .dropdown-menu ul li.head .thumb img{width:100%;height:auto}#mainnavbar .nav-pills>li .dropdown-menu ul.col-sm-6,.slicknav_nav .nav-pills>li .dropdown-menu ul.col-sm-6{border-right:0px solid #b2b2b2}#mainnavbar .nav-pills>li .dropdown-menu ul.col-sm-6:last-child,.slicknav_nav .nav-pills>li .dropdown-menu ul.col-sm-6:last-child{border-right:0px solid #b2b2b2}#mainnavbar .nav-pills>li .dropdown-menu ul li,.slicknav_nav .nav-pills>li .dropdown-menu ul li{font:16px/20px "Helvetica Neue",Helvetica,Arial,sans-serif;color:#555;padding-bottom:5px}#mainnavbar .nav-pills li.dropdown>a:hover,.slicknav_nav .nav-pills li.dropdown>a:hover{color:#ffba00}@media (max-width:480px){.newsletterBox{width:250px;margin-left:10px;margin-bottom:10px}}@media (min-width:481px) and (max-width:2300px){.newsletterBox{width:268px;margin-left:10px;margin-bottom:10px;margin-right:120px}}.dog-product-link{color:#555}.dog-product-hover:hover{color:#03a6a6;text-decoration:underline}.cat-product-link{color:#555}.cat-product-hover:hover{color:#4bac28;text-decoration:underline}.people-product-link{color:#555}.people-product-hover:hover{color:#e0891a;text-decoration:underline}.btn-info{color:#fff;background-color:#05d8d8;border-color:#03a6a6}.btn-info:hover,.btn-info:focus,.btn-info:active{color:#fff;background-color:#04c1c1;border-color:#03a6a6}.btn-info:active{background-image:none}a{color:#008d96;text-decoration:none}a:hover,a:focus{color:#ffab00;text-decoration:underline}a:focus{outline:none;outline:5px auto -webkit-focus-ring-color;outline-offset:-2px}.opacity-menu{background-color:rgba(242,242,241,.85)!important}</style>
+<style media="screen and (min-width:740px)">#pplCtgrs{position:relative;left:15px;top:0px}.pplCtgrsthumb{left:145px}</style><style media="screen and (max-width:736px)">.dropdown-menu-bg{background-image:url(images/Banners/xchoc-protein-drop-down_sm.png.pagespeed.ic.oBRrxhib99.png);background-size:100%;background-position:bottom;background-repeat:no-repeat}</style><link rel="apple-touch-icon" href="http://www.lifesabundance.com/images/apple-touch-icon-57x57.png"/><link rel="apple-touch-icon" href="http://www.lifesabundance.com/images/apple-touch-icon-72x72.png"/><link rel="apple-touch-icon" href="http://www.lifesabundance.com/images/apple-touch-icon-114x114.png"/><link rel="apple-touch-icon" href="http://www.lifesabundance.com/images/apple-touch-icon-144x144.png"/>
+<style>.slick-slider{position:relative;display:block;box-sizing:border-box;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-khtml-user-select:none;-ms-touch-action:pan-y;touch-action:pan-y;-webkit-tap-highlight-color:transparent}.slick-list{position:relative;display:block;overflow:hidden;margin:0;padding:0}.slick-list:focus{outline:none}.slick-slider .slick-track,.slick-slider .slick-list{-webkit-transform:translate3d(0,0,0);-moz-transform:translate3d(0,0,0);-ms-transform:translate3d(0,0,0);-o-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}.slick-track{position:relative;top:0;left:0;display:block}.slick-track:before,.slick-track:after{display:table;content:''}.slick-track:after{clear:both}.slick-slide{display:none;float:left;height:100%;min-height:1px}.slick-slide img{display:block}.slick-initialized .slick-slide{display:block}@charset 'UTF-8';@font-face
+{
+    font-family: 'slick';
+    font-weight: normal;
+    font-style: normal;
+
+    src: url('slick/fonts/slick.eot');
+    src: url('slick/fonts/slick.eot?#iefix') format('embedded-opentype'), url('slick/fonts/slick.woff') format('woff'), url('slick/fonts/slick.ttf') format('truetype'), url('slick/fonts/slick.svg#slick') format('svg');
+}.slick-prev,.slick-next{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:20px;height:20px;padding:0;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%);cursor:pointer;color:transparent;border:none;outline:none;background:transparent}.slick-prev:hover,.slick-prev:focus,.slick-next:hover,.slick-next:focus{color:transparent;outline:none;background:transparent}.slick-prev:hover:before,.slick-prev:focus:before,.slick-next:hover:before,.slick-next:focus:before{opacity:1}.slick-prev:before,.slick-next:before{font-family:'slick';font-size:20px;line-height:1;opacity:.75;color:#fff;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-prev{left:-25px}.slick-prev:before{content:'←'}.slick-next{right:-25px}.slick-next:before{content:'→'}.slick-dotted.slick-slider{margin-bottom:30px}.slick-dots{position:absolute;bottom:-25px;display:block;width:100%;padding:0;margin:0;list-style:none;text-align:center}.slick-dots li{position:relative;display:inline-block;width:20px;height:20px;margin:0 5px;padding:0;cursor:pointer}.slick-dots li button{font-size:0;line-height:0;display:block;width:20px;height:20px;padding:5px;cursor:pointer;color:transparent;border:0;outline:none;background:transparent}.slick-dots li button:hover,.slick-dots li button:focus{outline:none}.slick-dots li button:hover:before,.slick-dots li button:focus:before{opacity:1}.slick-dots li button:before{font-family:'slick';font-size:6px;line-height:20px;position:absolute;top:0;left:0;width:20px;height:20px;content:'•';text-align:center;opacity:.25;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-dots li.slick-active button:before{opacity:.75;color:#000}*[class^="trustpilot-"]{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline}</style>
+<script type="text/javascript" src="/javascript/Checkout.js.pagespeed.jm.JpPqq5_qHM.js"></script>
+<script type="text/javascript" src="//use.typekit.net/sln4nwc.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+<script type="text/javascript">function RegisterTooltips(){Sys.WebForms.PageRequestManager.getInstance().add_endRequest(endRequestTooltipHandler);$("[data-toggle='tooltip']").tooltip();}function endRequestTooltipHandler(sender,args){$("[data-toggle='tooltip']").tooltip();}function WebDataGridView_AJAXResponse(webDataGrid,evntArgs){$("[data-toggle='tooltip']").tooltip();}</script>
+<script type="text/javascript" src="/js/jquery.min.js.pagespeed.jm.VDIv7VBTRR.js"></script>
+<script src="/js,_bootstrap.min.js+javascript,_fakewaffle.js.pagespeed.jc.G3mJeykLi_.js"></script><script>eval(mod_pagespeed_ItsjHfSVxq);</script>
+<script>eval(mod_pagespeed_xuuZJbj$$y);</script>
+<script type="text/javascript">function disableEnterKey(e){var key;if(window.event)key=window.event.keyCode;else key=e.which;return(key!=13);}function Search(btnID,txtID){var btn=document.getElementById(btnID);var txt=document.getElementById(txtID);if(txt.value.length>0)btn.click();}function Validator_Enable(val,enable){val.isvalid=true;val.enabled=(enable!=false);ValidatorUpdateDisplay(val);}function ClientCheckPhone(source,arguments){try{var txt=GetPhoneField();var s=txt.value;s=s.replace(/\D/g,'');var iLen=s.length;if((s[0]=='0')||(s[0]=='1'))iLen--;if(iLen<10){arguments.IsValid=false;}else{arguments.IsValid=true;}}catch(e){alert(e);}}</script>
+<meta name="Description" content="Life's Abundance provides an array of superior quality, safe & effective products born out of a commitment to improving the health of people, pets & the planet."/>
+<meta name="Keywords" content="Life's Abundance, mlm, business opportunity, Keri Glassman, Dr. Jane Bicks, dog food, cat food, treats, bones, supplements, vitamins, fish oil, probiotic, anti-oxidants, minerals, protein, multi-vitamins, greens powder, green joice"/>
+<meta property="fb:app_id" content="247474798936859"/>
+<meta property="og:title" content="Life's Abundance"/>
+<meta property="og:description" content="Life's Abundance provides an array of superior quality, safe & effective products born out of a commitment to improving the health of people, pets & the planet."/>
+<meta property="og:site_name" content="Life's Abundance"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.lifesabundance.com/Home.aspx"/>
+<meta property="og:image" content="http://www.lifesabundance.com/images/Carousel/1600-x-1000-People-Fall2017.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="1600"/>
+<meta property="og:image:height" content="1200"/>
+<meta property="og:image" content="http://www.lifesabundance.com/images/Carousel/1600-x-1000-Dog-Fall2017.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="1600"/>
+<meta property="og:image:height" content="1000"/>
+<meta property="og:image" content="http://www.lifesabundance.com/images/Carousel/1600-x-1000-Cat-Fall2017.jpg"/>
+<meta property="og:image:type" content="image/jpeg"/>
+<meta property="og:image:width" content="1600"/>
+<meta property="og:image:height" content="1000"/>
+<meta name="author" content="Life's Abundance"/>
+<style type="text/css">body{background:none!important}.carousel-product-text{height:220px}.carousel-product-image{height:180px}.carousel-product-header{}</style>
+<style>html,body{height:100%}.carousel,.item,.active{height:100%}.carousel-inner{height:100%}.fill-2{width:100%;height:100%;background-position:top center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-image:url(images/Carousel/x1600-x-1000-People-Fall2017.jpg.pagespeed.ic.pllqcCWDO2.jpg)}.fill-1{width:100%;height:100%;background-position:top center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-image:url(images/Carousel/x1600-x-1000-Dog-Winter2017.jpg.pagespeed.ic.psG_dxsQom.jpg)}.fill-3{width:100%;height:100%;background-position:top center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;background-image:url(images/Carousel/x1600-x-1000-Cat-Winter2017.jpg.pagespeed.ic.0Pli-1cwrX.jpg)}.carousel-box{font-size:1.45em;position:absolute;width:440px;right:10%;top:250px;z-index:10;padding-top:10px;padding-bottom:10px;color:#fff;background-color:rgba(239,214,164,.53);border-style:solid;border-width:1px;border-color:#fff;border-radius:8px;-moz-border-radius:8px;-ms-border-radius:8px;-o-border-radius:8px;-webkit-border-radius:8px;text-align:center}.carousel-box-small{font-size:1.45em;right:10%;top:250px;z-index:10;padding-top:10px;padding-bottom:10px;padding-right:10px;color:#fff;background-color:#626262;border-style:none;text-align:center}.carousel-cta-header{font-size:1.7em}@media screen and (max-width:1200px){body{height:75%}.carousel-box{bottom:55px;top:auto;left:27%}}@media screen and (max-width:1024px){body{height:60%}.fill-2{background-image:url(images/Carousel/x1000-x-625-People-Fall2017.jpg.pagespeed.ic.UXpK7Vv1Eh.jpg)!important}.fill-1{background-image:url(images/Carousel/x1000-x-625-Dog-Winter2017.jpg.pagespeed.ic.PSOGDS2vsl.jpg)!important}.fill-3{background-image:url(images/Carousel/x1000-x-625-Cat-Winter2017.jpg.pagespeed.ic.X9Ive4myeP.jpg)!important}}@media screen and (max-width:768px){body{height:35%}.fill-3{background-image:url(images/xcat-480.jpg.pagespeed.ic.HY6TLWCgI4.jpg)}}</style>
+<script type="text/javascript">function autoResize(id){var newheight;var newwidth;newheight=document.getElementById(id).contentWindow.document.body.scrollHeight;newwidth=document.getElementById(id).contentWindow.document.body.scrollWidth;document.getElementById(id).height=(newheight)+"px";}</script>
+<script async type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js"></script>
+<script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-631526-2','auto');ga('require','displayfeatures');ga('send','pageview');ga('create','UA-631526-4','auto',{'name':'noParamTracker'});ga('noParamTracker.require','displayfeatures');ga('noParamTracker.send','pageview');var sAccount='';if(sAccount.length>0){ga('create',sAccount,'auto',{'name':'repTracker'});ga('repTracker.require','displayfeatures');ga('repTracker.send','pageview');}</script><meta name="google-site-verification" content="zyuUpAMK39jz5u0PO2N3gWxcznGc6zE61AqiEWH7VgA"/></head>
+<body>
+<form name="aspnetForm" method="post" action="./Home.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY2NzczNDc3Nw8WAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBFgJmD2QWAgIBD2QWAgIDD2QWEgIDDw8WAh4LTmF2aWdhdGVVcmwF4wFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvRG9ncy9UcmVhdHMvVHVya2V5SGVhcnRzRG9nVHJlYXRzLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PXR1cmtleS1oZWFydHMtZG9nLWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkAgUPDxYCHwEF0AFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvUGVvcGxlL0dyZWVucy1CbGVuZC5hc3B4P3JlYWxuYW1lPSZjYXQ9MCZoZHI9JkF0aD1GYWxzZSZ1dG1fc291cmNlPXdlYnNpdGUmdXRtX21lZGl1bT1ob21lcGFnZS1jYXJvdXNlbCZ1dG1fY29udGVudD1ncmVlbnMtYmxlbmQtYnV0dG9uJnV0bV9jYW1wYWlnbj1Ob3YtMTctY3RhZGQCBw8PFgIfAQXjAWh0dHBzOi8vd3d3LmxpZmVzYWJ1bmRhbmNlLmNvbS9DYXRlZ29yeS9Qcm9kdWN0cy9DYXRzL1RyZWF0cy9UdXJrZXlIZWFydHNDYXRUcmVhdHMuYXNweD9yZWFsbmFtZT0mY2F0PTAmaGRyPSZBdGg9RmFsc2UmdXRtX3NvdXJjZT13ZWJzaXRlJnV0bV9tZWRpdW09aG9tZXBhZ2UtY2Fyb3VzZWwmdXRtX2NvbnRlbnQ9dHVya2V5LWhlYXJ0cy1jYXQtYnV0dG9uJnV0bV9jYW1wYWlnbj1Ob3YtMTctY3RhZGQCDw8PFgIfAQXQAWh0dHBzOi8vd3d3LmxpZmVzYWJ1bmRhbmNlLmNvbS9DYXRlZ29yeS9Qcm9kdWN0cy9QZW9wbGUvR3JlZW5zLUJsZW5kLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PWdyZWVucy1ibGVuZC1idXR0b24mdXRtX2NhbXBhaWduPU5vdi0xNy1jdGFkZAIRDw8WAh8BBdABaHR0cHM6Ly93d3cubGlmZXNhYnVuZGFuY2UuY29tL0NhdGVnb3J5L1Byb2R1Y3RzL1Blb3BsZS9HcmVlbnMtQmxlbmQuYXNweD9yZWFsbmFtZT0mY2F0PTAmaGRyPSZBdGg9RmFsc2UmdXRtX3NvdXJjZT13ZWJzaXRlJnV0bV9tZWRpdW09aG9tZXBhZ2UtY2Fyb3VzZWwmdXRtX2NvbnRlbnQ9Z3JlZW5zLWJsZW5kLWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkAhMPDxYCHwEF4wFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvRG9ncy9UcmVhdHMvVHVya2V5SGVhcnRzRG9nVHJlYXRzLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PXR1cmtleS1oZWFydHMtZG9nLWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkAhUPDxYCHwEF4wFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvRG9ncy9UcmVhdHMvVHVya2V5SGVhcnRzRG9nVHJlYXRzLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PXR1cmtleS1oZWFydHMtZG9nLWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkAhcPDxYCHwEF4wFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvQ2F0cy9UcmVhdHMvVHVya2V5SGVhcnRzQ2F0VHJlYXRzLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PXR1cmtleS1oZWFydHMtY2F0LWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkAhkPDxYCHwEF4wFodHRwczovL3d3dy5saWZlc2FidW5kYW5jZS5jb20vQ2F0ZWdvcnkvUHJvZHVjdHMvQ2F0cy9UcmVhdHMvVHVya2V5SGVhcnRzQ2F0VHJlYXRzLmFzcHg/cmVhbG5hbWU9JmNhdD0wJmhkcj0mQXRoPUZhbHNlJnV0bV9zb3VyY2U9d2Vic2l0ZSZ1dG1fbWVkaXVtPWhvbWVwYWdlLWNhcm91c2VsJnV0bV9jb250ZW50PXR1cmtleS1oZWFydHMtY2F0LWJ1dHRvbiZ1dG1fY2FtcGFpZ249Tm92LTE3LWN0YWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBS5jdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJHNlYXJjaGJhcjEkbG5rU2VhcmNo529PA/o9CHmajwHk8SFC8vkhKUWM9uzmjJnR1Im8c1E="/>
+<script src="/ScriptResource.axd?d=m9keuFBQG1BG61st4m8gZP9tLr5uBV9xV9Z3tNmKL_Y749J1cDZgj0jQFIMT76dEeXdq3nfEjwp93vwfE14NjrA4lAzJwOsyuObfn6ADg5fzTPM0ETwaoTZtJtlfTHfxnbT7n66721ml-1Cwkwqs1kwyjQIWS-La0NixfLWaDy01&amp;t=3d6efc1f" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6"/>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAwDKI45whWDnGvmav3td/GzCKXVnTO233taCRrKPT4ghnVz7VYodld9lWG6BMTnJYL9Qby2jKyW0oLYZohnQ1Z0P4oaWhPWdwb8u4tBZqezmFdXvQjGDEPyTHoIBbQjg31iWEmxpKkbNLkqkOEY7RjOziiQSJrvB/4R2qZs91xZnnnhoFgAM7TkqDIyjOkHMwL5cqCXquFLXBmL21L5QH+GcooXSuAIYq19jv+A5rCJXffy5i0CZ5RsKKY8LTqv00zyTxb0i5rdJLqXJfwi7zkBbIYe4NOu5T8UzYW9Be4n6A=="/>
+<div>
+<!--keyoti_search_ignore_begin-->
+<div class="topbar">
+<div class="container">
+<div class="row">
+<div class="hidden-xs">
+<div id="ctl00_ContentPlaceHolder1_topbar2_divCustNumber3" class="col-sm-4 col-md-4 col-lg-4">
+</div>
+<div id="ctl00_ContentPlaceHolder1_topbar2_divCustNumber2" class="col-sm-10 col-md-10 col-lg-12 text-center">
+<a href="tel:8773874564"><span class="sprite sprite-call-icon visible-xs"></span>Customer Service 877-387-4564</a>
+</div>
+<div class="col-sm-6 col-md-6 col-lg-4">
+<ul class="nav nav-pills pull-right pull-xs-left">
+<li>
+<a id="ctl00_ContentPlaceHolder1_topbar2_lnkMyAccountHeader" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$topbar2$lnkMyAccountHeader&#39;,&#39;&#39;)">My Account</a>
+</li>
+<li>
+<a id="ctl00_ContentPlaceHolder1_topbar2_lnkSignIn" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$topbar2$lnkSignIn&#39;,&#39;&#39;)">Sign In</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="visible-xs">
+<div class="col-xs-6 text-center">
+<a href="tel:8773874564" id="ctl00_ContentPlaceHolder1_topbar2_lnkPhone2"><span class="sprite sprite-call2-icon"></span></a>
+</div>
+<div class="col-xs-8 text-center">
+<a id="ctl00_ContentPlaceHolder1_topbar2_lnkMyAccountHeader2" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$topbar2$lnkMyAccountHeader2&#39;,&#39;&#39;)"><span class="sprite sprite-myacct-icon">
+</span></a>
+</div>
+<div class="col-xs-6 text-center">
+<a id="ctl00_ContentPlaceHolder1_topbar2_lnkSignIn2" href="javascript:__doPostBack(&#39;ctl00$ContentPlaceHolder1$topbar2$lnkSignIn2&#39;,&#39;&#39;)"><span class="sprite sprite-signin-icon"></span></a>
+</div>
+</div>
+</div>
+</div>
+<!--keyoti_search_ignore_end-->
+<div id="myCarouselHome" class="hidden-xs hidden-xxs carousel slide" style="position: absolute; width: 100%;">
+<ol class="carousel-indicators">
+<li data-target="#myCarouselHome" data-slide-to="0" class="active"></li>
+<li data-target="#myCarouselHome" data-slide-to="1"></li>
+<li data-target="#myCarouselHome" data-slide-to="2"></li>
+</ol>
+<div class="carousel-inner">
+<div class="item active">
+<div class="fill-1">
+</div>
+<div class="carousel-box hidden-xxs hidden-xs col-md-offset-5">
+<div class="row">
+<span class="carousel-cta-header" style="color: black;">Freeze-Dried
+<br/>
+Turkey Heart Treats
+<br/>
+</span>
+</div>
+<div class="row top-buffer">
+<div class="col-sm-8 col-md-8 col-lg-8">
+<img src="images/products/xdog-turkey-treats2-180.png.pagespeed.ic.Fbkov6g4yj.png" alt="Turkey Treats for Dogs">
+</div>
+<div class="col-sm-12 col-md-12 col-lg-12 text-left" style="color: black;">
+Single-ingredient goodness with a savory flavor sure to encourage good behavior.<br/>
+Bow-WOW!
+<br/>
+<br/>
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsDog1" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/Dogs/Treats/TurkeyHeartsDogTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-dog-button&amp;utm_campaign=Nov-17-cta" style="text-shadow: none !important;">  Learn more  </a>
+<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="fill-2">
+</div>
+<div class="carousel-caption" style="z-index: 11;">
+</div>
+<div class="carousel-box hidden-xxs hidden-xs col-md-offset-5">
+<div class="row">
+<span class="carousel-cta-header" style="color: black;">Weather Turning Cold?<br/>
+Get Your Greens On
+<br/>
+</span>
+</div>
+<div class="row top-buffer">
+<div class="col-sm-8 col-md-8 col-lg-8">
+<img src="images/products/xgreens-cta-11-17.png.pagespeed.ic.Pu9YZf7V2J.png" alt="Greens Blend">
+</div>
+<div class="col-sm-12 col-md-12 col-lg-12 text-left" style="color: black;">
+A convenient and delicious way to get your veggies this season. Endorsed by Keri Glassman, MS.RD.CDN.
+<br/>
+<br/>
+<a id="ctl00_ContentPlaceHolder1_lnkGreensBlend1" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/People/Greens-Blend.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=greens-blend-button&amp;utm_campaign=Nov-17-cta" style="text-shadow: none !important;">  Learn more  </a>
+<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="item">
+<div class="fill-3">
+</div>
+<div class="carousel-box hidden-xxs hidden-xs col-md-offset-5">
+<div class="row">
+<span class="carousel-cta-header" style="color: black;">Freeze-Dried<br/>
+Turkey Heart Treats<br/>
+</span>
+</div>
+<div class="row top-buffer">
+<div class="col-sm-8 col-md-8 col-lg-8">
+<img src="images/products/xcat-turkey-treats-180.png.pagespeed.ic.TKQVliars2.png" alt="Freeze-Dried Turkey Hearts for Cats">
+</div>
+<div class="col-sm-12 col-md-12 col-lg-12 text-left" style="color: black;">
+Savory nuggets that will send your feline into a state of bountiful bliss. Zero fillers/preservatives!
+<br/>
+<br/>
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsCat1" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/Cats/Treats/TurkeyHeartsCatTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-cat-button&amp;utm_campaign=Nov-17-cta" style="text-shadow: none !important;">&nbsp;&nbsp;Learn more&nbsp;&nbsp;</a>
+<br/>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class="left carousel-control" href="#myCarouselHome" data-slide="prev"><span style="font-size: 60px;" class="icon-prev"></span></a><a class="right carousel-control" href="#myCarouselHome" data-slide="next"><span style="font-size: 60px;" class="icon-next"></span>
+</a>
+<div class="container">
+<div class="row">
+<div class="col-lg-20 top-buffer">
+<h1>Life's Abundance</h1>
+Health is more than just eating right and exercising – it’s about cultivating the
+right attitude and making a commitment to feel better… to be better. At Life's
+Abundance, we understand commitment. We’re pledged to providing the best possible
+products for our customers, to help them live longer, healthier and happier lives.
+We provide an array of superior quality, safe and effective products that are inspired
+by nature, informed by science and born of a commitment to improving the health
+of people, pets and the planet. Welcome to Life's Abundance… we’re paving new roads
+to wellness, every day.
+</div>
+</div>
+<div class="col-lg-20 top-buffer">
+<div class="trustpilot-widget" data-locale="en-US" data-template-id="54ad5defc6454f065c28af8b" data-businessunit-id="54aeef5f0000ff00057c9a7c" data-style-height="220px" data-style-width="100%" data-theme="light" data-stars="5">
+</div>
+</div>
+</div>
+<style type="text/css">@media (max-width:767px){.list-footer li{margin-top:10px}}</style>
+<script type="text/javascript">function CopyCode(elemName){var obj=document.getElementById(elemName);try{window.clipboardData.setData("Text",obj.innerText);}catch(e){window.prompt("Copy to clipboard:\nRight Click and Select 'Copy' or Press Ctrl+C,\nthen press enter or 'OK'",obj.innerText);}}</script>
+<!--keyoti_search_ignore_begin-->
+<!--START FOOTER-->
+<footer id="footer">
+<div class="container">
+<div class="row">
+<!--START FOOTER COLUMN-->
+<!--START COLUMN 1-->
+<div class="col-xs-20 col-sm-4 col-md-4 col-lg-3">
+<h3>About Us</h3>
+<ul class="list-unstyled list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkAbout" href="https://www.lifesabundance.com/General/OurMission.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Who We Are</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkFieldRepSignup" href="https://www.lifesabundance.com/General/FieldRepSignUp/FieldRepApplication.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Field Rep Sign-Up</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkContactFooter" href="https://www.lifesabundance.com/General/ContactUs.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Contact Us</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkOpportunityFooter" href="https://www.lifesabundance.com/Opportunity/Opportunity.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Opportunity</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkFoundationFooter" href="https://www.lifesabundance.com/Pets/Foundation.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Giving Back</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkNewsletter" href="https://www.lifesabundance.com/NewsLetter/NewsLetterSignUp.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Newsletter</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkCareers" href="https://www.theapplicantmanager.com/careers?co=li" target="_blank">Careers</a></li>
+</ul>
+<br/>
+<!-- START SCANALERT CODE -->
+<!-- END SCANALERT CODE -->
+</div>
+<!--END COLUMN 1-->
+<!--START COLUMN 2-->
+<div class="col-xs-20 col-sm-4 col-md-4 col-lg-3">
+<h3>Products</h3>
+<ul class="list-unstyled list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkDogFood2" href="https://www.lifesabundance.com/Category/DogFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Dog Food</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkCatFood2" href="https://www.lifesabundance.com/Category/CatFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Cat Food</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkSupplements" href="https://www.lifesabundance.com/People/Supplements.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">People Supplements</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkCleaning2" href="https://www.lifesabundance.com/Category/Cleaning.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Eco-Friendly Cleaners</a></li>
+</ul>
+</div>
+<!--END COLUMN 2-->
+<div class="clearfix visible-xs"></div>
+<!--START COLUMN 3-->
+<div class="col-sm-4 col-md-4 col-lg-4 ">
+<h3>Terms</h3>
+<ul class="list-unstyled  list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkSafeShopping" href="https://www.lifesabundance.com/General/SecureShopping.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Safe Shopping Guarantee</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkShippingPolicy" href="https://www.lifesabundance.com/General/Shipping.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Shipping Policy</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkPrivacy" href="https://www.lifesabundance.com/General/Privacy.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Privacy Policy</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkTermOfUse" href="https://www.lifesabundance.com/General/Terms.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Terms Of Use</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl1_lnkSiteMap" href="https://www.lifesabundance.com/General/SiteMap.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Site Map</a></li>
+</ul>
+</div>
+<!--END COLUMN 3-->
+<div class="clearfix visible-xs"></div>
+<!--START COLUMN 4-->
+<div class="col-xs-20 col-sm-8 col-md-6 col-lg-5 col-md-offset-2 col-lg-offset-5">
+<style type="text/css">.slick-slide,.slick-slide *{outline:none!important}.video_panel a:hover{text-decoration:none}</style>
+<div id="ctl00_ContentPlaceHolder1_FooterControl1_BlogCarouselControl1_divVideo" class="video_panel" style="min-height: 260px;">
+<h3>Recent Blog Posts
+</h3>
+<div class="carousel-padding">
+<div class="slider autoplay">
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl1_BlogCarouselControl1_HyperLink1" href="//blog.lifesabundance.com/post/2017/12/07/holiday-reflections-on-the-season-of-giving.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/Happy-holidays-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>Holiday Reflections on the Season of Giving</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl1_BlogCarouselControl1_HyperLink2" href="//blog.lifesabundance.com/post/2017/12/01/which-holiday-character-is-your-pet.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/Yorkshire-Holiday-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>Which Holiday Character is Your Pet?</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl1_BlogCarouselControl1_HyperLink3" href="//blog.lifesabundance.com/post/2017/11/20/3-tips-to-thrive-this-holiday.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/blog-nov-2017-thankgiving-sm.jpg" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>3 Tips to Thrive this Holiday</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl1_BlogCarouselControl1_HyperLink4" href="//blog.lifesabundance.com/post/2017/11/02/the-future-of-veterinary-medicine.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/orange-tabby-outdoors-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>The Future of Veterinary Medicine</h3> </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--END COLUMN 4-->
+<!--END FOOTER COLUMN-->
+</div>
+<!--START FOOTER BAR-->
+<div class="row">
+<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12 text-left">
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.lifesabundance.com">
+<span class="sprite sprite-mcafee_icon"></span>
+</a>&nbsp;
+<span class="sprite sprite-30day_icon"></span>&nbsp;
+<a target="_blank" href="http://www.bbb.org/south-east-florida/business-reviews/pet-foods-wholesale-and-manufacturers/lifes-abundance-in-jupiter-fl-4005372">
+<span class="sprite sprite-bbb_icon"></span>
+</a>
+</div>
+<div class="col-xs-18 col-sm-8 col-md-8 col-lg-8 text-right-lg">
+<div class="row">
+<div class="col-md-6 col-lg-8">
+</div>
+<div class="newsletterBox input-group">
+<input name="ctl00$ContentPlaceHolder1$FooterControl1$ctl00$txtRepEmail" type="text" maxlength="40" id="ctl00_ContentPlaceHolder1_FooterControl1_ctl00_txtRepEmail" class="form-control text-center" placeholder="Enter email address"/>
+<span class="input-group-btn">
+<input type="submit" name="ctl00$ContentPlaceHolder1$FooterControl1$ctl00$NLSignUp" value="Sign Up" id="ctl00_ContentPlaceHolder1_FooterControl1_ctl00_NLSignUp" class="btn btn-info"/>
+</span>
+</div>
+</div>
+<script type="text/javascript">function validateEmail_newsletterctrl(sEmail){var filter=/^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;if(filter.test(sEmail)){return true;}else{return false;}}$(document).ready(function(){$('#ctl00_ContentPlaceHolder1_FooterControl1_ctl00_NLSignUp').click(function(){var sEmail=$('#ctl00_ContentPlaceHolder1_FooterControl1_ctl00_txtRepEmail').val();if($.trim(sEmail).length==0){alert('Please enter valid email address');return false;}if(validateEmail_newsletterctrl(sEmail)){return true;}else{alert('Invalid Email Address');return false;}});});</script>
+</div>
+</div>
+<div class="row text-right text-left-xs">
+<div class="col-xs-20 col-sm-17 col-md-18 col-lg-18">
+<span id="ctl00_ContentPlaceHolder1_FooterControl1_lblWebServer"><font color="#696460">TRI-HQ-IT-WEB05 1.0.0.1.SG</font></span>
+</div>
+<div class="col-xs-20 col-sm-2 col-md-2 col-lg-2">
+<span id="ctl00_ContentPlaceHolder1_FooterControl1_lblRealName"></span>
+</div>
+</div>
+<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20 text-center">
+© 2018 Life's Abundance, Inc. Jupiter FL
+</div>
+<!--END FOOTER BAR-->
+</div>
+</footer>
+<!--END FOOTER-->
+<!--keyoti_search_ignore_end-->
+</div>
+<header id="header">
+<div class="container">
+<div class="row">
+<!--START LOGO-->
+<div class="col-sm-6 col-md-8 col-lg-6">
+<!--<span class="sprite sprite-logo"></span>-->
+<a id="ctl00_ContentPlaceHolder1_searchbar1_lnkHome2" class="headerlogo" href="https://www.lifesabundance.com/Home.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><img src="images/logo.png.pagespeed.ce.C1vfRcIdjj.png" id="ctl00_ContentPlaceHolder1_searchbar1_imgLogo" width="249" class="img-responsive" height="54" alt="logo"/></a>
+</div>
+<!--END LOGO-->
+<!--START SEARCH CONTROL-->
+<div id="ctl00_ContentPlaceHolder1_searchbar1_divSearch" class="col-sm-11 col-md-7 col-md-offset-5 col-lg-offset-7">
+<div class="form-group">
+<table width="100%">
+<tr>
+<td>
+<input name="ctl00$ContentPlaceHolder1$searchbar1$txtSearch" type="text" id="ctl00_ContentPlaceHolder1_searchbar1_txtSearch" class="form-control" placeholder="Search" onkeydown="if ((event.which &amp;&amp; event.which == 13) || (event.keyCode &amp;&amp; event.keyCode == 13)) {Search(&#39;ctl00_ContentPlaceHolder1_searchbar1_lnkSearch&#39;,&#39;ctl00_ContentPlaceHolder1_searchbar1_txtSearch&#39;);return false;} else return true; "/>
+</td>
+<td>&nbsp;<input type="image" name="ctl00$ContentPlaceHolder1$searchbar1$lnkSearch" id="ctl00_ContentPlaceHolder1_searchbar1_lnkSearch" src="images/xSearch-64.png.pagespeed.ic.0n8u_CHquZ.png" border="0"/>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<!--END SEARCH CONTROL-->
+<!-- START REP PROFILE CONTROL -->
+<!-- END REP PROFILE CONTROL -->
+</div>
+</div>
+</header>
+<!--keyoti_search_ignore_begin-->
+<div class="container">
+<div id="divspacer">
+</div>
+<div class="row" id="mainnavbar">
+<div class="col-sm-20 col-md-20 col-lg-20 ">
+<div class="menubar">
+<div class="menubarbg">
+<div class="row yamm">
+<div class="col-sm-15 col-md-14 col-lg-14">
+<div class="navbar navbar-default navbar-fixed-top-xs">
+<nav id="navbar" class="collapse navbar-collapse">
+<ul class="nav nav-pills nav-justified">
+<li class="head"><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkHome" href="https://www.lifesabundance.com/Home.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Home</a></li>
+<li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="#"> Products </a>
+<ul class="dropdown-menu dropdown-menu-bg opacity-menu">
+<li>
+<div class="row dropdown-menu-products">
+<ul class="col-sm-6 list-unstyled">
+<li class="head">
+<h3><span class="dog-product-link">Dogs</span></h3>
+<span class="thumb"><img src="images/dog.png,qv=4.0.003.pagespeed.ce.Abn_UW-PJS.png" id="ctl00_ContentPlaceHolder1_HeaderControl1_Img1" alt="Dog"/></span> </li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkDogFood" href="https://www.lifesabundance.com/Category/DogFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="dog-product-link dog-product-hover">Dog Food</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkDogTreats" href="https://www.lifesabundance.com/Pets/Treats/DogTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="dog-product-link dog-product-hover">Dog Treats</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkDogSupplements" href="https://www.lifesabundance.com/Pets/Supplements/DogSupplements.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="dog-product-link dog-product-hover">Dog Supplements</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkDogPetCare" href="https://www.lifesabundance.com/Category/DogPetCare.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="dog-product-link dog-product-hover">Pet Care Products</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkDogGifts" href="https://www.lifesabundance.com/Category/DogGifts.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="dog-product-link dog-product-hover">Gift Ideas</span></a></li>
+</ul>
+<ul class="col-sm-6 list-unstyled">
+<li class="head">
+<h3><span class="cat-product-link">Cats</span></h3>
+<span class="thumb"><img src="images/cat.png,qv=4.0.003.pagespeed.ce.rgCu01Rect.png" id="ctl00_ContentPlaceHolder1_HeaderControl1_Img2" alt="Cat"/></span> </li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCatFood" href="https://www.lifesabundance.com/Category/CatFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="cat-product-link cat-product-hover">Cat Food</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCatTreats" href="https://www.lifesabundance.com/Category/CatTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="cat-product-link cat-product-hover">Cat Treats</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCatSupplements" href="https://www.lifesabundance.com/Category/CatSupplements.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="cat-product-link cat-product-hover">Cat Supplements</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCatPetCare" href="https://www.lifesabundance.com/Category/CatPetCare.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="cat-product-link cat-product-hover">Pet Care Products</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCatGifts" href="https://www.lifesabundance.com/Category/CatGifts.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="cat-product-link cat-product-hover">Gift Ideas</span></a></li>
+</ul>
+<ul id="pplCtgrs" class="col-sm-8 col-md-8 col-lg-8 list-unstyled">
+<li class="head">
+<h3><span class="people-product-link">People</span></h3>
+<span class="thumb pplCtgrsthumb"><img src="images/people.png,qv=4.0.003.pagespeed.ce.eqhzfYfinz.png" id="ctl00_ContentPlaceHolder1_HeaderControl1_Img3" alt="People"/></span> </li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkSupplements" href="https://www.lifesabundance.com/People/Supplements.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="people-product-link people-product-hover">Supplements</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkGiftCertificates" href="https://www.lifesabundance.com/Orders/GiftCertificates/GiftCertificate.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False"><span class="people-product-link people-product-hover">Gift Certificates</span></a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkKeri" href="https://www.lifesabundance.com/People/Nutrition-Dietary-Supplements-Vitamins.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=menu&amp;utm_content=jan-choc-protein-dropdown&amp;utm_campaign=banner-promo"><span class="people-product-link people-product-hover">Keri Glassman MS.RD.CDN.</span></a></li>
+</ul>
+</div>
+<div>
+<div><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkBanner" href="https://www.lifesabundance.com/Category/Products/People/Plant-Protein-Chocolate-Powder.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=menu&amp;utm_content=jan-choc-protein-dropdown&amp;utm_campaign=banner-promo" style="display:inline-block;"><img src="images/Transparency.png.pagespeed.ce.URDJ0uk6Wc.png" alt="" border="0"/></a>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkFoundationHeader" href="https://www.lifesabundance.com/Pets/Foundation.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Foundation</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkOpportunityHeader" href="https://www.lifesabundance.com/Opportunity/Opportunity.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Opportunity</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkBlog" href="//blog.lifesabundance.com/default.aspx?realname=">Blog</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkContactHeader" href="https://www.lifesabundance.com/General/ContactUs.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Contact</a></li>
+</ul>
+</nav>
+</div>
+</div>
+<div class="col-sm-5 col-md-4 col-lg-3 col-lg-offset-3 col-md-offset-2 addtocart">
+<div class="btnbar btn-group btn-block">
+<div id="ctl00_ContentPlaceHolder1_HeaderControl1_upBasket">
+<div id="ctl00_ContentPlaceHolder1_HeaderControl1_divMyCart">
+<a id="ctl00_ContentPlaceHolder1_HeaderControl1_lnkCart" class="btn btn-warning btn-block " href="https://www.lifesabundance.com/Orders/Basket.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">
+<span class="sprite sprite-cart_icon pull-left">
+<span id="ctl00_ContentPlaceHolder1_HeaderControl1_lblCartCount">0</span></span> MY
+CART
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--keyoti_search_ignore_end-->
+<div class="hidden-sm hidden-md hidden-lg">
+<div class="container" style="position: relative; top: 500px; z-index: 999999;">
+<div class="row">
+<div class="col-xxs-2 col-xs-2" style="min-height: 20px;"></div>
+<div class="col-xxs-16 col-xs-16 appendarrows" style="min-height: 20px;"></div>
+<div class="col-xxs-2 col-xs-2" style="min-height: 20px;"></div>
+</div>
+</div>
+<div class="slider homepage">
+<div>
+<div class="container">
+<div class="row  carousel-box-small carousel-product-image">
+<div class="col-xxs-2 col-xs-2"></div>
+<div class="col-xxs-16 col-xs-16 text-center " style="margin: 0 auto;">
+<a id="ctl00_ContentPlaceHolder1_lnkGreensBlend2" href="https://www.lifesabundance.com/Category/Products/People/Greens-Blend.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=greens-blend-button&amp;utm_campaign=Nov-17-cta"><img id="ctl00_ContentPlaceHolder1_Image1" alt="Greens Blend" src="images/products/180x180xgreens-cta-11-17.png.pagespeed.ic.Pu9YZf7V2J.png" height="180" width="180" border="0" style="margin-left: auto !important; margin-right: auto !important;"/></a>
+</div>
+<div class="col-xxs-2 col-xs-2"></div>
+</div>
+<div class="row carousel-box-small carousel-product-text">
+<span class="carousel-cta-header" style="font-size: 1.0em">A convenient and delicious way<br/> to get your veggies this season.<br/> Endorsed by Keri Glassman, MS.RD.CDN.
+<br/>
+<br/>
+</span>
+<a id="ctl00_ContentPlaceHolder1_lnkGreensBlend3" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/People/Greens-Blend.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=greens-blend-button&amp;utm_campaign=Nov-17-cta" style="margin-top: 15px !important;">&nbsp;&nbsp;Learn more&nbsp;&nbsp;</a>
+<br/>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row  carousel-box-small carousel-product-image">
+<div class="col-xxs-2 col-xs-2"></div>
+<div class="col-xxs-16 col-xs-16 text-center " style="margin: 0 auto;">
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsDog2" href="https://www.lifesabundance.com/Category/Products/Dogs/Treats/TurkeyHeartsDogTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-dog-button&amp;utm_campaign=Nov-17-cta"><img id="ctl00_ContentPlaceHolder1_Image2" alt="Turkey Treats for Dogs" src="images/products/180x180xdog-turkey-treats2-180.png.pagespeed.ic.Fbkov6g4yj.png" height="180" width="180" border="0" style="margin-left: auto !important; margin-right: auto !important;"/></a>
+</div>
+<div class="col-xxs-2 col-xs-2"></div>
+</div>
+<div class="row carousel-box-small carousel-product-text">
+<span class="carousel-cta-header" style="font-size: 1.0em">Freeze-Dried
+<br/>
+Turkey Heart Treats
+<br/>
+</span><span class="carousel-cta-detail" style="font-size: 0.7em">Single-ingredient goodness with a savory flavor<br/>
+sure to encourage good behavior.<br/>
+Bow-WOW!<br/>
+</span>
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsDog3" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/Dogs/Treats/TurkeyHeartsDogTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-dog-button&amp;utm_campaign=Nov-17-cta" style="margin-top: 15px !important;">&nbsp;&nbsp;Learn more&nbsp;&nbsp;</a>
+<br/>
+</div>
+</div>
+</div>
+<div>
+<div class="container">
+<div class="row  carousel-box-small carousel-product-image">
+<div class="col-xxs-2 col-xs-2"></div>
+<div class="col-xxs-16 col-xs-16 text-center " style="margin: 0 auto;">
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsCat3" href="https://www.lifesabundance.com/Category/Products/Cats/Treats/TurkeyHeartsCatTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-cat-button&amp;utm_campaign=Nov-17-cta"><img id="ctl00_ContentPlaceHolder1_Image3" src="images/products/xcat-turkey-treats-180.png.pagespeed.ic.TKQVliars2.png" alt="Turkey Hearts Cat Treats" border="0" style="margin-left: auto !important; margin-right: auto !important;"/></a>
+</div>
+<div class="col-xxs-2 col-xs-2"></div>
+</div>
+<div class="row carousel-box-small carousel-product-text">
+<span class="carousel-cta-header" style="font-size: 1.0em">Freeze-Dried<br/>
+Turkey Heart Treats
+<br/>
+</span>
+<span class="carousel-cta-detail" style="font-size: 0.7em">Savory nuggets that will send your<br/>
+feline into a state of bountiful bliss.<br/>
+Zero fillers/preservatives!<br/>
+</span>
+<a id="ctl00_ContentPlaceHolder1_lnkTurkeyHeartsCat2" class="btn btn-warning" href="https://www.lifesabundance.com/Category/Products/Cats/Treats/TurkeyHeartsCatTreats.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False&amp;utm_source=website&amp;utm_medium=homepage-carousel&amp;utm_content=turkey-hearts-cat-button&amp;utm_campaign=Nov-17-cta" style="margin-top: 15px !important;">&nbsp;&nbsp;Learn more&nbsp;&nbsp;</a>
+<br/>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="row">
+<div class="col-lg-20 top-buffer">
+<h1>Life's Abundance</h1>
+Health is more than just eating right and exercising – it’s about cultivating the
+right attitude and making a commitment to feel better… to be better. At Life's
+Abundance, we understand commitment. We’re pledged to providing the best possible
+products for our customers, to help them live longer, healthier and happier lives.
+We provide an array of superior quality, safe and effective products that are inspired
+by nature, informed by science and born of a commitment to improving the health
+of people, pets and the planet. Welcome to Life's Abundance… we’re paving new roads
+to wellness, every day.
+</div>
+</div>
+<div class="trustpilot-widget" data-locale="en-US" data-template-id="54ad5defc6454f065c28af8b" data-businessunit-id="54aeef5f0000ff00057c9a7c" data-style-height="240px" data-style-width="100%" data-theme="light" data-stars="5">
+</div>
+</div>
+<style type="text/css">@media (max-width:767px){.list-footer li{margin-top:10px}}</style>
+<script type="text/javascript">function CopyCode(elemName){var obj=document.getElementById(elemName);try{window.clipboardData.setData("Text",obj.innerText);}catch(e){window.prompt("Copy to clipboard:\nRight Click and Select 'Copy' or Press Ctrl+C,\nthen press enter or 'OK'",obj.innerText);}}</script>
+<!--keyoti_search_ignore_begin-->
+<!--START FOOTER-->
+<footer id="footer">
+<div class="container">
+<div class="row">
+<!--START FOOTER COLUMN-->
+<!--START COLUMN 1-->
+<div class="col-xs-20 col-sm-4 col-md-4 col-lg-3">
+<h3>About Us</h3>
+<ul class="list-unstyled list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkAbout" href="https://www.lifesabundance.com/General/OurMission.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Who We Are</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkFieldRepSignup" href="https://www.lifesabundance.com/General/FieldRepSignUp/FieldRepApplication.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Field Rep Sign-Up</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkContactFooter" href="https://www.lifesabundance.com/General/ContactUs.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Contact Us</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkOpportunityFooter" href="https://www.lifesabundance.com/Opportunity/Opportunity.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Opportunity</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkFoundationFooter" href="https://www.lifesabundance.com/Pets/Foundation.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Giving Back</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkNewsletter" href="https://www.lifesabundance.com/NewsLetter/NewsLetterSignUp.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Newsletter</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkCareers" href="https://www.theapplicantmanager.com/careers?co=li" target="_blank">Careers</a></li>
+</ul>
+<br/>
+<!-- START SCANALERT CODE -->
+<!-- END SCANALERT CODE -->
+</div>
+<!--END COLUMN 1-->
+<!--START COLUMN 2-->
+<div class="col-xs-20 col-sm-4 col-md-4 col-lg-3">
+<h3>Products</h3>
+<ul class="list-unstyled list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkDogFood2" href="https://www.lifesabundance.com/Category/DogFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Dog Food</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkCatFood2" href="https://www.lifesabundance.com/Category/CatFood.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Cat Food</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkSupplements" href="https://www.lifesabundance.com/People/Supplements.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">People Supplements</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkCleaning2" href="https://www.lifesabundance.com/Category/Cleaning.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Eco-Friendly Cleaners</a></li>
+</ul>
+</div>
+<!--END COLUMN 2-->
+<div class="clearfix visible-xs"></div>
+<!--START COLUMN 3-->
+<div class="col-sm-4 col-md-4 col-lg-4 ">
+<h3>Terms</h3>
+<ul class="list-unstyled  list-footer">
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkSafeShopping" href="https://www.lifesabundance.com/General/SecureShopping.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Safe Shopping Guarantee</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkShippingPolicy" href="https://www.lifesabundance.com/General/Shipping.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Shipping Policy</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkPrivacy" href="https://www.lifesabundance.com/General/Privacy.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Privacy Policy</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkTermOfUse" href="https://www.lifesabundance.com/General/Terms.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Terms Of Use</a></li>
+<li><a id="ctl00_ContentPlaceHolder1_FooterControl2_lnkSiteMap" href="https://www.lifesabundance.com/General/SiteMap.aspx?realname=&amp;cat=0&amp;hdr=&amp;Ath=False">Site Map</a></li>
+</ul>
+</div>
+<!--END COLUMN 3-->
+<div class="clearfix visible-xs"></div>
+<!--START COLUMN 4-->
+<div class="col-xs-20 col-sm-8 col-md-6 col-lg-5 col-md-offset-2 col-lg-offset-5">
+<style type="text/css">.slick-slide,.slick-slide *{outline:none!important}.video_panel a:hover{text-decoration:none}</style>
+<div id="ctl00_ContentPlaceHolder1_FooterControl2_BlogCarouselControl1_divVideo" class="video_panel" style="min-height: 260px;">
+<h3>Recent Blog Posts
+</h3>
+<div class="carousel-padding">
+<div class="slider autoplay">
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl2_BlogCarouselControl1_HyperLink1" href="//blog.lifesabundance.com/post/2017/12/07/holiday-reflections-on-the-season-of-giving.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/Happy-holidays-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>Holiday Reflections on the Season of Giving</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl2_BlogCarouselControl1_HyperLink2" href="//blog.lifesabundance.com/post/2017/12/01/which-holiday-character-is-your-pet.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/Yorkshire-Holiday-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>Which Holiday Character is Your Pet?</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl2_BlogCarouselControl1_HyperLink3" href="//blog.lifesabundance.com/post/2017/11/20/3-tips-to-thrive-this-holiday.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/blog-nov-2017-thankgiving-sm.jpg" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>3 Tips to Thrive this Holiday</h3> </div>
+</a>
+</div>
+<div>
+<a id="ctl00_ContentPlaceHolder1_FooterControl2_BlogCarouselControl1_HyperLink4" href="//blog.lifesabundance.com/post/2017/11/02/the-future-of-veterinary-medicine.aspx?realname=&amp;utm_source=main-website&amp;utm_medium=cta&amp;utm_content=cta-link&amp;utm_campaign=main-website-footer">
+<div class="video-placement"><img src="//blog.lifesabundance.com/pics/orange-tabby-outdoors-sm.png" height="166" width="270" alt="Blog Post"/></div>
+<div><h3>The Future of Veterinary Medicine</h3> </div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!--END COLUMN 4-->
+<!--END FOOTER COLUMN-->
+</div>
+<!--START FOOTER BAR-->
+<div class="row">
+<div class="col-xs-20 col-sm-12 col-md-12 col-lg-12 text-left">
+<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.lifesabundance.com">
+<span class="sprite sprite-mcafee_icon"></span>
+</a>&nbsp;
+<span class="sprite sprite-30day_icon"></span>&nbsp;
+<a target="_blank" href="http://www.bbb.org/south-east-florida/business-reviews/pet-foods-wholesale-and-manufacturers/lifes-abundance-in-jupiter-fl-4005372">
+<span class="sprite sprite-bbb_icon"></span>
+</a>
+</div>
+<div class="col-xs-18 col-sm-8 col-md-8 col-lg-8 text-right-lg">
+<div class="row">
+<div class="col-md-6 col-lg-8">
+</div>
+<div class="newsletterBox input-group">
+<input name="ctl00$ContentPlaceHolder1$FooterControl2$ctl00$txtRepEmail" type="text" maxlength="40" id="ctl00_ContentPlaceHolder1_FooterControl2_ctl00_txtRepEmail" class="form-control text-center" placeholder="Enter email address"/>
+<span class="input-group-btn">
+<input type="submit" name="ctl00$ContentPlaceHolder1$FooterControl2$ctl00$NLSignUp" value="Sign Up" id="ctl00_ContentPlaceHolder1_FooterControl2_ctl00_NLSignUp" class="btn btn-info"/>
+</span>
+</div>
+</div>
+<script type="text/javascript">function validateEmail_newsletterctrl(sEmail){var filter=/^([\w-\.]+)@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.)|(([\w-]+\.)+))([a-zA-Z]{2,4}|[0-9]{1,3})(\]?)$/;if(filter.test(sEmail)){return true;}else{return false;}}$(document).ready(function(){$('#ctl00_ContentPlaceHolder1_FooterControl2_ctl00_NLSignUp').click(function(){var sEmail=$('#ctl00_ContentPlaceHolder1_FooterControl2_ctl00_txtRepEmail').val();if($.trim(sEmail).length==0){alert('Please enter valid email address');return false;}if(validateEmail_newsletterctrl(sEmail)){return true;}else{alert('Invalid Email Address');return false;}});});</script>
+</div>
+</div>
+<div class="row text-right text-left-xs">
+<div class="col-xs-20 col-sm-17 col-md-18 col-lg-18">
+<span id="ctl00_ContentPlaceHolder1_FooterControl2_lblWebServer"><font color="#696460">TRI-HQ-IT-WEB05 1.0.0.1.SG</font></span>
+</div>
+<div class="col-xs-20 col-sm-2 col-md-2 col-lg-2">
+<span id="ctl00_ContentPlaceHolder1_FooterControl2_lblRealName"></span>
+</div>
+</div>
+<div class="col-xs-20 col-sm-20 col-md-20 col-lg-20 text-center">
+© 2018 Life's Abundance, Inc. Jupiter FL
+</div>
+<!--END FOOTER BAR-->
+</div>
+</footer>
+<!--END FOOTER-->
+<!--keyoti_search_ignore_end-->
+</div>
+<script type="text/javascript">$('.carousel').carousel({pause:"false",interval:10000})</script>
+</div>
+<input type="submit" name="ctl00$DefaultButton" value="" onclick="return false;" id="ctl00_DefaultButton" style="display: none;"/>
+<!-- Google Code for Remarketing Tag -->
+<script type="text/javascript">var google_conversion_id=1066350173;var google_custom_params=window.google_tag_params;var google_remarketing_only=true;</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1066350173/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">$(document).ready(function(){$('.homepage').slick({slidesToShow:1,slidesToScroll:1,autoplay:true,autoplaySpeed:4000,dots:true,});});</script><script type="text/javascript">Sys.Application.add_load(function(){RegisterTooltips();});</script><script type="text/javascript">$(document).ready(function(){$('.autoplay').slick({slidesToShow:1,slidesToScroll:1,autoplay:true,dots:false,arrows:false,autoplaySpeed:4000,});});</script></form>
+</body>
+<script src="/js/modernizr-latest.js+custom.bootstrap.min.js.pagespeed.jc.FSxb5uEWoM.js"></script><script>eval(mod_pagespeed_LTEDmlrYmL);</script>
+<script>eval(mod_pagespeed__J2_rDompx);</script>
+<script type="text/javascript" src="/slick/slick.min.js.pagespeed.jm.0rX4HqgJtB.js"></script>
+<noscript class="psa_add_styles"><link href="/css/A.bootstrap.min.css,,qv==4.0.020+custom.bootstrap.css,,qv==4.0.020,Mcc.KpyrmryP9-.css.pagespeed.cf.jvq0cKHrTg.css" rel="stylesheet"/><link rel="stylesheet" media="screen and (min-width:740px)" href="css/A.desktop.css,qv=4.0.024.pagespeed.cf.T44MrpMmHy.css"/><link rel="stylesheet" media="screen and (max-width:736px)" href="css/A.mobile.css,qv=4.0.014.pagespeed.cf.j-pSRDiK2c.css"/><link rel="stylesheet" type="text/css" href="/A.slick,,_slick.css+slick,,_slick-theme.css+TrustPilot,,_CSS,,_trustpilot-seo-widget.min.css,Mcc.nvs9yB9b5Y.css.pagespeed.cf.3_-tpqxD-e.css"/><style type="text/css">
+        body {
+            background: none !important;
+        }
+
+        .carousel-product-text {
+            height: 220px;
+        }
+
+        .carousel-product-image {
+            height: 180px;
+        }
+
+        .carousel-product-header {
+        }
+    </style><link href="css/A.full-slider.css,qv=4.0.20.pagespeed.cf.7Fy57oc5BK.css" rel="stylesheet"/><style type="text/css">
+    @media (max-width: 767px) {
+        .list-footer li {
+            margin-top: 10px;
+        }
+    }
+    </style><style type="text/css">
+       .slick-slide, .slick-slide *{ outline: none !important; }
+       .video_panel a:hover {
+        text-decoration: none;
+        }
+    </style><style type="text/css">
+    @media (max-width: 767px) {
+        .list-footer li {
+            margin-top: 10px;
+        }
+    }
+    </style><style type="text/css">
+       .slick-slide, .slick-slide *{ outline: none !important; }
+       .video_panel a:hover {
+        text-decoration: none;
+        }
+    </style></noscript><script pagespeed_no_defer="">(function(){var f=this,g=function(a,d){var b=a.split("."),c=f;b[0]in c||!c.execScript||c.execScript("var "+b[0]);for(var e;b.length&&(e=b.shift());)b.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};var k=function(){var a=window,d=h;if(a.addEventListener)a.addEventListener("load",d,!1);else if(a.attachEvent)a.attachEvent("onload",d);else{var b=a.onload;a.onload=function(){d.call(this);b&&b.call(this)}}};var l=!1,h=function(){if(!l){l=!0;for(var a=document.getElementsByClassName("psa_add_styles"),d=0,b;b=a[d];++d)if("NOSCRIPT"==b.nodeName){var c=document.createElement("div");c.innerHTML=b.textContent;document.body.appendChild(c)}}};g("pagespeed.CriticalCssLoader.addAllStyles",h);
+g("pagespeed.CriticalCssLoader.Run",function(){var a=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;a?a(function(){window.setTimeout(h,0)}):k()});})();
+pagespeed.CriticalCssLoader.Run();</script></html>

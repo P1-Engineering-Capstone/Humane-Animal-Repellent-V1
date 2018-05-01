@@ -1,0 +1,169 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- PAGE TITLE -->
+  <title>
+    Illinois Natural History Survey Page Not Found  </title>
+<!-- PAGE TITLE END -->
+
+  <link rel="stylesheet" media="screen" type="text/css" href="/files/cache/css/inhs/elements/css/pri_inhs_main.css" />
+
+
+<script language="javascript">
+  var page_editing_mode = 0;
+</script>
+
+  
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<title>Illinois Natural History Survey :: Page Not Found</title>
+<meta name="description" content="" />
+<meta name="generator" content="concrete5 - 5.6.3.3" />
+<script type="text/javascript">
+var CCM_DISPATCHER_FILENAME = '/index.php';var CCM_CID = 13;var CCM_EDIT_MODE = false;var CCM_ARRANGE_MODE = false;var CCM_IMAGE_PATH = "/updates/concrete5.6.3.3/concrete/images";
+var CCM_TOOLS_PATH = "/tools/required";
+var CCM_BASE_URL = "http://wwx.inhs.illinois.edu";
+var CCM_REL = "";
+
+</script>
+
+	<link rel="shortcut icon" href="/files/2613/1844/8450/favicon.ico" type="image/x-icon" />
+	<link rel="icon" href="/files/2613/1844/8450/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/updates/concrete5.6.3.3/concrete/css/ccm.base.css" />
+<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/jquery.js"></script>
+<script type="text/javascript" src="/updates/concrete5.6.3.3/concrete/js/ccm.base.js"></script>
+</head>
+
+<body>
+  <div id="contentColumn">   
+	<h1 class="hidden">Illinois Natural History Survey - University of Illinois</h1>
+    <div id="header">
+      
+ 
+      <div id="surveys">
+         <h2 class="hidden">INRS State Scientific Surveys</h2>
+         <ul>
+            <li class="first"><a href="http://wwx.inhs.illinois.edu" class="selectedsurvey">Illinois Natural History Survey</a></li>
+            <li class="navmarker">|</li>
+            <!--<li><a href="http://www.itarp.illinois.edu/">Illinois State Archaeological Survey</a></li>-->
+            <li><a href="http://www.isas.illinois.edu/">Illinois State Archaeological Survey</a></li>
+            <li class="navmarker">|</li>
+            <li><a href="http://www.isgs.illinois.edu/">Illinois State Geological Survey</a></li>
+            <li class="navmarker">|</li>
+            <li><a href="http://www.isws.illinois.edu/">Illinois State Water Survey</a></li>
+            <li class="navmarker">|</li>
+            <li><a href="http://www.istc.illinois.edu/">Illinois Sustainable Technology Center</a></li>
+         </ul>
+      </div> <!-- closes Surveys -->
+
+      
+  
+ 
+
+
+    <div id="bannerImage"><span id="surveyname">
+	<a href="http://www.illinois.edu/"><img src="/packages/theme_inhs_201207/themes/inhs/elements/css/images-core/Illinois-block-I-header.gif" height="30" border="0" alt="University of Illinois at Urbana-Champaign" /></a></span>
+    	<span id="surveyname2"><a href="http://wwx.inhs.illinois.edu"><img src="/packages/theme_inhs_201207/themes/inhs/elements/css/images-core/INHS-header.gif" height="27" border="0" alt="Illinois Natural History Survey" /></a></span>
+    	<span id="surveyname3"><a href="http://www.prairie.illinois.edu/"><img src="/packages/theme_inhs_201207/themes/inhs/elements/css/images-core/PRI-header.gif" height="14" border="0" alt="Prairie Research Institute" /></a></span>
+    	<span id="UIlogo"><a href="http://150.illinois.edu/"><img width="38" height="50" alt="University of Illinois at Urbana-Champaign logo" src="/packages/theme_inhs_201207/themes/inhs/elements/css/images-core/pri-header-IL150.gif" /></a></span>
+    	<a href="/"><span class="homehide">&nbsp;</span></a></div><!-- closes bannerImage -->      
+	
+
+      <div id="NAVBar" class="default">
+       	<div id="NavLinks">
+       	  <h2 class="hidden">Navigation</h2>
+	  <form action="/find/" method="get" id="search">
+            <ul>
+                            <li><a href="http://wwx.inhs.illinois.edu/organization/">About INHS</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/research">Research</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/collections">Collections</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/resources/inhspublications">Publications</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/organization/maps">Directions</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/directory">Directory</a></li>
+              <li><a href="http://wwx.inhs.illinois.edu/resources/askus/">FAQ</a></li>
+              <li><a href="https://shop.inrs.illinois.edu/shop-inhs.html">Shop INHS</a></li>&nbsp;&nbsp;
+                  <!-- Search Box Begins  -->
+                  <input name="search_paths[]" type="hidden" value="" />
+                  <input id="q" name="query" type="text" size="15" title="Search INHS" placeholder="Search ..." maxlength="255" />
+            </ul>
+  	  </form>
+        </div> <!-- closes NavLinks -->
+      </div> <!-- closes NavBar -->
+
+
+    </div> <!-- closes header -->
+
+    <div id="mainContent">    
+      <div class="holderFull"><!-- open holder -->
+
+<!-- OPEN(3): div:contentColumn, div:mainContent, div:holderFull -->
+
+<div id="content">
+
+      
+
+
+<br />
+<h1 class="error">Page Not Found</h1>
+
+<div align="center">The page you were looking for does not exist.</div>
+
+	<br/><br/>
+	
+<br/><br/>
+
+<!-- <a href="/">Back to Home</a>. -->
+            
+</div>
+
+
+      </div> <!-- closes holder -->
+    </div> <!-- closes mainContent -->
+
+<!-- COMMON FOOT -->	
+    <div id="footerArea">
+      <div class="column_left">
+       	<h3>Illinois Natural History Survey</h3>
+       	<p>1816 South Oak Street, MC 652 <br>
+       	Champaign, IL 61820<br>
+       	217-333-6880<br>
+       	<a href="/contact-webmaster">cms@inhs.illinois.edu</a></p>
+      </div> <!-- closes COLUMN_LEFT -->
+      <div class="column_right">
+       	<h3><a href="http://www.vpaa.uillinois.edu/policies/web_privacy.cfm">Terms of use</a>. Email the <a href="/contact-webmaster">Web Administrator</a> with questions or comments. </h3>
+       	<p>© 2018 University of Illinois Board of Trustees. All rights reserved.<br>
+       	For permissions information, contact the Illinois Natural History Survey.<br>
+       	</p>
+	<a href="/private/intranet"><b>Staff Intranet</b></a>
+	<br />
+        <a href='/index.php/login/forward/13' >Login</a>      </div> <!--closes COLUMN_RIGHT -->
+    </div> <!--closes footerArea -->
+<!-- COMMON FOOT END -->
+
+</div> <!-- closes contentColumn -->
+
+<!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+  _paq.push(["setCookieDomain", "*.wwx.inhs.illinois.edu"]);
+  _paq.push(["trackPageView"]);
+  _paq.push(["enableLinkTracking"]);
+
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + "://wxx.inhs.illinois.edu/piwik/";
+    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+    _paq.push(["setSiteId", "1"]);
+    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik Code -->
+<script type="text/javascript" src="https://emergency.webservices.illinois.edu/illinois.js"></script>
+</div>
+</body>
+</html>    
+

@@ -1,0 +1,704 @@
+<!doctype html>
+
+<html lang="en-US" prefix="og: http://ogp.me/ns#" >
+<head>
+
+<!-- Meta Tags -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+
+<!--Shortcut icon-->
+<link rel="shortcut icon" href="http://www.rapbasement.com/wp-content/uploads/2016/09/favicon.png" />
+<title>
+Page Not Found - Rap Basement</title>
+
+
+<!-- This site is optimized with the Yoast SEO plugin v5.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Page Not Found - Rap Basement" />
+<meta property="og:site_name" content="Rap Basement" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.rapbasement.com\/","name":"Rap Basement","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.rapbasement.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Rap Basement &raquo; Feed" href="http://www.rapbasement.com/feed" />
+<link rel="alternate" type="application/rss+xml" title="Rap Basement &raquo; Comments Feed" href="http://www.rapbasement.com/comments/feed" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.rapbasement.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.rapbasement.com/wp-content/themes/salient/css/font-awesome.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css'  href='http://www.rapbasement.com/wp-content/themes/salient/style.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='skin-ascend-css'  href='http://www.rapbasement.com/wp-content/themes/salient-child/css/ascend.css?ver=7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rgs-css'  href='http://www.rapbasement.com/wp-content/themes/salient/css/rgs.css?ver=6.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-styles-css'  href='http://www.rapbasement.com/wp-content/themes/salient-child/style.css?ver=7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pretty_photo-css'  href='http://www.rapbasement.com/wp-content/themes/salient/css/prettyPhoto.css?ver=7.0.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css'  href='http://www.rapbasement.com/wp-content/themes/salient/css/ie8.css?ver=4.9.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='responsive-css'  href='http://www.rapbasement.com/wp-content/themes/salient-child/css/responsive.css?ver=7.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dynamic-css-css'  href='http://www.rapbasement.com/wp-content/themes/salient-child/css/dynamic-combined.css?ver=4.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.rapbasement.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient-child/js/swiper.min.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var myAjax = {"ajaxurl":"http:\/\/www.rapbasement.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient-child/js/custom-scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient/js/modernizr.js?ver=2.6.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/js/jquery.lightbox.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/js/jquery.dimensions.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/js/jquery.bgiframe.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/js/jquery.tooltip.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/lightbox-gallery.js?ver=4.9.2'></script>
+<link rel='https://api.w.org/' href='http://www.rapbasement.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.rapbasement.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.rapbasement.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<link rel="stylesheet" type="text/css" href="http://www.rapbasement.com/wp-content/plugins/lightbox-gallery/lightbox-gallery.css" />
+<style type="text/css">body .section-title #portfolio-nav a:hover i{opacity:0.75;}.pagination-navigation{-webkit-filter:url("#goo");filter:url("#goo");}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://www.rapbasement.com/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://www.rapbasement.com/wp-content/plugins/js_composer_salient/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script type="text/javascript" src="http://www.rapbasement.com/wp-content/themes/salient-child/js/jquery.mCustomScrollbar.concat.min.js" ></script>
+<link rel="stylesheet" href="http://www.rapbasement.com/wp-content/themes/salient-child/css/jquery.mCustomScrollbar.css">
+<script src="http://tags.evolvemediallc.com/websites/evolve_tags/15645"></script>
+</head>
+
+<body class="error404 ascend wpb-js-composer js-comp-ver-4.7.4 vc_responsive" 
+	data-footer-reveal="false" 
+	data-footer-reveal-shadow="none" 
+	data-cae="linear" 
+	data-cad="650" 
+	data-aie="none" 
+	data-ls="pretty_photo" 
+	data-apte="standard" 
+	data-hhun="0" 
+	data-fancy-form-rcs="default" 
+	data-form-style="default" 
+	data-is="minimal" 
+	data-button-style="default" 
+	data-header-inherit-rc="false" 
+	data-header-search="true" 
+	data-animated-anchors="true" 
+	data-ajax-transitions="false" 
+	data-full-width-header="false" 
+	data-slide-out-widget-area="false" 
+	data-loading-animation="none" 
+	data-bg-header="false" 
+	data-ext-responsive="true" 
+	data-header-resize="1" 
+	data-header-color="light" data-transparent-header="false" 
+	data-smooth-scrolling="0" 
+	data-permanent-transparent="false" 
+	data-responsive="1" 
+>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-3813818-1', 'auto');
+  ga('send', 'pageview');
+
+</script>  		           <div class="bannertop" style="text-align:center;background:#1d2024;z-index:999;position:relative;">                    
+            						<div id="ros_15581"></div>
+                      </div>  
+      
+<div id="top_side_menu" class="content mCustomScrollbar" style="height: 590px; left: 0px;" data-mcs-theme="minimal-dark">
+	<div class="top_side_menu_block mCustomScrollBox" id="temp_height">
+		<a onClick="side_menu('0');" href="javascript:;" class="side_menu_icon_close"> <i class="fa fa-times" aria-hidden="true"></i></a>
+	</div>
+	<div id="left_menu_scroller" style="top: 69px;">
+		<a href="http://www.rapbasement.com">	
+			<img alt="Rap Basement" src="http://www.rapbasement.com/wp-content/themes/salient-child/images/footer_logo.png">
+		</a>
+		<div class="top_side_menu_block">
+			<div id="text-18" class="widget widget_text"><h4><span>TRENDING NEWS</span></h4>			<div class="textwidget">	<div class="recentposts_wr recent_stories_sidebar">
+                                          <div class="recentposts_item">
+                <div class="col span_3">
+                  <div style="padding:0;"> <a href="http://www.rapbasement.com/featured/011918-kodak-black-arrested-florida-hit-7-new-charges.html">
+                    <img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2018/01/Kodak-Black-Arrested-Again-In-Florida-Hit-With-7-New-Charges-150x150.jpg" class="attachment-latest_news_headlines size-latest_news_headlines wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2018/01/Kodak-Black-Arrested-Again-In-Florida-Hit-With-7-New-Charges-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2018/01/Kodak-Black-Arrested-Again-In-Florida-Hit-With-7-New-Charges-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2018/01/Kodak-Black-Arrested-Again-In-Florida-Hit-With-7-New-Charges-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2018/01/Kodak-Black-Arrested-Again-In-Florida-Hit-With-7-New-Charges-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />                    </a></div>
+                </div>
+                <div class="col span_9 col_last" style="padding-left: 8px"><a href="http://www.rapbasement.com/featured/011918-kodak-black-arrested-florida-hit-7-new-charges.html" class="recentposts_link">
+                  Kodak Black Arrested Again In Florida; Hit With 7 New Charges                  </a>
+                  <div class="rpmeta"><i class="icon-tiny fa-signal accent-color"></i>
+                    3282                    <span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-173526" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">2</span></a></span></div>
+                </div>
+              </div>
+                            <div class="recentposts_item">
+                <div class="col span_3">
+                  <div style="padding:0;"> <a href="http://www.rapbasement.com/cardi-b/011818-cardi-b-lands-movie-deal.html">
+                    <img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-150x150.jpg" class="attachment-latest_news_headlines size-latest_news_headlines wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-500x500.jpg 500w, http://www.rapbasement.com/wp-content/uploads/2017/10/Cardi-B-Sued-By-Model-For-Using-His-Picture-1000x1000.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" />                    </a></div>
+                </div>
+                <div class="col span_9 col_last" style="padding-left: 8px"><a href="http://www.rapbasement.com/cardi-b/011818-cardi-b-lands-movie-deal.html" class="recentposts_link">
+                  Cardi B Lands Movie Deal                  </a>
+                  <div class="rpmeta"><i class="icon-tiny fa-signal accent-color"></i>
+                    2740                    <span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-173524" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">5</span></a></span></div>
+                </div>
+              </div>
+                            <div class="more"> <a href="http://www.rapbasement.com/news">More News</a> </div>
+            </div>
+</div>
+		</div><div id="text-27" class="widget widget_text"><h4><span>TRENDING MIXTAPES</span></h4>			<div class="textwidget">				 <div class="recentsongs_wr hot_mixtape_sidebar">
+				   				    					 <div class="recentsongs_item row">
+					 	<div class="col span_4">
+							<a href="http://www.rapbasement.com/mixtapes/eminem-revival-album-stream">
+								<img width="115" height="115" src="http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-115x115.jpg" class="attachment-home_sidebar_song size-home_sidebar_song wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-300x300.jpg 300w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-180x180.jpg 180w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-130x130.jpg 130w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-195x195.jpg 195w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-272x272.jpg 272w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-70x70.jpg 70w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-215x215.jpg 215w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2017/12/Eminem-–-REVIVAL-Album-Stream.jpg 450w" sizes="(max-width: 115px) 100vw, 115px" />		                    </a>
+						</div>
+						<div class="col span_8 col_last">
+							<a href="http://www.rapbasement.com/mixtapes/eminem-revival-album-stream" class="recentsongs_link_artist">Eminem</a>
+							<a href="http://www.rapbasement.com/mixtapes/eminem-revival-album-stream" class="recentsongs_link_song">REVIVAL (Album Stream)</a>
+							<div class="rpmeta">
+								<i class="icon-tiny fa-play accent-color"></i>
+								3441								<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-172768" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">7</span></a></span>							</div>
+						</div>
+					</div>
+		    					 <div class="recentsongs_item row">
+					 	<div class="col span_4">
+							<a href="http://www.rapbasement.com/mixtapes/lil-wayne-dedication-6">
+								<img width="115" height="115" src="http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-115x115.jpg" class="attachment-home_sidebar_song size-home_sidebar_song wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-300x300.jpg 300w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-180x180.jpg 180w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-130x130.jpg 130w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-195x195.jpg 195w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-272x272.jpg 272w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-70x70.jpg 70w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-215x215.jpg 215w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2017/12/Lil-Wayne-Dedication-6.jpg 355w" sizes="(max-width: 115px) 100vw, 115px" />		                    </a>
+						</div>
+						<div class="col span_8 col_last">
+							<a href="http://www.rapbasement.com/mixtapes/lil-wayne-dedication-6" class="recentsongs_link_artist">Lil Wayne</a>
+							<a href="http://www.rapbasement.com/mixtapes/lil-wayne-dedication-6" class="recentsongs_link_song">Dedication 6</a>
+							<div class="rpmeta">
+								<i class="icon-tiny fa-play accent-color"></i>
+								1906								<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-173011" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">2</span></a></span>							</div>
+						</div>
+					</div>
+		    		</div>
+		<div class="more"> <a href="http://www.rapbasement.com/mixtapes">More Mixtapes</a></div>
+	</div>
+		</div>		</div>
+	</div>
+</div>
+
+<div id="header-space" data-header-mobile-fixed='false'></div>
+<div id="header-outer" data-has-menu="true"  data-mobile-fixed="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="0" data-shrink-num="6" data-full-width="false" data-using-secondary="0" data-using-logo="1" data-logo-height="" data-m-logo-height="24" data-padding="28" data-header-resize="1">
+		
+	
+	
+	<header id="top">
+		<div class="tbgradient_black"></div>
+		<div class="header_menu">
+			<div class="row">
+				<div class="col span_12">
+				
+					<div class="container">
+						<div class="row">
+							<div class="col span_12">
+								<div class="rapheader">
+									<div class="headerbarbg">
+										<!-- logo_for_video_song_detail -->
+										<span class="menu_button">
+											<span onClick="side_menu('1');" ><i class="fa fa-bars" aria-hidden="true"></i></span>
+										</span>
+										<span class="headerslogantxt">HIP HOP</span>
+										<a href="http://www.rapbasement.com">
+											<img src="http://www.rapbasement.com/wp-content/uploads/2016/08/logo.png" alt="Rap Basement" class="headerlogo" />
+										</a>
+										<span class="headerslogantxt">LIFESTYLE</span>
+										<span>
+											<ul data-user-set-ocm="off" class="buttons" style="float:right;margin-top:20px;">
+												<li id="search-btn" class="cls-search-btn" style="padding-bottom: 3px; padding-top: 3px;">
+													<a href="#searchbox" class="">
+														<span aria-hidden="true" class="icon-salient-search" style="background:none;"></span>
+													</a>
+												</li>
+												<li> <a href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>
+												<li> <a href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+												<li> <a href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+											</ul>
+										</span>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					
+					<div id="rbmenu-wr" class="nav_menu">
+						<div class="container" >
+							<div class="cls_container2" >
+								<span class="menu_button cls_menu_button">
+									<span onClick="side_menu('1');" ><i aria-hidden="true" class="fa fa-bars"></i></span>
+								</span>
+								<div class="cls_menu_scroll_parts cls_menu_scroll_parts_left" >
+									<a href="http://www.rapbasement.com"><img src="http://www.rapbasement.com/wp-content/themes/salient-child/images/rapbasement_logo.png" alt="Rap Basement" class="headerlogo" /></a>
+								</div>
+								<nav>
+									<ul class="sf-menu" data-format="centered-menu">
+										<li id="menu-item-158889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-158889"><a href="http://www.rapbasement.com/news">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-158893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158893"><a href="http://www.rapbasement.com/news">Latest</a></li>
+	<li id="menu-item-158892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158892"><a href="http://www.rapbasement.com/news-trending">Trending</a></li>
+	<li id="menu-item-158891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158891"><a href="http://www.rapbasement.com/news-popular">Popular</a></li>
+	<li id="menu-item-158890" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158890"><a href="http://www.rapbasement.com/news-artists">Artists</a></li>
+</ul>
+</li>
+<li id="menu-item-158894" class="menu-item menu-item-type-post_type_archive menu-item-object-song menu-item-has-children menu-item-158894"><a href="http://www.rapbasement.com/audio">Songs</a>
+<ul class="sub-menu">
+	<li id="menu-item-158895" class="menu-item menu-item-type-post_type_archive menu-item-object-song menu-item-158895"><a href="http://www.rapbasement.com/audio">Latest</a></li>
+	<li id="menu-item-158896" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158896"><a href="http://www.rapbasement.com/audio-trending">Trending</a></li>
+	<li id="menu-item-158898" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158898"><a href="http://www.rapbasement.com/top10">Top10</a></li>
+	<li id="menu-item-158899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158899"><a href="http://www.rapbasement.com/songs-artists">Artists</a></li>
+</ul>
+</li>
+<li id="menu-item-158900" class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-has-children menu-item-158900"><a href="http://www.rapbasement.com/videos">Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-158907" class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-158907"><a href="http://www.rapbasement.com/videos">Latest</a></li>
+	<li id="menu-item-158904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158904"><a href="http://www.rapbasement.com/video-trending">Trending</a></li>
+	<li id="menu-item-158905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158905"><a href="http://www.rapbasement.com/video-popular">Popular</a></li>
+	<li id="menu-item-158906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158906"><a href="http://www.rapbasement.com/videos-artists">Artists</a></li>
+</ul>
+</li>
+<li id="menu-item-158901" class="menu-item menu-item-type-post_type_archive menu-item-object-mixtape menu-item-has-children menu-item-158901"><a href="http://www.rapbasement.com/mixtapes">Mixtapes</a>
+<ul class="sub-menu">
+	<li id="menu-item-158908" class="menu-item menu-item-type-post_type_archive menu-item-object-mixtape menu-item-158908"><a href="http://www.rapbasement.com/mixtapes">Latest</a></li>
+	<li id="menu-item-158903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158903"><a href="http://www.rapbasement.com/mixtape-trending">Trending</a></li>
+	<li id="menu-item-158913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158913"><a href="http://www.rapbasement.com/mixtapes-popular">Popular</a></li>
+	<li id="menu-item-158914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158914"><a href="http://www.rapbasement.com/mixtapes-artists">Artists</a></li>
+</ul>
+</li>
+									</ul>
+								</nav>
+								<ol class="buttons cls_menu_scroll_parts cls_menu_scroll_parts_right" >
+									<li id="search-btn" class="cls-search-btn" >
+										<a href="#searchbox" class=""><span aria-hidden="true" class="icon-salient-search" style="background:none;"></span></a>
+									</li>
+									<li> <a href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a> </li>
+									<li> <a href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a> </li>
+									<li> <a href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a> </li>
+								</ol>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+		
+<style>
+	#search-outer{ height:auto; overflow:inherit !important; }
+	body.ascend #search-outer{ position:absolute; top:auto; }
+</style>
+<div id="search-outer" class="nectar header_search_box">
+	<div id="search">
+		<div class="container">
+		     <div id="search-box" style="top:0 !important;" >
+		     	<div class="col span_12" style="margin-bottom:0 !important;" >
+			      	<form action="http://www.rapbasement.com" method="GET">
+			      		<input type="text" name="s"  value="Search Lyrics (enter songs, artist, albums and more)" data-placeholder="Search Lyrics (enter songs, artist, albums and more)" />
+			      		<button class="search_buttton" name="search">SEARCH</button>
+			      	</form>
+		        </div>
+		     </div>
+		     <div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+		 </div>
+	</div>
+</div>
+	</header>
+	
+	<div class="ns-loading-cover"></div></div>
+<!--/header-outer-->
+
+
+
+<div id="mobile-menu" data-mobile-fixed="false">
+	<div class="container">
+		<ul>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-158889"><a href="http://www.rapbasement.com/news">News</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158893"><a href="http://www.rapbasement.com/news">Latest</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158892"><a href="http://www.rapbasement.com/news-trending">Trending</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158891"><a href="http://www.rapbasement.com/news-popular">Popular</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158890"><a href="http://www.rapbasement.com/news-artists">Artists</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-song menu-item-has-children menu-item-158894"><a href="http://www.rapbasement.com/audio">Songs</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-song menu-item-158895"><a href="http://www.rapbasement.com/audio">Latest</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158896"><a href="http://www.rapbasement.com/audio-trending">Trending</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158898"><a href="http://www.rapbasement.com/top10">Top10</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158899"><a href="http://www.rapbasement.com/songs-artists">Artists</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-has-children menu-item-158900"><a href="http://www.rapbasement.com/videos">Videos</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-158907"><a href="http://www.rapbasement.com/videos">Latest</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158904"><a href="http://www.rapbasement.com/video-trending">Trending</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158905"><a href="http://www.rapbasement.com/video-popular">Popular</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158906"><a href="http://www.rapbasement.com/videos-artists">Artists</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-mixtape menu-item-has-children menu-item-158901"><a href="http://www.rapbasement.com/mixtapes">Mixtapes</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-mixtape menu-item-158908"><a href="http://www.rapbasement.com/mixtapes">Latest</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158903"><a href="http://www.rapbasement.com/mixtape-trending">Trending</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158913"><a href="http://www.rapbasement.com/mixtapes-popular">Popular</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158914"><a href="http://www.rapbasement.com/mixtapes-artists">Artists</a></li>
+</ul>
+</li>
+<li id="mobile-search">  
+					<form action="http://www.rapbasement.com" method="GET">
+			      		<input type="text" name="s" value="" placeholder="Search.." />
+					</form> 
+					</li>		</ul>
+	</div>
+</div>
+<div id="ajax-loading-screen" data-disable-fade-on-click="1" data-effect="standard" data-method="standard">
+		<span class="loading-icon none">
+	<span class="default-loading-icon spin"></span>	</span>
+	</div>
+<div id="ajax-content-wrap">
+
+
+<script>
+				var scroll_top = 0;
+		jQuery( window ).scroll(function() {
+						
+   
+			var menuTop = jQuery('#rbmenu-wr').attr('data-top');
+			if( menuTop == undefined ){
+				menuTop = jQuery('#rbmenu-wr').offset().top;
+				jQuery('#rbmenu-wr').attr('data-top', menuTop );
+			}
+			menuTop = parseInt( menuTop );
+			
+			var isVideoPage = 0;
+						
+			if( jQuery(this).scrollTop() >= menuTop ){
+				
+				if( !jQuery('#header-outer').is(':visible') && isVideoPage ){
+					jQuery('#header-outer').show();
+				}
+				
+				jQuery('#rbmenu-wr').addClass('cls_menu_fixer');
+				jQuery(".cls_menu_scroll_parts").slideDown( 500 );
+				jQuery(".cls_menu_button").slideDown( 500 );
+				
+				jQuery('#search-outer').css({position:'fixed'});
+				jQuery('#search-outer').css({top:(jQuery('#rbmenu-wr').height()+6)+'px'});
+			}
+			else{
+				jQuery('#rbmenu-wr').removeClass('cls_menu_fixer');
+				jQuery(".cls_menu_scroll_parts").hide();
+				jQuery(".cls_menu_button").hide();
+				
+				jQuery('#search-outer').css({position:'absolute'});
+				jQuery('#search-outer').css({top:'auto'});
+				
+								
+			}
+		});
+		function _set_data(){
+			menuTop = jQuery('#rbmenu-wr').offset().top;
+			jQuery('#rbmenu-wr').attr('data-top', menuTop );
+		}
+		setTimeout(function(){ 
+			_set_data(); 
+			side_menu(0);
+		}, 50);
+		
+		
+		function side_menu( act ){
+			var temp_time = 200;
+			jQuery('#top_side_menu').height( jQuery(window).height() ); //- 50 
+			if( parseInt( act ) ){
+				jQuery('body').addClass('stop_scroll');
+				jQuery('#top_side_menu').show();
+				jQuery('#top_side_menu').animate({ left:"0" }, temp_time, function(){ });
+			}
+			else{
+				jQuery('#top_side_menu').animate({ left:"-320px" }, temp_time, function(){ 
+					jQuery('#top_side_menu').hide(); 
+					jQuery('body').removeClass('stop_scroll');
+				});
+			}
+		}
+		function bg_scroll( allow ){
+			if( allow ){ jQuery('body').css({ overflow: "auto" }); }
+			else{ jQuery('body').css({ overflow: "hidden" }); }
+		}
+		function black_layer( action ){
+			if( action ){
+				jQuery('#black_layer').show();
+				jQuery.colorbox.close();
+			}
+			else{
+				jQuery('#black_layer').hide();
+			}
+		}
+		
+		//Fancy Scroller
+		(function($){
+			$(window).on("load",function(){
+				
+				$("#top_side_menu").mCustomScrollbar({
+					autoHideScrollbar:true,
+					theme:"rounded"
+				});
+				
+			});
+		})(jQuery);	
+		
+</script> 
+
+<div class="container-wrap">
+	
+	<div class="container main-content">
+		
+		<div class="row">
+			
+			<div class="col span_12">
+				
+				<div id="error-404">
+					<h1>404</h1>
+					<h2>Not Found</h2>
+				</div>
+				
+			</div><!--/span_12-->
+			
+		</div><!--/row-->
+		
+	</div><!--/container-->
+
+</div>
+
+<div id="footer-outer" data-midnight="light" data-using-widget-area="true">
+	
+	
+			
+	<div id="footer-widgets">
+			<div class="show_mobile footer_mobile_logo container">
+				<a href="http://www.rapbasement.com">
+					<img src="http://www.rapbasement.com/wp-content/themes/salient-child/images/footer_logo.png" alt="footer mobile logo" />
+				</a>
+			</div>
+    		<ul class="footer_navigation1">
+				<li id="menu-item-158917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158917"><a href="http://www.rapbasement.com/news">News</a></li>
+<li id="menu-item-158918" class="menu-item menu-item-type-post_type_archive menu-item-object-song menu-item-158918"><a href="http://www.rapbasement.com/audio">Songs</a></li>
+<li id="menu-item-158919" class="menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-158919"><a href="http://www.rapbasement.com/videos">Videos</a></li>
+<li id="menu-item-158920" class="menu-item menu-item-type-post_type_archive menu-item-object-mixtape menu-item-158920"><a href="http://www.rapbasement.com/mixtapes">Mixtapes</a></li>
+<li id="menu-item-160247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-160247"><a href="http://board.rapbasement.com">Message Board</a></li>
+<li id="menu-item-158926" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-158926"><a href="http://rap-wallpapers.com/">Wallpapers</a></li>
+			</ul>
+			<script>
+				function _set_footer_navigation1(){
+					if(jQuery('.footer_navigation1 li').length){
+						var cnt = 1;
+						jQuery('.footer_navigation1 li').each(function(){
+							if( cnt == 2 ){
+								jQuery(this).after('<div class="dclear" ></div>');
+								cnt = 0;
+							}
+							cnt++;
+						});
+					}
+				}
+				setTimeout(function(){
+					_set_footer_navigation1();
+				},1000);
+			</script>
+
+			<style>
+				.footer_navigation2 li{ margin:0 !important; padding:3px 10px; }
+			</style>
+			
+        <div class="block footer_widget">
+			<div class="container footer_widget_inner">
+        	
+			<div class="headerbarbg"> 
+				<span class="headerslogantxt">STRAIGHT HIP HOP</span> 
+				<a href="http://www.rapbasement.com">	
+					<img class="footerlogo" alt="Rap Basement" src="http://www.rapbasement.com/wp-content/themes/salient-child/images/footer_logo.png">
+				</a> 
+				<span class="headerslogantxt">SINCE 1999</span> 
+			</div>
+			<div class="row">
+								
+				<div class="col span_4">
+				      <!-- Footer widget area 1 -->
+		              <div id="text-29" class="widget widget_text"><h4>Most Loved Headlines</h4>			<div class="textwidget">	<div class="recentposts_wr footer_widget1">
+				<div class="recentposts_item">
+			<div class="col span_2">
+				<div style="padding:0;"> <a href="http://www.rapbasement.com/featured/121517-xxxtentacion-thrown-jail-gets-7-new-felonies.html">
+				<img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-500x500.jpg 500w, http://www.rapbasement.com/wp-content/uploads/2017/06/XXXTentacion-Knocked-Out-On-Stage-In-San-Diego-1000x1000.jpg 1000w" sizes="(max-width: 150px) 100vw, 150px" />				</a></div>
+				</div>
+				<div class="col span_10 col_last" style="padding-left: 8px"><a href="http://www.rapbasement.com/featured/121517-xxxtentacion-thrown-jail-gets-7-new-felonies.html" class="recentposts_link">
+				XXXTentacion Thrown In Jail; Gets 7 New Felonies				</a>
+				<div class="rpmeta"><i class="icon-tiny fa-signal accent-color"></i>
+				11117				<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-172756" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">30</span></a></span></div>
+			</div>
+		</div>
+			<div class="recentposts_item">
+			<div class="col span_2">
+				<div style="padding:0;"> <a href="http://www.rapbasement.com/mase/120617-mase-sends-warning-camron-doesnt-stop-gon-end-bad.html">
+				<img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2017/12/Mase-Sends-Warning-To-Camron-22If-It-Doesnt-Stop-It’s-Gon’-End-Bad22-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/12/Mase-Sends-Warning-To-Camron-22If-It-Doesnt-Stop-It’s-Gon’-End-Bad22-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/12/Mase-Sends-Warning-To-Camron-22If-It-Doesnt-Stop-It’s-Gon’-End-Bad22-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/12/Mase-Sends-Warning-To-Camron-22If-It-Doesnt-Stop-It’s-Gon’-End-Bad22-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/12/Mase-Sends-Warning-To-Camron-22If-It-Doesnt-Stop-It’s-Gon’-End-Bad22-100x100.jpg 100w" sizes="(max-width: 150px) 100vw, 150px" />				</a></div>
+				</div>
+				<div class="col span_10 col_last" style="padding-left: 8px"><a href="http://www.rapbasement.com/mase/120617-mase-sends-warning-camron-doesnt-stop-gon-end-bad.html" class="recentposts_link">
+				Mase Sends Warning To Cam&#8217;ron: &#8220;If It Doesn&#8217;t Stop It’s Gon’ End Bad&#8221;				</a>
+				<div class="rpmeta"><i class="icon-tiny fa-signal accent-color"></i>
+				9926				<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-172564" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">21</span></a></span></div>
+			</div>
+		</div>
+		</div>
+</div>
+		</div>				     				</div><!--/span_3-->
+				
+				<div class="col span_4">
+					 <!-- Footer widget area 2 -->
+		             <div id="text-30" class="widget widget_text"><h4>Trending Songs</h4>			<div class="textwidget">				 <div class="recentsongs_wr footer_widget_2">
+				   				    					 <div class="fotter_trending_song">
+					    <div class="recentsongs_item row">
+					    	<div class="col span_3">
+								<a href="http://www.rapbasement.com/audio/trouble-ft-drake-mike-will-made-bring-back.html"><img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-300x300.jpg 300w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-180x180.jpg 180w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-130x130.jpg 130w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-195x195.jpg 195w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-272x272.jpg 272w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-70x70.jpg 70w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-215x215.jpg 215w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2017/12/Trouble-ft.-Drake-Mike-WiLL-Made-It-–-Bring-It-Back.jpg 450w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+							</div>
+							<div class="footer_song_dtl col span_9 col_last">
+								<a href="http://www.rapbasement.com/audio/trouble-ft-drake-mike-will-made-bring-back.html" class="recentsongs_link_artist">Trouble  ft. Drake &amp; Mike WiLL Made-It</a>
+								<a href="http://www.rapbasement.com/audio/trouble-ft-drake-mike-will-made-bring-back.html" class="recentsongs_link_song">Bring It Back</a>
+								<div class="rpmeta">
+									<i class="icon-tiny fa-play accent-color"></i>
+									11170									<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-172586" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">24</span></a></span>								</div>
+							</div>
+						</div>                
+			    	</div>
+			    					 <div class="fotter_trending_song">
+					    <div class="recentsongs_item row">
+					    	<div class="col span_3">
+								<a href="http://www.rapbasement.com/audio/eminem-feat-2-chainz-phresher-chloraseptic-remix.html"><img width="150" height="150" src="http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" srcset="http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-150x150.jpg 150w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-300x300.jpg 300w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-180x180.jpg 180w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-130x130.jpg 130w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-195x195.jpg 195w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-272x272.jpg 272w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-115x115.jpg 115w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-70x70.jpg 70w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-215x215.jpg 215w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-50x50.jpg 50w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix-100x100.jpg 100w, http://www.rapbasement.com/wp-content/uploads/2018/01/Eminem-Feat.-2-Chainz-Phresher-Chloraseptic-Remix.jpg 355w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+							</div>
+							<div class="footer_song_dtl col span_9 col_last">
+								<a href="http://www.rapbasement.com/audio/eminem-feat-2-chainz-phresher-chloraseptic-remix.html" class="recentsongs_link_artist">Eminem  ft. 2 Chainz &amp; Phresher</a>
+								<a href="http://www.rapbasement.com/audio/eminem-feat-2-chainz-phresher-chloraseptic-remix.html" class="recentsongs_link_song">Chloraseptic Remix</a>
+								<div class="rpmeta">
+									<i class="icon-tiny fa-play accent-color"></i>
+									10747									<span class="n-shortcode"><a href="#" class="nectar-love" id="nectar-love-173266" title="Love this"> <div class="heart-wrap"><i class="icon-salient-heart-2"></i> <i class="icon-salient-heart loved"></i></div><span class="nectar-love-count">9</span></a></span>								</div>
+							</div>
+						</div>                
+			    	</div>
+			    			</div>
+		</div>
+		</div>				     
+				</div><!--/span_3-->
+				
+									<div class="col span_4">
+						 <!-- Footer widget area 3 -->
+			              <div id="text-31" class="widget widget_text"><h4>Subscribe &#038; Follow</h4>			<div class="textwidget">	<div class="subscribe_follow">
+	<ul>
+    	<li><a href="" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+        <li><a href="" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+        <li><a href="" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+        <li><a href="" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a></li>
+    </ul>
+	<div class="f_input_email">
+    	<label>Sign Up & get exclusive news, songs & videos</label>
+    	<input type="text" name="v_m_email" id="v_m_email" placeholder="email@address.com"/>
+        <a href="javascript:;" class="mailchimp_link">
+        	<img src="http://www.rapbasement.com/wp-content/themes/salient-child/images/right_arrow.png" alt="submit"/>
+        </a>
+    </div>
+    <div class="mailchimp_msg" style="display:none;"></div>
+    </div>
+
+	</div>
+		</div>					     
+					</div><!--/span_3-->
+								
+								
+			</div><!--/row-->
+			</div>
+		</div><!--/container-->
+	
+	</div><!--/footer-widgets-->
+	
+	
+		<div class="block">
+            <div class="row" id="copyright">
+                
+                <div class="container">
+                    
+                    <div class="col span_12">
+                            <div class="footer_bottom">
+                                <h4>RAP BASEMENT</h4>
+                                <p>&copy; Rap Basement 2016. All Rights Reserved.
+                                <ul class="footer_navigation2">
+                                    <li id="menu-item-33544" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33544"><a href="http://www.rapbasement.com/advertise.html">Advertise</a></li>
+<li id="menu-item-33545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33545"><a href="#">About Us</a></li>
+<li id="menu-item-370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-370"><a href="#">Privacy Policy</a></li>
+<li id="menu-item-371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-371"><a href="http://www.rapbasement.com/search/">Search</a></li>
+<li id="menu-item-93152" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-93152"><a href="http://www.rapbasement.com/writers-wanted.html">Writers Wanted!</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    
+                </div><!--/container-->
+                
+            </div><!--/row-->
+		</div>
+		
+</div><!--/footer-outer-->
+
+
+
+
+</div> <!--/ajax-content-wrap-->
+
+
+	<a id="to-top" class=""><i class="icon-angle-up"></i></a>
+
+        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'rapbasement';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1 && nodes[i].parentNode.tagName == 'A') {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient/js/superfish.js?ver=1.4.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"http:\/\/www.rapbasement.com\/wp-admin\/admin-ajax.php","postID":"0","rooturl":"http:\/\/www.rapbasement.com","pluginPages":[],"disqusComments":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient-child/js/init.js?ver=7.0.1'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient-child/js/html5gallery/html5gallery.js?ver=1.4'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-content/themes/salient/js/prettyPhoto.js?ver=7.0.1'></script>
+<script type='text/javascript' src='http://www.rapbasement.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+	
+
+</body>
+</html>
+

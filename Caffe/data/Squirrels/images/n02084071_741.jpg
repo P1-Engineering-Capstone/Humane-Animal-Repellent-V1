@@ -1,0 +1,58 @@
+	<html>
+	<head>
+	<title>403 Security Error</title>
+	<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+	<style type="text/css">
+		h1, body, p, th, td { font-family: sans-serif; }
+		th { text-align: left; font-weight: normal; }
+		.nl { color: #888; }
+		.info { width: 450px; padding: 20px; margin-top: 30px; margin-bottom: 30px; color: #777; background-color: #ddd; }
+		body { margin: 30px; }
+		#report { height: 100px; }
+		#report input { font-size: 100%; }
+		#report iframe { width: 500px; border: 0; }
+	</style>
+	</head>
+	<body>
+<h1>Security Error</h1>
+
+<p>The firewall at bezielen.nl has blocked your request for security reasons.</p>
+
+<p class="nl">De firewall van bezielen.nl heeft uw verzoek geblokkeerd om veiligheidsredenen.</p>
+
+
+<script type="text/javascript">
+
+	function sendreport() {
+		document.getElementById('reportbutton').style.display = 'none';
+
+		var url = '/modsecurity-errorpage/';
+		url += '?report=1';
+		url += '&transaction=' + encodeURIComponent('WmZihf0HsTsqn5RrUR-ZLAAAAAk');
+		url += '&uri=' + encodeURIComponent('2f73697465732f62657a69656c656e2e6e6c2f66696c65732f696d616765732f343733392d6f2d3430353731392e707265766965772e6a7067');
+		url += '&time=1516659333';
+		url += '&key=88fbc39ec4efc3a8b0d37d1b9631cdbc';
+
+		var iframe = document.createElement('iframe');
+		iframe.src = url;
+		iframe.frameBorder = 0;
+
+		var reportdiv = document.getElementById('report');
+		reportdiv.appendChild(iframe);
+	}
+
+</script>
+
+<div id="report">
+	<input id="reportbutton" type="button" value=" Report the problem " onclick="sendreport()">
+</div>
+
+
+<p class="info">
+Site: bezielen.nl<br>
+Transaction: WmZihf0HsTsqn5RrUR-ZLAAAAAk<br>
+Date: Mon, 22 Jan 2018 23:15:33 +0100<br>
+</p>
+
+	</body>
+	</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/error_template_05.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Amherst College</title>
+<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="/styles/amherst_styles_2006.css" type="text/css">
+<script src="/gotomenu.js" type="text/javascript" language="javascript"></script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+<body onLoad="createList();">
+<h1 class="invisible">Amherst College</h1>
+<div id="banner-top"> <a href="/"><img src="/template_images/amherst_college.gif" alt="Amherst College" width="240" height="53" border="0" align="left"></a>
+<!--
+  <div id="go-to-menu">
+    <FORM NAME="jumpform">
+      <SELECT NAME="jumplist" SIZE="1" onChange="jumpto(document.jumpform.jumplist.options[document.jumpform.jumplist.options.selectedIndex].value)">
+      </SELECT>
+    </FORM>
+  </div>
+-->
+<!--
+  <div id="search"><a href="http://google.amherst.edu/search?site=Amherst&amp;output=xml_no_dtd&amp;client=Amherst&amp;access=p&amp;lr=&amp;proxystylesheet=Amherst&amp;oe=&amp;proxycustom=<ADVANCED/>">Advanced Search</a> | <a href="/sitemap/">Site Map</a>
+    <form name="gs" method="GET" action="http://google.amherst.edu/search">
+      Search Amherst College:
+      <input type="text" name="q" size="15" maxlength="256" value="">
+      <input src="/template_images/go.gif" width=25 height=15 border=0 alt="go" type=image name="go">
+      <input type="hidden" name="ie" value="">
+      <input type="hidden" name="site" value="Amherst">
+      <input type="hidden" name="output" value="xml_no_dtd">
+      <input type="hidden" name="client" value="Amherst">
+      <input type="hidden" name="lr" value="">
+      <input type="hidden" name="proxystylesheet" value="Amherst">
+      <input type="hidden" name="oe" value="">
+    </form>
+  </div>
+-->
+</div>
+</div>
+<h2 id="banner-bottom"><!-- InstanceBeginEditable name="TitleBar" --><!-- InstanceEndEditable --></h2>
+<div id="maincontent-alt"><!-- InstanceBeginEditable name="MainContent" -->
+  <H2>404 Error - Not Found</H2>
+        <p>The system cannot find the file you specified.<BR>
+            <BR>
+Please visit the main Amherst College web site at: <a href="https://www.amherst.edu">www.amherst.edu</a>
+
+<br /><br />
+          Address questions or comments to <a href="mailto:web@amherst.edu">web@amherst.edu</a>.</p>
+        <p>&nbsp;</p>
+        <p>&nbsp;</p>
+    <!-- InstanceEndEditable --></div>
+<div id="breadcrumbs"><a href="/">Amherst College</a> &gt; <!-- InstanceBeginEditable name="Breadcrumbs" --> Error 404 <!-- InstanceEndEditable --></div>
+</body>
+<!-- InstanceEnd --></html>

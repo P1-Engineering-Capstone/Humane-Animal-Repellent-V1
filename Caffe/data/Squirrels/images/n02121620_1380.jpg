@@ -1,0 +1,945 @@
+<!DOCTYPE html>
+<html lang="en"><head><!-- Meta --><meta charset="utf-8"><meta name="keywords" content=""><meta name="description" content=""><link rel="alternate" type="application/rss+xml" title="www.chittendenhumane.org - Main Channel" href="/call/blogs/rss/"><link rel="alternate" type="application/rss+xml" title="www.chittendenhumane.org - Cats" href="/call/blogs/rss/category/8"><meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no"><meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Cats</title><meta name="format-detection" content="telephone=no"><!-- Resources --><link type="text/css" href="/res/css/common.css" rel="stylesheet" />
+<link type="text/css" href="/res/css/mw.forms.css?3c59dc048e8850243be8079a5c74d079" rel="stylesheet" />
+<link type="text/css" href="/res/css/mw.windows.css?3c59dc048e8850243be8079a5c74d079" rel="stylesheet" />
+<link type="text/css" href="/res/css/mw.imged.css?3c59dc048e8850243be8079a5c74d079" rel="stylesheet" />
+<link type="text/css" href="/cms/res/vit-lib/status.css" rel="stylesheet" />
+<link type="text/css" href="/cms/res/vit-lib/code_coloring.css" rel="stylesheet" />
+<link type="text/css" href="/cms/res/vit-lib/syntax.css" rel="stylesheet" />
+<link type="text/css" href="/cms/res/mediaelement/mediaelementplayer.css" rel="stylesheet" />
+<link type="text/css" href="/cms/res/css/mw.media.css" rel="stylesheet" />
+<link type="text/css" href="/res/blogs/css/blogs.css" rel="stylesheet" />
+
+<script type="text/javascript" src="/cms/res/js/php.js"></script>
+<script type="text/javascript" src="/cms/res/js/json2.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/jquery.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/jquery.mousewheel.min.js"></script>
+<script type="text/javascript" src="/cms/res/mediaelement/mediaelement-and-player.js"></script>
+<script type="text/javascript">jQuery( function () { mwInitMedia() } );</script>
+<script type="text/javascript" src="/cms/res/js/mw.media.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.resizable.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/ui/jquery.ui.slider.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/jquery.AjaxUpload.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/hoverIntent.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/superfish.js"></script>
+<script type="text/javascript" src="/cms/res/js/jQuery/imagesloaded.pkgd.js"></script>
+<script type="text/javascript" src="/cms/res/vit-lib/common.js"></script>
+<script type="text/javascript" src="/cms/res/vit-lib/ajax.js"></script>
+<script type="text/javascript" src="/cms/res/vit-lib/debug.js"></script>
+<script type="text/javascript" src="/cms/res/vit-lib/console.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.urls.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.common.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.windows.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.debug.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.system.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.forms.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.front.js"></script>
+<script type="text/javascript" src="/cms/res/js/mw.imged.js"></script>
+<script type="text/javascript" src="/res/pages/js/mw.responsive.js"></script>
+<script type="text/javascript" src="/res/blogs/js/blogs.js"></script>
+
+<!-- CSS --><link rel="stylesheet" href="/../css/style.css"><link rel="stylesheet" href="/../css/main.css"><link rel="stylesheet" href="/../css/responsive.css"><link rel="stylesheet" href="/../css/sidr.css"><link rel="stylesheet" href="/../css/owl.carousel.css"><link rel="stylesheet" href="/../css/font-awesome.css"><link rel="stylesheet" href="/../css/magnific-popup.css"><link href="https://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Damion" rel="stylesheet" type="text/css"><link href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700,700italic,900,900italic" rel="stylesheet" type="text/css"><!-- Favicon and touch icons  --><link rel="shortcut icon" href="/images/ico/favicon.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/images/ico/apple-touch-icon-144.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/images/ico/apple-touch-icon-114.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/images/ico/apple-touch-icon-72.png"><link rel="apple-touch-icon-precomposed" href="/images/ico/apple-touch-icon-57.png"></head><body>
+
+<!-- Header -->
+<div class="headerWrap">
+  <div class="header"> 
+    
+    <!-- Logo -->
+    <div class="logo">
+      <h1><a href="/"><img src="/../images/logo.png"></a></h1>
+    </div>
+    <div class="headerRight"> 
+      
+      <!-- quickmenu -->
+      <div class="quickMenu">
+        <ul><li class="green"><a href="/Pet-Adoption">Adopt</a></li>
+          <li class="blue"><a href="/Volunteer">Volunteer</a></li>
+          <li class="orange"><a href="/Donate">Donate</a></li>
+        </ul></div>
+      
+      <!-- socialMedia -->
+      <div class="socialMedia">
+        <ul><li><a href="https://www.facebook.com/chittendenhumane" target="_blank"><span class="fa fa-facebook"></span></a></li>
+          <li><a href="http://instagram.com/hsccvt" target="_blank"><span class="fa fa-instagram"></span></a></li>
+          <!--
+          <li><a href="https://twitter.com/HSCCVT" target="_blank"><span class="fa fa-twitter"></span></a></li>
+          <li><a href="https://www.linkedin.com/company/humane-society-of-chittenden-county/" target="_blank"><span class="fa fa-linkedin"></span></a></li>
+          -->
+          <li><a href="/contact"><span class="fa fa-envelope"></span></a></li>
+          <li><a href="/blog"><span class="fa fa-rss"></span></a></li>
+        </ul></div>
+      
+       
+      
+    </div>
+    
+    <!-- Mobile -->
+    <div id="mobile-header"> <a id="responsive-menu-button" href="#sidr-main"><img src="/images/menu.png" alt="Menu"></a> </div>
+  </div>
+  
+  <!-- Main Menu -->
+  <div class="menuWrap">
+    <div class="menuHolder"> 
+      
+      <!-- mainMenu -->
+      <nav class="mainMenu"><div class="mwPageBlock Menu" style=""><ul id="mTl5pEoVv"><li class=""><a href="/Mission-and-History"><span class="Title">About Us</span><span class="subMark"></span></a><ul><li class="no-childs"><a href="/Mission-and-History"><span class="Title">Mission &amp; History</span></a></li>
+<li class="no-childs"><a href="/News-and-Events"><span class="Title">News &amp; Events</span></a></li>
+<li class="no-childs"><a href="/Board-of-Directors"><span class="Title"> Board of Directors</span></a></li>
+<li class="no-childs"><a href="/Meet-Our-Team"><span class="Title">Meet Our Team</span></a></li>
+<li class="no-childs"><a href="/Join-Our-Team"><span class="Title">Join Our Team</span></a></li>
+<li class="no-childs"><a href="/FAQs"><span class="Title">FAQs</span></a></li>
+<li class="no-childs"><a href="/Happy-Stories"><span class="Title">Happy Stories</span></a></li></ul></li>
+<li class=""><a href="/Pet-Adoption"><span class="Title">Adopt</span><span class="subMark"></span></a><ul><li class="no-childs"><a href="/Pet-Adoption"><span class="Title">Pet Adoption</span></a></li>
+<li class="no-childs"><a href="/Cats"><span class="Title">Cats</span></a></li>
+<li class="no-childs"><a href="/Barn-Cat-Program"><span class="Title">Barn Cat Program</span></a></li>
+<li class="no-childs"><a href="/Dogs"><span class="Title">Dogs</span></a></li>
+<li class="no-childs"><a href="/Small-Animals"><span class="Title">Small Animals</span></a></li>
+<li class="no-childs"><a href="/Resources"><span class="Title">Resources</span></a></li></ul></li>
+<li class=""><a href="/News-and-Events"><span class="Title">Programs</span><span class="subMark"></span></a><ul><li class="no-childs"><a href="/Education-and-Outreach"><span class="Title">Education &amp; Outreach</span></a></li>
+<li class="no-childs"><a href="/Dog-Training"><span class="Title">Dog Training</span></a></li>
+<li class="no-childs"><a href="/Helyn-Kerr-Humane-Education-Series"><span class="Title">Helyn Kerr Humane Education Series</span></a></li>
+<li class="no-childs"><a href="/Camp-Paw-Paw"><span class="Title">Camp Paw Paw</span></a></li>
+<li class="no-childs"><a href="/Shelter-Tours"><span class="Title">Shelter Tours</span></a></li></ul></li>
+<li class=""><a href="/Bringing-Us-a-Pet"><span class="Title">Services</span><span class="subMark"></span></a><ul><li class="no-childs"><a href="/Bringing-Us-a-Pet"><span class="Title">Bringing Us a Pet</span></a></li>
+<li class="no-childs"><a href="/Free-Roaming-Cats"><span class="Title">Free-Roaming Cats &amp; TNR</span></a></li>
+<li class="no-childs"><a href="/Good-Neighbor-Program"><span class="Title">Good Neighbor Program </span></a></li>
+<li class="no-childs"><a href="/Lost-and-Found-Pets"><span class="Title">Lost &amp; Found Pets</span></a></li>
+<li class="no-childs"><a href="/Low-Cost-Spay-Neuter-Clinics"><span class="Title">Low Cost Spay/Neuter Clinics</span></a></li>
+<li class="no-childs"><a href="/Report-Animal-Cruelty"><span class="Title">Report Animal Cruelty</span></a></li>
+<li class="no-childs"><a href="/Ruffy-Rescue-Transport-Fund"><span class="Title">Ruffy Rescue Transport Fund</span></a></li></ul></li>
+<li class=""><a href="/Donate"><span class="Title">Ways to Give</span><span class="subMark"></span></a><ul><li class="no-childs"><a href="/Donate"><span class="Title">Donate</span></a></li>
+<li class="no-childs"><a href="/Volunteer"><span class="Title">Volunteer</span></a></li>
+<li class="no-childs"><a href="/Foster-Care"><span class="Title">Foster Care</span></a></li>
+<li class="no-childs"><a href="/Legacy-and-Planned-Giving"><span class="Title">Legacy &amp; Planned Giving</span></a></li>
+<li class="no-childs"><a href="/Wishlist"><span class="Title">Wishlist</span></a></li></ul></li>
+<li class="no-childs"><a href="/Contact"><span class="Title">Contact</span></a></li></ul></div>
+      </nav><!-- searchWrap --><div class="searchWrap">
+        <form action="/Search-Results" method="GET">
+          <label> </label>
+          <input type="text" name="q" value="" class="inputwide"><input type="submit" value="Go" class="searchIcon"></form>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- spacer -->
+<div class="spacer"></div>
+
+<!-- banner -->
+<div class="bannerWrap">
+  <nav class="banner"><div class="mwPageArea"><div class="mwPageBlock File" style="">
+  <div class="banner" style="background: url(/get/files/image/galleries/banner26-0001.jpg?1400x1400) center center no-repeat; background-size:cover;"> </div>
+  <img src="/get/files/image/galleries/banner26-0001.jpg?768x768" style="width:100%;" class="mobile"></div><div class="Clear"></div></div>
+    <div class="pageTitle">
+      <h1>Cats</h1>
+    </div>
+  </nav></div>
+
+<!-- mainContent -->
+<div class="mwPageArea"><div class="mwPageBlock Include" style=""><div class="contentArea">
+  <div class="mainContentArea">
+    <div class="mwPageArea"><div class="mwPageBlock Content" style=""><div class="BlockContents"><p style="text-align: center;">
+        &nbsp; All cats &amp; kittens currently available for adoption are listed below. We update this page throughout the day whenever an animal is newly available, has an adoption pending or has
+        been adopted. If you have any questions about these animals please visit us and we&rsquo;ll be happy to assist you.
+</p>
+<p style="text-align: center;">
+        <em><strong>To better serve you and to provide accurate, up-to-date information, we cannot discuss these animals through email or the phone.</strong></em>
+</p>
+<p>
+        Please feel free to stop by our Adoption Center during open hours (no appointment needed) to learn more about and meet any of these fantastic felines!
+</p>
+<p>
+        &nbsp;
+</p>
+<p>
+        &nbsp;
+</p></div></div><div class="mwPageBlock BlogsPosts" style="">
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 22, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/April"><!--<img src="/get/files/image/galleries/April_unofficial_12218.jpg?800x800" alt="April" />-->
+    
+    <div style="background:url(/get/files/image/galleries/April_unofficial_12218.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/April">April</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - brown tiger<br>
+      ~ 1 year old <br>
+       Arrived: 01/22/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats &amp; dogs: I have no known history with dogs and other cats
+ </p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/April">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>November 15, 2017</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Baby-Girl"><!--<img src="/get/files/image/galleries/MDP_HSCC_BabyGirl_Jan1818.jpg?800x800" alt="Baby Girl" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_BabyGirl_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Baby-Girl">Baby Girl</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - brown &amp; orange tiger<br>
+      ~ 4 years old<br>
+       Arrived: 11/6/2017</p>
+    
+    <!--
+    <p>This confident, talkative, funny lady is looking for a home to call her own. She is a social gal that likes affection on her own terms, but LOVES a good head rub and is quite the active player&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Baby-Girl">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 20, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Benson"><!--<img src="/get/files/image/galleries/MDP_HSCC_Benson_Jan1818-2.jpg?800x800" alt="Benson" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Benson_Jan1818-2.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Benson">Benson</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - black &amp; white<br>
+      ~ 4 years old<br>
+       Arrived: 1/9/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats and dogs: I have no known history with cats of dogs</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Benson">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 20, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Bogey"><!--<img src="/get/files/image/galleries/MDP_HSCC_Bogey_Jan1818.jpg?800x800" alt="Bogey" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Bogey_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Bogey">Bogey</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - orange tiger<br>
+      ~ 13 years old<br>
+       Arrived: 1/16/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats and Dogs: I have lived with both cats and dogs and I did well with them</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Bogey">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 22, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Fergus"><!--<img src="/get/files/image/galleries/MDP_HSCC_Fergus_Jun2917-3-0002.jpg?800x800" alt="Fergus" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Fergus_Jun2917-3-0002.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Fergus">Fergus</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic medium hair- brown/black tiger<br>
+      ~ 14 years old <br>
+       Arrived: 1/17/2018</p>
+    
+    <!--
+    <p>Fergus is a familiar face to HSCC! He was adopted in July 2017 with his beloved companion Fuku. They had been together the majority of their lives and we were thrilled when they found a home t&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Fergus">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 19, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Fluffy"><!--<img src="/get/files/image/galleries/MDP_HSCC_Fluffy_Jan1118.jpg?800x800" alt="Fluffy" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Fluffy_Jan1118.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Fluffy">Fluffy</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic long hair - black<br>
+      ~ 8 months old<br>
+       Arrived: 1/9/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have lived with cats in my previous home and I did well
+Dogs: I have no history with dogs</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Fluffy">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 19, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Frou-Frou"><!--<img src="/get/files/image/galleries/MDP_HSCC_FrouFrou_Jan1818.jpg?800x800" alt="Frou-Frou" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_FrouFrou_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Frou-Frou">Frou-Frou</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic Longhair - Grey/Buff - Tortoiseshell<br>
+      ~1 year old<br>
+       Arrived: 1/11/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I was exposed to outdoor cats at my finder's home
+Dogs: My experience with dogs is unknown</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Frou-Frou">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 20, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/pending-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Goose"><!--<img src="/get/files/image/galleries/MDP_HSCC_Goose_Jan1818.jpg?800x800" alt="Goose" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Goose_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Goose">Goose</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - seal point<br>
+      ~ 13 years old<br>
+       Arrived: 1/16/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats and Dogs: I have lived with both cats and dogs and I did well with them</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Goose">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 7, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Gracie"><!--<img src="/get/files/image/galleries/MDP_HSCC_Gracie_Jan1118.jpg?800x800" alt="Gracie" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Gracie_Jan1118.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Gracie">Gracie</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - black/white<br>
+      ~ 5 years old <br>
+       Arrived: 12/21/2017</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats &amp; dogs: No thank you! I would prefer to go to a home with dogs and other cats
+Children: No thank you! I need a home without children</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Gracie">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Houdini"><!--<img src="/get/files/image/galleries/MDP_HSCC_Houdini_Jan0418.jpg?800x800" alt="Houdini" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Houdini_Jan0418.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Houdini">Houdini</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic medium hair- brown/black tiger <br>
+      ~ 8 years old <br>
+       Arrived: 12/28/2017 </p>
+    
+    <!--
+    <p>Sweet Houdini was found as a stray! She is a love of a kitty and is ready for a warm bed of her very own. Houdini is FIV +.
+Being FIV+ isn&rsquo;t a big deal. Check out the facts:
+
+FIV= Feline&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Houdini">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>December 19, 2017</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Kiki"><!--<img src="/get/files/image/galleries/MDP_HSCC_Kiki_Dec1417.jpg?800x800" alt="Kiki" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Kiki_Dec1417.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Kiki">Kiki</a> </h2>
+    <p> 
+      Spayed female <br>
+      Domestic short hair - black<br>
+      ~ 11 years old<br>
+       Arrived: 12/5/2017</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats &amp; dogs: No thank you! I would like to be the only furry friend in my new home!</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Kiki">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Larry-kitten"><!--<img src="/get/files/image/galleries/MDP_HSCC_Larry_Jan1818.jpg?800x800" alt="Larry (kitten)" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Larry_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Larry-kitten">Larry (kitten)</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - black<br>
+      ~ 5 months old <br>
+       Arrived: 01/09/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have no known history with other cats
+Dogs: I have no known history with dogs</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Larry-kitten">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/LeClair"><!--<img src="/get/files/image/galleries/MDP_HSCC_LeClair_Jan1118.jpg?800x800" alt="LeClair" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_LeClair_Jan1118.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/LeClair">LeClair</a> </h2>
+    <p> 
+      Neutered male <br>
+      Domestic shorthair- black and white <br>
+      ~ 6 years old <br>
+       Arrived: 1/5/2018</p>
+    
+    <!--
+    <p>LeClair is easy to adore! LeClair was found rooting through the garbage on someone's porch during the negative temperatures. The finder spent an hour trying to catch him and they were able to&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/LeClair">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Malfoy"><!--<img src="/get/files/image/galleries/Ravenclaw_unofficial_11718.jpg?800x800" alt="Malfoy" />-->
+    
+    <div style="background:url(/get/files/image/galleries/Ravenclaw_unofficial_11718.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Malfoy">Malfoy</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - buff/white<br>
+      ~ 3 months old <br>
+       Arrived: 11/15/2017</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have lived with my littermates and done well
+Dogs: I was exposed to a dog in my foster home</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Malfoy">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 15, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Moose"><!--<img src="/get/files/image/galleries/MDP_HSCC_Moose.jpg?800x800" alt="Moose" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Moose.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Moose">Moose</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic shorhair- grey and white<br>
+      ~ 9 years old <br>
+       Arrived: 12/27/2017</p>
+    
+    <!--
+    <p>Moose is a 9 year old kitty who originally came to us in October 2017 after his owner passed away. He was fairly stressed at the shelter and he wasn&rsquo;t eating well. This is always concern&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Moose">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 19, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/pending-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Muffin"><!--<img src="/get/files/image/galleries/MDP_HSCC_Muffin_Jan1818.jpg?800x800" alt="Muffin" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Muffin_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Muffin">Muffin</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - grey &amp; white tabby<br>
+      ~ 1 year old<br>
+       Arrived: 1/10/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have lived with a cat in my previous home and I did well
+Dogs: I have lived with a dog in my previous home and I did well</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Muffin">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 19, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Oreo"><!--<img src="/get/files/image/galleries/MDP_HSCC_Oreo_Jan1818-2.jpg?800x800" alt="Oreo" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Oreo_Jan1818-2.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Oreo">Oreo</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - black &amp; white<br>
+      ~ 2 years old<br>
+       Arrived: 1/10/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have lived with a cat in my previous home and I did well
+Dogs: I have lived with a dog in my previous home and I did well</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Oreo">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Peg"><!--<img src="/get/files/image/galleries/MDP_HSCC_Peg_Jan1118.jpg?800x800" alt="Peg" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Peg_Jan1118.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Peg">Peg</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic shorthair- brown and orange tiger <br>
+      ~ 10 months old <br>
+       Arrived: 11/21/17</p>
+    
+    <!--
+    <p>Meet Peg!
+Sweet Peg found herself lucky enough to walk through the right doors. Living outside, she walked herself into the Cathedral Church on Pine Street and made herself comfy in their dona&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Peg">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 17, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Ravenclaw"><!--<img src="/get/files/image/galleries/MDP_HSCC_Ravenclaw_Jan1818.jpg?800x800" alt="Ravenclaw" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Ravenclaw_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Ravenclaw">Ravenclaw</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - grey/buff dilute tortie<br>
+      ~ 3 months old <br>
+       Arrived: 11/07/2017</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I have lived with my littermates and done well
+Dogs: I was exposed to a dog in my foster home</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Ravenclaw">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 22, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Rocky"><!--<img src="/get/files/image/galleries/MDP_HSCC_Rocky_Jan1818-2.jpg?800x800" alt="Rocky" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Rocky_Jan1818-2.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Rocky">Rocky</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic short hair - black<br>
+      ~ 10 years old <br>
+       Arrived: 01/09/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I lived with other cats in my previous home and did well
+Dogs: I was scared and shy of the dogs that used to visit</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Rocky">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 18, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Slava-AMJ-Pet"><!--<img src="/get/files/image/galleries/MDP_HSCC_Slava_Dec1417-2.jpg?800x800" alt="Slava - AMJ Pet" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Slava_Dec1417-2.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Slava-AMJ-Pet">Slava - AMJ Pet</a> </h2>
+    <p> 
+      Spayed Female<br>
+      Seal Point<br>
+      ~ 15 Years Old<br>
+       Arrived: 12/01/17</p>
+    
+    <!--
+    <p>Well, hello! Slava&rsquo;s my name, and sweet is my game! So far, I have lived a very full life and am looking for my next chapter! I want nothing more than the finer things in life, and to cu&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Slava-AMJ-Pet">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 13, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/adopted-0001.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Sneakers"><!--<img src="/get/files/image/galleries/MDP_HSCC_Sneakers_Jan1818.jpg?800x800" alt="Sneakers" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Sneakers_Jan1818.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Sneakers">Sneakers</a> </h2>
+    <p> 
+      Neutered male<br>
+      Domestic shorthair - white &amp; gray<br>
+      ~ 9 years old<br>
+       Arrived: 1/2/2018</p>
+    
+    <!--
+    <p>By no fault of his own, Sneakers is a familiar face to us at HSCC.<br /> He&rsquo;s been around the block a few times and is back looking for his next home!
+
+Sneakers originally came to us in&hellip;</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Sneakers">Read More</a></p>
+    </div>
+  </div>
+
+<div class="petPostList" style="position:relative;"> 
+    
+    <!--  <p>January 7, 2018</p>   --> 
+    <a href="/Donate-Heart-to-Heart"><div style="height:100px; width:100px; background:url('/get/files/image/galleries/Heart_to_Heart_Sponsor-0002.png') center center no-repeat; position:absolute; top:-10px; right:-10px;"></div></a>
+    
+    <a href="/Pet-Post/Thumbalina"><!--<img src="/get/files/image/galleries/MDP_HSCC_Thumbelina_Jan1818-2.jpg?800x800" alt="Thumbalina" />-->
+    
+    <div style="background:url(/get/files/image/galleries/MDP_HSCC_Thumbelina_Jan1818-2.jpg) center center no-repeat; background-size:cover; width:100%; padding-bottom:100%;"></div>
+    
+    </a>
+    <h2><a href="/Pet-Post/Thumbalina">Thumbalina</a> </h2>
+    <p> 
+      Spayed female<br>
+      Domestic short hair - grey/white tiger<br>
+      ~ 9 years old<br>
+       Arrived: 01/03/2018</p>
+    
+    <!--
+    <p>My thoughts on:
+Cats: I lived with another cat in my previous home and did well
+Dogs: I have never lived with a dog</p>
+
+    <div class="blogPostSocial">
+      
+    </div>-->
+    <div class="button" style="text-align:center; margin:20px 0 0;">
+      <p><a href="/Pet-Post/Thumbalina">Read More</a></p>
+    </div>
+  </div>
+
+<div style="clear:both;"></div><div class="blogs_posts_list_ajax_position" id="blogs_posts_list_ajax_position_3133" style="display: none"></div><div id="blogs_list_loader_3133"></div>
+		
+		<script type="text/javascript">
+			
+			jQuery( function () {
+				
+				jQuery("#blogs_list_loader_3133")
+					.html('<div>Loading...')
+					.hide()
+				;
+				
+			}); //jQuery.onLoad
+			
+		</script><div class="Clear"></div>
+			<script type="text/javascript">
+				
+				jQuery( function () {
+	
+									
+					var posts_data = {
+							
+							posts_counter	: 50,
+							posts_per_once	: 50,
+							caegory_id	: 0,
+							current_page	: "cats",
+							tag_id		: 0,
+							archive_year	: 0,
+							archive_month	: 0,
+							ID		: 3133,
+							posts_limit	: 85							
+						};
+						
+					mwBlogsAjaxUpload.init(posts_data, 1);
+	
+					
+					
+						
+				}); //jQuery.onLoad
+				
+			</script></div><div class="Clear"></div></div>
+  </div>
+</div>
+</div><div class="Clear"></div></div>
+
+<!-- Sub Footer -->
+<div class="footerWrap">
+  <div class="footer">
+    <div class="toTop"><span class="fa fa-caret-up"></span><br>
+      TOP</div>
+    <div class="threeColumn">
+      <div class="threeColCol">
+        <div class="mwPageBlock Content" style=""><div class="BlockContents"><h3>
+        Contact Us
+</h3>
+<p>
+        Humane Society of Chittenden County
+        <br>
+        142 Kindness Court
+        <br>
+        South Burlington, VT 05403
+        <br>
+        Phone: (802) 862-0135 | Fax: (802) 860-5868
+        <br><a href="mailto:bestfriends@chittendenhumane.org">Email Us</a>
+</p></div></div>
+      </div>
+      <div class="threeColCol">
+        <div class="mwPageBlock Content" style=""><div class="BlockContents"><h3>
+        Adoption Center Hours:
+</h3>
+<p>
+        Tuesday - Friday: 1:00 - 6:00 pm&nbsp;
+        <br>
+        Saturday: 10:00 am - 4:00 pm
+        <br>
+        Sunday &amp; Monday: CLOSED
+</p></div></div>
+      </div>
+      <div class="threeColCol">
+        <div class="mwPageBlock Content" style=""><div class="BlockContents"><h3>
+        Follow Us:
+</h3>
+<p>
+        <a href="https://www.facebook.com/chittendenhumane" target="_blank"><span class="fa fa-facebook">&nbsp;</span> Facebook</a>
+</p>
+<p>
+        <a href="http://instagram.com/hsccvt#" target="_blank"><span class="fa fa-instagram">&nbsp;</span> Instagram</a>
+</p></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="copyrightWrap">
+  <div class="copyright">
+    <div class="twoColumn">
+      <div class="twoColLeft">
+        <div class="mwPageBlock Content" style=""><div class="BlockContents"><p>
+        Copyright &copy; 2015
+</p></div></div>
+      </div>
+      <div class="twoColRight">
+        <div class="mwPageBlock Content" style=""><div class="BlockContents"><p style="text-align: right;">
+        Copyright &copy; 2015 Humane Society of Chittenden County, VT.
+</p></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="/js/sidr.js"></script><script>jQuery(document).ready(function($){ $('img').removeAttr('width height'); });</script><script> jQuery('#responsive-menu-button').sidr({ name: 'sidr-main', source: '.mainMenu' }); </script><script src="/js/scripts.js"></script></body></html>

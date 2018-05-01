@@ -1,0 +1,240 @@
+292c
+<!DOCTYPE html>
+<html dir="ltr" lang="nl-NL">
+<head>
+	<title>404 - foutmelding: de pagina is niet gevonden</title>
+	<base href="http://www.hsvcastricum.nl/" />
+
+	<meta name="description" content="">
+	<meta name="author" content="Xicero Communicatie">
+	<meta name="viewport" content="initial-scale=1.0, width=device-width">
+	<meta charset="UTF-8">
+
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/normalize.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/960.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/superfish.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/prettyPhoto.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/fix.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/tipsy.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/skins/hsv.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/responsive.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/options.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Philosopher:n,i,b,bi" type="text/css">
+	<link rel="stylesheet" href="/assets/templates/hsvc/css/custom.css" type="text/css" media="all" />
+	<!--[if lt IE 9]>
+		<link rel="stylesheet" href="/assets/templates/hsvc/css/ie8.css" type="text/css" media="all" />
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+
+<div class="body-background">
+	<div class="body-wrapper">
+		<div id="header">
+			<div class="header-up-wrapper">
+				<div id="top-nav-wrapper">
+					<div id="top-nav-container" class="container_12"></div>
+				</div>
+				<div id="header-up" class="container_12">
+					<div class="grid_12">
+						<div id="logo-wrapper">
+							<a href="http://www.hsvcastricum.nl/" title=""><img src="/assets/templates/hsvc/images/logo.png" alt="Homepage"></a>
+						</div>
+						<div class="top-information-wrapper">
+							<div class="social-wrapper">
+								<ul>
+									<li class="social-icon facebook">
+										<a class="light" href="https://www.facebook.com/pages/Hengelsport-Vereniging-Castricum/420221051401175" target="_blank"><img src="/assets/templates/hsvc/images/icons/network/light/facebook.png" alt=""></a>
+									</li>
+									<li class="social-icon pinterest">
+										<a class="light" href="http://www.pinterest.com/hcastricum/" target="_blank"><img src="/assets/templates/hsvc/images/icons/network/light/pinterest.png" alt=""></a>
+									</li>
+								</ul>
+							</div>
+							<div class="top-information"><span class="email"><a href="mailto:secretaris@hsvcastricum.nl">secretaris@hsvcastricum.nl</a></span>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end of .header-up-wrapper -->
+			<div class="header-down-wrapper">
+				<div id="header-down">
+					<div id="menu-wrap">
+						<div id="menu-wrapper" class="container_12">
+							<ul id="main-nav" class="sf-menu">
+<li class="first"><a href="http://www.hsvcastricum.nl/" title="Home" >Home</a></li>
+<li><a href="lid-worden/" title="Lid worden van HSV Castricum" >Lid worden</a></li>
+<li><a href="agenda.html" title="De agenda/Activiteiten" >Agenda</a></li>
+<li><a href="jeugdviscursus/uitslagen.html" title="Uitslagen" >Uitslagen</a></li>
+<li><a href="jeugdviscursus/" title="Activiteiten" >Activiteiten</a></li>
+<li><a href="contact/" title="Contact" >Contact</a></li>
+<li><a href="links.html" title="Links" >Links</a></li>
+<li><a href="visstandbeheer/" title="Visstandbeheer" >Visstandbeheer</a></li>
+<li><a href="visverhalen.html" title="Visverhalen" >Visverhalen</a></li>
+<li><a href="alarmlijn.html" title="Alarmlijn" >Alarmlijn</a></li>
+<li><a href="archief.html" title="Archief" >Archief</a></li>
+<li class="last"><a href="spiegelkarper-project.html" title="Spiegelkarper Project" >Spiegelkarper Project</a></li>
+
+</ul>
+							<form class="searchform" method="get" action="zoekresultaten.html">
+<input type="hidden" name="id" value="10" />
+	<div class="search-wrapper top">
+		<label for="s" class="display-none">search</label>
+		<input class="text" type="text" value name="search" id="s">
+		<input class="submit" type="submit" value="">
+	</div>
+</form>
+						</div>
+						<!-- end of menu-wrapper -->
+					</div>
+					<!-- end of menu-wrap -->
+					
+					<div id="breadcrumb-wrapper">
+	<div id="breadcrumb" class="container_12">
+		<div id="crumbs">
+			<a href="http://www.hsvcastricum.nl/">Home</a>
+			&nbsp;-&nbsp;<span class="current bold">404 - Pagina niet gevonden</span>
+		</div>
+	</div>
+</div>
+					
+				</div>
+			</div>
+			<!-- end of .header-down-wrapper -->
+		</div>
+		<!-- end of #header -->
+		<div id="main">
+			<div id="sub-main" class="container_12">
+				<div class="h-wrapper h1 grid_12">
+					<h1>404 - Pagina niet gevonden<span class="line"></span></h1>
+				</div>
+				<div id="content">
+					<div class="grid_12">
+						
+						
+						De pagina die u zoekt kan niet (meer) gevonden worden op de website. Kies een nieuwe pagina uit onderstaande lijst:<br /><br />
+
+<ul><li class="first"><a href="http://www.hsvcastricum.nl/" title="Home" >Home</a></li>
+<li><a href="lid-worden/" title="Lid worden van HSV Castricum" >Lid worden</a></li>
+<li><a href="agenda.html" title="De agenda/Activiteiten" >Agenda</a></li>
+<li><a href="jeugdviscursus/uitslagen.html" title="Uitslagen" >Uitslagen</a></li>
+<li><a href="jeugdviscursus/" title="Activiteiten" >Activiteiten</a><ul><li class="first"><a href="jeugdviscursus/zomeravondcompetitie.html" title="Zomeravond competitie." >Zomeravond competitie.</a></li>
+<li class="last"><a href="jeugdviscursus/baars-wedstrijden.html" title="Baars wedstrijden" >Baars wedstrijden</a></li>
+</ul></li>
+<li><a href="contact/" title="Contact" >Contact</a></li>
+<li><a href="links.html" title="Links" >Links</a></li>
+<li><a href="visstandbeheer/" title="Visstandbeheer" >Visstandbeheer</a><ul><li class="first"><a href="visstandbeheer/visserijkundig-onderzoek.html" title="Visserijkundig onderzoek" >Visserijkundig onderzoek</a></li>
+<li><a href="visstandbeheer/factsheet-vijvers-in-castricum.html" title="Factsheet vijvers in Castricum" >Factsheet vijvers in Castricum</a></li>
+<li class="last"><a href="visstandbeheer/schubkarper-uitzetting-november-2013.html" title="Pootvis uitzettingen" >Pootvis uitzettingen</a></li>
+</ul></li>
+<li><a href="visverhalen.html" title="Visverhalen" >Visverhalen</a></li>
+<li><a href="alarmlijn.html" title="Alarmlijn" >Alarmlijn</a></li>
+<li><a href="archief.html" title="Archief" >Archief</a></li>
+<li class="last"><a href="spiegelkarper-project.html" title="Spiegelkarper Project" >Spiegelkarper Project</a></li>
+</ul>
+					</div>
+					<div class="clear mb20"></div>
+					<div class="grid_12">
+						
+					</div>
+				</div>
+				<!-- end of #content -->
+			</div>
+		</div>
+		<!-- end of #main -->
+		<div id="footer-wrapper">
+			
+			<div class="footer-bot-wrapper">
+				<div id="copyright" class="container_12">
+					<div class="copleft">Copyright © 2013 HSV Castricum | <a href="http://www.xicero.com/" target="_blank" rel="nofollow">Xicero Communicatie</a></div>
+					<div class="copright">
+						<div class="menu-footer-container">
+							<ul id="footer-menu" class="menu">
+								<li><span class="divider">/</span>
+									<a href="http://www.hsvcastricum.nl/">Home</a>
+								</li>
+								<li><span class="divider">/</span>
+									<a href="contact/">Contact</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- end of #footer-bot-wrapper -->
+		</div>
+		<!-- end of #footer-wrapper -->
+		<div id="backtotop"><span><span class="triangle"></span></span></div>
+	</div>
+	<!-- end of .body-wrapper -->
+</div>
+
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.min.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/superfish.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/supersubs.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.masonry.min.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jcarousellite.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/selectnav.min.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.tipsy.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.custom.js"></script>
+<script type="text/javascript" src="/assets/templates/hsvc/js/jquery.search.js"></script>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		// menu init
+		jQuery('ul.sf-menu').supersubs({ 
+			minWidth:18.4,   // minimum width of sub-menus in em units 
+			maxWidth:27,	// maximum width of sub-menus in em units 
+			extraWidth:1     // extra width can ensure lines don't sometimes turn over due to slight rounding differences and font-family 
+		}).superfish({	// main navigation init
+			delay:200,		// one second delay on mouseout 
+			animation:{opacity:'show',height:"show"}, // fade-in and slide-down animation 
+			speed:'normal',  // faster animation speed 
+			autoArrows:false,   // generation of arrow mark-up (for submenu) 
+			dropShadows:false   // drop shadows (for submenu)
+		});
+
+		// Nivo slider init
+		jQuery('#nivoslider').nivoSlider({
+			effect:'random',
+			slices:15,
+			boxCols:8,
+			boxRows:4,
+			animSpeed:500,
+			pauseTime:5000,
+			directionNav:false,
+			directionNavHide:false,
+			controlNav:true,
+			controlNavThumbs:false,
+			pauseOnHover:true,
+			randomStart:false,
+			manualAdvance:false
+		});
+
+		// post-shortcode init
+		/*jQuery("#posts-shortcode-1").jCarouselLite({
+			btnNext:"#posts-shortcode-prev-1",
+			btnPrev:"#posts-shortcode-next-1",
+			auto:false,
+			speed:1000,
+			visible:4
+		});*/
+
+		// thumbslider init
+		/*jQuery("#thumbslider-1.nivoSlider").nivoSlider({
+			effect:"fade",
+			directionNav:true,
+			directionNavHide:true,
+			controlNav:false,
+		});*/
+	});
+</script>
+
+
+</body>
+</html>
+0
+

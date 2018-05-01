@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html
+    lang="nl"
+    class="no-js {{appNameSpace}}"
+    ng-app="antwerpOS"
+    ng-controller="MainController"
+    ng-class="{
+        'aos-login': context.page.loginFlow,
+        'aos-register': context.page.registerFlow,
+        'search': state.searchResults,
+        'loggedin': loggedIn,
+        'anonymousHome': isAnonymousHome,
+        'overzicht': isOverzicht,
+        'medewerker': userContext.isEmployee || isEmployeeScreen,
+        'fullscreen': isFullscreen,
+        'has-descriptor': descriptor
+    }">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title data-ng-bind="pageTitle">A-stad</title>
+        <meta name="description" content="{{(context.article.description || context.page.description || context.app.description) | plainText}}">
+        <meta name="image" content="{{context.article.image || context.page.image || context.app.image}}">
+        <meta property="og:title" content="{{context.article.title || context.page.title || pageTitle}}" />
+        <meta property="og:site_name" content="A-stad" />
+        <meta property="og:url" content="{{context.article.url || context.page.url || context.app.url}}" />
+        <meta property="og:image" content="{{context.article.image || context.page.image || context.app.image}}" />
+        <meta property="og:description" content="{{(context.article.description || context.page.description || context.app.description) | plainText}}" />
+        <meta name="twitter:card" content="summary" />    
+        <meta name="twitter:description" content="{{(context.article.description || context.page.description || context.app.description) | plainText}}" />    
+        <meta name="twitter:image" content="{{context.article.image || context.page.image || context.app.image}}" />    
+        <meta name="twitter:site" content="@Stad_Antwerpen" />    
+        <meta name="twitter:title" content="{{context.article.title || context.page.title || pageTitle}}" />      
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="translucent" />
+        <meta name="apple-mobile-web-app-title" content="A-stad" />
+        <meta name="viewport" content="initial-scale=1.0,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
+        <link data-ng-if="context.article.canonical" rel="canonical" href="{{context.article.canonical}}" />
+
+        
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-N5LHXQ');</script>
+        <!-- End Google Tag Manager -->
+
+        
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/aOS/gfx/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/aOS/gfx/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/aOS/gfx/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/aOS/gfx/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/aOS/gfx/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/aOS/gfx/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/aOS/gfx/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/aOS/gfx/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/aOS/gfx/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/assets/aOS/gfx/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/aOS/gfx/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/aOS/gfx/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/aOS/gfx/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/assets/aOS/gfx/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/assets/aOS/gfx/favicon/ms-icon-144x144.png">
+        <meta name="msapplication-config" content="/asets/aOS/gfx/favicons/browserconfig.xml" />
+        <meta name="theme-color" content="#ffffff">
+
+
+        <link rel="image_src" href="https://assets.antwerpen.be/srv/assets/api/image/662385b9-c3bb-4108-9145-67318e2382e5/antwerpenregistratielogo.png" />
+        <style type="text/css">
+            @charset "UTF-8";
+            /* fix ng cloak behaviour before angular is loaded */
+            [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+                display: none !important;
+            }
+            ng\:form {
+                display: block;
+            }
+        </style>
+        <!-- Vendor stylesheets -->
+        <link href="/assets/vendors/bower.min.css?t=20180119173807" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/components/css/components.min.css?t=20180119173807" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/modules/css/modules.min.css?t=20180119173807" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/widgets/css/widgets.min.css?t=20180119173807" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/aOS/css/aOS.css?t=20180119173807" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/aOS/css/print.css?t=20180119173807" media="print" rel="stylesheet" type="text/css">
+<link href="/assets/e-loket/css/e-loket-20180118174028.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/reports/css/reports-20180118174028.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/eloket/css/eloket-20180115103015.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/overzicht/css/overzicht-20180108114451.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/info/css/info-20171221145202.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/stadsplan/css/stadsplan-20171019142702.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/vacatures/css/vacatures-20161005145931.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/kalender/css/kalender-20170904091403.min.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/kalender/css/kalender.css" media="screen" rel="stylesheet" type="text/css">
+        <!-- google crawlable ajax app -->
+        <meta name="fragment" content="!" />
+    </head>
+    <body>
+                <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N5LHXQ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        
+        <section id="unSupportedBrowser" class="oldbrowser" style="display:none;">
+            <img class="logo" alt="Logo van Antwerpen" src="/assets/aOS/gfx/gui/a-logo.png">
+            <div class="oldbrowser__header">
+                <h3>Sorry, we merken dat je antwerpen.be niet zal kunnen gebruiken zoals wij het bedoeld hebben.</h3>
+                <h5>Dit komt omdat je een verouderde versie van je internetbrowser gebruikt. <a href="http://browsehappy.com/?locale=nl_BE">Je kan dit verhelpen door een recente versie van je browser te installeren.</a></h5>
+            </div>
+        </section>
+
+        <!--[if lte IE 9]>
+            <script type="text/javascript">
+                document.getElementById('unSupportedBrowser').style.display = 'block';
+            </script>
+        <![endif]-->
+
+        <!--[if gt IE 9]><!-->
+
+            <div data-ng-controller="HeaderController" data-ng-include=" '/assets/aOS/views/header.htm' "></div>
+
+            <akit-statusbar></akit-statusbar>
+
+            <main class="main">
+                                <div ng-if="loadingApp" loading loading-state="loadingApp"></div>
+                <div ng-if="!loadingApp" ui-view></div>
+            </main>
+
+            <footer>
+                <div data-footer context="userContext"></div>
+            </footer>
+
+            <noscript>
+                <p class="noscript text-center">Om verder te gaan, dient u JavaScript te activeren.</p>
+            </noscript>
+
+        <!--<![endif]-->
+
+        <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-47135643-1', {
+            cookieDomain: 'none',
+        }, 'antwerpen.be');
+    </script>
+    
+    <script type="text/javascript" src="/assets/vendors/bower.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/vendors/vendors.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/scripts/scripts.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/components/js/components.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/modules/js/modules.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/widgets/js/widgets.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/e-loket/js/e-loket-20180118174028.min.js"></script>
+<script type="text/javascript" src="/assets/reports/js/reports-20180118174028.min.js"></script>
+<script type="text/javascript" src="/assets/eloket/js/eloket-20180115103015.min.js"></script>
+<script type="text/javascript" src="/assets/overzicht/js/overzicht-20180108114451.min.js"></script>
+<script type="text/javascript" src="/assets/info/js/info-20171221145202.min.js"></script>
+<script type="text/javascript" src="/assets/stadsplan/js/stadsplan-20171019142702.min.js"></script>
+<script type="text/javascript" src="/assets/stadsplan/js/stadsplanTemplates.js"></script>
+<script type="text/javascript" src="/assets/vacatures/js/vacatures-20161005145931.min.js"></script>
+<script type="text/javascript" src="/assets/organisations/js/organisations-20170908104658.min.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/main.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/app.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/calendaradmin.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/general.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/item.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/list.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/controllers/themes.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/kalender-20170904091403.min.js"></script>
+<script type="text/javascript" src="/assets/kalender/js/services/calendar.js"></script>
+<script type="text/javascript" src="/assets/aOS/js/aOS.min.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/aOS/js/translations.js?t=20180119173807"></script>
+<script type="text/javascript" src="/assets/aOS/js/factories/_serviceroutes.config.js"></script>
+    <script>
+        // 3 global vars to determine our languages, our current site and environment
+        var multiLang = {"languages":{"NL":{"title":"Nederlands","locale":"nl_BE"},"EN":{"title":"English","locale":"en_GB"}},"current":"NL"};
+        var dsSiteName = "astad";
+            </script>
+    </body>
+</html>

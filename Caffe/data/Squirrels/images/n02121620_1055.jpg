@@ -1,0 +1,3674 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" dir="ltr" lang="en" class="no-js">
+	<head>
+	
+	<title>Verizon Forums – Welcome to the Verizon Fios® Community</title>
+	
+	
+	
+	
+	<meta content="Welcome to the Verizon Fios® Community to learn about new deals and products, Verizon Blogs, and share experiences about all our products and" name="description"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/><link href="https://forums.verizon.com/" rel="canonical"/>
+	<meta content="website" property="og:type"/><meta content="https://forums.verizon.com/" property="og:url"/><meta content="Welcome to the Verizon Fios® Community to learn about new deals and products, Verizon Blogs, and share experiences about all our products and services." property="og:description"/><meta content="Verizon Forums – Welcome to the Verizon Fios® Community" property="og:title"/>
+	
+	
+		<link class="lia-link-navigation hidden live-links" title="New board topics in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link" href="/vrzn/rss/Community?interaction.style=forum"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All board posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_0" href="/vrzn/rss/Community?interaction.style=forum&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New blog articles in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_1" href="/vrzn/rss/Community?interaction.style=blog"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All blog posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_2" href="/vrzn/rss/Community?interaction.style=blog&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New idea exchange ideas in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_3" href="/vrzn/rss/Community?interaction.style=idea"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All idea exchange posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_4" href="/vrzn/rss/Community?interaction.style=idea&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New contest entry in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_5" href="/vrzn/rss/Community?interaction.style=contest"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All contest posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_6" href="/vrzn/rss/Community?interaction.style=contest&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New Products" type="application/rss+xml" rel="alternate" id="link_7" href="/vrzn/rss/Community?interaction.style=review"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All Reviews and Comments" type="application/rss+xml" rel="alternate" id="link_8" href="/vrzn/rss/Community?interaction.style=review&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New group topics in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_9" href="/vrzn/rss/Community?interaction.style=group"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All group posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_10" href="/vrzn/rss/Community?interaction.style=group&amp;feeds.replies=true"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="New media posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_11" href="/vrzn/rss/Community?interaction.style=media"></link>
+	
+		<link class="lia-link-navigation hidden live-links" title="All media posts in Verizon Fios Community" type="application/rss+xml" rel="alternate" id="link_12" href="/vrzn/rss/Community?interaction.style=media&amp;feeds.replies=true"></link>
+	
+
+		
+			
+		<link href="https://vrzn.i.lithium.com/skins/2851020/3024EDDACE56FD112BAC4BC96190D42B/verizon_responsive_v2.css" rel="stylesheet" type="text/css"/>
+	
+
+	
+	
+	
+	
+	<meta name="google-site-verification" content="tCgjJkHphsGA3H1oXkku_ff_9ptnLGChmCzXOVGcRGI" />
+
+
+
+</script>
+
+
+<script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/28EA5F914CC3B22F291715C0CFACC4C7/lia-scripts-head-min.js"></script><script language="javascript" type="text/javascript">
+<!--
+window.FileAPI = { jsPath: '/html/assets/js/vendor/ng-file-upload-shim/' };
+LITHIUM.DEBUG = false;
+LITHIUM.CommunityJsonObject = {
+  "Validation" : {
+    "image.description" : {
+      "min" : 0,
+      "max" : 1000,
+      "isoneof" : [ ],
+      "type" : "string"
+    },
+    "tkb.toc_maximum_heading_level" : {
+      "min" : 1,
+      "max" : 6,
+      "isoneof" : [ ],
+      "type" : "integer"
+    },
+    "tkb.toc_heading_list_style" : {
+      "min" : 0,
+      "max" : 50,
+      "isoneof" : [
+        "disc",
+        "circle",
+        "square",
+        "none"
+      ],
+      "type" : "string"
+    },
+    "tkb.toc_heading_indent" : {
+      "min" : 5,
+      "max" : 50,
+      "isoneof" : [ ],
+      "type" : "integer"
+    }
+  },
+  "WebTracking" : {
+    "Activities" : { },
+    "path" : "Community:Verizon Forums"
+  },
+  "User" : {
+    "settings" : {
+      "imageupload.legal_file_extensions" : "*.jpg;*.JPG;*.jpeg;*.JPEG;*.gif;*.GIF;*.png;*.PNG",
+      "config.enable_avatar" : true,
+      "integratedprofile.show_klout_score" : true,
+      "layout.sort_view_by_last_post_date" : true,
+      "layout.friendly_dates_enabled" : false,
+      "profileplus.allow.anonymous.scorebox" : false,
+      "tkb.message_sort_default" : "topicPublishDate",
+      "layout.format_pattern_date" : "MM-dd-yyyy",
+      "config.require_search_before_post" : "off",
+      "isUserLinked" : false,
+      "integratedprofile.cta_add_topics_dismissal_timestamp" : -1,
+      "layout.message_body_image_max_size" : 1000,
+      "profileplus.everyone" : true,
+      "integratedprofile.cta_connect_wide_dismissal_timestamp" : -1,
+      "integratedprofile.hide_social_networks" : false,
+      "contest.entries_per_page_num" : 20,
+      "layout.messages_per_page_linear" : 30,
+      "integratedprofile.cta_manage_topics_dismissal_timestamp" : -1,
+      "profile.shared_profile_test_group" : false,
+      "integratedprofile.cta_personalized_feed_dismissal_timestamp" : -1,
+      "integratedprofile.curated_feed_size" : 5,
+      "contest.one_kudo_per_contest" : false,
+      "integratedprofile.enable_social_networks" : false,
+      "integratedprofile.my_interests_dismissal_timestamp" : -1,
+      "profile.language" : "en",
+      "layout.friendly_dates_max_age_days" : 3,
+      "layout.threading_order" : "thread_descending",
+      "useRecService" : true,
+      "layout.module_welcome" : "<h1>Welcome to the Verizon Fios Community.<\/h1>\r\nFind help and answers to questions about anything and everything Verizon. This is a peer to peer community where your questions are answered by users like you.",
+      "imageupload.max_uploaded_images_per_upload" : 100,
+      "imageupload.max_uploaded_images_per_user" : 10000,
+      "integratedprofile.connect_mode" : "",
+      "tkb.toc_maximum_heading_level" : "",
+      "tkb.toc_heading_list_style" : "disc",
+      "sharedprofile.show_hovercard_score" : true,
+      "config.search_before_post_scope" : "community",
+      "tkb.toc_heading_indent" : "",
+      "p13n.cta.recommendations_feed_dismissal_timestamp" : -1,
+      "imageupload.max_file_size" : 10024,
+      "layout.show_batch_checkboxes" : false,
+      "integratedprofile.cta_connect_slim_dismissal_timestamp" : -1
+    },
+    "isAnonymous" : true,
+    "policies" : {
+      "image-upload.process-and-remove-exif-metadata" : false
+    },
+    "registered" : false,
+    "emailRef" : "",
+    "id" : -1,
+    "login" : "Anonymous"
+  },
+  "Server" : {
+    "communityPrefix" : "/vrzn",
+    "tapestryPrefix" : "/t5",
+    "deviceMode" : "DESKTOP",
+    "responsiveDeviceMode" : "DESKTOP",
+    "showTextKeys" : false
+  },
+  "Config" : {
+    "phase" : "prod",
+    "integratedprofile.cta.reprompt.delay" : 2592000000,
+    "profileplus.tracking" : {
+      "profileplus.tracking.enable" : true,
+      "profileplus.tracking.click.enable" : true,
+      "profileplus.tracking.impression.enable" : true
+    },
+    "app.revision" : "1711081441-sb752f72663-b114"
+  },
+  "Activity" : {
+    "Results" : [ ]
+  },
+  "NodeContainer" : {
+    "viewHref" : "https://forums.verizon.com/t5/Top/ct-p/top",
+    "description" : "",
+    "id" : "top",
+    "shortTitle" : "Top",
+    "title" : "Top",
+    "nodeType" : "Category"
+  },
+  "Page" : {
+    "skins" : [
+      "verizon_responsive_v2",
+      "responsive_peak"
+    ],
+    "authUrls" : {
+      "loginUrl" : "/t5/authentication/ssoredirectpage?action=login&referer=https%3A%2F%2Fforums.verizon.com%2F",
+      "loginUrlNotRegistered" : "/t5/authentication/ssoredirectpage?action=login&redirectreason=notregistered&referer=https%3A%2F%2Fforums.verizon.com%2F",
+      "loginUrlNotRegisteredDestTpl" : "/t5/authentication/ssoredirectpage?action=login&redirectreason=notregistered&referer=%7B%7BdestUrl%7D%7D"
+    },
+    "name" : "CommunityPage",
+    "object" : {
+      "viewHref" : "/",
+      "id" : "vrzn",
+      "page" : "CommunityPage",
+      "type" : "Community"
+    }
+  },
+  "TopLevelNode" : {
+    "viewHref" : "https://forums.verizon.com/",
+    "description" : "Welcome to the Verizon Fios® Community to learn about new deals and products, Verizon Blogs, and share experiences about all our products and services.",
+    "id" : "vrzn",
+    "shortTitle" : "Verizon Forums",
+    "title" : "Verizon Fios Community",
+    "nodeType" : "Community"
+  },
+  "Community" : {
+    "viewHref" : "https://forums.verizon.com/",
+    "integratedprofile.lang_code" : "en",
+    "integratedprofile.country_code" : "US",
+    "id" : "vrzn",
+    "shortTitle" : "Verizon Forums",
+    "title" : "Verizon Fios Community",
+    "profileplus.simple_mode.enable" : false
+  },
+  "CoreNode" : {
+    "viewHref" : "https://forums.verizon.com/",
+    "settings" : { },
+    "description" : "Welcome to the Verizon Fios® Community to learn about new deals and products, Verizon Blogs, and share experiences about all our products and services.",
+    "id" : "vrzn",
+    "shortTitle" : "Verizon Forums",
+    "title" : "Verizon Fios Community",
+    "nodeType" : "Community",
+    "ancestors" : [ ]
+  }
+};
+LITHIUM.Components.RENDER_URL = '/t5/util/componentrenderpage/component-id/#{component-id}?render_behavior=raw';
+LITHIUM.Css = {
+  "BASE_DEFERRED_IMAGE" : "lia-deferred-image",
+  "BASE_BUTTON" : "lia-button",
+  "BASE_SPOILER_CONTAINER" : "lia-spoiler-container",
+  "BASE_TABS_INACTIVE" : "lia-tabs-inactive",
+  "BASE_TABS_ACTIVE" : "lia-tabs-active",
+  "BASE_AJAX_REMOVE_HIGHLIGHT" : "lia-ajax-remove-highlight",
+  "BASE_FEEDBACK_SCROLL_TO" : "lia-feedback-scroll-to",
+  "BASE_FORM_FIELD_VALIDATING" : "lia-form-field-validating",
+  "BASE_FORM_ERROR_TEXT" : "lia-form-error-text",
+  "BASE_FEEDBACK_INLINE_ALERT" : "lia-panel-feedback-inline-alert",
+  "BASE_BUTTON_OVERLAY" : "lia-button-overlay",
+  "BASE_TABS_STANDARD" : "lia-tabs-standard",
+  "BASE_AJAX_SUCCESS_HIGHLIGHT" : "lia-ajax-success-highlight",
+  "BASE_CONTENT" : "lia-content",
+  "BASE_JS_HIDDEN" : "lia-js-hidden",
+  "BASE_AJAX_LOADER_CONTENT_OVERLAY" : "lia-ajax-loader-content-overlay",
+  "BASE_FORM_FIELD_SUCCESS" : "lia-form-field-success",
+  "BASE_FORM_WARNING_TEXT" : "lia-form-warning-text",
+  "BASE_FORM_FIELD_ERROR" : "lia-form-field-error",
+  "BASE_SPOILER_CONTENT" : "lia-spoiler-content",
+  "BASE_FORM_SUBMITTING" : "lia-form-submitting",
+  "BASE_EFFECT_HIGHLIGHT_START" : "lia-effect-highlight-start",
+  "BASE_FORM_FIELD_ERROR_NO_FOCUS" : "lia-form-field-error-no-focus",
+  "BASE_EFFECT_HIGHLIGHT_END" : "lia-effect-highlight-end",
+  "BASE_SPOILER_LINK" : "lia-spoiler-link",
+  "FACEBOOK_LOGOUT" : "lia-component-users-action-logout",
+  "BASE_DISABLED" : "lia-link-disabled",
+  "FACEBOOK_SWITCH_USER" : "lia-component-admin-action-switch-user",
+  "BASE_FORM_FIELD_WARNING" : "lia-form-field-warning",
+  "BASE_AJAX_LOADER_FEEDBACK" : "lia-ajax-loader-feedback",
+  "BASE_AJAX_LOADER_OVERLAY" : "lia-ajax-loader-overlay",
+  "BASE_LAZY_LOAD" : "lia-lazy-load"
+};
+LITHIUM.noConflict = true;
+LITHIUM.useCheckOnline = false;
+LITHIUM.RenderedScripts = [
+  "Namespace.js",
+  "Loader.js",
+  "Components.js",
+  "LiModernizr.js",
+  "Globals.js",
+  "TinyMceConfig.js",
+  "PolyfillsAll.js",
+  "Sandbox.js",
+  "jquery.js",
+  "jquery.ui.core.js",
+  "json2.js",
+  "jquery.ui.widget.js",
+  "jquery.ui.mouse.js",
+  "jquery.ui.position.js",
+  "jquery.ui.draggable.js",
+  "jquery.ui.resizable.js",
+  "jquery.effects.core.js",
+  "jquery.ui.dialog.js",
+  "jquery.effects.slide.js",
+  "jquery.viewport-1.0.js",
+  "jquery.lithium-selector-extensions.js",
+  "jquery.tmpl-1.1.1.js",
+  "jquery.js",
+  "jquery.position-toggle-1.0.js",
+  "jquery.function-utils-1.0.js",
+  "jquery.delayToggle-1.0.js",
+  "jquery.iframe-shim-1.0.js",
+  "jquery.clone-position-1.0.js",
+  "jquery.scrollTo.js",
+  "jquery.blockui.js",
+  "jquery.fileupload.js",
+  "jquery.iframe-transport.js",
+  "jquery.appear-1.1.1.js",
+  "jquery.hoverIntent-r6.js",
+  "jquery.css-data-1.0.js",
+  "jquery.ajax-cache-response-1.0.js",
+  "NoConflict.js",
+  "Lithium.js",
+  "Cache.js",
+  "Auth.js",
+  "Text.js",
+  "Events.js",
+  "ElementMethods.js",
+  "Forms.js",
+  "SpoilerToggle.js",
+  "Video.js",
+  "DeferredImages.js",
+  "Throttle.js",
+  "SharedProfile.js",
+  "AjaxSupport.js",
+  "CustomTooltip.js",
+  "VRZNcommon.js",
+  "jquery.tools.tabs-1.2.7.js",
+  "jquery.tools.tooltip-1.1.2.js",
+  "ForceLithiumJQuery.js",
+  "DropDownMenu.js",
+  "InformationBox.js",
+  "InformationBox.js",
+  "InformationBox.js",
+  "InformationBox.js",
+  "InformationBox.js",
+  "AjaxFeedback.js",
+  "FormActions.js",
+  "jquery.placeholder-2.0.7.js",
+  "Placeholder.js",
+  "jquery.autocomplete.js",
+  "AutoComplete.js",
+  "FormActions.js",
+  "jquery.placeholder-2.0.7.js",
+  "Placeholder.js",
+  "jquery.autocomplete.js",
+  "AutoComplete.js",
+  "FormActions.js",
+  "jquery.placeholder-2.0.7.js",
+  "Placeholder.js",
+  "jquery.autocomplete.js",
+  "AutoComplete.js",
+  "FormActions.js",
+  "jquery.autocomplete.js",
+  "AutoComplete.js",
+  "Link.js",
+  "jquery.tools.tooltip-1.2.5.js",
+  "Tooltip.js",
+  "InformationBox.js",
+  "AjaxFeedback.js",
+  "SearchAutoCompleteToggle.js",
+  "InformationBox.js",
+  "AjaxFeedback.js",
+  "SearchForm.js",
+  "InformationBox.js",
+  "InformationBox.js",
+  "CustomEvent.js",
+  "CustomEvent.js",
+  "CustomEvent.js",
+  "CustomEvent.js",
+  "InlineLabelEditor.js"
+];// -->
+</script><script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/AECD81F283239DB9BFF0F7269B16DB1F/lia-scripts-head-min.js"></script></head>
+	<body class="lia-user-status-anonymous CommunityPage lia-body" id="lia-body">
+	
+	<div id="C4DF47DE" class="ServiceNodeInfoHeader">
+</div>
+	
+	
+	
+	
+
+	<div class="lia-page">
+		<center>
+			
+				<!-- UCM Mon Jan 22 19:11:45 EST 2018 -->
+<!-- SCB resp header begin -->
+
+	<script type="text/javascript">var master_cookie_on="Y";</script>
+	<input type="hidden" id="currentDomain" value="https://www.verizon.com"/>
+	<input type="hidden" id="currentDomainVZ" value="https://www.verizon.com"/>
+	<input type="hidden" id="saveCartCookie" value=""/>
+	<input type="hidden" id="saveCartCkiexpsid" value=""/>
+	<input id="gn_ct_dn" name="gn_ct_dn" type="hidden" value="https://www.verizon.com"/>
+	<input type="hidden" id="ghf_client" value="resforums"/>
+	<input type="hidden" id="ghf_isvz" value="N"/>
+	
+	<script type="text/javascript">var scbType='resp';</script>
+	<script type="text/javascript" src="//www.verizon.com/home/ak-cached/2h/javascript/commons.js"></script>
+	<script type="text/javascript" src="//www.verizon.com/includes/javascript/omnicode.js"></script>
+	 
+		<script type="text/javascript">
+					if(typeof(_satellite) == 'undefined'){
+						document.write('<scr'+'ipt type="text/javascript" src="https://assets.adobedtm.com/10d5272d092923c410feae744225087686012423/satelliteLib-8df7d93db820b272138ecb04dbe4ed7f5023b893.js"><\/scr'+'ipt>');
+					}</script>
+	
+	
+	<script type="text/javascript" src="https://www.verizon.com/home/ak-cached/2h/javascript/myvzconsole.js"></script>
+	<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/resresponsive.js"></script>
+	
+	<link href="https://www.verizon.com/cs/groups/public/documents/document/rwd_header.css" rel="stylesheet" type="text/css">
+ 
+
+
+<!--googleoff: all-->
+<noindex>
+
+<div id="showmyvzres2012header" style="display:block;">
+	<div id="SCBSMB" style="width:100%;">
+		<div style="margin:0 auto;">
+			<div id="scbresheadercont">
+				<div id="scbresheader">
+					<div id="scbrestopnavrow1">
+						<div id="scbrestopnavlt">
+							<ul>
+								<li>
+			<div style="position:absolute;top:-200px;" >
+				<a href="https://www.verizon.com/about/fios-accessibility-services" tabindex="0" onclick="scLinkTrackID('national accessibility customer service')" class="header-accessibility">Accessibility Services</a>
+				<a href="#content" tabindex="0"  class="header-accessibility" onclick="scLinkTrackID('skip to main content')">Skip to main content</a></div>
+			<a class="scbrestoplt" href="http://www.verizonwireless.com/?intcmp=VZ-GHOME-D-WIRELESS" id="scbvzwtoplink" name="&amp;lid=//ghdr//vzw" onclick="setBusinessUnitCookieW('wireless');">Wireless</a> 
+			<script type="text/javascript">
+				if(ckIsLogin!=null&&ckIsLogin.indexOf('vzw')>-1&&typeof(scbUpdVZWlink)!='undefined'){
+					scbUpdVZWlink('scbvzwtoplink','/clp/login?redirect=/vzw/secure/router.action');
+				}
+			</script></li>
+								<li id="scbbiztab">
+									<a class="scbrestoplt scbresselected" href="https://www.verizon.com/?lid=//global//residential" name="&amp;lid=//ghdr//residential">Residential</a> <script type="text/javascript">scbCheckVerizonFios();var scbMenuCount=4;</script>
+									
+								</li>
+								<li><a class="scbrestoplt" href="http://www.verizon.com/home/verizonglobalhome/ghp_business.aspx" name="&amp;lid=//ghdr//business" >Business</a></li>
+							</ul>
+						</div>
+						<div id="scbrestopnavrt">
+							<ul>
+								<li>
+									<div id="scbcartpp2012"></div>
+								</li>
+								<li>
+									<div id="scbuservzfios" style="display:none;">
+	<a class="scbsignin" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//ghdr//verizonfios//signinreg">Sign In/Register</a></div>
+<div id="scbuserdivon2012" style="display:none;">
+	<a class="scbrestoprt scbressprite scbuser" href="https://www.verizon.com/ForYourHome/MyAccount/ngen/pr/user/profile.aspx?myvzmd=profile_settings&amp;myvztab=1" id="scbusername2012" name="&amp;lid=//ghdr//welcome">Hi</a> <a class="scbrestoprt scbbluelink" href="javascript:scbSignOut();" name="&amp;lid=//ghdr//signout">(Sign&nbsp;Out)</a></div>
+<div id="signin_ws2012" style="display:none;">
+	<a class="scbsignin" href="javascript:void(0);" id="scbressignin" name="&amp;lid=//ghdr//signinreg" onclick="scbResSSO();">Sign In/Register</a>
+</div>
+<script type="text/javascript">
+scbWebfonts();
+scbUserDIV();
+</script>
+								</li>
+								<li>
+									<!-- mp_trans_add
+									<a class="scbrestoprt" href="http://espanol.verizon.com/" id="scbResEspanolLink" mporgnav="" name="&amp;lid=//ghdr//espanol" onclick="return switchLanguage('es');function switchLanguage(lang){MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();MP.switchLanguage(MP.UrlLang==lang?'en':lang);return false;}" >Espa&ntilde;ol</a> <script type="text/javascript">
+var scbEspLinkID=document.getElementById('scbResEspanolLink');
+if(scbEspLinkID!=null){scbEspLinkID.href='http://'+vzEspanol+'/';}
+</script>
+									-->
+									<!-- mp_trans_remove_start -->
+									<script type="text/javascript">scbEspLink();</script>
+									<!-- mp_trans_remove_end -->
+								</li>
+								<li class="location">
+									<div id="scbreszipcont">
+	<div id="scbresziplink">
+		<a class="scbrestoprt" href="javascript:void(0);" name="&amp;lid=//ghdr//enter your location" onclick="scbResLQ();" ><span id="scbresloclinktext"><span class="scbhidden">Location</span></span></a></div>
+<!--Enter Your Location--></div>
+								</li>
+								
+									<li id="contactus"><a  name="&amp;lid=//ghdr//contact us" href="https://www.verizon.com/support/residential/contact-us/homepage.htm">Contact Us</a></li>
+								
+							</ul>
+						</div>
+					</div>
+					<input id="mm_height_value" type="hidden" value="" />
+<div id="scbResTFN">
+	<div id="TFN"></div>
+	<div id="CBR" style="display:none;"><a class="" href="javascript:void(0);" name="&lid=//CBR" onclick="scbTFN_CB();"><span id="ReceiveCall">Receive CallBack</span></a></div>
+</div>
+			
+			<div id="scbvzlogodiv">
+	<a name="navbar"></a> <a href="https://www.verizon.com/?lid=//global//residential" name="&amp;lid=//ghdr//verizon logo"><img alt="Verizon logo" border="0" class="scbvzlogoimg" src="https://www.verizon.com/cs/groups/public/documents/adacct/vzlogo_lg.png" style="max-width:100%;" /><span class="scbhidden">visit Verizon home page</span></a></div>
+<div id="scbreslastlogin" style="display:none;">
+	<a href="javascript:void(0);" id="scbreslasttext" name="&amp;lid=//ghdr//last signed in" onclick="return false;" style="text-decoration:none;"> <b>Last Signed In:</b> <script type="text/javascript">scbResLastSignIn();</script></a>
+	<div class="scbcallout" id="scbreslastbubble" style="left:-9999px;margin-left:60px;top:16px;cursor:default;">
+		<div style="position:relative;">
+			<div class="scbcalloutcaret" style="left:140px;">
+				&nbsp;</div>
+			<table border="0" cellpadding="0" cellspacing="0" summary="last signed in info" width="190">
+				<tbody>
+					<tr>
+						<td class="scbcalloutcontent">
+							This is the last time your account was accessed.</td>
+						<td class="scbcalloutright">
+							&nbsp;</td>
+					</tr>
+					<tr>
+						<td class="scbcalloutbottom">
+							&nbsp;</td>
+						<td class="scbcalloutbottomright">
+							&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">if(scbResLLDate!=null){dispLayer('scbreslastlogin','block');}</script>
+					<!-- START ADDED FOR RESP -->
+<script type="text/javascript">
+	var mdotsearchshow=true;
+	arrmmdotHideSearch=new Array(
+		'verizon.com/search/searchresults',
+		removeHttps('${vzForums}')
+	);
+	for(i=0;i<arrmmdotHideSearch.length;i++) {
+		if(scbreshref.indexOf(arrmmdotHideSearch[i])>-1){
+			mdotsearchshow=false;
+			break;
+		}
+	}
+
+
+//var isVzForumsSiteisVzForumsSite=unescape(window.location.href).indexOf(vzForums);
+if((typeof(scbResResponsive) != 'undefined' && scbResResponsive) && mdotsearchshow){
+document.write('<a href="javascript:void(0);" class="mshow" id="searchshow" onclick="scbShowSearch();">Search</a><div id="showsearch" style="display:none;">');}
+</script>
+<!-- END ADDED FOR RESP -->
+<div id="scbsearchtopdiv" style="display:none;">
+	<form action="https://www.verizon.com/search/SearchResults" id="scbsearchtopform" method="get" name="scbsearchtopform" onsubmit="scbResSearch(this);return false;" style="margin:0;display:inline;">
+		<label for="scbsearchtopinput"><input autocomplete="off" id="scbsearchtopinput" maxlength="100" name="q" title="Search" value="I am looking for" /> </label> <a class="scbressearchgo" href="javascript:void(0);" onclick="scbResSearch(document.scbsearchtopform);return false;" title="Search"><span class="scbhidden">Search Site</span></a></form>
+	<div class="scbsearchsuggcont" id="scbsearchsuggdiv" style="display:none;">
+		&nbsp;</div>
+</div>
+<!-- START ADDED FOR RESP -->
+<script type="text/javascript">if((typeof(scbResResponsive) != 'undefined' && scbResResponsive) && mdotsearchshow){document.write('</div>');}</script>
+<!-- END ADDED FOR RESP -->
+<script type="text/javascript">scbSearchInit();</script>
+				</div>
+					<div id="scbrestopnavrow2">
+						
+						<div id="scbresnavmenucont">
+
+							<!-- MOVE THIS TO CONTENT - START -- in MAIN MYVZRES2012 0511-->
+							<div class="mshow" id="mmenu"><a href="javascript:void(0);"><img src="https://www.verizon.com/cs/groups/public/documents/adacct/blank.png" class="svg closed" alt="open menu"></a></div>
+							<!-- MOVE THIS TO CONTENT - END -->
+		
+							<div id="scbresnavmenu" class="mmenu_hide">
+								<ul id="mmenu_container" class="">
+									<li id="mmenu_back"><a href="javascript:void(0);" onClick="mmenu_back()">Back</a></li>
+									<li id="scbmenuli1">
+										<a class="menutab" href="https://www.verizon.com/?lid=//global//residential" id="scbmenua1" name="&amp;lid=//shop//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==1){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(1,1);scbMenuOpenNum=1;return false;"><span class="scb scbresmenu1" id="scbmenub1">Shop</span></a>
+										<div id="scbmenudiv1" class="scbresmenudiv">
+											<div class="scbresmenupad">
+												
+												<!-- MOVE THIS TO CONTENT - START --in PRODUCTS-SUBNAVFILE, 0511--><!-- if not logged in , redirect to login page, else actual link - need to get it from existing m. links -->
+												<ul class="mobile_menu_ctas mshow">
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=MyOffers" id="scbvcmhdrshopmmyoffers" onclick="scLinkTrackID('//ghdr//resp//services//my offers');">My Offers</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=UpgradeBundle" id="scbvcmhdrshopmchangeyourbundle" onclick="scLinkTrackID('//ghdr//resp//services//change your bundle');">Change Your Bundle</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=Quantum" id="scbvcmhdrshopmupgradeyourspeed" onclick="scLinkTrackID('//ghdr//resp//services//upgrade your speed');">Upgrade Your Speed</a></li>
+	<li><a href="https://www.verizon.com/foryourhome/ordering/myverizon/registrationbridge.aspx?Source= MyVZMobile&flowroute=ALLCHANNELS" id="scbvcmhdrshopmaddtvchannels" onclick="scLinkTrackID('//ghdr//resp//services//add tv channels');">Add TV Channels</a></li>
+	<li id="scbmobilespldeals"><a href="https://www.verizon.com/home/bundles/fios/" id="scbvcmhdrshopmspecialdeals" onclick="scLinkTrackID('//ghdr//resp//services//special deals');">Special Deals</a></li>
+	<li><a href="https://www.verizon.com/home/fios/" id="aboutfios" onclick="scLinkTrackID('//ghdr//resp//services//about fios');">About Fios</a></li>
+
+	<li> <a href="https://www.verizon.com/home/fiosavailability/" name="&amp;lid=//ghdr//resp//services//fios availability" id="scbvcmhdrshopmfiosavail">Fios Availability</a></li>
+	<li><a href="https://www.verizon.com/home/fios-fastest-internet/" id="scbvcmhdrshopmfiosinternet" onclick="scLinkTrackID('//ghdr//resp//services//fios internet');">Fios Internet</a></li>
+	<li><a href="https://www.verizon.com/home/fiostv/" id="scbvcmhdrshopmfiostv" onclick="scLinkTrackID('//ghdr//resp//services//fios tv');">Fios TV</a></li>
+	<li><a href="https://www.verizon.com/home/phone/fiosdigitalvoice/" id="scbvcmhdrshopmfiosdigitalvoice" onclick="scLinkTrackID('fios digital voice');">Fios Digital Voice</a></li>
+	<li><a href="https://www.verizon.com/home/accessories/" id="scbvcmhdrshopmfiosaccessories" onclick="scLinkTrackID('//ghdr//resp//services//accessories');">Accessories</a></li>
+	<li><a href="https://www.verizon.com/home/shop/moving.htm?x1=EC" id="scbvcmhdrshopmmoving" onclick="scLinkTrackID('//ghdr//resp//services//moving');">Move Services</a></li>
+	<li><a href="https://www.verizon.com/home/myverizon/" id="scbmsupportorderstatus" onclick="scLinkTrackID('//ghdr//resp//services//order status');">Order Status</a></li>
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="shop_submenu" class="tier02">
+														<li id="scbvcmhdrshopinternet"><a id="scbvcmhdrshopinternetanc" class="scb_link" name="&amp;lid=//shop//products//fios internet" href="https://www.verizon.com/home/fios-fastest-internet/">Internet</a></li>
+		<li id="scbvcmhdrshoptv"><a id="scbvcmhdrshoptvanc" class="scb_link" name="&amp;lid=//shop//products//fios tv" href="https://www.verizon.com/home/fiostv/">TV</a></li>
+		<li id="scbvcmhdrshopphone"><a id="scbvcmhdrshopphoneanc" class="scb_link" name="&amp;lid=//shop//products//fios digital voice" href="https://www.verizon.com/home/phone/fiosdigitalvoice/">Phone</a></li>
+		<li id="scbvcmhdrshopdeals"><a id="scbvcmhdrshopdealsanc" class="scb_link" name="&amp;lid=//shop//deals//special deals" href="https://www.verizon.com/home/bundles/fios/">Deals</a></li>
+		<li id="scbvcmhdrshopaboutfios"><a id="scbvcmhdrshopaboutfiosanc" class="scb_link" name="&amp;lid=//shop//why fios//about fios" href="https://www.verizon.com/home/fios/">About</a></li>
+		<li id="scbvcmhdrshopmoving"><a  id="scbvcmhdrshopmovinganc" class="scb_link" name="&amp;lid=//shop//moving//moving made easy" href="https://www.verizon.com/home/shop/moving.htm">Moving</a></li>
+		<li id="scbvcmhdrshopaccessories"><a  id="scbvcmhdrshopaccessoriesanc" class="scb_link" name="&amp;lid=//shop//accessories//fios accessories" href="https://www.verizon.com/home/accessories/">Accessories</a></li>
+		<div class="scbmenuclosediv" id="scbMenuClose1">
+			<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //services//tablet+close^prop27=//services//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a>
+		</div>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli2">
+										<a class="menutab" href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" id="scbmenua2" name="&amp;lid=//myvz//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==2){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(2,1);scbMenuOpenNum=2;return false;"><span class="scb scbresmenu2" id="scbmenub2">My Verizon</span></a>
+										<div id="scbmenudiv2" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												<ul class="mobile_menu_ctas mshow">
+	 <li id="scbmhdrmyvzhome"><a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" name="&amp;lid=//ghdr//resp//myvz//home" >Home</a></li>
+	<li id="scbmhdrbillpay"><a href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/code/mybill.aspx" id="billpayment" onclick="scLinkTrackID('//ghdr//resp//myvz//bill and payment');">Bill &amp; Payment</a></li>
+	<li id="scbmhdrinternet"><a href="https://www.verizon.com/foryourhome/myaccount/pr/internet/details" id="scbmhdrinternetlink" onclick="scLinkTrackID('//ghdr//resp//myvz//Internet');">Internet</a></li>
+	<li id="scbmhdrtv"><a href="https://www.verizon.com/foryourhome/myaccount/pr/tv/details" id="scbmhdrtvlink" onclick="scLinkTrackID('//ghdr//resp//myvz//TV');">TV</a></li>
+	<li id="scbmhdrphone"><a href="https://www.verizon.com/foryourhome/myaccount/pr/phone/details" id="scbmhdrphonelink" onclick="scLinkTrackID('//ghdr//resp//myvz//Phone');">Phone</a></li>	
+	<li id="scbmhdrraf"><a href="https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf?source%3dHEADER" id="scbmhdrraflink" onclick="scLinkTrackID('//ghdr//resp//myvz//refer a friend');">Refer a Friend</a></li>
+	<li id="scbmhdrmyrewards"><a href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/code/rewards.aspx" id="myrewards" onclick="scLinkTrackID('//ghdr//resp//myvz//my rewards');">My Rewards+</a></li>
+
+	<li id="scbmhdrprofile"><a href="https://www.verizon.com/foryourhome/myaccount/pr/user/profile" id="profile" onclick="scLinkTrackID('//ghdr//resp//myvz//profile');">Profile</a></li>
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="myvz_submenu" class="tier02">
+														 <!-- col1 -->
+ <li id="myvz_home_nonauth" style="display:none;"><a href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//ghdr//myvz//home" >Home</a></li>
+ <li id="myvz_home_auth"><a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" name="&amp;lid=//ghdr//myvz//home">Home</a></li>
+
+<li id="myvz_scbsubmenuli1"><a class="scb scbsubresmenu1" id="myvz_scbsubmenua1" onclick="if(is_touchscreen){return false;}" ontouchstart="scbHideMenuAll_myvz();myvz_scbsubMenuTab(1,1);scbMenuOpenNum_myvz=1;return false;">Services <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv1" class="tier03">
+    <div class="container">
+		<div class="bubbles" id="scbmyvzaddchangeplan"><a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&FLOWROUTEVAL=MYVZ_HDR_SVC_ADDCHG&Source=MYVER" name="&amp;lid=//ghdr//myvz//services//add or change plan"><span class="icons_sprite addchangeservices">&nbsp;</span> <span>Add / Change Plan</span></a></div>
+
+		<div class="bubbles" id="myvz_internet"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/internet/details" id="scb_a_myvz_internet" name="&amp;lid=//ghdr//myvz//services//internet"> <span class="icons_sprite fint">&nbsp;</span> <span>Internet</span> </a> </div>
+
+		<div class="bubbles" id="myvz_tv"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/tv/details" id="scb_a_myvz_tv" name="&amp;lid=//ghdr//myvz//services//tv"> <span class="icons_sprite ftv">&nbsp;</span> <span>TV</span> </a> </div>
+
+		<div class="bubbles" id="myvz_phone"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/phone/details" id="scb_a_myvz_phone" name="&amp;lid=//ghdr//myvz//services//phone"> <span class="icons_sprite homephone">&nbsp;</span> <span>Phone</span> </a> </div>
+
+		<!--<div class="bubbles" id="myvz_internetessentials"> <a id="scb_a_myvz_internetessentials" href="javascript:void(0);" name="&amp;lid=//ghdr//myvz//services//online essentials"> <span class="icons_sprite internetessentials">&nbsp;</span> <span>Internet Essentials</span> </a> </div>-->
+
+		<div class="bubbles" id="myvz_apps"> <a href="https://www.verizon.com/fiostv/myapps/members/apps.aspx" id="scb_a_myvz_apps" name="&amp;lid=//ghdr//myvz//services//apps"> <span class="icons_sprite myapps">&nbsp;</span> <span>Apps</span> </a> </div>
+
+		<!--<div class="bubbles" id="myvz_manageservices"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details" id="scb_a_myvz_manageservices" name="&amp;lid=//ghdr//myvz//services//manage services"> <span class="icons_sprite manageservices">&nbsp;</span> <span>Manage Services</span> </a> </div>
+
+		<div class="bubbles" id="myvz_viewplan"> <a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&Source=MYVER" id="scb_a_myvz_viewplan" name="&amp;lid=//ghdr//myvz//services//view my plan"> <span class="icons_sprite myvzviewmyplan">&nbsp;</span> <span>View My Plan</span> </a> </div>-->
+   </div>
+	
+	<div id="scbSubMenuClose1" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+	<script type="text/javascript">
+	try{
+		document.getElementById("scb_a_myvz_internetessentials").href="https://"+vzShop+"/myaccount/extraPurchases.jsp";
+	}catch(e){
+	}
+	</script>
+	
+  </div>
+</li>
+<!-- col2 -->
+<li id="myvz_scbsubmenuli2"><a name="&amp;lid=//ghdr//myvz//billing//my bill" class="scb scbsubresmenu2" id="myvz_scbsubmenua2" onclick="if(is_touchscreen){return false;}" ontouchstart="scbHideMenuAll_myvz();myvz_scbsubMenuTab(2,1);scbMenuOpenNum_myvz=2;return false;">Billing <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv2" class="tier03">
+    <div class="container">
+			<div class="bubbles" id="scbmyvzviewbill"> <a href="https://www.verizon.com/foryourhome/billview/billing/mybill" name="&amp;lid=//ghdr//myvz//billing//view bill"> <span class="icons_sprite viewplan">&nbsp;</span> <span id="scbSpnViewBill">View Bill</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzpaybill"> <a id="scbmyvzpaybillanchor" href="https://www.verizon.com/foryourhome/equickpay/myvzhome/myverizon/caf/payment.aspx" name="&amp;lid=//ghdr//myvz//billing//pay bill"> <span class="icons_sprite viewpaybill">&nbsp;</span> <span id="scbSpnPayBill">Pay Bill</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpayfinalbill"> <a href="https://www.verizon.com/foryourhome/equickpay/code/payfinalbill.aspx" name="&amp;lid=//ghdr//myvz//billing//pay final bill"> <span class="icons_sprite payfinalbill">&nbsp;</span> <span>Pay Final Bill</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpayhistory"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/paymenthistory " name="&amp;lid=//ghdr//myvz//billing//payment history"> <span class="icons_sprite paymenthistory">&nbsp;</span> <span>Payment History</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzautopay"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/autopay" name="&amp;lid=//ghdr//myvz//billing//auto pay"> <span class="icons_sprite autopay">&nbsp;</span> <span>Auto Pay</span> </a> </div>
+			
+			<div class="bubbles" id="scbmyvzpaperfreebill"> <a href="https://www.verizon.com/foryourhome/billview/billing/Paperfree" name="&amp;lid=//ghdr//myvz//billing//paper free billing"> <span class="icons_sprite paperfree">&nbsp;</span> <span>Paper Free Billing</span> </a> </div>
+
+			<div class="bubbles" id="scbmyvzpymntargmnt"> <a href="https://www.verizon.com/foryourhome/ebillpay/billing/paymentarrangement" name="&amp;lid=//ghdr//myvz//billing//payment arrangements"> <span class="icons_sprite pymntargmnt">&nbsp;</span> <span>Payment Arrangements</span> </a> </div>
+		</div>
+
+	<div id="scbSubMenuClose2" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+		
+  </div>
+</li>
+<!-- col3 -->
+<li id="scbmyvzspldeals"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/offers/home.aspx"  name="&amp;lid=//ghdr//myvz//special deals" >Deals</a></li>
+<li id="scbmyvzmyrewards"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx"  name="&amp;lid=//ghdr//myvz//myrewards//myrewards home" >My Rewards+</a></li>
+
+<!--<li id="myvz_scbsubmenuli3"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" class="scb scbsubresmenu3" id="myvz_scbsubmenua3" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum_myvz==3){window.location.href=this.href;return true;}scbHideMenuAll_myvz();myvz_scbsubMenuTab(3,1);scbMenuOpenNum_myvz=3;return false;">My Rewards+ <span class="reveal">&nbsp;</span></a>
+  <div id="myvz_scbsubmenudiv3" class="tier03">
+    <div class="container">
+      <div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" name="&amp;lid=//ghdr//myvz//myrewards//myrewards home"> <span class="icons_sprite rewardshome">&nbsp;</span> <span>My Rewards Home</span> </a> </div>
+			<div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dpoints" name="&amp;lid=//ghdr//myvz//myrewards//my points"> <span class="icons_sprite myvzmypoints">&nbsp;</span> <span>My Points</span> </a> </div>
+			<div class="bubbles" id="myvz_earnpoints"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dpoints" name="&amp;lid=//ghdr//myvz//myrewards//earn points"> <span class="icons_sprite myvzearnpoints">&nbsp;</span> <span>Earn Points</span> </a> </div>
+			<div class="bubbles" id="myvz_redeempoints"> <a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx?tab%3dredeem" name="&amp;lid=//ghdr//myvz//myrewards//redeem points"> <span class="icons_sprite redeempoints">&nbsp;</span> <span>Redeem Points</span> </a> </div>
+			<div class="bubbles"> <a href="https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf?source%3dHEADER" name="&amp;lid=//ghdr//myvz//rewards//refer a friend" name="&amp;lid=//ghdr//myvz//myrewards//refer a friend"> <span class="icons_sprite referafriend">&nbsp;</span> <span>Refer a Friend</span> </a> </div>
+    </div>
+	
+	<div id="scbSubMenuClose3" class="scbmenuclosediv">
+		<a onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" href="javascript:scbHideMenuAll();" class="scbclosebtn"><span class="scbhidden">CLOSE</span></a>
+	</div>
+  </div>
+</li>-->
+<!-- col4 -->
+<li id="scbmyvzprofile"><a href="https://www.verizon.com/foryourhome/myaccount/pr/user/profile/tab/accset" name="&amp;lid=//ghdr//myvz//profile">Profile</a></li>
+<!--<li id="myvz_messages" style="display:none;"><a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/inbox/home.aspx "  name="&amp;lid=//ghdr//myvz//messages">Verizon Messages</a></li>-->
+
+<li id="scbtoggleacct" style="display:none;">
+<a href="javascript:void(0);" id="scbvzwlink" onclick="scLinkTrackID('select account to manage');scbToggleVZW();this.blur();return false;">Select Account<span class="reveal">&nbsp;</span></a>
+	  <div id="scbvzwdiv" style="display: none; left: 0;">
+			<div class="scbsubnavdiv">
+					<div id="scbvzwflyout" style="display: none;">
+						<a class="scbvzwoption1" href="http://login.verizon.com:8081/amserver/toVZW.jsp?goto=https%3A%2F%2Fpretmyacct.verizonwireless.com%2Fclp%2Flogin%3Fredirect%3D%2Fvzw%2Fsecure%2Frouter.action" id="scbvzwswitch" onclick="scLinkTrackID('manage my wireless account');"> <span class="scbvzwsprite scbvzwbg2"><span class="scbhidden">wireless account</span></span> <span class="scbvzwtype scbvzwgo" style="color:#06c;">Manage My Wireless Account ></span> </a> <a class="scbvzwoption2" href="javascript:void(0);" onclick="return false;"> <span class="scbvzwsprite scbvzwtitle"> </span> <span class="scbvzwsprite scbvzwbg1"><span class="scbhidden">residential account</span></span> <span class="scbvzwtype">My Residential Account</span> </a></div>
+				</div>
+	  </div>
+</li>    
+<div class="scbmenuclosediv" id="scbMenuClose2">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //ghdr//myvz//tablet+close^prop27=//ghdr//myvz//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli3a" class="mshow"><a class="menutab" href="https://www.verizon.com/support/residential/home" id="scbmenua3a" name="&amp;lid=//support//tab//mobile"><span class="scb scbresmenu3" id="scbmenub3">Support</span></a></li>
+									<li id="scbmenuli3" class="mhide">
+										<a class="menutab" href="https://www.verizon.com/support/residential/home" id="scbmenua3" name="&amp;lid=//support//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==3){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(3,1);scbMenuOpenNum=3;return false;"><span class="scb scbresmenu3" id="scbmenub3">Support</span></a>
+										<div id="scbmenudiv3" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												
+												<!-- MOVE THIS TO CONTENT - END -->
+	
+												<div class="mhide">
+													<ul id="support_submenu" class="tier02">
+														
+	<!-- col1 -->
+<li><a href="https://www.verizon.com/support/residential/home" name="&amp;lid=//support//home" class="scb_link">Home</a> </li>
+<li id="support_scbsubmenuli1"><a href="https://www.verizon.com/support/residential/home" name="&amp;lid=//support//home" class="scb scbsubresmenu1" id="support_scbsubmenua1" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum_support==1){window.location.href=this.href;return true;}scbHideMenuAll_support();support_scbsubMenuTab(1,1);scbMenuOpenNum_support=1;return false;">Get Help With <span class="reveal">&nbsp;</span></a>
+  <div id="support_scbsubmenudiv1" class="tier03">
+    <div class="container">
+      <div class="bubbles"> <a href="https://www.verizon.com/support/residential/tv/tv.htm" name="&amp;lid=//support//get help with//tv"> <span class="icons_sprite ftv">&nbsp;</span> <span>TV</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/Support/Residential/internet.htm" name="&amp;lid=//support//get help with//internet"> <span class="icons_sprite fint">&nbsp;</span> <span>Internet</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/Support/Residential/phone.htm" name="&amp;lid=//support//get help with//phone"> <span class="icons_sprite homephone">&nbsp;</span> <span>Phone</span> </a> </div>
+      <div class="bubbles"> <a href="https://www.verizon.com/support/residential/billingcenter/homepage.htm" name="&amp;lid=//support//get help with//billing"> <span class="icons_sprite viewpaybill">&nbsp;</span> <span>Account &amp; Billing</span> </a> </div>
+      <div class="bubbles"> <a id="scbhdrsupportorderstatus" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//support//get help with//order status"> <span class="icons_sprite orderstatus">&nbsp;</span> <span>Order Status</span> </a> </div>
+      <div class="bubbles"> <a name="&amp;lid=//support//get help with//repair status" href="https://www.verizon.com/ForYourHome/VZRepair/vziha/CheckStatus.aspx"> <span class="icons_sprite repairstatus">&nbsp;</span> <span>Repair Status</span> </a> </div>
+    </div>
+  </div>
+</li>
+<li><a name="&amp;lid=//support//commuget help withnity//forums" href="https://forums.verizon.com" class="scb_link">Community Forums</a> </li>
+<li><a name="&amp;lid=//support//get help with//contact us" href="https://www.verizon.com/support/residential/contact-us/index.htm" class="scb_link">Contact Us</a> </li>
+	
+	
+	
+<div class="scbmenuclosediv" id="scbMenuClose3">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //support//tablet+close^prop27=//support//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>	
+													</ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<li id="scbmenuli4">
+										<a class="menutab" href="https://www.verizon.com/" id="scbmenua4" name="&amp;lid=//watchfios//tab" onclick="if(is_touchscreen){return false;}" ontouchstart="if(scbMenuOpenNum==4){window.location.href=this.href;return true;}scbHideMenuAll();scbMenuTab(4,1);scbMenuOpenNum=4;return false;"><span class="scb scbresmenu4" id="scbmenub4">Watch Fios</span></a> <script type="text/javascript">document.getElementById('scbmenua4').href='http://'+vzTV+'/';</script>
+										<div id="scbmenudiv4" class="scbresmenudiv">
+											<div class="scbresmenupad">
+	
+												<!-- MOVE THIS TO CONTENT - START -->
+												<ul class="mobile_menu_ctas mshow">
+	<li><a href="http://tv.verizon.com" id="watchtv" onclick="scLinkTrackID('watch tv');">Watch TV</a></li>
+	<li><a href="https://m.verizon.com/watchfios/fiostv/Schedules" id="dvr" onclick="scLinkTrackID('//ghdr//resp//watchfios//dvr');">DVR</a></li>
+	<li><a href="https://m.verizon.com/watchfios/fiostv/tvlistings" id="tvlistings" onclick="scLinkTrackID('//ghdr//resp//watchfios//tv listings');">TV Listings</a></li>
+	<li><a href="https://m.verizon.com/myverizonmobile/intercept.aspx" id="mobileremote" onclick="scLinkTrackID('//ghdr//resp//watchfios//mobile remote');" style="display:none;">Mobile Remote</a></li>
+	<li><a href="https://www.verizon.com/ondemand/mobile/tvshows/all" id="shows" onclick="scLinkTrackID('//ghdr//resp//watchfios//shows');">Shows</a></li>
+	<li><a href="https://www.verizon.com/ondemand/mobile/movies/all" id="movies" onclick="scLinkTrackID('//ghdr//resp//watchfios//movies');">Movies</a></li>
+	<li id="scbmhdrwatchfiosppv"><a href="https://www.verizon.com/ondemand/mobile/payperview/home" id="payperview" onclick="scLinkTrackID('//ghdr//resp//watchfios//pay per view');">Pay Per View</a></li>
+</ul>
+												<!-- MOVE THIS TO CONTENT - END -->
+												
+												<div class="mhide">
+													<ul id="watchfios_menu" class="tier02">
+														
+	<script type="text/javascript">
+var scbTVpath='/OnDemand';
+var scbTVauth='';
+if(vzFiOSTV.indexOf('www35')>-1){scbTVpath='/fiostv/myservices/Beta';}
+if(bLog){scbTVauth='/Members';}
+</script>
+		<li><a href="http://tv.verizon.com/" name="&amp;lid=//watchfios//home" class="scb_link">Home</a></li>
+		<li><a name="&amp;lid=//watchfios//live tv" href="http://tv.verizon.com/livetv" class="scb_link">Live TV</a></li>
+		<li><a name="&amp;lid=//watchfios//shows" href="http://tv.verizon.com/series" class="scb_link">Shows</a></li>
+		<li><a name="&amp;lid=//watchfios//movies" href="http://tv.verizon.com/movies" class="scb_link">Movies</a></li>
+		<li><a name="&amp;lid=//watchfios//shows by network" href="http://tv.verizon.com/networks" class="scb_link">Network</a></li>
+		<li id="scbwatchfiosppv"><a name="&amp;lid=//watchfios//view ppv" href="https://www.verizon.com/OnDemand/Payperview/Home" class="scb_link">Pay Per View</a></li>
+		<li><a name="&amp;lid=//watchfios//view tv listings" href="https://www.verizon.com/fiostv/myservices/Members/ftvc5/tvlistings.aspx" class="scb_link">TV Listings &amp; DVR</a></li>
+	
+	
+<div class="scbmenuclosediv" id="scbMenuClose4">
+	<a class="scbclosebtn" href="javascript:scbHideMenuAll();" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //watchfios//tablet+close^prop27=//watchfios//tablet+close^prop37='+s_837.pfxID+'| '+s_837.simplepageName);"><span class="scbhidden">CLOSE</span></a></div>	
+							                        </ul>
+												</div>
+											</div>
+										</div>
+									</li>
+									<!-- MOVE THIS TO CONTENT - START-- new li class in -  myvzres2012.xml -->
+									<li class="mshow goto">
+					<ul class="menu_ctas">
+						<li class="title">Go to</li>
+						<br clear="all">
+						<li><a href="http://www.verizonwireless.com/b2c/index.html" id="verizonwireless" onclick="scLinkTrackID('vz wireless')">Verizon Wireless</a></li>
+						<li><a href="http://www.verizon.com/home/verizonglobalhome/ghp_business.aspx" id="verizonbusiness" onclick="scLinkTrackID('vz business')">Verizon Business</a></li>
+					</ul>
+				</li>
+                <li class="mshow vzapps">
+					<ul class="menu_ctas" id="verizonapps" style="display:none;">
+						<li class="title">Verizon apps</li>
+						<br clear="all">
+						<li><a href="javascript:void(0);" id="myfios" onclick="scLinkTrackID('my fios')">My Fios</a></li>
+						<li><a href="javascript:void(0);" id="fiosmobile" onclick="scLinkTrackID('fios mobile')">Fios Mobile</a></li>
+						<li><a href="javascript:void(0);" id="myverizon-wireless" onclick="scLinkTrackID('my vz-wireless')">My Verizon Wireless</a></li>
+					</ul>
+				</li>
+									<!-- MOVE THIS TO CONTENT - END -->
+								</ul>
+							</div>
+						</div>
+						<div style="clear:both;"></div>
+						
+
+						<!-- MOVE THIS TO CONTENT - START myvzres2012.xml-->
+						<a id="mobile_quick_cta" href="javascript:void(0);"><img src="https://www.verizon.com/cs/groups/public/documents/adacct/icon_quickmenu.svg" alt="quick menu"></a>
+<div id="mobile_quick_menu" class="closed">
+	<ul>
+		<li class="quick_contact"><a href="https://www.verizon.com/foryourhome/vzrepair/mSupport/us/contactus.aspx" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//contact us')">Contact Us</a></li>
+		<li class="quick_espanol"><script type="text/javascript">scbEspLink();</script></li>
+		<li class="quick_signin" id="scbmsignin" style="display:none;"><a href="https://www.verizon.com/home/myverizon/" id="scbmsigninlink" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//sign in')">Sign In</a></li>
+		<li class="quick_signout" id="scbmsignout" style="display:none;"><a href="javascript:scbSignOut();" onclick="scLinkTrackID('//vcm//ghdr//mobile//quicklinks//sign out')">Sign Out</a></li>
+	</ul>
+</div>
+<script type="text/javascript">
+if(!(/verizon\.com\/home\/myverizon\/$/.test(strThisHref) || /verizon.com\/$/.test(strThisHref) || /lid=\/\/global\/\/residential$/.test(strThisHref))){
+	document.getElementById("scbmsigninlink").href='https://www.verizon.com/home/myverizon/?goto='+strThisHref;
+}
+
+var scbmIsMobile={
+	Android:function(){return navigator.userAgent.match(/Android/i);},
+	BlackBerry:function(){return navigator.userAgent.match(/BlackBerry/i);},
+	iOS:function(){return navigator.userAgent.match(/iPhone|iPad|iPod/i);},
+	Opera:function(){return navigator.userAgent.match(/Opera Mini/i);},
+	Windows:function(){return navigator.userAgent.match(/IEMobile/i);},
+	any:function(){return(scbmIsMobile.Android()||scbmIsMobile.BlackBerry()||scbmIsMobile.iOS()||scbmIsMobile.Opera()||scbmIsMobile.Windows());}
+};
+/* sign in/out */
+if(document.cookie.indexOf("islogin=")>-1){
+	document.getElementById("scbmsignout").style.display="block";
+}else{
+	document.getElementById("scbmsignin").style.display="block";
+}
+/* device specific */
+if(scbmIsMobile.iOS()){
+	document.getElementById("verizonapps").style.display="block";
+	document.getElementById("myfios").href="https://itunes.apple.com/us/app/my-fios/id476394945?mt=8";
+	document.getElementById("fiosmobile").href="https://itunes.apple.com/us/app/verizon-fios-mobile/id406387206?mt=8";
+	document.getElementById("myverizon-wireless").href="https://itunes.apple.com/us/app/my-verizon-mobile/id416023011?mt=8";
+	document.getElementById("mobileremote").style.display="block";
+}else if(scbmIsMobile.Android()){
+	document.getElementById("verizonapps").style.display="block";
+	document.getElementById("myfios").href="https://play.google.com/store/apps/details?id=com.verizon.myfios&hl=en";
+	document.getElementById("fiosmobile").href="https://play.google.com/store/apps/details?id=com.verizon.fiosmobile";
+	document.getElementById("myverizon-wireless").href="https://play.google.com/store/apps/details?id=com.vzw.hss.myverizon";
+}else{
+	//document.getElementById('mm_height_value').value='470';
+}
+</script>
+						<!-- MOVE THIS TO CONTENT - END -->
+
+					</div>
+				
+				<script type="text/javascript">
+				if(is_touchscreen){
+					dispLayer('scbSignInClose','block');
+					for(var i=1;i<scbMenuCount+1;i++){dispLayer('scbMenuClose'+i,'block');}
+				}
+				var scbMenuOpenNum=0;
+				scbResNavBar();
+				scbResMenuHighlight();
+			</script>
+			</div>
+		</div>
+	</div>
+</div>
+</noindex>
+<!--googleon: all-->
+<script type="text/javascript">
+					var scbRefererURL=document.location.href;
+					var docDomain=document.domain;
+					var actualDomain=docDomain.split('.')[1];
+					if(actualDomain=='verizon' || actualDomain=='ebiz' ){
+						var scbPCAll=false;
+						var domainEnvH=document.getElementById('currentDomain').value;
+						scbLoadJS(domainEnvH+'/home/commongh?ProcessClass=all&a=3&nocache='+Math.random()+'&scbReferrerURL='+scbRefererURL);
+						scbPCAll=true;
+					}
+
+
+				if(bLog && (scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/myaccount/')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiostv')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fqg/')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/billview')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/extrapayments')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/extrapurchases')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/foryourhome/ebillpay')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiosvoice/members/default.aspx')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/myaccount/homemonitoringcontrol')>-1 ||
+					scbRefererURL.toLowerCase().indexOf('.verizon.com/fiosvoicenew/')>-1)){
+
+					try{
+						document.getElementById("scbresheadercont").className += " "+"myvz_show"+" ";
+						document.getElementById("ghfbodycontent").className += " "+"myvz_show_top"+" ";
+
+						if(scbRefererURL.toLowerCase().indexOf('/foryourhome/myaccount/pr/dashboard/details')>-1){
+							document.getElementById("myvz_home_auth").className = "active";
+						}
+					}catch(e){}
+				}
+				</script>
+
+<div id="ghfbodycont">
+											<div id="ghfbody"><a name="content"  tabindex="-1"></a>
+												<div id="ghfbodycontent">
+													<div>
+<!-- SCB header end -->
+<!-- ************ End : Single Code Base Header ************ -->
+
+
+
+
+<input type="hidden" name="hf_sn" value="sc2" />
+
+					
+	
+	<div class="MinimumWidthContainer">
+		<div class="min-width-wrapper">
+			<div class="min-width">		
+				
+						<div class="lia-content">
+                            
+							
+							
+		
+	<div class="lia-quilt lia-quilt-community-page lia-quilt-layout-two-column-main-side-with-header lia-top-quilt">
+	<div class="lia-quilt-row lia-quilt-row-header">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<script type="text/javascript" src="https://s.xp1.ru4.com/meta?_o=15772&_t=behavioral&ssv_020=OPS"></script>
+		
+			<div class="lia-quilt lia-quilt-header lia-quilt-layout-header lia-component-quilt-header" class="lia-quilt lia-quilt-header lia-quilt-layout-header">
+	<div class="lia-quilt-row lia-quilt-row-crumb">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-breadcrumb lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-user">
+		<div class="lia-quilt-column lia-quilt-column-18 lia-quilt-column-left lia-quilt-column-user-navigation lia-mark-empty">
+			
+		</div><div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-right lia-quilt-column-private-notes lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-search">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-search-bar lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-title">
+		<div class="lia-quilt-column lia-quilt-column-10 lia-quilt-column-left lia-quilt-column-page-title">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			<div class="lia-slide-out-nav-menu lia-component-common-widget-slide-out-nav-menu" class="lia-slide-out-nav-menu">
+    <button li-bindable="" li-common-element-hook="navMenuTriggerElement" class="lia-slide-menu-trigger lia-slide-out-nav-menu-wrapper">
+        <div ng-non-bindable="" class="lia-slide-out-nav-menu-title">
+            Verizon Fios Community
+        </div>
+    </button>
+    <li:common-slide-menu li-bindable="" trigger-element="navMenuTriggerElement" li-direction="left" style="display:none">
+        <div class="lia-quilt lia-quilt-navigation-slide-out-menu lia-quilt-layout-one-column">
+	<div class="lia-quilt-row lia-quilt-row-header">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-header lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-main-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<li:community-navigation class="lia-component-community-widget-navigation" li-bindable="" componentId="community.widget.navigation" mode="default"></li:community-navigation>
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-footer">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer lia-mark-empty">
+			
+		</div>
+	</div>
+</div>
+    </li:common-slide-menu>
+</div>
+		
+			<div class="SiteNavigationDropDown lia-component-common-widget-site-navigation" class="SiteNavigationDropDown">
+	<div class="lia-menu-navigation-wrapper" id="siteNavigationDropDown">	
+	<div class="lia-menu-navigation">
+		<div class="dropdown-default-item"><a title="Show option menu" class="lia-js-menu-opener default-menu-option lia-js-click-menu lia-link-navigation" id="dropDownLink" href="#">Verizon Fios Community</a>
+			<div class="dropdown-positioning">
+				<div class="dropdown-positioning-static">
+					
+	<ul id="dropdownmenuitems" class="lia-menu-dropdown-items">
+		
+		<li class="dropdown-section-title dropdown-section-title-first">			
+			<a class="lia-link-navigation" id="link_13" href="/">Verizon Forums</a>
+		</li><li class="dropdown-section-title lia-category-welcome">			
+			<a class="lia-link-navigation" id="link_14" href="/t5/Information-Center/ct-p/Welcome">Information Center</a>
+		</li><li class="board-dropdown-item lia-board-announcements">			
+			<a class="lia-link-navigation" id="link_15" href="/t5/Community-Announcements/bd-p/Announcements">Community Announcements</a>
+		</li><li class="board-dropdown-item lia-board-welcome">			
+			<a class="lia-link-navigation" id="link_16" href="/t5/Terms-of-Service-and-User/bd-p/Welcome">Terms of Service and User Guidelines</a>
+		</li><li class="board-dropdown-item lia-board-mvp">			
+			<a class="lia-link-navigation" id="link_17" href="/t5/Recognition-Room/bd-p/MVP">Recognition Room</a>
+		</li><li class="board-dropdown-item lia-board-vzwcommunityforumsfa-qs">			
+			<a class="lia-link-navigation" id="link_18" href="/t5/Community-Use-FAQs/bd-p/vzwcommunityforumsfAQs">Community Use FAQs</a>
+		</li><li class="board-dropdown-item lia-board-feedback-and-suggestions">			
+			<a class="lia-link-navigation" id="link_19" href="/t5/Suggestions-For-This-Community/bd-p/Feedback_and_Suggestions">Suggestions For This Community</a>
+		</li><li class="dropdown-section-title lia-category-blogsand-ideas">			
+			<a class="lia-link-navigation" id="link_20" href="/t5/Community-Blogs/ct-p/BlogsandIdeas">Community Blogs</a>
+		</li><li class="board-dropdown-item lia-board-smb-blog">			
+			<a class="lia-link-navigation" id="link_21" href="/t5/Verizon-Business-Markets-Blog/bg-p/SMBBlog">Business Markets Blog</a>
+		</li><li class="dropdown-section-title lia-category-residential-support">			
+			<a class="lia-link-navigation" id="link_22" href="/t5/Products-and-Services/ct-p/Residential_Support">Products and Services</a>
+		</li><li class="board-dropdown-item lia-board-home-phone">			
+			<a class="lia-link-navigation" id="link_23" href="/t5/Home-Phone/bd-p/Home_Phone">Home Phone</a>
+		</li><li class="board-dropdown-item lia-board-high-speed-internet">			
+			<a class="lia-link-navigation" id="link_24" href="/t5/High-Speed-Internet/bd-p/High_Speed_Internet">High Speed Internet</a>
+		</li><li class="board-dropdown-item lia-board-general-discussions">			
+			<a class="lia-link-navigation" id="link_25" href="/t5/General-Products-and-Services/bd-p/General_Discussions">General  Products and Services</a>
+		</li><li class="board-dropdown-item lia-board-fios-internet">			
+			<a class="lia-link-navigation" id="link_26" href="/t5/Fios-Internet/bd-p/FiOS_Internet">Fios Internet</a>
+		</li><li class="board-dropdown-item lia-board-fios-tv">			
+			<a class="lia-link-navigation" id="link_27" href="/t5/Fios-TV-Technical-Assistance/bd-p/FiOS_TV">Fios TV Technical Assistance</a>
+		</li><li class="board-dropdown-item lia-board-fios-tv-entertainment">			
+			<a class="lia-link-navigation" id="link_28" href="/t5/Fios-TV-Programming/bd-p/FiOS_TV_Entertainment">Fios TV Programming</a>
+		</li><li class="board-dropdown-item lia-board-emailissues">			
+			<a class="lia-link-navigation" id="link_29" href="/t5/Verizon-net-Email/bd-p/emailissues">Verizon.net Email</a>
+		</li><li class="board-dropdown-item lia-board-myverizon20res">			
+			<a class="lia-link-navigation" id="link_30" href="/t5/My-Verizon-Account/bd-p/myverizon20res">My Verizon Account</a>
+		</li><li class="board-dropdown-item lia-board-frequently-asked-questions">			
+			<a class="lia-link-navigation" id="link_31" href="/t5/Frequently-Asked-Questions/bd-p/Frequently_Asked_Questions">Frequently Asked Questions</a>
+		</li><li class="dropdown-section-title lia-category-lounge">			
+			<a class="lia-link-navigation" id="link_32" href="/t5/Verizon-Community-Lounge/ct-p/lounge">Verizon Community Lounge</a>
+		</li><li class="board-dropdown-item lia-board-loungeboard">			
+			<a class="lia-link-navigation" id="link_33" href="/t5/Off-Topic-Board/bd-p/loungeboard">Off Topic Board</a>
+		</li><li class="dropdown-section-title lia-category-meettheexpertarchives">			
+			<a class="lia-link-navigation" id="link_34" href="/t5/Archives/ct-p/meettheexpertarchives">Archives</a>
+		</li><li class="board-dropdown-item lia-board-meettheexpertlm">			
+			<a class="lia-link-navigation" id="link_35" href="/t5/Lorena-Mcallister-Message-Center/bd-p/meettheexpertlm">Lorena Mcallister:  Message Center</a>
+		</li><li class="board-dropdown-item lia-board-meettheexpertja">			
+			<a class="lia-link-navigation" id="link_36" href="/t5/Joe-Ambeault-FiOS-TV-IMG-1-9/bd-p/meettheexpertja">Joe Ambeault:  FiOS TV IMG 1.9</a>
+		</li><li class="board-dropdown-item lia-board-meettheexpertps">			
+			<a class="lia-link-navigation" id="link_37" href="/t5/Patrick-Smith/bd-p/meettheexpertps">Patrick Smith</a>
+		</li><li class="board-dropdown-item lia-board-small-business">			
+			<a class="lia-link-navigation" id="link_38" href="/t5/Small-Business-Products-Services/bd-p/Small_Business">Small Business Products & Services</a>
+		</li><li class="board-dropdown-item lia-board-gi-gi-advocates">			
+			<a class="lia-link-navigation" id="link_39" href="/t5/Get-It-Got-It-Advocates/bd-p/GiGiAdvocates">Get It, Got It Advocates</a>
+		</li><li class="board-dropdown-item lia-board-fios-test-drive">			
+			<a class="lia-link-navigation" id="link_40" href="/t5/FiOS-Test-Drive/bd-p/FiOSTestDrive">FiOS Test Drive</a>
+		</li><li class="board-dropdown-item lia-board-homemonitoringcontrol">			
+			<a class="lia-link-navigation" id="link_41" href="/t5/Home-Monitoring-and-Control/bd-p/homemonitoringcontrol">Home Monitoring and Control</a>
+		</li><li class="board-dropdown-item lia-board-img19">			
+			<a class="lia-link-navigation" id="link_42" href="/t5/Interactive-Media-Guide-1-9/bd-p/IMG19">Interactive Media Guide 1.9</a>
+		</li><li class="board-dropdown-item lia-board-homenetworking">			
+			<a class="lia-link-navigation" id="link_43" href="/t5/Home-Networking/bd-p/homenetworking">Home Networking</a>
+		</li><li class="dropdown-section-title lia-category-hurricane-sandy">			
+			<a class="lia-link-navigation" id="link_44" href="/t5/Hurricane-Sandy-Discussions/ct-p/HurricaneSandy">Hurricane Sandy Discussions</a>
+		</li><li class="board-dropdown-item lia-board-sandy-fios-issues">			
+			<a class="lia-link-navigation" id="link_45" href="/t5/FiOS-Issues/bd-p/SandyFiOSIssues">FiOS Issues</a>
+		</li><li class="board-dropdown-item lia-board-sandyhsi-issues">			
+			<a class="lia-link-navigation" id="link_46" href="/t5/HSI-Issues/bd-p/SandyHSIIssues">HSI Issues</a>
+		</li><li class="board-dropdown-item lia-board-sandy-phone-issues">			
+			<a class="lia-link-navigation" id="link_47" href="/t5/Phone-Issues/bd-p/SandyPhoneIssues">Phone Issues</a>
+		</li><li class="board-dropdown-item lia-board-general-discussion">			
+			<a class="lia-link-navigation" id="link_48" href="/t5/General-Discussions/bd-p/GeneralDiscussion">General Discussions</a>
+		</li><li class="dropdown-section-title lia-category-vzcloudinfo">			
+			<a class="lia-link-navigation" id="link_49" href="/t5/Verizon-Cloud-Information/ct-p/vzcloudinfo">Verizon Cloud Information</a>
+		</li><li class="board-dropdown-item lia-board-cloudnews">			
+			<a class="lia-link-navigation" id="link_50" href="/t5/Exciting-News-Announcements/bg-p/cloudnews">Exciting News / Announcements - Verizon Cloud</a>
+		</li><li class="dropdown-section-title lia-category-promotions">			
+			<a class="lia-link-navigation" id="link_51" href="/t5/Promotions-and-Events/ct-p/Promotions">Promotions and Events</a>
+		</li><li class="board-dropdown-item lia-board-trivia">			
+			<a class="lia-link-navigation" id="link_52" href="/t5/Community-Trivia/bd-p/Trivia">Community Trivia</a>
+		</li>
+	
+	</ul>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	 
+</div>
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-14 lia-quilt-column-right lia-quilt-column-site-navigation">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			<div class="lia-component-common-widget-slide-out-user-menu">
+	
+	
+		<div class="lia-user-navigation-sign-in lia-component-users-action-login-with-avatar">
+		<div class="user-navigation-user-profile">
+			<a class="lia-link-navigation login-link lia-authentication-link" rel="nofollow" id="link_53" href="/t5/authentication/ssoredirectpage?action=login&amp;referer=https%3A%2F%2Fforums.verizon.com%2F">
+				Forums Sign In
+			</a>
+		</div>
+		<div class="UserAvatar lia-user-avatar">
+			<a class="lia-link-navigation login-link lia-authentication-link" rel="nofollow" id="link_54" href="/t5/authentication/ssoredirectpage?action=login&amp;referer=https%3A%2F%2Fforums.verizon.com%2F">
+				<div class="lia-anonymous-profile-icon"></div>
+			</a>
+		</div>
+	</div>
+		
+	
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-banner">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-community">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="SearchForm lia-search-form-wrapper lia-mode-default lia-component-common-widget-search-form" id="lia-searchformV3" class="SearchForm lia-search-form-wrapper lia-mode-default">
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+		<div id="searchautocompletetoggle">	
+	
+		
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_0"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+			
+            <form enctype="multipart/form-data" class="lia-form lia-form-inline SearchForm" action="https://forums.verizon.com/t5/community/page.searchformv3.form.form" method="post" id="form" name="form"><div class="t-invisible"><input value="search/contributions/page" name="t:cp" type="hidden"></input><input value="IBh1-4G-Uw1LCSjD0RxuUUA01oCSwSUl6THZswRHLLuV03j5pG3UiV2QI1K6NCg6E6FnfuIdvNtM6lRKf4YLsyI_lfmGjYHnym-FbDjPj5TPKX4OUdOdScKGCdumZNsTrQ7mGChsHgenUY_Pqc8VlSVeaXRgjJUg3_UfM4eY_PfiVWd_bOX7i7Wr5KWO1NNlNhapsRpCkeswubzygqIuvbdvrXkkrVnE9wuNOHfUdw4fpc-ywCOfENQv3b0wyhVaevmh3G5zWlarHHI6_MDB9k3eNgwr-dVGHqawYDCLd5BaqP2aiZKoDxubVEau9zFkyheN7BNOv19-SwcPaCM_g-aingo_I3uOHoj1v8Gl6GO2OjPze5_YotddAuWYVYL-MIXOmL3_7zql35i7Bt6rEcT40dmeK-wJSCwUq9vNkChFgoZupSPl5f41QLe3vuJys2LhixM8l_mX7erb68HQffcsAd7gjWMdar10tlLepEMPi5IANBC_d2NZVWvJQEjn8d4egMGF-TEHIJu2-IWPlFFcPpmVwF6J9s_F_ny1HtCMHNgoJIX8kib8kQxTSs7OtFR648ausmbYBAtorI5glRZEIji0OQcq6pXd64YStSjVlGwErKz2llqRwY9pT9Xdx1YBISG2YhkGhIVxbfH8ti2nVH88Hmhx-V8ctwvD6tuXCFId1w5dJI0rI-KocBwAMXEf4GzurbAE8QJj4479-9tmEQJ-0un5Pwmdbsd5ZqJ9pivhBLXAwimqKM1U42nT" name="lia-form-context" type="hidden"></input><input value="CommunityPage::searchformv3.form:" name="liaFormContentKey" type="hidden"></input><input value="9zKJRb2t6eBUSdsJE51rxcarwSY=:H4sIAAAAAAAAALWQMU7DMBSGH5U6VQgJwQ1gdZCgCxVDhVQxRKUoYka2+5oGkjjYTlMWjsIJEJfo0I07cABWJgbsJKBSkEigTJH/F/3f9979MzSzI+gopJKPHS5iLQOW6kDEyhlQHw+LyUjIaLJPVMqiQJcf+zNOtZLQFtInNKF8jETTBJWWN23ChcQwYIRRhaTLTEi57gUYDnc81Gmyez5rPW3PXxuw5kIrR4uwTyPUsOle0gl1Qhr7jmeMYr8zTTSsF+DjAvx3725d74EUHJXybI9SBjZ7GB6MXu4eGwDTJOuDW1EoMi0mLDPb/U2kruEWwFyjHHn5KDdZNcqSmtkZnFYs1Ves1gpbX1e42PsHXrHHCfQq9qYK5WLj0vtdf8Pmi+dfGaGucCz0pxMsvT+Ebf474R8IufAbDQePfjcEAAA=" name="t:formdata" type="hidden"></input></div>
+	
+	
+
+	
+
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="feedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+		
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="feedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+	
+	<input value="Y0rhK9M6ae88Yg-JbImry8fqRN7RpFzaEXd1w9VWNBE." name="lia-action-token" type="hidden"></input>
+	
+	<input value="form" id="form_UID" name="form_UID" type="hidden"></input>
+	<input value="" id="form_instance_key" name="form_instance_key" type="hidden"></input>
+	
+                
+
+                
+                    
+                
+
+                <span class="lia-search-input-wrapper">
+                    <span class="lia-search-input-field">
+                        <span class="lia-button-wrapper lia-button-wrapper-secondary lia-button-wrapper-searchForm-action"><input value="searchForm" name="submitContextX" type="hidden"></input><input class="lia-button lia-button-secondary lia-button-searchForm-action" value="Search" id="submitContext" name="submitContext" type="submit"></input></span>
+
+                        <input placeholder="Search the Verizon Fios Community" title="Search" class="lia-form-type-text lia-autocomplete-input search-input lia-search-input-message" value="Search the Verizon Fios Community" id="messageSearchField" name="messageSearchField" type="text"></input>
+                        <input placeholder="Search the Verizon Fios Community" title="Search" class="lia-form-type-text lia-autocomplete-input search-input lia-search-input-tkb-article lia-js-hidden" value="Search the Verizon Fios Community" id="messageSearchField_0" name="messageSearchField_0" type="text"></input>
+                        
+
+	
+		<input placeholder="Search all content" ng-non-bindable="" title="Enter a user name or rank" class="lia-form-type-text UserSearchField lia-search-input-user search-input lia-js-hidden lia-autocomplete-input" value="Search the Verizon Fios Community" id="userSearchField" name="userSearchField" type="text"></input>
+	
+
+	
+
+
+                        <input title="Enter a search word" class="lia-form-type-text NoteSearchField lia-search-input-note search-input lia-js-hidden lia-autocomplete-input" value="Search the Verizon Fios Community" id="noteSearchField" name="noteSearchField" type="text"></input>
+                    </span>
+                </span>
+                
+
+                <span class="lia-cancel-search">cancel</span>
+
+                
+            
+</form>
+		
+			<div class="search-autocomplete-toggle-link lia-js-hidden">
+				<span>
+					<a class="lia-link-navigation auto-complete-toggle-on lia-link-ticket-post-action lia-component-search-action-enable-auto-complete" data-lia-action-token="cR2WPjyajP3u15R6yelgpe1k7IKnDYVWt9-bC9MKaco." rel="nofollow" id="enableAutoComplete" href="https://forums.verizon.com/t5/community/page.enableautocomplete:enableautocomplete?t:cp=action/contributions/searchactions">turn on suggestions</a>					
+					<span class="HelpIcon">
+	<a class="lia-link-navigation help-icon lia-tooltip-trigger" id="link_55" href="#"><span class="lia-img-icon-help lia-fa-icon lia-fa-help lia-fa" alt="Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type." id="display"></span></a><div class="lia-content lia-tooltip-pos-bottom-left lia-panel-tooltip-wrapper" id="link_56-tooltip-element"><div class="lia-tooltip-arrow"></div><div class="lia-panel-tooltip"><div class="content">Auto-suggest helps you quickly narrow down your search results by suggesting possible matches as you type.</div></div></div>	
+</span>
+				</span>
+			</div>
+		
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback_0"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+	
+	
+	
+</div>
+		
+	<div class="spell-check-showing-result">
+		Showing results for <span class="lia-link-navigation show-results-for-link lia-link-disabled" id="showingResult"></span>
+	</div>
+	<div class="spell-check-search-instead">
+		Search instead for <a class="lia-link-navigation search-instead-for-link" rel="nofollow" id="searchInstead" href="https://forums.verizon.com/?nospellcheck=true&amp;q=_change_me_"></a>
+	</div>
+	<div class="spell-check-do-you-mean lia-component-search-widget-spellcheck" class="spell-check-do-you-mean">
+		Did you mean: <a class="lia-link-navigation do-you-mean-link" rel="nofollow" id="doYouMean" href="https://forums.verizon.com/?q=_change_me_"></a>
+	</div>
+
+	
+	
+	
+	
+		<div class="lia-inline-ajax-feedback">
+			<div class="AjaxFeedback" id="ajaxfeedback"></div>
+			
+	
+
+	
+
+		</div>
+		
+	
+	
+	
+	
+
+	
+</div>
+		
+				<div class="custom-component-community-header">
+			<div class="community-image">
+				<img src="/html/assets/hero_img_verizon_community_v5.png" alt="Verizon Fios Community Tree on a Hill" />
+			</div>
+		<div class="welcome-community-stats">
+<span class="lia-welcome lia-component-common-widget-welcome"><h1>Welcome to the Verizon Fios Community.</h1>
+Find help and answers to questions about anything and everything Verizon. This is a peer to peer community where your questions are answered by users like you.</span><div class="community-stats user-anon">		
+		<div class="table-container">
+			<table class="stats-table">
+				<thead id="columns"></thead>
+				<tbody>
+					<tr class="lia-list-row">
+						<td class="lia-data-cell-integer">
+							<div class="icon members"><img src="/html/assets/members_icon.png" alt="Two Red People"></div>
+							<div>
+								<div class="stat-value">190875</div>
+								<div class="stat-label">members</div>
+							</div>
+						</td>
+						<td class="lia-data-cell-integer">
+							<div class="icon online"><img src="/html/assets/online_icon.png" alt="Single Red Person"></div>
+							<div>
+								<div class="stat-value">1447</div>
+								<div class="stat-label">online</div>
+							</div>
+						</td>
+						<td class="lia-data-cell-integer">
+							<div class="icon solutions"><img src="/html/assets/solutions_icon.png" alt="Red Check in a Red Box"></div>
+							<div>
+								<div class="stat-value">5470</div>
+								<div class="stat-label">solutions</div>
+							</div>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			<div class="thick-border"></div>
+		</div>
+	</div>		</div>
+	</div>
+
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-feedback">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-feedback">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single lia-mark-empty">
+	
+		
+			
+	
+
+	
+
+		
+			
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-small-header">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-local-header lia-mark-empty">
+			
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-18 lia-quilt-column-left lia-quilt-column-main-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			<div class="custom-community-banner">
+<div class="community-banner-title">
+  <div class="title">Where would you like to go?</div>
+  <div class="ham"></div>
+</div>
+<div class="column-right">
+			<div class="community-banner-fiosTV">
+				<div class="node-title">
+        <img src="/html/assets/tv_icon_v2.png" alt="Blue outlone of a flat screen TV">
+					<div class="title">Fios TV</div>
+				    <div class="description"><ul class="node-description"><li><a href="/t5/FiOS-TV-Technical-Assistance/bd-p/FiOS_TV">Technical Help</a></li><li><a href="/t5/FiOS-TV-Programming/bd-p/FiOS_TV_Entertainment">Programming</a></li></ul></div>
+                 </div>
+                 <div class="node-exp"></div>
+			</div>
+			<div class="community-banner-internet">
+				<div class="node-title">
+        <img src="/html/assets/internet_icon_v2.png" alt="Smile Faces on two cogs">
+					<div class="title">Internet</div>
+				    <div class="description"><ul class="node-description"><li><a href="/t5/FiOS-Internet/bd-p/FiOS_Internet">Fios</a></li><li><a href="/t5/High-Speed-Internet-DSL-and-Dial/bd-p/High_Speed_Internet">High Speed Internet</a></li></ul></div>
+                </div>
+                <div class="node-exp"></div>
+			</div>
+			<div class="community-banner-phone">
+				<div class="node-title">
+        <img src="/html/assets/phone_icon.svg" alt="Mobile phone with multicolored screen">
+					<div class="title">Phone</div>
+				    <div class="description"><ul class="node-description"><li><a href="/t5/Home-Phone-Landline-or-Digital/bd-p/Home_Phone">Landline Questions</a></li></ul></div>
+                </div>
+                <div class="node-exp"></div>
+			</div>
+      <div class="community-banner-email">
+				<div class="node-title">
+        <img src="/html/assets/rewardsgiftbox5.png" alt="Laptop with envelope in screen">
+					<div class="title">My Rewards+</div>
+				    <div class="description"><ul class="node-description"><li><a href="https://www.verizon.com/home/mlp/myrewards.html">Start Earning Points</a></li></ul></div>
+                </div>
+                <div class="node-exp"></div>
+			</div>
+		</div>
+  </div>
+
+		
+			
+
+  <div class="lia-panel lia-panel-standard Chrome custom-newest-solutions">
+    <div class="lia-decoration-border">
+      <div class="lia-decoration-border-top"><div> </div></div>
+      <div class="lia-decoration-border-content">
+        <div>
+            <div class="lia-panel-heading-bar-wrapper">
+              <div class="lia-panel-heading-bar">
+                <span class="lia-panel-heading-bar-title">Featured Topics</span>
+              </div>
+            </div>
+          <div class="lia-panel-content-wrapper">
+            <div class="lia-panel-content">
+		<div class="MessageList lia-component-forums-widget-message-list lia-component-message-list">
+			<a name="message-list"> </a>
+			<div class="t-data-grid thread-list">
+				<table class="lia-list-wide">
+					<tbody>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-829847 t-first">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/201308" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/sports-surfing2/avatar-theme/legacyclassic/avatar-collection/sports/avatar-display-size/message/version/2" alt="johnnyzero2" title="johnnyzero2" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Verizon-net-Email/initiate-migration-to-AOL-Mail/m-p/829847#M25365">
+															initiate migration to AOL Mail?		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">375</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">63048</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-even lia-js-data-messageUid-838709 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/246625" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/robot13/avatar-theme/legacyclassic/avatar-collection/robots/avatar-display-size/message/version/2" alt="leosantare1" title="leosantare1" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/Need-help-understanding-my-FIOS-ONT-battery-back-up-and-router/m-p/838709#M64817">
+															Need help understanding my FIOS ONT, battery back up and router.		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">9</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">14853</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-822059 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/234150" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/firecracker/avatar-theme/legacyclassic/avatar-collection/misc/avatar-display-size/message/version/2" alt="johng128" title="johng128" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/I-want-to-use-my-own-router-and-keep-tv-guide/m-p/822059#M61942">
+															I want to use my own router and keep tv guide		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">74</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">71823</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-even lia-js-data-messageUid-836918 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/234827" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/environment-sunset/avatar-theme/legacyclassic/avatar-collection/environment/avatar-display-size/message/version/2" alt="Varg" title="Varg" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/Gigabit-Internet-Feedback/m-p/836918#M64443">
+															Gigabit Internet Feedback		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">38</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">13301</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-822033 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/233993" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/robot11/avatar-theme/legacyclassic/avatar-collection/robots/avatar-display-size/message/version/2" alt="hz10" title="hz10" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/Unable-to-connect-to-devices-with-address-192-168-0-x/m-p/822033#M61940">
+															Unable to connect to devices with address 192.168.0.x		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">8</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">21048</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-even lia-js-data-messageUid-845466 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/251691" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/sawblade/avatar-theme/legacyclassic/avatar-collection/misc/avatar-display-size/message/version/2" alt="agent007" title="agent007" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/Krack-Attack-WPA2-vulnerability/m-p/845466#M66509">
+															Krack Attack WPA2 vulnerability		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">56</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">13710</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-831355 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/241327" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/music-5/avatar-theme/legacyclassic/avatar-collection/music/avatar-display-size/message/version/2" alt="Steviek1290" title="Steviek1290" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-TV-Technical-Assistance/How-to-redeem-REWARDS-POINTS-for-on-demand-movies/m-p/831355#M60908">
+															How to redeem REWARDS POINTS for on-demand movies?		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">13</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">34864</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-even lia-js-data-messageUid-848627 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/217228" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/11960041_10155928983415123_6200280019938013320_n/avatar-theme/legacyclassic/avatar-collection/Administrator__Administrator/avatar-display-size/message/version/2" alt="Nilsa_VZ" title="Nilsa_VZ" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Community-Announcements/Change-to-Verizon-net-Email-Policies/m-p/848627#M52">
+															Change to Verizon.net Email Policies		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">0</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">1486</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-841243 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/234361" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/armedforces-medic/avatar-theme/legacyclassic/avatar-collection/war/avatar-display-size/message/version/2" alt="jonjones" title="jonjones" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/I-Must-be-in-Fios-Heaven/m-p/841243#M65424">
+															I Must be in Fios Heaven		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">17</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">4677</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-even lia-js-data-messageUid-832598 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/242374" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/car-50s/avatar-theme/legacyclassic/avatar-collection/cars/avatar-display-size/message/version/2" alt="sellersaf" title="sellersaf" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-Internet/Router-Questions/m-p/832598#M63627">
+															Router Questions		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">20</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">13164</span>
+									Views
+								</div>
+							</td>
+						</tr>
+						<tr class="lia-list-row lia-row-odd lia-js-data-messageUid-822138 ">
+							<td class="cMessageAuthorAvatarColumn lia-data-cell-secondary lia-data-cell-icon">
+								<div class="UserAvatar lia-user-avatar lia-component-messages-column-message-author-avatar">
+									<a href="/t5/user/viewprofilepage/user-id/172835" target="_self" class="UserAvatar lia-link-navigation"><img src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/food-sushi/avatar-theme/legacyclassic/avatar-collection/food/avatar-display-size/message/version/2" alt="electronicnewb" title="electronicnewb" class="lia-user-avatar-message"></a>
+								</div>
+							</td>
+							<td class="cThreadInfoColumn lia-data-cell-primary lia-data-cell-text">
+								<div class="lia-component-messages-column-message-info">
+									<div class="MessageSubjectCell">
+										<div class="MessageSubject">
+											<div class="MessageSubjectIcons ">
+												<h2 class="message-subject">
+													<span class="lia-message-unread">
+														<a href="/t5/Fios-TV-Technical-Assistance/No-Data-Connectivity-on-STB/m-p/822138#M59842">
+															No Data Connectivity on STB?		
+														</a>
+													</span>
+												</h2>
+											</div>
+										</div>
+									</div>
+								</div>
+							</td>
+							<td class="cRepliesCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-replies-count">
+									<span class="lia-message-stats-count">38</span>
+									Replies
+								</div>
+							</td>
+							<td class="cViewsCountColumn lia-data-cell-secondary lia-data-cell-integer">
+								<div class="lia-component-messages-column-message-views-count">
+									<span class="lia-message-stats-count">22306</span>
+									Views
+								</div>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lia-decoration-border-bottom">
+        <div> </div>
+      </div>
+    </div>
+  </div>
+
+		
+			<div class="lia-quilt lia-quilt-category-page-two-column-widget lia-quilt-layout-two-column-left-right-forum-page lia-component-quilt-category-page-two-column-widget" class="lia-quilt lia-quilt-category-page-two-column-widget lia-quilt-layout-two-column-left-right-forum-page">
+	<div class="lia-quilt-row">
+		<div class="lia-quilt-column lia-quilt-column-12 lia-quilt-column-left lia-quilt-column-left-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-left">
+	
+		
+			<div class="lia-panel lia-panel-standard MessageListTaplet Chrome lia-component-solutions-widget-recently-solved-threads"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper"><div class="lia-panel-heading-bar"><span class="lia-panel-heading-bar-title">Recent Solutions</span></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content">
+
+	
+
+	
+
+	
+
+	
+	
+
+	
+		
+		<ul id="list" class="lia-list-standard">
+	
+	
+		<li>
+			<div class="lia-list-slim">
+				
+				<div class="lia-message-content">
+					<div class="MessageSubject">
+
+	
+
+    
+        	<div class="MessageSubjectIcons ">
+	
+	
+	 
+		
+	
+	
+        		
+        <h2 class="message-subject">
+            <span class="lia-message-unread">
+                
+                        <a class="page-link lia-link-navigation lia-custom-event" id="link_57" href="/t5/Fios-Internet/BcmWifi-DriverInterface-Log-Sta-Info-for-wl0-dev-MAC-addr-failed/m-p/854292">
+                            BcmWifi.Dr<wbr />iverInterf<wbr />ace.Log: Sta Info for wl0 dev [MAC addr] failed
+                            
+                        </a>
+                    
+            </span>
+        </h2>
+	
+        		
+	
+	<span class="lia-img-message-has-url lia-fa-message lia-fa-has lia-fa-url lia-fa" title="Contains a hyperlink" alt="Message contains a hyperlink" aria-label="Contains a hyperlink" id="display_2"></span>
+	
+	
+	
+</div>
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<div class="message-subject-board">
+			<a class="local-time xsmall-text lia-link-navigation" id="link_58" href="/t5/Fios-Internet/bd-p/FiOS_Internet">Fios Internet</a>
+		</div>
+	
+
+	
+			
+				
+			
+		
+
+	
+</div>
+					
+					
+				</div>
+			</div>
+		</li>
+	
+		<li>
+			<div class="lia-list-slim">
+				
+				<div class="lia-message-content">
+					<div class="MessageSubject">
+
+	
+
+    
+        	<div class="MessageSubjectIcons ">
+	
+	
+	 
+		
+	
+	
+        		
+        <h2 class="message-subject">
+            <span class="lia-message-unread">
+                
+                        <a class="page-link lia-link-navigation lia-custom-event" id="link_59" href="/t5/Fios-TV-Technical-Assistance/fios-tv/m-p/854450">
+                            fios tv
+                            
+                        </a>
+                    
+            </span>
+        </h2>
+	
+        		
+	
+	
+	
+	
+	
+</div>
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<div class="message-subject-board">
+			<a class="local-time xsmall-text lia-link-navigation" id="link_60" href="/t5/Fios-TV-Technical-Assistance/bd-p/FiOS_TV">Fios TV Technical Assistance</a>
+		</div>
+	
+
+	
+			
+				
+			
+		
+
+	
+</div>
+					
+					
+				</div>
+			</div>
+		</li>
+	
+		<li>
+			<div class="lia-list-slim">
+				
+				<div class="lia-message-content">
+					<div class="MessageSubject">
+
+	
+
+    
+        	<div class="MessageSubjectIcons ">
+	
+	
+	 
+		
+	
+	
+        		
+        <h2 class="message-subject">
+            <span class="lia-message-unread">
+                
+                        <a class="page-link lia-link-navigation lia-custom-event" id="link_61" href="/t5/Home-Phone/Will-my-DSL-modem-still-be-part-of-my-phone-hook-up-after-the/m-p/851383">
+                            Will my DSL modem still be part of my phone hook-up after the switch to Digital Voice?
+                            
+                        </a>
+                    
+            </span>
+        </h2>
+	
+        		
+	
+	
+	
+	
+	
+</div>
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<div class="message-subject-board">
+			<a class="local-time xsmall-text lia-link-navigation" id="link_62" href="/t5/Home-Phone/bd-p/Home_Phone">Home Phone</a>
+		</div>
+	
+
+	
+			
+				
+			
+		
+
+	
+</div>
+					
+					
+				</div>
+			</div>
+		</li>
+	
+		<li>
+			<div class="lia-list-slim">
+				
+				<div class="lia-message-content">
+					<div class="MessageSubject">
+
+	
+
+    
+        	<div class="MessageSubjectIcons ">
+	
+	
+	 
+		
+	
+	
+        		
+        <h2 class="message-subject">
+            <span class="lia-message-unread">
+                
+                        <a class="page-link lia-link-navigation lia-custom-event" id="link_63" href="/t5/Fios-Internet/Moca-Modem-help/m-p/854172">
+                            Moca/Modem help
+                            
+                        </a>
+                    
+            </span>
+        </h2>
+	
+        		
+	
+	
+	
+	
+	
+</div>
+    
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+		<div class="message-subject-board">
+			<a class="local-time xsmall-text lia-link-navigation" id="link_64" href="/t5/Fios-Internet/bd-p/FiOS_Internet">Fios Internet</a>
+		</div>
+	
+
+	
+			
+				
+			
+		
+
+	
+</div>
+					
+					
+				</div>
+			</div>
+		</li>
+	
+
+</ul>
+	
+	
+	<div class="lia-view-all"><a class="lia-link-navigation view-all-link" id="link_65" href="/t5/forums/searchpage/tab/message?advanced=true&amp;allow_punctuation=false&amp;collapse_discussion=true&amp;filter=acceptedSolutions%2Clabels%2CsolvedThreads&amp;solution=true&amp;solved=true&amp;sort_by=-solutionDate">Find More Solutions</a></div>
+	
+
+</div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+			<div class="lia-panel lia-panel-standard KudoedAuthorsLeaderboardTaplet Chrome lia-component-kudos-widget-authors-leaderboard"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper"><div class="lia-panel-heading-bar"><span class="lia-panel-heading-bar-title">Top Kudoed Authors</span></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content">
+
+	
+	
+		
+	
+	
+	
+	
+		<div class="UserList lia-component-users-widget-user-list" class="UserList">
+	<a name="user-list"> </a>
+	<div class="t-data-grid">
+
+	
+
+    <table class="lia-list-slim">
+        <thead id="columns"><tr><th scope="col" class="userColumn lia-data-cell-primary lia-data-cell-text t-first">
+			<span class="lia-view-filter lia-link-disabled" id="link_66">User</span>
+		</th><th scope="col" class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer t-last">
+			Kudos Count
+		</th></tr></thead>
+        <tbody>
+            <tr class="lia-list-row lia-row-odd t-first"><td class="userColumn lia-data-cell-primary lia-data-cell-text">
+			<div class="UserProfileSummary lia-user-item lia-js-data-userId-234361 lia-user-info-group">
+	
+
+	
+
+	<div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_67" href="/t5/user/viewprofilepage/user-id/234361"><img class="lia-user-avatar-message" title="jonjones" alt="jonjones" id="display_0" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/armedforces-medic/avatar-theme/legacyclassic/avatar-collection/war/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+
+	<div class="lia-user-attributes">
+		<div class="lia-user-name">
+			
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Gold-Contributor-I">
+				
+		
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#ECAD02" target="_self" id="link_68" href="/t5/user/viewprofilepage/user-id/234361"><span class="login-bold">jonjones</span></a>
+		
+		
+		
+		
+		
+		
+		
+		
+	
+			</span>
+		
+
+		</div>
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+	</div>
+</div> 
+		</td><td class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer">
+			62
+		</td></tr><tr class="lia-list-row lia-row-even"><td class="userColumn lia-data-cell-primary lia-data-cell-text">
+			<div class="UserProfileSummary lia-user-item lia-js-data-userId-84159 lia-user-info-group">
+	
+
+	
+
+	<div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_69" href="/t5/user/viewprofilepage/user-id/84159"><img class="lia-user-avatar-message" title="Smith6612" alt="Smith6612" id="display_1" src="https://vrzn.i.lithium.com/t5/image/serverpage/image-id/4735i2500E32DB083BA1B/image-dimensions/40x40?v=1.0"/>
+                
+            </a>
+		
+</div>
+
+	<div class="lia-user-attributes">
+		<div class="lia-user-name">
+			
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Platinum-Contributor-II">
+				
+		
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#5b8f22" target="_self" id="link_70" href="/t5/user/viewprofilepage/user-id/84159"><span class="login-bold">Smith6612</span></a>
+		
+		
+		<img class="lia-user-rank-icon lia-user-rank-icon-right" title="Platinum Contributor II" alt="Platinum Contributor II" id="display_3" src="https://vrzn.i.lithium.com/vrzn/i/rank_icons/community_leader.gif"/>
+		
+		
+		
+		
+		
+	
+			</span>
+		
+
+		</div>
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+	</div>
+</div> 
+		</td><td class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer">
+			42
+		</td></tr><tr class="lia-list-row lia-row-odd"><td class="userColumn lia-data-cell-primary lia-data-cell-text">
+			<div class="UserProfileSummary lia-user-item lia-js-data-userId-2799 lia-user-info-group">
+	
+
+	
+
+	<div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_71" href="/t5/user/viewprofilepage/user-id/2799"><img class="lia-user-avatar-message" title="CRobGauth" alt="CRobGauth" id="display_4" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/environment-clouds/avatar-theme/legacyclassic/avatar-collection/environment/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+
+	<div class="lia-user-attributes">
+		<div class="lia-user-name">
+			
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Platinum-Contributor-I">
+				
+		
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#5b8f22" target="_self" id="link_72" href="/t5/user/viewprofilepage/user-id/2799"><span class="login-bold">CRobGauth</span></a>
+		
+		
+		<img class="lia-user-rank-icon lia-user-rank-icon-right" title="Platinum Contributor I" alt="Platinum Contributor I" id="display_5" src="https://vrzn.i.lithium.com/vrzn/i/rank_icons/community_leader.gif"/>
+		
+		
+		
+		
+		
+	
+			</span>
+		
+
+		</div>
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+	</div>
+</div> 
+		</td><td class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer">
+			41
+		</td></tr><tr class="lia-list-row lia-row-even"><td class="userColumn lia-data-cell-primary lia-data-cell-text">
+			<div class="UserProfileSummary lia-user-item lia-js-data-userId-228126 lia-user-info-group">
+	
+
+	
+
+	<div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_73" href="/t5/user/viewprofilepage/user-id/228126"><img class="lia-user-avatar-message" title="JustinG" alt="JustinG" id="display_6" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/hp_mini/avatar-theme/legacyclassic/avatar-collection/Wireless_Devices/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+
+	<div class="lia-user-attributes">
+		<div class="lia-user-name">
+			
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-Bronze-Contributor-III">
+				
+		
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="color:#C64700" target="_self" id="link_74" href="/t5/user/viewprofilepage/user-id/228126"><span class="login-bold">JustinG</span></a>
+		
+		
+		<img class="lia-user-rank-icon lia-user-rank-icon-right" title="Bronze Contributor III" alt="Bronze Contributor III" id="display_7" src="https://vrzn.i.lithium.com/vrzn/i/rank_icons/community_leader.gif"/>
+		
+		
+		
+		
+		
+	
+			</span>
+		
+
+		</div>
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+	</div>
+</div> 
+		</td><td class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer">
+			30
+		</td></tr><tr class="lia-list-row lia-row-odd t-last"><td class="userColumn lia-data-cell-primary lia-data-cell-text">
+			<div class="UserProfileSummary lia-user-item lia-js-data-userId-156063 lia-user-info-group">
+	
+
+	
+
+	<div class="UserAvatar lia-user-avatar lia-component-common-widget-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" tabindex="-1" target="_self" id="link_75" href="/t5/user/viewprofilepage/user-id/156063"><img class="lia-user-avatar-message" title="tns2" alt="tns2" id="display_8" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/alien1/avatar-theme/legacyclassic/avatar-collection/aliens/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+
+	<div class="lia-user-attributes">
+		<div class="lia-user-name">
+			
+	
+
+	
+			<span class="UserName lia-user-name lia-user-rank-MVP">
+				
+		<img class="lia-user-rank-icon lia-user-rank-icon-left" title="MVP" alt="MVP" id="display_9" src="https://forums.verizon.com/t5/image/serverpage/image-id/1268i9935D7002BE6C2E6/image-size/thumb?v=mpbl-1&amp;px=100"/>
+		
+			<a class="lia-link-navigation lia-page-link lia-user-name-link" style="" target="_self" id="link_76" href="/t5/user/viewprofilepage/user-id/156063"><span class="">tns2</span></a>
+		
+		
+		<img class="lia-user-rank-icon lia-user-rank-icon-right" title="MVP" alt="MVP" id="display_10" src="https://vrzn.i.lithium.com/vrzn/i/rank_icons/community_leader.gif"/>
+		
+		
+		
+		
+		
+	
+			</span>
+		
+
+		</div>
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+
+		
+	</div>
+</div> 
+		</td><td class="kudosCountColumn lia-data-cell-tertiary lia-data-cell-integer">
+			15
+		</td></tr>
+        </tbody>
+    </table>
+
+	
+
+    
+</div>
+	
+	
+</div>
+		
+	<div class="lia-view-all"><a class="lia-link-navigation view-all-link" id="link_77" href="/t5/forums/kudosleaderboardpage/timerange/one_month/page/1/tab/authors">View All</a></div>
+		
+</div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-12 lia-quilt-column-right lia-quilt-column-right-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			
+
+
+  <div class="lia-panel lia-panel-standard Chrome custom-latest-blog">
+    <div class="lia-decoration-border">
+      <div class="lia-decoration-border-top"><div> </div></div>
+      <div class="lia-decoration-border-content">
+        <div>
+            <div class="lia-panel-heading-bar-wrapper">
+              <div class="lia-panel-heading-bar">
+                <span class="lia-panel-heading-bar-title">From Verizons' Blogs</span>
+              </div>
+            </div>
+          <div class="lia-panel-content-wrapper">
+            <div class="lia-panel-content">
+			<div class="latest-blog-wrapper">
+					<div class="blog-image">
+						<img class="latest-blog-image" src="https://vrzn.i.lithium.com/t5/image/serverpage/image-id/18443i4152470AD9D0602A/image-size/large?v=1.0&px=999" alt="" title="webinar-1801-social.jpg" />
+					</div>
+				<div class="blog-content">
+					<div class="blog-subject"><a href="/t5/Verizon-Business-Markets-Blog/5-Trends-to-Drive-Your-Profitability-and-Growth-in-2018/ba-p/853374">5 Trends to Drive Your Profitability and Growth in 2018</a></div>
+					<div class="blog-teaser"></div>
+					<div class="read-more"><a href="/t5/Verizon-Business-Markets-Blog/5-Trends-to-Drive-Your-Profitability-and-Growth-in-2018/ba-p/853374">Read more...</a></div>
+				</div>
+			</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lia-decoration-border-bottom">
+        <div> </div>
+      </div>
+    </div>
+  </div>
+
+		
+			  <div class="lia-panel lia-panel-standard Chrome custom-component-featured-mvp">
+    <div class="lia-decoration-border">
+      <div class="lia-decoration-border-top"><div> </div></div>
+      <div class="lia-decoration-border-content">
+        <div>
+            <div class="lia-panel-heading-bar-wrapper">
+              <div class="lia-panel-heading-bar">
+                <span class="lia-panel-heading-bar-title">Community MVPs</span>
+              </div>
+            </div>
+          <div class="lia-panel-content-wrapper">
+            <div class="lia-panel-content">
+	<div class="custom-featured-mvp">
+		<div class="sub-header">This weeks MVP</div>
+		<div class="user-row">
+			<div class="avatar">	
+	
+	
+	<div class="UserAvatar lia-user-avatar">
+		<a class="UserAvatar lia-link-navigation" target="_self" href="https://forums.verizon.com/t5/user/viewprofilepage/user-id/156063">
+			<img class="lia-user-avatar-profile" alt="tns2" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/alien1/avatar-theme/legacyclassic/avatar-collection/aliens/avatar-display-size/profile/version/2">
+		</a>
+	</div>
+</div>
+            
+         
+			<div class="username"><a href="/t5/user/viewprofilepage/user-id/156063">tns2</a></div>
+			<div class="member-since">Member since 2012</div>
+		</div>
+		<div class="text-row">Congratulations to this week's <b>MVP Winner! </b><br/>View more quality content and contributions on our Weekly <a href="https://forums.verizon.com/t5/Recognition-Room/MVP-List-284-January-6-2018-to-January-12-2018/td-p/854187"><b>MVP List!</a></b><br /></div>
+		<div class="stats-row">
+			<div class="stat-item stat-posts">
+				<div class="stat-value">4225</div>
+				<div class="stat-label">Posts</div>
+			</div>
+			<div class="stat-item stat-kudos">
+				<div class="stat-value">786</div>
+				<div class="stat-label">Kudos</div>
+			</div>
+			<div class="stat-item stat-solutions">
+				<div class="stat-value">111</div>
+				<div class="stat-label">Solutions</div>
+			</div>
+		</div>
+		
+	</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="lia-decoration-border-bottom">
+        <div> </div>
+      </div>
+    </div>
+  </div>
+
+		
+			<div class="lia-panel lia-panel-standard CustomContent Chrome lia-component-common-widget-custom-content"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper"><div class="lia-panel-heading-bar"><span class="lia-panel-heading-bar-title">Refer a friend</span></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content"><a href="https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf">
+<img src="/html/assets/Referafriend.png" alt="Get referral code">
+</a>
+</p>
+
+Refer friends to the Verizon Fios Family, and earn 10,000 My Rewards+ points
+<br>
+<a href=https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf>Get Referral Code...</a></br></div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+		
+	
+	
+</div>
+		</div><div class="lia-quilt-column lia-quilt-column-06 lia-quilt-column-right lia-quilt-column-side-content">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-right">
+	
+		
+			  <div class="lia-panel lia-panel-standard lia-component-user-stats">
+    <div class="lia-decoration-border">
+      <div class="lia-decoration-border-top"></div>
+      <div class="lia-panel-content-wrapper">
+        <div>
+          <div class="post-button">
+            <span><a class="lia-button lia-button-primary" href="/t5/forums/postpage/choose-node/true">Post to the Community <i class="lia-fa lia-fa-angle-right"></i></a></span>
+          </div>
+          <div class="welcome-text">
+<h2>Welcome</h2><h3>To the Verizon Fios Community</h3>
+<div>Sign in to ask and answer questions, share ideas and much more.</div>          </div>
+          <div class="sign-in">
+            <a class="lia-button lia-button-primary" href="/t5/authentication/ssoredirectpage?action=login&referer=https%3A%2F%2Fforums.verizon.com%2F">Sign in</a>
+          </div>
+          <div class="welcome-text">
+          </div>
+        </div>
+      </div>
+      <div class="lia-decoration-border-bottom"></div>
+    </div>
+  </div>
+
+		
+			
+<div class="custom-community-navigation">
+	<div class="custom-header">
+		<div class="title">What can we help you with?</div>
+		<div class="subtitle">
+			<div class="left">Categories:</div>
+			<div class="right">Posts</div>
+		</div>
+	</div>
+	<div class="custom-collapsible-menu">
+		<div class="category cat-welcome">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Information-Center/ct-p/Welcome">Information Center</a></div>
+				<div class="post-count">2331</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-announcements">
+						<a href="https://forums.verizon.com/t5/Community-Announcements/bd-p/Announcements">Community Announcements</a>
+					</li>
+					<li class="board-welcome">
+						<a href="https://forums.verizon.com/t5/Terms-of-Service-and-User/bd-p/Welcome">Terms of Service and User Guidelines</a>
+					</li>
+					<li class="board-mvp">
+						<a href="https://forums.verizon.com/t5/Recognition-Room/bd-p/MVP">Recognition Room</a>
+					</li>
+					<li class="board-vzwcommunityforumsfa-qs">
+						<a href="https://forums.verizon.com/t5/Community-Use-FAQs/bd-p/vzwcommunityforumsfAQs">Community Use FAQs</a>
+					</li>
+					<li class="board-feedback-and-suggestions">
+						<a href="https://forums.verizon.com/t5/Suggestions-For-This-Community/bd-p/Feedback_and_Suggestions">Suggestions For This Community</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="category cat-blogsand-ideas">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Community-Blogs/ct-p/BlogsandIdeas">Community Blogs</a></div>
+				<div class="post-count">1205</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-smb-blog">
+						<a href="https://forums.verizon.com/t5/Verizon-Business-Markets-Blog/bg-p/SMBBlog">Verizon Business Markets Blog</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="category cat-residential-support">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Products-and-Services/ct-p/Residential_Support">Products and Services</a></div>
+				<div class="post-count">252852</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-home-phone">
+						<a href="https://forums.verizon.com/t5/Home-Phone/bd-p/Home_Phone">Home Phone</a>
+					</li>
+					<li class="board-high-speed-internet">
+						<a href="https://forums.verizon.com/t5/High-Speed-Internet/bd-p/High_Speed_Internet">High Speed Internet</a>
+					</li>
+					<li class="board-general-discussions">
+						<a href="https://forums.verizon.com/t5/General-Products-and-Services/bd-p/General_Discussions">General  Products and Services</a>
+					</li>
+					<li class="board-fios-internet">
+						<a href="https://forums.verizon.com/t5/Fios-Internet/bd-p/FiOS_Internet">Fios Internet</a>
+					</li>
+					<li class="board-fios-tv">
+						<a href="https://forums.verizon.com/t5/Fios-TV-Technical-Assistance/bd-p/FiOS_TV">Fios TV Technical Assistance</a>
+					</li>
+					<li class="board-fios-tv-entertainment">
+						<a href="https://forums.verizon.com/t5/Fios-TV-Programming/bd-p/FiOS_TV_Entertainment">Fios TV Programming</a>
+					</li>
+					<li class="board-emailissues">
+						<a href="https://forums.verizon.com/t5/Verizon-net-Email/bd-p/emailissues">Verizon.net Email</a>
+					</li>
+					<li class="board-myverizon20res">
+						<a href="https://forums.verizon.com/t5/My-Verizon-Account/bd-p/myverizon20res">My Verizon Account</a>
+					</li>
+					<li class="board-frequently-asked-questions">
+						<a href="https://forums.verizon.com/t5/Frequently-Asked-Questions/bd-p/Frequently_Asked_Questions">Frequently Asked Questions</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="category cat-lounge">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Verizon-Community-Lounge/ct-p/lounge">Verizon Community Lounge</a></div>
+				<div class="post-count">1384</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-loungeboard">
+						<a href="https://forums.verizon.com/t5/Off-Topic-Board/bd-p/loungeboard">Off Topic Board</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="category cat-meettheexpertarchives">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Archives/ct-p/meettheexpertarchives">Archives</a></div>
+				<div class="post-count">5969</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-meettheexpertlm">
+						<a href="https://forums.verizon.com/t5/Lorena-Mcallister-Message-Center/bd-p/meettheexpertlm">Lorena Mcallister:  Message Center</a>
+					</li>
+					<li class="board-meettheexpertja">
+						<a href="https://forums.verizon.com/t5/Joe-Ambeault-FiOS-TV-IMG-1-9/bd-p/meettheexpertja">Joe Ambeault:  FiOS TV IMG 1.9</a>
+					</li>
+					<li class="board-meettheexpertps">
+						<a href="https://forums.verizon.com/t5/Patrick-Smith/bd-p/meettheexpertps">Patrick Smith</a>
+					</li>
+					<li class="board-sandy-fios-issues">
+						<a href="https://forums.verizon.com/t5/FiOS-Issues/bd-p/SandyFiOSIssues">FiOS Issues</a>
+					</li>
+					<li class="board-sandyhsi-issues">
+						<a href="https://forums.verizon.com/t5/HSI-Issues/bd-p/SandyHSIIssues">HSI Issues</a>
+					</li>
+					<li class="board-sandy-phone-issues">
+						<a href="https://forums.verizon.com/t5/Phone-Issues/bd-p/SandyPhoneIssues">Phone Issues</a>
+					</li>
+					<li class="board-general-discussion">
+						<a href="https://forums.verizon.com/t5/General-Discussions/bd-p/GeneralDiscussion">General Discussions</a>
+					</li>
+					<li class="board-small-business">
+						<a href="https://forums.verizon.com/t5/Small-Business-Products-Services/bd-p/Small_Business">Small Business Products & Services</a>
+					</li>
+					<li class="board-gi-gi-advocates">
+						<a href="https://forums.verizon.com/t5/Get-It-Got-It-Advocates/bd-p/GiGiAdvocates">Get It, Got It Advocates</a>
+					</li>
+					<li class="board-fios-test-drive">
+						<a href="https://forums.verizon.com/t5/FiOS-Test-Drive/bd-p/FiOSTestDrive">FiOS Test Drive</a>
+					</li>
+					<li class="board-homemonitoringcontrol">
+						<a href="https://forums.verizon.com/t5/Home-Monitoring-and-Control/bd-p/homemonitoringcontrol">Home Monitoring and Control</a>
+					</li>
+					<li class="board-img19">
+						<a href="https://forums.verizon.com/t5/Interactive-Media-Guide-1-9/bd-p/IMG19">Interactive Media Guide 1.9</a>
+					</li>
+					<li class="board-homenetworking">
+						<a href="https://forums.verizon.com/t5/Home-Networking/bd-p/homenetworking">Home Networking</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="category cat-promotions">
+			<div class="heading">
+				<div class="title"><a href="https://forums.verizon.com/t5/Promotions-and-Events/ct-p/Promotions">Promotions and Events</a></div>
+				<div class="post-count">6</div>
+				<div class="icon"></div>
+			</div>
+			<div class="content">
+				<ul class="boards">
+					<li class="board-trivia">
+						<a href="https://forums.verizon.com/t5/Community-Trivia/bd-p/Trivia">Community Trivia</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+		
+			
+		
+			
+		
+			<div class="lia-panel lia-panel-standard CustomContent Chrome lia-component-common-widget-custom-content"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper"><div class="lia-panel-heading-bar"><span class="lia-panel-heading-bar-title">My Rewards+</span></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content"><b>Start earning points</b>
+Enrolling in <a href=https://www.verizon.com/home/mlp/myrewards.html>My Rewards+</a>    is quick, free and easy</br>
+<hr>
+<b>Refer A Friend</b><br>
+<a href=https://www.verizon.com/foryourhome/myaccount/pr/rewards/raf">Refer friends</a> to the Verizon Fios Family, and earn 10,000 My Rewards+ points</br></div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+			<div class="lia-panel lia-panel-standard UsersOnlineAvatarsTaplet Chrome lia-component-users-widget-users-avatars-online"><div class="lia-decoration-border"><div class="lia-decoration-border-top"><div> </div></div><div class="lia-decoration-border-content"><div><div class="lia-panel-heading-bar-wrapper"><div class="lia-panel-heading-bar"><span class="lia-panel-heading-bar-title">Users Online (1,398)</span></div></div><div class="lia-panel-content-wrapper"><div class="lia-panel-content"><div id="usersOnlineAvatarsTaplet" class="UsersOnlineAvatarsTaplet lia-users-online-avatars">
+	<ul id="list_0" class="lia-list-tile">
+	
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_78" href="/t5/user/viewprofilepage/user-id/169083"><img class="lia-user-avatar-message" title="Verizon_Support" alt="Verizon_Support" id="display_11" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/11960041_10155928983415123_6200280019938013320_n/avatar-theme/legacyclassic/avatar-collection/Administrator__Administrator/avatar-display-size/profile"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_79" href="/t5/user/viewprofilepage/user-id/233251"><img class="lia-user-avatar-message" title="Li-Anthony" alt="Li-Anthony" id="display_12" src="https://vrzn.i.lithium.com/t5/image/serverpage/image-id/17584iA45AAB0A92AAB7C2/image-dimensions/40x40?v=1.0"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_80" href="/t5/user/viewprofilepage/user-id/112099"><img class="lia-user-avatar-message" title="silverado4x4" alt="silverado4x4" id="display_13" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/environment-sunset/avatar-theme/legacyclassic/avatar-collection/environment/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_81" href="/t5/user/viewprofilepage/user-id/238762"><img class="lia-user-avatar-message" title="lilake_api_user" alt="lilake_api_user" id="display_14" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/car-jumping/avatar-theme/legacyclassic/avatar-collection/cars/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_82" href="/t5/user/viewprofilepage/user-id/254888"><img class="lia-user-avatar-message" title="LithiumResponse" alt="LithiumResponse" id="display_15" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/casino-jack/avatar-theme/legacyclassic/avatar-collection/casino/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_83" href="/t5/user/viewprofilepage/user-id/228126"><img class="lia-user-avatar-message" title="JustinG" alt="JustinG" id="display_16" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/hp_mini/avatar-theme/legacyclassic/avatar-collection/Wireless_Devices/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_84" href="/t5/user/viewprofilepage/user-id/258437"><img class="lia-user-avatar-message" title="stevee511" alt="stevee511" id="display_17" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/dome/avatar-theme/legacyclassic/avatar-collection/robots/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_85" href="/t5/user/viewprofilepage/user-id/258435"><img class="lia-user-avatar-message" title="vt1337" alt="vt1337" id="display_18" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/badcrownday/avatar-theme/legacyclassic/avatar-collection/characters/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_86" href="/t5/user/viewprofilepage/user-id/256409"><img class="lia-user-avatar-message" title="KevSha72" alt="KevSha72" id="display_19" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/animal-kitten/avatar-theme/legacyclassic/avatar-collection/animals/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_87" href="/t5/user/viewprofilepage/user-id/258434"><img class="lia-user-avatar-message" title="Jetaun" alt="Jetaun" id="display_20" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/crab/avatar-theme/legacyclassic/avatar-collection/ocean/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_88" href="/t5/user/viewprofilepage/user-id/240207"><img class="lia-user-avatar-message" title="ds00424" alt="ds00424" id="display_21" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/casino-roulette/avatar-theme/legacyclassic/avatar-collection/casino/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_89" href="/t5/user/viewprofilepage/user-id/258433"><img class="lia-user-avatar-message" title="Stacey77" alt="Stacey77" id="display_22" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/music-dj2/avatar-theme/legacyclassic/avatar-collection/music/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_90" href="/t5/user/viewprofilepage/user-id/258432"><img class="lia-user-avatar-message" title="abirosak" alt="abirosak" id="display_23" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/bunnysuit/avatar-theme/legacyclassic/avatar-collection/characters/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_91" href="/t5/user/viewprofilepage/user-id/156063"><img class="lia-user-avatar-message" title="tns2" alt="tns2" id="display_24" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/alien1/avatar-theme/legacyclassic/avatar-collection/aliens/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_92" href="/t5/user/viewprofilepage/user-id/258431"><img class="lia-user-avatar-message" title="honego" alt="honego" id="display_25" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/skating/avatar-theme/legacyclassic/avatar-collection/sports/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_93" href="/t5/user/viewprofilepage/user-id/101031"><img class="lia-user-avatar-message" title="LimeyDi" alt="LimeyDi" id="display_26" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/dinosaur1/avatar-theme/legacyclassic/avatar-collection/dinosaurs/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_94" href="/t5/user/viewprofilepage/user-id/245617"><img class="lia-user-avatar-message" title="jpuglin" alt="jpuglin" id="display_27" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/clam/avatar-theme/legacyclassic/avatar-collection/ocean/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_95" href="/t5/user/viewprofilepage/user-id/212477"><img class="lia-user-avatar-message" title="Fsim66" alt="Fsim66" id="display_28" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/bookofthedead/avatar-theme/legacyclassic/avatar-collection/misc/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_96" href="/t5/user/viewprofilepage/user-id/258429"><img class="lia-user-avatar-message" title="Denise1" alt="Denise1" id="display_29" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/moon/avatar-theme/legacyclassic/avatar-collection/faces/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+			<li>
+				<div class="UserAvatar lia-user-avatar">
+	
+			<a class="UserAvatar lia-link-navigation" target="_self" id="link_97" href="/t5/user/viewprofilepage/user-id/102963"><img class="lia-user-avatar-message" title="xxnonamexx" alt="xxnonamexx" id="display_30" src="https://vrzn.i.lithium.com/t5/image/serverpage/avatar-name/unicorn/avatar-theme/legacyclassic/avatar-collection/medieval/avatar-display-size/message/version/2"/>
+                
+            </a>
+		
+</div>
+			</li>
+		
+	
+</ul>
+</div></div></div></div></div><div class="lia-decoration-border-bottom"><div> </div></div></div></div>
+		
+			
+		
+			
+		
+	
+	
+</div>
+		</div>
+	</div><div class="lia-quilt-row lia-quilt-row-footer">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-common-footer">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<div class="lia-quilt lia-quilt-footer lia-quilt-layout-footer lia-component-quilt-footer" class="lia-quilt lia-quilt-footer lia-quilt-layout-footer">
+	<div class="lia-quilt-row lia-quilt-row-main">
+		<div class="lia-quilt-column lia-quilt-column-24 lia-quilt-column-single lia-quilt-column-icons">
+			<div class="lia-quilt-column-alley lia-quilt-column-alley-single">
+	
+		
+			<li:common-scroll-to class="lia-component-common-widget-scroll-to" li-bindable="" componentId="common.widget.scroll-to" mode="default"></li:common-scroll-to>
+		
+			<div class="LithiumLogo lia-component-common-widget-lithium-logo" class="LithiumLogo">
+	<a class="lia-link-navigation" alt="Powered by Lithium" title="Social CRM &amp; Community Solutions Powered by Lithium" target="_blank" id="link_98" href="http://www.lithium.com/brandnation"><img class="lia-img-button-lithium-logo lia-fa-button lia-fa-lithium lia-fa-logo" title="Social CRM &amp; Community Solutions Powered by Lithium" alt="Powered by Lithium" aria-label="Social CRM &amp; Community Solutions Powered by Lithium" id="display_31" src="https://vrzn.i.lithium.com/skins/images/0CD87B48589077BB1BD214484817321B/responsive_peak/images/button_lithium_logo.png"/></a>
+</div>
+		
+			
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+		
+			
+
+
+
+
+
+
+<div id="lia-panel-tooltip"></div>
+
+
+		
+			
+
+
+
+
+
+
+<div id="lia-panel-tooltip"></div>
+
+		
+	
+	
+</div>
+		</div>
+	</div>
+</div>
+	
+
+	
+						</div>
+					
+			</div>								
+		</div>
+	</div>
+
+				<input name="Template_Wrapper_Begin1:HdnPageName"
+id="Template_Wrapper_Begin1_HdnPageName" type="hidden"
+value="Home+Page" />
+<input name="Template_Wrapper_Begin1:HdnPageTitle"
+id="Template_Wrapper_Begin1_HdnPageTitle" type="hidden"
+value="Home+Page" />
+<input name="Template_Wrapper_Begin1:Hdncontent"
+id="Template_Wrapper_Begin1_Hdncontent" type="hidden"
+value="forums.verizon.com/" />
+<input name="Template_Wrapper_Begin1:HdnUrl"
+id="Template_Wrapper_Begin1_HdnPageUrl" type="hidden"
+value="forums.verizon.com/" />
+<!-- UCM Mon Jan 22 19:11:45 EST 2018 -->
+<!-- SCB resp footer begin -->
+
+	<script type="text/javascript">var master_cookie_on="Y";</script>
+	<input type="hidden" id="currentDomain" value="https://www.verizon.com"/>
+	<input type="hidden" id="currentDomainVZ" value="https://www.verizon.com"/>
+	<input type="hidden" id="saveCartCookie" value=""/>
+	<input type="hidden" id="saveCartCkiexpsid" value=""/>
+	<input id="gn_ct_dn" name="gn_ct_dn" type="hidden" value="https://www.verizon.com"/>
+	<input type="hidden" id="ghf_client" value="resforums"/>
+	<input type="hidden" id="ghf_isvz" value="N"/>
+	
+	<script type="text/javascript">var scbType='resp';</script>
+	<script type="text/javascript" src="//www.verizon.com/home/ak-cached/2h/javascript/commons.js"></script>
+	<script type="text/javascript" src="//www.verizon.com/includes/javascript/omnicode.js"></script>
+	
+	
+	<script type="text/javascript" src="https://www.verizon.com/home/ak-cached/2h/javascript/myvzconsole.js"></script>
+	<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/resresponsive.js"></script>
+	
+	<link href="https://www.verizon.com/cs/groups/public/documents/document/rwd_header.css" rel="stylesheet" type="text/css">
+ 
+
+
+
+
+
+<span class="scbhidden">&nbsp;</span>
+</div></div></div></div>
+
+<!-- mp_trans_remove_start -->
+<script type="text/javascript" src="https://www.verizon.com/cs/groups/public/documents/adacct/oo_js.js"></script>
+<!-- mp_trans_remove_end -->
+
+
+<!--googleoff: all-->
+<noindex>	
+<div id="showmyvzres2012footer" style="display:block">
+	<script type="text/javascript">var boolSCt=true;</script>
+	<script type="text/javascript">
+	if(window.addEventListener){
+		window.addEventListener('load',function(){scbLoadJS('//www.verizon.com/cs/groups/public/documents/adacct/omnicodef.js');},false);
+		window.addEventListener('load',scbCheckPT,false);
+	}else if(window.attachEvent){
+		window.attachEvent('onload',function(){scbLoadJS('//www.verizon.com/cs/groups/public/documents/adacct/omnicodef.js');});
+		window.attachEvent('onload',scbCheckPT);
+	}
+	</script>
+
+
+<div class="mhide">
+
+<div id="ghffootercont">
+	<div id="ghffooter" style="width:985px;">
+		<div class="scbfnav" id="gfnav" style="width:985px;">
+			<div class="scbvzt">
+				<div class="clear centered scbminimap" id="minimap2012">
+					<div class="scbwrapper">
+						<div class="col first">
+							<p class="title">
+								Shop</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/home/fios-fastest-internet/" name="&amp;lid=//gftr//shop//fios internet">Fios Internet</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/fiostv/" name="&amp;lid=//gftr//shop//fios tv">Fios TV</a></li>
+								<li>
+									<a class="lq_orderflow" href="https://www.verizon.com/foryourhome/ordering/checkavailabilitylq.aspx?fromPersonalisation=y&BYOB=Y" name="&amp;lid=//shop//order//byob" onclick="scbResLQ_orderflow(event);">Build My Bundle</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/accessories/" name="&amp;lid=//shop//accessories">Accessories</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/shop/moving.htm" name="&amp;lid=//gftr//shop//moving made easy">Moving</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/fiosavailability/" name="&amp;lid=//gftr//shop//fios availability">Fios Availability</a></li>
+								<li id="scbftrspldeals">
+									<a href="https://www.verizon.com/home/bundles/fios/" name="&amp;lid=//gftr//shop//special deals">Special Deals</a></li>
+								<li>
+									<a href="https://www.verizon.com/home/highspeedinternet/" name="&amp;lid=//gftr//shop//high speed internet">High Speed Internet (DSL)</a>
+								</li>
+								<li>
+									<a href="https://www.verizon.com/home/verizonconnections" name="&amp;lid=//gftr//shop//discount programs">Discount Programs</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col">
+							<p class="title">
+								My Verizon</p>
+							<ul class="clean" id="scbmyvzminimap">
+								<li id="scbmyvzftpb">
+<script type="text/javascript">
+	var scbURL='https://www.verizon.com/foryourhome/billview/billing/mybill';
+	if(bLog){scbURL='https://www.verizon.com/foryourhome/ebillpay/billing/paybill?src=leftnav';}
+	document.write('<a href="'+scbURL+'" id="scbftrpaybill" name="&amp;lid=//gftr//myverizon//pay bill">Pay Bill<\/a>');</script>								</li>
+	
+								<li id="scbftraddorchangeservices">
+									<a href="https://www.verizon.com/foryourhome/ordering/myverizonnew/registrationbridge.aspx?FlowRoute=ACCOUNTREVIEW&Source=MYVER" name="&amp;lid=//gftr//myverizon//add or change services: footer">Add or Change Plan</a></li>
+	
+								<li id="scbmyvzsuspendmyserfooter">
+									<a href="https://www.verizon.com/foryourhome/myaccount/pr/dashboard/details?flow=vs" name="&amp;lid=//gftr//myverizon//suspend my services">Suspend My Service</a></li>
+								<li id="scbresmyrewardslink">
+									<a href="https://www.verizon.com/foryourhome/myaccount/ngen/pr/rwrds/home.aspx" name="&amp;lid=//gftr//myverizon//manage rewards+">My Rewards+</a></li>
+								<li id="scbvcmftrmyvzapps">
+									<a id="scbvcmftrmyvzappslink" href="https://www.verizon.com/fiostv/myapps/unprotected/apps.aspx" name="&lid=//gftr//myverizon//apps">Apps</a></li>
+								</li>
+<script type="text/javascript">
+	var scbTempLink='https://www.verizon.com/fiostv/myapps/unprotected/apps.aspx';
+	if(typeof(bLog)!='undefined' && bLog){
+		document.getElementById("scbvcmftrmyvzappslink").href='https://www.verizon.com/fiostv/myapps/members/apps.aspx';
+	}
+</script>
+							</ul>
+						</div>
+						<div class="col">
+							<p class="title">
+								Support</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/tv.htm" name="&amp;lid=//gftr//support//tv">TV</a></li>
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/internet.htm" name="&amp;lid=//gftr//support//internet">Internet</a></li>
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/phone.htm" name="&amp;lid=//gftr//support//phone">Phone</a></li>
+								<li>
+									<a href="https://www.verizon.com/support/residential/billingcenter/homepage.htm" name="&amp;lid=//gftr//support//billing">Account Billing</a></li>
+								<li>
+									<a id="scbftrsupportorderstatus" href="https://www.verizon.com/home/myverizon/" name="&amp;lid=//gftr//support//order status">Order Status</a></li>
+								<li>
+									<a href="https://www.verizon.com/ForYourHome/VZRepair/vziha/CheckStatus.aspx" name="&amp;lid=//gftr//support//repair status">Repair Status</a></li>
+								<li>
+<script type="text/javascript">
+document.write('<a href="http://'+vzForums+'" name="&amp;lid=//gftr//support tools//forums">Community Forums<\/a>');
+</script>								</li>
+								<li>
+									<a href="https://www.verizon.com/support/residential/contact-us/index.htm" name="&amp;lid=//gftr//corp//contact us">Contact Us</a></li>
+								<li>
+									<a href="https://www.verizon.com/foryourhome/vzrepair/vziha/requestrepair.aspx" name="&amp;lid=//gftr//support tools//trouble shooter">Troubleshooter</a></li>
+							</ul>
+						</div>
+<script type="text/javascript">
+var scbTVpath='/OnDemand';
+var scbTVauth='';
+if(vzFiOSTV.indexOf('www35')>-1){scbTVpath='/fiostv/myservices/Beta';}
+if(bLog){scbTVauth='/Members';}
+</script>						<div class="col">
+							<p class="title">
+								Watch Fios</p>
+							<ul class="clean">
+								<li>
+<script type="text/javascript">
+document.write('<a href="http://'+vzTV+'/series" name="&amp;lid=//gftr//watchfios//watch tv shows">Watch TV Shows<\/a>');</script>								</li>
+								<li>
+<script type="text/javascript">
+	document.write('<a href="http://'+vzTV+'/movies" name="&amp;lid=//gftr//watchfios//watch movies">Watch Movies<\/a>');</script>								</li>
+								<li>
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+'/fiostv/myservices/Members/ftvc5/tvlistings.aspx" name="&amp;lid=//gftr//watchfios//check tv listings">Check TV Listings<\/a>');
+</script>								</li>
+								<li id="scbftrprogmydvr">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+'/fiostv/myservices/members/ftvc5/schedules.aspx" name="&amp;lid=//gftr//watchfios//program my dvr">Program My DVR<\/a>');
+</script>								</li>
+								<li id="scbftrrentorbuymovies">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+scbTVpath+scbTVauth+'/Movies/All" name="&amp;lid=//gftr//watchfios//rent buy movies">Rent or Buy Movies<\/a>');
+</script>								</li>
+								<li id="scbmyvzppv">
+<script type="text/javascript">
+document.write('<a href="https://'+vzFiOSTV+scbTVpath+scbTVauth+'/Payperview/Home" name="&amp;lid=//gftr//watchfios//view ppv">View Pay Per View<\/a>');
+</script>								</li>
+							</ul>
+						</div>
+						<div class="col last">
+							<p class="title">
+								Tools</p>
+							<ul class="clean">
+								<li>
+									<a href="https://www.verizon.com/Support/Residential/Generic/General/Show-me.htm" name="&amp;lid=//gftr//support tools//remote assistance" onclick="scLinkTrack('prop11='+s_837.pfxID+'| '+s_837.simplepageName+'| //gftr//support tools//remote assistance^prop27=//gftr//support tools//remote assistance^prop37='+s_837.pfxID+'| '+s_837.simplepageName);" target="_blank">Remote Assistance</a></li>
+								<li>
+									<a href="http://www.verizonwireless.com/landingpages/report-security-vulnerability/" name="&amp;lid=//gftr//support tools//report security vulnerability">Report a Security Vulnerability</a></li>
+								<li>
+									<a href="http://www.verizon.com/announcements" name="&amp;lid=//gftr//myverizon//announcements">Announcements</a></li>
+								<li>
+									<a href="https://www.verizon.com/about/fios-accessibility-services/" name="&amp;lid=//gftr//support//accessibility">Accessibility</a></li>
+								<li>
+									<a href="https://www.verizon.com/info/" name="&amp;lid=//gftr//support//consumer education">Consumer Education</a></li>
+								<li>
+									<a href="https://www.verizon.com/speedtest/" name="&amp;lid=//gftr//shop//fios internet//speed test">Speed Test</a></li>
+							<li id="scbcobrowse">
+<!--cobrowse link-->								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+dispLayer('ghffootercont','block');
+dispLayer('minimap','none');
+if(typeof(strThisHref)!='undefined' && strThisHref.indexOf('/foryourhome/goflow')>-1){
+	dispLayer('minimap2012','none');
+}
+function isTablet(){return false;}
+</script>
+</div>
+<div class="scbvzt">
+	<div id="GlobalFooter">
+		<div class="footer" id="footer">
+			<div id="gf_footer">
+				<div class="top">
+					<div class="copyright_vz">
+						<span>&copy; 2018 Verizon</span></div>
+					<div class="fixer">
+						&nbsp;</div>
+				</div>
+				<div class="gb">
+					<ul>
+						<li>
+							<a href="http://www.verizon.com/about/" name="&amp;lid=//gftr//corp//about verizon">About Verizon</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/support/residential/contact-us/index.htm" name="&amp;lid=//gftr//corp//contact us">Contact Us</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/sitemap/" name="&amp;lid=//gftr//corp//site map">Site Map</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/careers/" name="&amp;lid=//gftr//corp//careers">Careers</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/terms/" name="&amp;lid=//gftr//corp//terms">Terms and Conditions</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/privacy/" name="&amp;lid=//gftr//corp//privacy">Privacy Policy</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="http://www.verizon.com/about/privacy/aboutourads/" name="&amp;lid=//gftr//corp//our ads">About Our Ads</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/fios/advertising-sales.html" name="&amp;lid=//gftr//corp//advertise with us">Advertise With Us</a></li>
+						<li>
+							|</li>
+						<li>
+							<a href="https://www.verizon.com/home/storelocator/" name="&amp;lid=//gftr//corp//store locator">Store Locator</a></li>
+					</ul>
+					<div class="social_icon">
+						<a class="scbressprite scbresiconfb" href="http://www.facebook.com/VerizonFiOS" name="&amp;lid=//gftr//social//facebook" target="_blank" title="Verizon on Facebook"><span class="scbhidden">Verizon on Facebook</span></a> <a class="scbressprite scbresicontw" href="http://twitter.com/verizonfios" name="&amp;lid=//gftr//social//twitter" target="_blank" title="Verizon on Twitter"><span class="scbhidden">Verizon on Twitter</span></a><a class="scbressprite scbresiconyt" href="http://www.youtube.com/user/verizon/Verizon" name="&amp;lid=//gftr//social//youtube" target="_blank" title="Verizon on YouTube"><span class="scbhidden">Verizon on YouTube</span></a></div>
+					<div class="icons">
+						<a class="scbressprite scbbbb" href="http://www.bbb.org/new-york-city/business-reviews/telephone-companies/verizon-communications-in-new-york-ny-411/#bbbonlineclick" name="&amp;lid=//gftr//corp//bbb" style="display:inline-block;" target="_blank" title="Verizon Communications BBB Business Review"><span class="scbhidden">Verizon Communications Better Business Bureau Business Review</span></a></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</div>
+<script type="text/javascript">scbSessionTO();
+			var scbRefererURL=document.location.href;
+			if(typeof(scbPCAll)=='undefined' || !scbPCAll){
+				var docDomainFtr=document.domain;
+				var actualDomainFtr=docDomainFtr.split('.')[1];
+				if(actualDomainFtr=='verizon' || actualDomain=='ebiz' ){
+					var domainEnvF=document.getElementById('currentDomain').value;
+					scbLoadJS(domainEnvF+'/home/commongh?ProcessClass=all&a=3&nocache='+Math.random()+'&scbReferrerURL='+scbRefererURL);
+				}
+			}else if(scbPCAll){
+				setTimeout('scbUpdate2012Links()',500);
+			}</script>
+
+</noindex>
+<!--googleon: all-->
+<!-- SCB footer end -->
+<!-- ************ End : Single Code Base Footer ************ -->
+
+
+<input type="hidden" name="hf_sn" value="sc2" />
+			
+		</center>
+	</div>
+	
+	
+	
+	
+	
+	
+<script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/15670216085CB88674074EF5BF1BA11D/lia-scripts-angularjs-min.js"></script><script language="javascript" type="text/javascript">
+<!--
+
+LITHIUM.AngularSupport.setOptions({
+  "useCsp" : true,
+  "useNg2" : false,
+  "coreModuleDeps" : [
+    "li.directives.common.slide-menu",
+    "li.directives.community.navigation",
+    "li.directives.common.scroll-to",
+    "li.directives.common.non-bindable"
+  ],
+  "debugEnabled" : false
+});
+LITHIUM.AngularSupport.initGlobal(angular);// -->
+</script><script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/A18D43DDF4A58C2472D9214EDE013C50/lia-scripts-angularjsModules-min.js"></script><script language="javascript" type="text/javascript">
+<!--
+LITHIUM.AngularSupport.init();LITHIUM.Globals.restoreGlobals(['define', '$', 'jQuery', 'angular']);// -->
+</script><script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/029B6A68A04903C699384D70F425B7BE/lia-scripts-common-min.js"></script><script type="text/javascript" src="https://vrzn.i.lithium.com/t5/scripts/7D9B1C064C8632BA627C783F451387CE/lia-scripts-body-min.js"></script><script type="text/javascript" src="/plugin/js/standalone/common/InlineLabelEditor.js"></script><script language="javascript" type="text/javascript">
+<!--
+LITHIUM.Sandbox.restore();
+LITHIUM.jQuery.fn.cssData.defaults = {"dataPrefix":"lia-js-data","pairDelimeter":"-","prefixDelimeter":"-"};
+; (function ($) {
+	$(function(){
+		if ($(".lia-quilt-agent-support-page select.lia-tabselect2").length){
+			setTimeout(function(){
+				$(".lia-quilt-agent-support-page #tabgroup ul.lia-tabs-sort").show()
+			},750);
+		}
+		if (navigator.userAgent.match(/(vzapp-ios|vzapp-android)/i)) {
+			$('#showmyvzres2012header').hide();
+		};
+	});
+})(LITHIUM.jQuery);
+
+LITHIUM.DropDownMenu({"hoverLeaveEvent":"LITHIUM:hoverLeave","mouseoverElementSelector":".lia-js-mouseover-menu","menuOpenCssClass":"dropdownHover","clickElementSelector":".lia-js-click-menu","menuElementSelector":".lia-menu-navigation-wrapper","menuItemsSelector":".lia-menu-dropdown-items","menuClosedEvent":"LITHIUM:menuClosed","closeMenuEvent":"LITHIUM:closeMenu","menuOpenedEvent":"LITHIUM:menuOpened"});
+LITHIUM.Form.resetFieldForFocusFound();
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_0","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_1","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_2","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_3","feedbackSelector":".InfoMessage"});
+LITHIUM.AjaxFeedback(".lia-inline-ajax-feedback", "LITHIUM:hideAjaxFeedback", ".lia-inline-ajax-feedback-persist");
+LITHIUM.FormActions.defaultTextOnHover({"cssClass":"lia-form-default-text","fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community","onHoverCssClass":"lia-form-default-text-hover"});
+LITHIUM.FormActions.defaultTextOnClick({"fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community"});
+LITHIUM.Placeholder();
+LITHIUM.AutoComplete({"options":{"triggerTextLength":0,"loadingText":"Searching...","emptyText":"No Matches","successText":"Results:","defaultText":"Enter a search word","disabled":false,"footerContent":[{"scripts":"\n\n;(function($){LITHIUM.Link=function(params){var $doc=$(document);function handler(event){var $link=$(this);var token=$link.data('lia-action-token');if($link.data('lia-ajax')!==true&&token!==undefined){if(event.isPropagationStopped()===false&&event.isImmediatePropagationStopped()===false&&event.isDefaultPrevented()===false){event.stop();var $form=$('<form>',{method:'POST',action:$link.attr('href'),enctype:'multipart/form-data'});var $ticket=$('<input>',{type:'hidden',name:'lia-action-token',value:token});$form.append($ticket);$(document.body).append($form);$form.submit();$doc.trigger('click');}}}\nif($doc.data('lia-link-action-handler')===undefined){$doc.data('lia-link-action-handler',true);$doc.on('click.link-action',params.linkSelector,handler);$.fn.on=$.wrap($.fn.on,function(proceed){var ret=proceed.apply(this,$.makeArray(arguments).slice(1));if(this.is(document)){$doc.off('click.link-action',params.linkSelector,handler);proceed.call(this,'click.link-action',params.linkSelector,handler);}\nreturn ret;});}}})(LITHIUM.jQuery);\r\n\nLITHIUM.Link({\n  \"linkSelector\" : \"a.lia-link-ticket-post-action\"\n});LITHIUM.AjaxSupport.defaultAjaxFeedbackHtml = \"<div class=\\\"lia-inline-ajax-feedback\\\">\\n\\t\\t\\t<div class=\\\"AjaxFeedback\\\" id=\\\"ajaxFeedback_c34b4a52ce371d\\\"><\\/div>\\n\\t\\t\\t\\n\\t\\n\\n\\t\\n\\n\\t\\t<\\/div>\\n\\t\\t\\n\\t\\n\\t\\t\\n\\t\\n\\t\\n\\t\\n\\t\\n\\t\\t<div class=\\\"lia-inline-ajax-feedback lia-component-common-widget-ajax-feedback\\\" class=\\\"lia-inline-ajax-feedback\\\">\\n\\t\\t\\t<div class=\\\"AjaxFeedback\\\" id=\\\"ajaxFeedback_c34b4a52ce371d\\\"><\\/div>\\n\\t\\t\\t\\n\\t\\n\\n\\t\\n\\n\\t\\t<\\/div>\";LITHIUM.AjaxSupport.defaultAjaxErrorHtml = \"<a name=\\\"feedback-error\\\"> <\\/a>\\n\\n\\t\\n\\t\\t<div class=\\\"InfoMessage lia-panel-feedback-inline-alert lia-component-common-widget-feedback\\\" class=\\\"InfoMessage lia-panel-feedback-inline-alert\\\" id=\\\"feedback_c34b4a52e3c216\\\">\\n\\t\\t\\t<div class=\\\"lia-text\\\">\\n\\t\\t\\t\\t\\n\\n\\t\\t\\t\\t\\n\\t\\t\\t\\t\\t<p ng-non-bindable=\\\"\\\" tabindex=\\\"0\\\" role=\\\"error\\\">Sorry, unable to complete the action you requested.<\\/p>\\n\\t\\t\\t\\t\\n\\n\\t\\t\\t\\t\\n\\n\\t\\t\\t\\t\\n\\n\\t\\t\\t\\t\\n\\t\\t\\t<\\/div>\\n\\n\\t\\t\\t\\n\\t\\t<\\/div>\";LITHIUM.AjaxSupport.fromLink('#disableAutoComplete_c34b4a52be9324', 'disableAutoComplete', '#ajaxfeedback_0', 'LITHIUM:ajaxError', {}, 'iKy4p4d1JLUTmBai7TjwKCTeBG_F_uP0BI0WAM3pmD4.', 'ajax');","content":"<a class=\"lia-link-navigation lia-autocomplete-toggle-off lia-link-ticket-post-action lia-component-search-action-disable-auto-complete\" data-lia-action-token=\"ReEi3iI6d6FKtKJ5psfPMu_xg9PyFjqhqpYuMUso_D8.\" rel=\"nofollow\" id=\"disableAutoComplete_c34b4a52be9324\" href=\"https://forums.verizon.com/t5/community/page.disableautocomplete:disableautocomplete?t:cp=action/contributions/searchactions\">turn off suggestions<\/a>"}]},"inputSelector":"#messageSearchField","redirectToItemLink":false,"url":"https://forums.verizon.com/t5/community/page.searchformv3.messagesearchfield.messagesearchfield:autocomplete?t:cp=search/contributions/page","resizeImageEvent":"LITHIUM:renderImages"});
+LITHIUM.FormActions.defaultTextOnHover({"cssClass":"lia-form-default-text","fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community","onHoverCssClass":"lia-form-default-text-hover"});
+LITHIUM.FormActions.defaultTextOnClick({"fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community"});
+LITHIUM.AutoComplete({"options":{"triggerTextLength":0,"loadingText":"Searching...","emptyText":"No Matches","successText":"Results:","defaultText":"Enter a search word","disabled":false,"footerContent":[{"scripts":"\n\n;(function($){LITHIUM.Link=function(params){var $doc=$(document);function handler(event){var $link=$(this);var token=$link.data('lia-action-token');if($link.data('lia-ajax')!==true&&token!==undefined){if(event.isPropagationStopped()===false&&event.isImmediatePropagationStopped()===false&&event.isDefaultPrevented()===false){event.stop();var $form=$('<form>',{method:'POST',action:$link.attr('href'),enctype:'multipart/form-data'});var $ticket=$('<input>',{type:'hidden',name:'lia-action-token',value:token});$form.append($ticket);$(document.body).append($form);$form.submit();$doc.trigger('click');}}}\nif($doc.data('lia-link-action-handler')===undefined){$doc.data('lia-link-action-handler',true);$doc.on('click.link-action',params.linkSelector,handler);$.fn.on=$.wrap($.fn.on,function(proceed){var ret=proceed.apply(this,$.makeArray(arguments).slice(1));if(this.is(document)){$doc.off('click.link-action',params.linkSelector,handler);proceed.call(this,'click.link-action',params.linkSelector,handler);}\nreturn ret;});}}})(LITHIUM.jQuery);\r\n\nLITHIUM.Link({\n  \"linkSelector\" : \"a.lia-link-ticket-post-action\"\n});LITHIUM.AjaxSupport.fromLink('#disableAutoComplete_c34b4a5317988d', 'disableAutoComplete', '#ajaxfeedback_0', 'LITHIUM:ajaxError', {}, 'ku60N7H53itKvHS4nZ9R8jVBjFWYytFIOsUr2THC9C4.', 'ajax');","content":"<a class=\"lia-link-navigation lia-autocomplete-toggle-off lia-link-ticket-post-action lia-component-search-action-disable-auto-complete\" data-lia-action-token=\"P5FBakacxRy5igjOu6ml_nnUVKvIj3u1PqjgnBeyZEI.\" rel=\"nofollow\" id=\"disableAutoComplete_c34b4a5317988d\" href=\"https://forums.verizon.com/t5/community/page.disableautocomplete:disableautocomplete?t:cp=action/contributions/searchactions\">turn off suggestions<\/a>"}]},"inputSelector":"#messageSearchField_0","redirectToItemLink":false,"url":"https://forums.verizon.com/t5/community/page.searchformv3.tkbmessagesearchfield.messagesearchfield:autocomplete?t:cp=search/contributions/page","resizeImageEvent":"LITHIUM:renderImages"});
+LITHIUM.FormActions.defaultTextOnHover({"cssClass":"lia-form-default-text","fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community","onHoverCssClass":"lia-form-default-text-hover"});
+LITHIUM.FormActions.defaultTextOnClick({"fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community"});
+LITHIUM.AutoComplete({"options":{"triggerTextLength":0,"loadingText":"Searching for users...","emptyText":"No Matches","successText":"Users found:","defaultText":"Enter a user name or rank","disabled":false,"footerContent":[{"scripts":"\n\n;(function($){LITHIUM.Link=function(params){var $doc=$(document);function handler(event){var $link=$(this);var token=$link.data('lia-action-token');if($link.data('lia-ajax')!==true&&token!==undefined){if(event.isPropagationStopped()===false&&event.isImmediatePropagationStopped()===false&&event.isDefaultPrevented()===false){event.stop();var $form=$('<form>',{method:'POST',action:$link.attr('href'),enctype:'multipart/form-data'});var $ticket=$('<input>',{type:'hidden',name:'lia-action-token',value:token});$form.append($ticket);$(document.body).append($form);$form.submit();$doc.trigger('click');}}}\nif($doc.data('lia-link-action-handler')===undefined){$doc.data('lia-link-action-handler',true);$doc.on('click.link-action',params.linkSelector,handler);$.fn.on=$.wrap($.fn.on,function(proceed){var ret=proceed.apply(this,$.makeArray(arguments).slice(1));if(this.is(document)){$doc.off('click.link-action',params.linkSelector,handler);proceed.call(this,'click.link-action',params.linkSelector,handler);}\nreturn ret;});}}})(LITHIUM.jQuery);\r\n\nLITHIUM.Link({\n  \"linkSelector\" : \"a.lia-link-ticket-post-action\"\n});LITHIUM.AjaxSupport.fromLink('#disableAutoComplete_c34b4a5340eb44', 'disableAutoComplete', '#ajaxfeedback_0', 'LITHIUM:ajaxError', {}, '1v5qFqJ3EwXd2cHXBj3paC5lK3dxpv3yB-Oes1qe844.', 'ajax');","content":"<a class=\"lia-link-navigation lia-autocomplete-toggle-off lia-link-ticket-post-action lia-component-search-action-disable-auto-complete\" data-lia-action-token=\"B79Wp8p-rJllaqY_y8nk6A0B0IXIBNPxDOQP4XMdDQI.\" rel=\"nofollow\" id=\"disableAutoComplete_c34b4a5340eb44\" href=\"https://forums.verizon.com/t5/community/page.disableautocomplete:disableautocomplete?t:cp=action/contributions/searchactions\">turn off suggestions<\/a>"}]},"inputSelector":"#userSearchField","redirectToItemLink":false,"url":"https://forums.verizon.com/t5/community/page.searchformv3.usersearchfield.usersearchfield:autocomplete?t:cp=search/contributions/page","resizeImageEvent":"LITHIUM:renderImages"});
+LITHIUM.AjaxSupport({"ajaxOptionsParam":{"event":"LITHIUM:userExistsQuery","parameters":{"javascript.ignore_combine_and_minify":"true"}},"tokenId":"ajax","elementSelector":"#userSearchField","action":"userExistsQuery","feedbackSelector":"#ajaxfeedback_0","url":"https://forums.verizon.com/t5/community/page.searchformv3.usersearchfield:userexistsquery?t:cp=search/contributions/page","ajaxErrorEventName":"LITHIUM:ajaxError","token":"KRwMkxD_IEzZMclcGhyyt-DznQHxKJk2Foo_D17JJRE."});
+LITHIUM.FormActions.defaultTextOnHover({"cssClass":"lia-form-default-text","fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community","onHoverCssClass":"lia-form-default-text-hover"});
+LITHIUM.FormActions.defaultTextOnClick({"fieldSelector":".lia-search-input-message","defaultText":"Search the Verizon Fios Community"});
+LITHIUM.AutoComplete({"options":{"triggerTextLength":0,"loadingText":"Searching...","emptyText":"No Matches","successText":"Results:","defaultText":"Enter a search word","disabled":false,"footerContent":[{"scripts":"\n\n;(function($){LITHIUM.Link=function(params){var $doc=$(document);function handler(event){var $link=$(this);var token=$link.data('lia-action-token');if($link.data('lia-ajax')!==true&&token!==undefined){if(event.isPropagationStopped()===false&&event.isImmediatePropagationStopped()===false&&event.isDefaultPrevented()===false){event.stop();var $form=$('<form>',{method:'POST',action:$link.attr('href'),enctype:'multipart/form-data'});var $ticket=$('<input>',{type:'hidden',name:'lia-action-token',value:token});$form.append($ticket);$(document.body).append($form);$form.submit();$doc.trigger('click');}}}\nif($doc.data('lia-link-action-handler')===undefined){$doc.data('lia-link-action-handler',true);$doc.on('click.link-action',params.linkSelector,handler);$.fn.on=$.wrap($.fn.on,function(proceed){var ret=proceed.apply(this,$.makeArray(arguments).slice(1));if(this.is(document)){$doc.off('click.link-action',params.linkSelector,handler);proceed.call(this,'click.link-action',params.linkSelector,handler);}\nreturn ret;});}}})(LITHIUM.jQuery);\r\n\nLITHIUM.Link({\n  \"linkSelector\" : \"a.lia-link-ticket-post-action\"\n});LITHIUM.AjaxSupport.fromLink('#disableAutoComplete_c34b4a536fc6e0', 'disableAutoComplete', '#ajaxfeedback_0', 'LITHIUM:ajaxError', {}, 'TemaL1sO5GUdr7-5GP2eDp0CeRFAsrSXkLnM2clcFks.', 'ajax');","content":"<a class=\"lia-link-navigation lia-autocomplete-toggle-off lia-link-ticket-post-action lia-component-search-action-disable-auto-complete\" data-lia-action-token=\"BP1R5Lz1ElPk4ccGXYuK9MHE1kXojiTO0EQ9gtZuhO4.\" rel=\"nofollow\" id=\"disableAutoComplete_c34b4a536fc6e0\" href=\"https://forums.verizon.com/t5/community/page.disableautocomplete:disableautocomplete?t:cp=action/contributions/searchactions\">turn off suggestions<\/a>"}]},"inputSelector":"#noteSearchField","redirectToItemLink":false,"url":"https://forums.verizon.com/t5/community/page.searchformv3.notesearchfield.notesearchfield:autocomplete?t:cp=search/contributions/page","resizeImageEvent":"LITHIUM:renderImages"});
+LITHIUM.Link({"linkSelector":"a.lia-link-ticket-post-action"});
+LITHIUM.AjaxSupport.fromLink('#enableAutoComplete', 'enableAutoComplete', '#ajaxfeedback_0', 'LITHIUM:ajaxError', {}, 's9xKJUV8Gaa-O-uU-nuKe-nujH3idayEgdjIQYl3x08.', 'ajax');
+LITHIUM.Tooltip({"bodySelector":"body#lia-body","delay":30,"triggerSelector":"#link_55","tooltipContentSelector":"#link_56-tooltip-element .content","position":["bottom","left"],"tooltipElementSelector":"#link_56-tooltip-element","events":{"def":"focus mouseover,blur mouseout"}});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_4","feedbackSelector":".InfoMessage"});
+LITHIUM.SearchAutoCompleteToggle({"containerSelector":"#searchautocompletetoggle","enableAutoCompleteSelector":".search-autocomplete-toggle-link","enableAutocompleteSuccessEvent":"LITHIUM:ajaxSuccess:enableAutoComplete","disableAutoCompleteSelector":".lia-autocomplete-toggle-off","disableAutocompleteSuccessEvent":"LITHIUM:ajaxSuccess:disableAutoComplete","autoCompleteSelector":".lia-autocomplete-input"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_5","feedbackSelector":".InfoMessage"});
+LITHIUM.SearchForm({"useAutoComplete":true,"selectSelector":".lia-search-form-granularity","useClearSearchButton":false,"buttonSelector":".lia-button-searchForm-action","formSelector":"#lia-searchformV3","inputSelector":"#messageSearchField","clearSearchButtonSelector":null});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#pageInformation","feedbackSelector":".InfoMessage"});
+LITHIUM.InformationBox({"updateFeedbackEvent":"LITHIUM:updateAjaxFeedback","componentSelector":"#informationbox_6","feedbackSelector":".InfoMessage"});
+  ;(function($) {
+    $(document).ready(function() {
+      $('.ham').click(function() {
+         $('.custom-community-banner').toggleClass('open');
+      });
+      $('.node-exp').click(function() {
+          $(this).toggleClass('opensub');
+          $(this).parent().find('.node-description').toggleClass('openex');
+      });
+    });
+  })(jQuery);
+
+LITHIUM.CustomEvent('.lia-custom-event', 'click');
+;(function($) {
+	$(document).ready(function() {
+		$("#lia-body .lia-content .custom-collapsible-menu .content").hide();
+		$("#lia-body .lia-content .custom-collapsible-menu .heading .icon").click(function()
+		{
+			$(this).parent().toggleClass("open");
+			$(this).parent().next(".content").toggleClass("active").toggle();
+		});
+	});
+})(LITHIUM.jQuery);
+
+;(function($LITH) {
+	$LITH(document).ready(function() {
+		var counter=0;
+		var renderedCssClass = "lia-panel-tooltip-tr-bl";
+		var fetchedElements = {};
+		$LITH('.lia-user-name span a, .lia-message-author span a, .UserName a, .vrzn_thread_author a, .lia-user-avatar a').each(function() {
+			 var item = $LITH(this);
+		     var href = item.attr('href');
+		     var userId = href.slice(href.lastIndexOf("/")+1);
+		     var tipWidth = 250;
+			 var itemWidthOffset = item.offset().left;
+			 
+			 if (item.attr('id') != "") {
+			 	$LITH("#" + item.attr('id')).children("img").removeAttr("title");
+			 }
+			 
+			 var position = 'top right';
+			 if ((itemWidthOffset + tipWidth) > $LITH(window).width()){
+			 	position = 'top left';
+			 }
+		     
+		     //Turn off rollover user info feature
+		     userId = "null";
+		     
+		     if (userId!="null" && isNaN(parseInt(userId)) == false){
+		     	var elementId = "lia_custom-tooltip_" + counter + "_" + userId;
+		     	$LITH("#lia-panel-tooltip").append("<div id='" + elementId + "' style='hidden'></div>");
+		     	
+		     	$LITH.ajax({
+					url: "/vrzn/restapi/vc/?restapi.response_template=user_infobox&user_id=" + userId,
+						success: function(data) {
+							$LITH("#" + elementId).append(data);
+							$LITH("#" + elementId).hide();
+						}
+				
+				});
+				
+				if (!$LITH("#" + elementId).hasClass(renderedCssClass)) {
+				     	$LITH("#" + elementId).addClass(renderedCssClass);	
+				}
+		     	var tooltipObj = item.tooltip({
+		     		tip: "#" + elementId,
+					position: position,
+		     		onBeforeShow: function() {
+				     	
+					 $LITH("#" + elementId).show();
+				     
+					}
+		     	});
+			 
+			}
+			counter++;
+		});
+	});
+})(LITHIUM.jQuery);
+
+;(function($) {
+	$(document).ready(function() {
+	
+		var counter=0;
+		var renderedCssClass = "lia-panel-tooltip-tr-bl";
+		var fetchedElements = {};
+		$('h2.message-subject').each(function () {
+			 var item = $(this);
+		     var msgItem = item.parents('tr.lia-list-row');
+
+		  if (msgItem.length>0) {
+		     var href = msgItem.attr('class');
+
+		     var UidIndex = href.indexOf("lia-js-data-messageUid-");
+			 if(UidIndex != -1)
+			 {
+			 	 UidIndex = UidIndex + 23;
+			     var msgId = href.slice(UidIndex, href.indexOf(" ", UidIndex));
+			 }
+			 else
+			 {
+			 	var msgId = "None";
+			 }
+			 var tipWidth = 250;
+			 var itemWidthOffset = item.offset().left;
+		     var position = 'top right';
+			 if ((itemWidthOffset + tipWidth) > $(window).width()){
+			 	position = 'top left';
+			 }
+		     
+		     if (msgId!="null"){
+		     	var elementId = "lia_custom-tooltip1_" + counter + "_" + msgId;
+		     	$("#lia-panel-tooltip").append("<div id='" + elementId + "' style='hidden'></div>");
+		     	
+		     	$.ajax({
+					url: "/vrzn/restapi/vc/?restapi.response_template=message_infobox&msg_id=" + msgId,
+						success: function(data) {
+							$("#" + elementId).append(data);
+							$("#" + elementId).hide();
+						
+						}
+				
+				});
+				
+				if (!$("#" + elementId).hasClass(renderedCssClass)) {
+				     	$("#" + elementId).addClass(renderedCssClass);	
+				}
+		     	var tooltipObj = item.tooltip({
+		     		tip: "#" + elementId,
+					position: position,
+		     		onBeforeShow: function() {
+				     	
+					 $("#" + elementId).show();
+				     
+					}
+		     	});
+			 
+			}
+			counter++;
+		  }	
+		});
+	});
+})(LITHIUM.jQuery);
+
+new Image().src = ["/","b","e","a","c","o","n","/","4","1","4","0","0","8","1","3","5","4","7","_","1","5","1","6","6","6","9","2","2","7","8","4","4",".","g","i","f"].join("");
+LITHIUM.Auth.API_URL = '/t5/util/authcheckpage';
+LITHIUM.Auth.LOGIN_URL_TMPL = '/t5/authentication/ssoredirectpage?action=login&referer=https%3A%2F%2FREPLACE_TEXT';
+LITHIUM.Auth.KEEP_ALIVE_URL = '/t5/status/blankpage?keepalive';
+LITHIUM.Auth.KEEP_ALIVE_TIME = 300000;
+LITHIUM.Auth.CHECK_SESSION_TOKEN = 'NYedKfryfXnqzNQM5fAJdYpN7pu4ObEGPvFv9NiVlQ4.';
+LITHIUM.AjaxSupport.useTickets = false;
+LITHIUM.SharedProfile.API_URL = '/t5/integratedprofile/sharedprofilepage';
+LITHIUM.SharedProfile.KLOUT_API_URL = 'https://api.klout.com/v1';
+LITHIUM.SharedProfile.KLOUT_API_KEY = '8krsdvdb5um75vvrcgpf75z8&channel=yw672l2gW61i9xN';
+LITHIUM.SharedProfile.KLOUT_WIDGET_URL = '//klout.com/js/widget/klout.widgets.js';
+LITHIUM.SharedProfile.KLOUT_KDC_URL = 'https://klout.com';
+LITHIUM.SharedProfile.CREATE_TOKEN_TOKEN = 'AoIu_2pLZ3GPCbN27b4uUWk0ZZxdhwXPF5f8YBGv2CM.';
+LITHIUM.SharedProfile.IN_TEST_GROUP = 'xFTrd4dgJE_dfBOkPFW4T0vGKOvarS-PIqjaYR044kc.';
+LITHIUM.SharedProfile.inTestGroup = false;
+LITHIUM.SharedProfile.showAuthCta = false;
+LITHIUM.SharedProfile.CONFIG_NAME = 'vrzn.prod';
+LITHIUM.Cache.CustomEvent.set([{"elementId":"link_57","stopTriggerEvent":false,"fireEvent":"LITHIUM:selectMessage","triggerEvent":"click","eventContext":{"message":854292}},{"elementId":"link_59","stopTriggerEvent":false,"fireEvent":"LITHIUM:selectMessage","triggerEvent":"click","eventContext":{"message":854450}},{"elementId":"link_61","stopTriggerEvent":false,"fireEvent":"LITHIUM:selectMessage","triggerEvent":"click","eventContext":{"message":851383}},{"elementId":"link_63","stopTriggerEvent":false,"fireEvent":"LITHIUM:selectMessage","triggerEvent":"click","eventContext":{"message":854172}}]);
+LITHIUM.Cache.SharedProfile.set([{"inTestGroup":true,"userId":234361},{"inTestGroup":true,"userId":84159},{"inTestGroup":true,"userId":2799},{"inTestGroup":true,"userId":228126},{"inTestGroup":true,"userId":156063},{"inTestGroup":false,"userId":-1}]);
+LITHIUM.Loader.runJsAttached();
+// -->
+</script><script type="text/javascript" src="/html/assets/hoverCard.js"></script>
+</body>
+</html>

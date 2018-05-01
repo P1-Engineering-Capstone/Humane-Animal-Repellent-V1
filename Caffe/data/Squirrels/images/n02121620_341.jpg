@@ -1,0 +1,404 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " class="no-js adaptivetheme">
+  <head>
+                  <link href="http://animals.sandiegozoo.org/themes/animals/images/touch-icons/Icon-76-2x.png" rel="apple-touch-icon" sizes="152x152" />
+                    <link href="http://animals.sandiegozoo.org/themes/animals/images/touch-icons/Icon-60-2x.png" rel="apple-touch-icon" sizes="120x120" />
+                    <link href="http://animals.sandiegozoo.org/themes/animals/images/touch-icons/Icon-76.png" rel="apple-touch-icon" sizes="76x76" />
+                    <link href="http://animals.sandiegozoo.org/themes/animals/images/touch-icons/Icon-60.png" rel="apple-touch-icon" sizes="60x60" />
+                    <link href="http://animals.sandiegozoo.org/themes/animals/images/touch-icons/Icon-60.png" rel="shortcut icon" />
+              <meta charset="utf-8" />
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-34548724-1", {"cookieDomain":"auto","allowLinker":true});ga("require", "linker");ga("linker:autoLink", ["animals.sandiegozoo.org, devanimals.sandiegozoo.org, adminanimals.sandiegozoo.org, www.animals.sandiegozoo.org"]);ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="/home" />
+<link rel="shortlink" href="/node/70" />
+<link rel="revision" href="/home" />
+
+    <title>Home | San Diego Zoo Animals &amp; Plants</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_DWNp7dOagEnVGID6ohdHM5eyNgo8g8Xf7muDU2bzVvo.css?oy5cyq" media="all" />
+<link rel="stylesheet" href="/themes/animals/https%3A//fonts.googleapis.com/css?family=Raleway%3A400%0D%0Ahttps%3A//fonts.googleapis.com/css&amp;oy5cyq" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_wPi1xiIRM_KEis33mu1wshH-gYrkgzGatbnq6IkEa_U.css?oy5cyq" media="all" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/70","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"theme":"animals","libraries":"animals\/animals.layout.page,animals\/base,animals\/color,animals\/comment,animals\/contact,animals\/custom_css,animals\/custom_css_file,animals\/fontfaceobserver,animals\/fonts,animals\/google_fonts,animals\/googlecse,animals\/mobile_blocks,animals\/mylist,animals\/responsive_menus,animals\/responsive_menus_horizontal,animals\/responsive_menus_offcanvas,animals\/responsive_tables,animals\/search,animals\/soundmanager2,animals\/taxonomy,animals\/title_styles,at_core\/at.breakpoints,at_core\/at.fastclick_initialize,at_core\/at.orientationchangereload,at_core\/at.settings,google_analytics\/google_analytics,statistics\/drupal.statistics,system\/base,views\/views.module"},"google_analytics":{"trackOutbound":true,"trackMailto":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackColorbox":true,"trackDomainMode":2,"trackCrossDomains":["animals.sandiegozoo.org, devanimals.sandiegozoo.org, adminanimals.sandiegozoo.org, www.animals.sandiegozoo.org"]},"animals":{"at_responsivemenus":{"bp":"all and (max-width: 75em)","default":"ms-horizontal","responsive":"ms-offcanvas","acd":{"acd_load":false}},"at_breakpoints":{"huge":{"breakpoint":"at_core.advanced.huge","mediaquery":"all and (min-width: 120.063em)"},"wide":{"breakpoint":"at_core.advanced.wide","mediaquery":"all and (min-width: 60.063em)"},"wide-isolate":{"breakpoint":"at_core.advanced.wide-isolate","mediaquery":"all and (min-width: 75em) and (max-width: 120em)"},"tablet":{"breakpoint":"at_core.advanced.tablet","mediaquery":"all and (max-width: 75em)"},"tablet-isolate":{"breakpoint":"at_core.advanced.tablet-isolate","mediaquery":"all and (min-width: 45.063em) and (max-width: 75em)"},"mobile-isolate":{"breakpoint":"at_core.advanced.mobile-isolate","mediaquery":"all and (max-width: 45em)"}}},"statistics":{"data":{"nid":"70"},"url":"\/core\/modules\/statistics\/statistics.php"},"user":{"uid":0,"permissionsHash":"2356baae3b569d37996dbc920afa3f09343e0a65b036861bb263d0ea16a17115"}}</script>
+<script src="/sites/default/files/js/js_BKcMdIbOMdbTdLn9dkUq3KCJfIKKo2SvKoQ1AnB8D-g.js"></script>
+<script src="/core/assets/vendor/modernizr/modernizr.min.js?v=3.3.1"></script>
+<script src="/sites/default/files/js/js_iOqqiQIbXAjtW0gD-OwMKvZ2VYMC-Z43jdWOjf84GaM.js"></script>
+
+  </head>
+    <body class="page-node-70 path-frontpage node--type-page site-name--san-diego-zoo-animals--plants theme-name--animals">
+    <a href="#highlighted" class="visually-hidden focusable skip-link">Skip to main content</a>
+    
+    
+<div class="page">
+        <div class="l-pr page__row pr-navbar" id="navbar">
+    <div class="l-rw regions container pr-navbar__rw arc--1 hr--1" data-at-regions="">
+        <div  data-at-region="region-navbar" class="l-r region pr-navbar__navbar"><div id="block-animals-branding" class="block block-branding block-system block-system-branding-block">
+  <div class="block__inner block-branding__inner">
+
+    
+        
+
+                <div class="block__content block-branding__content site-branding">
+                  <a href="http://animals.sandiegozoo.org/" title="Home" itemprop="url" rel="home" class="site-branding__logo-link">
+            <img src="/sites/default/files/logo-animals-plants-header.png" alt="Home" itemprop="logo" class="site-branding__logo-img" />
+          </a>
+                          <span class="site-branding__text">
+                          <strong class="site-branding__name">
+                <a href="http://animals.sandiegozoo.org/" title="Home" itemprop="url" rel="home" class="site-branding__name-link">San Diego Zoo Animals &amp; Plants</a>
+              </strong>
+                                  </span>
+              </div>
+    
+  </div>
+</div>
+
+<nav id="block-animals-main-menu" class="rm-block rm-config-provider--system rm-derivative-plugin--main rm-id--block-animals-main-menu has-title js-hide" role="navigation" aria-labelledby="block-animals-main-menu-menu">
+  <div class="rm-block__inner">
+
+    
+    <div class="rm-toggle" id="block-animals-main-menu-menu">
+            <button href="#rm-content" class="rm-toggle__link un-button" role='button' aria-controls="rm-content" aria-expanded="false" aria-lable="Main menu">
+        <svg class="rm-toggle__icon" viewBox="0 0 1792 1792" preserveAspectRatio="xMinYMid meet">
+          <path d="M1664 1344v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45zm0-512v128q0 26-19 45t-45 19h-1408q-26 0-45-19t-19-45v-128q0-26 19-45t45-19h1408q26 0 45 19t19 45z"/>
+        </svg>
+        <span class="rm-toggle__label">Main menu</span>
+      </button>
+    </div>
+    
+
+              <div class="rm-block__content" id="rm-content">
+		<div class="mobile-search">
+		<p></p>
+		</div>
+		
+                    <ul class="menu odd menu-level-1 menu-name--main">
+                          <li class="menu__item menu-title-home menu-plugin-id--standardfront-page"><a href="/" class="menu__link is-active" data-drupal-link-system-path="&lt;front&gt;">Home</a></li>                      <li class="menu__item menu__item--expanded menu-title-animals menu-plugin-id--menu-link-contenta329f6d9-7d1d-494a-838f-822934e69c1f"><a href="/animals" class="menu__link" data-drupal-link-system-path="node/296">Animals</a><ul class="menu even menu-level-2"><li class="menu__item menu-title-amphibians menu-plugin-id--menu-link-content6d4b834d-185b-451f-a75d-a959c281b4c1"><a href="/animals/amphibians" class="menu__link" data-drupal-link-system-path="node/28">Amphibians</a></li><li class="menu__item menu-title-arthropods menu-plugin-id--menu-link-contenta18f393b-5d17-4479-88ee-50f05d75ba5c"><a href="/animals/arthropods" class="menu__link" data-drupal-link-system-path="node/30">Arthropods</a></li><li class="menu__item menu-title-birds menu-plugin-id--menu-link-contentb5f9f43c-686c-4323-9d14-8deb81d66763"><a href="/animals/birds" class="menu__link" data-drupal-link-system-path="node/29">Birds</a></li><li class="menu__item menu-title-fish menu-plugin-id--menu-link-contentc557549c-69ef-4664-aa97-dbeda8432596"><a href="/animals/fish" class="menu__link" data-drupal-link-system-path="node/313">Fish</a></li><li class="menu__item menu-title-mammals menu-plugin-id--menu-link-contentaba47004-90a8-4b0b-bb2d-81518af27e35"><a href="/animals/mammals" class="menu__link" data-drupal-link-system-path="node/31">Mammals</a></li><li class="menu__item menu-title-reptiles menu-plugin-id--menu-link-content9ee17fa6-3490-4571-b02c-fb7ed560196e"><a href="/animals/reptiles" class="menu__link" data-drupal-link-system-path="node/32">Reptiles</a></li></ul></li>                      <li class="menu__item menu-title-plants menu-plugin-id--menu-link-contente11d209b-f8fa-427b-998e-17e940fc06b8"><a href="/plants" class="menu__link" data-drupal-link-system-path="node/307">Plants</a></li>                      <li class="menu__item menu-title-habitats menu-plugin-id--menu-link-content2180d03b-1f08-4254-b1d9-d6897c9a217a"><a href="/habitats" class="menu__link" data-drupal-link-system-path="node/309">Habitats</a></li>                      <li class="menu__item menu-title-regions menu-plugin-id--menu-link-contente817056e-6965-4bf0-9cad-ae37598c258f"><a href="/regions" class="menu__link" data-drupal-link-system-path="node/310">Regions</a></li>                      <li class="menu__item menu-title-zoonooz menu-plugin-id--menu-link-content9ce217d0-1b96-497b-baf7-d9af3f80ca17"><a href="http://zoonooz.sandiegozoo.org" class="menu__link">ZOONOOZ</a></li>                      <li class="menu__item menu-title-live-cams menu-plugin-id--menu-link-content7efe68a3-7cb2-4a9e-a3bb-554b06b105d3"><a href="/live-cams" class="menu__link" data-drupal-link-system-path="node/312">Live Cams</a></li>                      <li class="menu__item menu-title-videos menu-plugin-id--menu-link-content413346ed-6b65-44c9-b6b6-ded9dc88e262"><a href="/videos" class="menu__link" data-drupal-link-system-path="node/311">Videos</a></li>          </ul>
+  
+
+
+      </div>
+    
+  </div>
+</nav>
+<div id="block-googlecse" class="block block-config-provider--block-content block-derivative-plugin--_80d0456-4a3c-4bcc-a3f4-2e078260d709 block-id--block-googlecse">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div class="clearfix text-formatted field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field__items">
+          <div class="field__item"><gcse:searchbox-only></gcse:searchbox-only></div>
+      </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+</div>
+
+    </div>
+  </div>
+      <div class="l-pr page__row pr-highlighted" id="highlighted">
+    <div class="l-rw regions container pr-highlighted__rw arc--1 hr--1" data-at-regions="">
+        <div  data-at-region="region-highlighted" class="l-r region pr-highlighted__highlighted"><div class="views-element-container block block-config-provider--views block-derivative-plugin--home-hero-image-link-block-1 block-id--block-views-block-home-hero-image-link-block-1" id="block-views-block-home-hero-image-link-block-1">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div><div class="view view-home-hero-image-link view-id-home_hero_image_link view-display-id-block_1 js-view-dom-id-d35fb7eefff49133a689a19a8e61e12a1a851f04cd940128c1c1523cf4946276">
+  
+    
+      <div class="view-header">
+      
+    </div>
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="views-field views-field-field-image"><div class="field-content">  <img src="/sites/default/files/2017-08/animals_hero_orchid-tree-hongkong.jpg" width="1920" height="1080" alt="Hong Kong Orchid Tree" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-field-hero-image"><div class="field-content">  <img src="/sites/default/files/2017-08/home-orchidtrees-mobile.jpg" width="750" height="1334" alt="Hong Kong Orchid Tree" typeof="foaf:Image" />
+
+</div></div><div class="views-field views-field-path"><span class="field-content"><h2><span class="spotlight">SPOTLIGHT ON</span><br />
+Orchid Trees</h2>
+<a href="/plants/orchid-tree">Learn More About Orchid Trees</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+<div class="views-element-container block block-config-provider--views block-derivative-plugin--category-landing-pages-block-1 block-id--block-views-block-category-landing-pages-block-1" id="block-views-block-category-landing-pages-block-1">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div><div class="view view-category-landing-pages view-id-category_landing_pages view-display-id-block_1 js-view-dom-id-c51c311c9fe583f63f9c757f729c0b2229be136bae1cb8455023089174520aff">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/amphibians"><img src="/sites/default/files/2016-08/category-thumbnail-amphibians_0.jpg" width="640" height="479" alt="blue poison dart frog on a leaf" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/amphibians" hreflang="und">Amphibians</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/arthropods"><img src="/sites/default/files/2016-08/category-thumbnail-arthropods%20copy.jpg" width="640" height="479" alt="butterfly on purple and white flowers" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/arthropods" hreflang="und">Arthropods</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/birds"><img src="/sites/default/files/2016-08/category-thumbnail-birds_0.jpg" width="640" height="479" alt="hummingbird in orange tubular flower cluster" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/birds" hreflang="und">Birds</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/fish"><img src="/sites/default/files/2016-08/category-thumbnail-fish.jpg" width="640" height="479" alt="Koi face" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/fish" hreflang="en">Fish</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/mammals"><img src="/sites/default/files/2016-08/category-thumbnail-mammals_0.jpg" width="640" height="479" alt="giant panda holding up a thick stick of bamboo" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/mammals" hreflang="und">Mammals</a></span></div>
+  </div>
+    <div class="views-row">
+    <div class="views-field views-field-field-animals-thumbnail"><div class="field-content">  <a href="/animals/reptiles"><img src="/sites/default/files/2016-08/category-thumbnail-reptiles_0.jpg" width="640" height="479" alt="brown gecko on a leaf" typeof="foaf:Image" />
+</a>
+</div></div><div class="views-field views-field-title"><span class="field-content"><a href="/animals/reptiles" hreflang="und">Reptiles</a></span></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+<div data-drupal-messages>
+  </div>
+
+</div>
+
+    </div>
+  </div>
+          <div class="l-pr page__row pr-main" id="main-content">
+    <div class="l-rw regions container pr-main__rw arc--1 hr--1" data-at-regions="">
+        <div  data-at-region="region-content" class="l-r region pr-main__content"><article data-history-node-id="70" role="article" about="/home" typeof="schema:WebPage" class="node node--id-70 node--type-page node--view-mode-full">
+  <div class="node__container">
+
+    <header class="node__header">
+      
+      
+                        <h1 class="node__title"><span property="schema:name" class="field field--name-title field--type-string field--label-hidden">Home</span>
+</h1>
+                      <span property="schema:name" content="Home" class="rdf-meta hidden"></span>
+
+
+          </header>
+
+    <div class="node__content">
+      <div property="schema:text" class="clearfix text-formatted field field-node--body field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field__items">
+          <div property="schema:text" class="field__item"><div class="home-view-all-button">
+<a href="/animals"><img src="/themes/animals/images/home-button-view-all-animals-a-z.jpg" alt="View All Animals A-Z"></a>
+</div>
+<div class="home-plants">
+<a href="/plants"><img src="/themes/animals/images/home-plants.jpg" alt="PLANTS: San Diego Zoo Global's Botanical Collection"></a>
+</div>
+<div class="home-plants-mobile">
+<a href="/plants"><img src="/themes/animals/images/home-plants-mobile.jpg" alt="PLANTS: San Diego Zoo Global's Botanical Collection"></a>
+</div>
+
+</div>
+      </div>
+</div>
+
+    </div>
+
+  
+</article>
+</div>
+
+      
+      
+    </div>
+  </div>
+      <div class="l-pr page__row pr-content-suffix" id="content-suffix">
+    <div class="l-rw regions container pr-content-suffix__rw arc--1 hr--1" data-at-regions="">
+        <div  data-at-region="region-content-suffix" class="l-r region pr-content-suffix__content-suffix"><div class="views-element-container block block-config-provider--views block-derivative-plugin--zoonooz-story-link-block-1 block-id--block-views-block-zoonooz-story-link-block-1" id="block-views-block-zoonooz-story-link-block-1">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div><div class="view view-zoonooz-story-link view-id-zoonooz_story_link view-display-id-block_1 js-view-dom-id-87b8f036341055ae435105821fbb1a3929d5542caeb1a88788df3903c32ef047">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row">
+    <div class="views-field views-field-field-zoonooz-story-link"><div class="field-content"><div class="zoonooz-container">
+<div class="zoonooz-image">
+  <img src="/sites/default/files/2018-01/Mystique.jpg" width="1920" height="1075" alt="Melanistic amur leopard" typeof="Image" />
+
+
+</div>
+<div class="zoonooz-text">
+<div class="zoonooz-text-container">
+<h2>Black Beauty</h2>
+<div class="zoonooz-rule"></div>
+<p>She's mysterious, magnificent, and melanistic. Meet Mystique, an endangered amur leopard...</p>
+
+<div class="zoonooz-story-link">
+<a href="http://zoonooz.sandiegozoo.org/zoonooz/black-beauty/">Read ZOONOOZ article</a>
+</div>
+</div>
+</div>
+</div></div></div>
+  </div>
+
+    </div>
+  
+          </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+</div>
+
+    </div>
+  </div>
+          <footer class="l-pr page__row pr-footer" role="contentinfo" id="footer">
+    <div class="l-rw regions container pr-footer__rw arc--1 hr--1" data-at-regions="">
+        <div  data-at-region="region-footer" class="l-r region pr-footer__footer"><div id="block-footerlogorule" class="block block-config-provider--block-content block-derivative-plugin--_96abcf8-8592-4c20-bec0-9feb3ec08cb7 block-id--block-footerlogorule">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div class="clearfix text-formatted field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field__items">
+          <div class="field__item"><a href="/"><img src="/themes/animals/images/footer-animals-logo.png" alt="San Diego Zoo Global Animals and Plants" class="footer-logo"></a>
+
+</div>
+      </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+
+<nav id="block-ourfamilyofsites" class="block block-menu block-config-provider--system block-derivative-plugin--our-family-of-sites- block-id--block-ourfamilyofsites has-title" role="navigation" aria-labelledby="block-ourfamilyofsites-menu">
+  <div class="block__inner block-menu__inner">
+
+        
+    
+    <h2 class="block__title block-menu__title" id="block-ourfamilyofsites-menu"><span>Our Family of Sites:</span></h2>
+    
+
+              <div class="block__content block-menu__content">
+        
+                    <ul class="menu odd menu-level-1 menu-name--our-family-of-sites-">
+                          <li class="menu__item menu-title-san-diego-zoo menu-plugin-id--menu-link-content61b135df-e985-4af6-83d5-2dfa8554d348"><a href="http://zoo.sandiegozoo.org" title="San Diego Zoo website" class="menu__link">San Diego Zoo</a></li>                      <li class="menu__item menu-title-safari-park menu-plugin-id--menu-link-content774d7cb6-fa72-4327-9c26-5ffa7d832e87"><a href="http://sdzsafaripark.org" title="Safari Park website" class="menu__link">Safari Park</a></li>                      <li class="menu__item menu-title-institute menu-plugin-id--menu-link-contentb6970f89-2dd0-475d-b70f-6dfe0a4ea72a"><a href="http://institute.sandiegozoo.org" title="San Diego Zoo Global Institute for Conservation Research" class="menu__link">Institute</a></li>                      <li class="menu__item menu-title-wildlife-conservancy menu-plugin-id--menu-link-contentdd85a622-0420-4b7c-9e00-dcd6d18d354a"><a href="http://endextinction.org" title="San Diego Zoo Global Wildlife Conservancy website" class="menu__link">Wildlife Conservancy</a></li>                      <li class="menu__item menu-title-kids menu-plugin-id--menu-link-content840c4c48-e487-4bf4-9016-57532c18ecf6"><a href="http://kids.sandiegozoo.org" title="San Diego Zoo Kids website" class="menu__link">Kids</a></li>                      <li class="menu__item menu-title-sdz-global menu-plugin-id--menu-link-content60d31daf-c2a5-43e2-8c5e-e4303c735952"><a href="http://sandiegozooglobal.org" title="San Diego Zoo Global website" class="menu__link">SDZ Global</a></li>                      <li class="menu__item menu-title-zoonooz menu-plugin-id--menu-link-contentbc8db068-f472-494c-9731-9b63ce7764c0"><a href="http://zoonooz.sandiegozoo.org" title="San Diego Zoo Global ZOONOOZ website" class="menu__link">ZOONOOZ</a></li>          </ul>
+  
+
+
+      </div>
+    
+  </div>
+</nav>
+<div id="block-footerrule" class="block block-config-provider--block-content block-derivative-plugin--_765e1a5-2286-4db4-8c64-3fd719b1be02 block-id--block-footerrule">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div class="clearfix text-formatted field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field__items">
+          <div class="field__item"><img src="/themes/animals/images/footer-rule.jpg" alt="" class="footer-rule"></div>
+      </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+<div id="block-copyrightforfooter" class="block block-config-provider--block-content block-derivative-plugin--_7dbc714-c620-4077-8a50-1dfc4cef531f block-id--block-copyrightforfooter">
+  <div class="block__inner">
+
+    
+        
+
+          <div class="block__content">
+        <div class="clearfix text-formatted field field-block-content--body field-name-body field-type-text-with-summary field-label-hidden">
+    <div class="field__items">
+          <div class="field__item"><div class="footer-copyright"><script type="text/javascript">
+
+var mydate= new Date()
+var theyear=mydate.getFullYear()
+
+document.write("&copy; ")
+document.write(theyear)
+document.write("&nbsp;San Diego&nbsp;Zoo&nbsp;Global")
+</script>
+</div>
+<div class="footer-links">
+<a href="http://zoo.sandiegozoo.org/content/contact-us">Contact&nbsp;Us</a>
+<a href="http://zoo.sandiegozoo.org/content/privacy-policy">Privacy&nbsp;Policy</a>
+<a href="http://zoo.sandiegozoo.org/content/terms-use">Terms&nbsp;of&nbsp;Use</a>
+<a href="http://zoo.sandiegozoo.org/state-disclosures">State&nbsp;Disclosures</a>
+</div></div>
+      </div>
+</div>
+
+      </div>
+    
+  </div>
+</div>
+</div>
+
+    </div>
+  </footer>
+    
+</div>
+
+    
+    <script src="/sites/default/files/js/js_wEDi-8pWOEM9iT55u9lFJwMhLKZKXLjXkyPebzzuUqI.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/enquire.js/2.1.2/enquire.min.js"></script>
+<script src="/sites/default/files/js/js_c44m9H_1gZsFvQsBZweIzA0y2bQgvDhe9CXKLVZJjw0.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fontfaceobserver/2.0.8/fontfaceobserver.js"></script>
+<script src="/sites/default/files/js/js_g9MwOLv5jKCjknECopc9csfXQtN5iICqDJppNXc1D6A.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fastclick/1.0.6/fastclick.min.js"></script>
+<script src="/sites/default/files/js/js_OsganvCPGh6f4RqeOkbduPLV8cGTWdH-drD8_NwEFrw.js"></script>
+<script src="/sites/default/files/js/js_lmxx1sB7TNx4JVsCjEaTfFhRbm044AbXch1GbqzVBOQ.js"></script>
+
+  </body>
+</html>

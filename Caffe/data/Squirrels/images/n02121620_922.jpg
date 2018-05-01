@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+
+        <title>Page not found</title>
+
+        <link href="//www.amhglenwood.com/plugins/editor/cms/assets/css/fonts/proximaNova.css" rel="stylesheet">
+        <link href="//www.amhglenwood.com/plugins/editor/cms/assets/css/views/404.css" rel="stylesheet">
+
+        <script type="text/javascript">
+            function goToHome() {
+                location.href = "//www.amhglenwood.com";
+            }
+        </script>
+    </head>
+
+    <body>
+        <div class="outer">
+            <div class="middle">
+                <div class="inner">
+                    <div class="sub-inner">
+                        <div>
+                            <img src="//www.amhglenwood.com/plugins/editor/cms/assets/images/404.jpg" />
+                            <h1 class="page-title">Oops! Page Not Found</h1>
+                            <p class="intro-text">The link may have been mistyped or the page has been moved.</p>
+                            <br>
+                            <div id="go-back-button" onclick="goToHome();">
+                                <div>
+                                    <label class="unselectable">Go To Homepage</label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

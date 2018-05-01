@@ -1,0 +1,53 @@
+<html>
+<title> 404 File Not Found (SCDNR) </title>
+
+<style>
+#error { background-color:#FFFFFF;
+         }
+#error body { border: 1px solid #000000;
+               font-family:Geneva, Arial, Helvetica, sans-serif;} #error p {font-family:Geneva, Arial, Helvetica, sans-serif;}
+
+#error h1 {font-family:Geneva, Arial, Helvetica, sans-serif;}
+			  
+#error .identify {background-color:#ADC09F;
+                  color:#000000;
+				  font-size: 1.50em;
+				  padding: 10px;
+				  font-family:Geneva, Arial, Helvetica, sans-serif;
+				  width: 70%;
+				  margin-left: 20px;}	
+				  
+#error .message {margin-left: 25px;}
+#error form {margin: 10px;}		  
+</style>
+
+   <h1> The requested URL was not found on this server.</h1>
+     <body id="error">
+<div class="identify">
+SC Department of Natural Resources
+</div>
+<div class="message">
+<h1>404 File Not Found (www.dnr.sc.gov)</h1> 
+
+  <!--#if expr="$HTTP_REFERER" -->
+
+<p style="font-size:1.25em;">Sorry, but the page you are trying to view does not exist.</p> <p>Other ways to try and locate the document you are seeking:</p> <ul>
+   <li><p>Go to the site map: <a href="http://www.dnr.sc.gov/sitemap.html">http://www.dnr.sc.gov/sitemap.html</a></p>
+   </li>
+   
+   <li><p>Search for it by name or by words that can be found in that document:<p>
+     <p> <form method="GET" action="http://dnr.sc.gov/search.html" class="google"> <table border="0" cellpadding="0" cellspacing="0"> <tr> <td><strong>Search for</strong> &nbsp; </td>
+
+<td>
+<input type="text" name="q" id="q"size="23" maxlength="255" value="" alt="Enter search key words"></td> <td><input type="submit" name="sa" value="Go"> <input type="hidden" name="domains" value="www.dnr.sc.gov"> <input type="hidden" name="sitesearch" value=""> <input type="hidden" name="sitesearch" value="www.dnr.sc.gov" checked></td> </tr> </table> </form></p> </li> <li><p>Go to the sites main page: <a href="http://www.dnr.sc.gov/">www.dnr.sc.gov</a>.</p></li>
+</ul>
+
+
+  <!--#else -->
+
+    If you entered the URL manually please check your
+    spelling and try again.
+
+  <!--#endif -->
+</div>
+</html>

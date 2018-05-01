@@ -1,0 +1,636 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head itemscope itemtype="http://schema.org/WebSite">
+ <meta charset="utf-8" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <script src="//s.cdnvk.net/nocrawler/cky.js?t=1" async></script>
+ <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"
+  ></script>
+ <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+  defer></script>
+<script src="//s.cdnvk.net/dd/js/jquery.easing.js" defer></script>
+ <script src="//s.cdnvk.net/dd/js/blog.js?v=8" defer></script>
+ <script src="//s.cdnvk.net/dd/js/checkout_mc.js?v=13" defer></script>
+ <script src="//s.cdnvk.net/dd/js/homepage_mc.js?v=14" defer></script>
+ <script src="//s.cdnvk.net/dd/js/jquery.bvalidator-yc.js" defer></script>
+ <script>
+var dataLayer=[{"gtm.start":new Date().getTime(), "event":"gtm.js"}];
+(function(d,s,w,q,u,h,p) {
+  "use strict";
+  p=(h=d.getElementsByTagName("meta")[1]).parentNode;
+  function r(f) { q.length||o();typeof f=="function"&&q.push(f); };
+  function o(f) {
+    if (w.$.fn===u) setTimeout(o,128);
+    else while(f=q.shift()) $(f);
+  };
+  if (w.$===u) w.$=w.jQuery=r;
+  function n(u,e,a,v,r,k) {
+    k=d.createElement(e); k[a]=v; k[r]=u; p.insertBefore(k,h);
+  };
+  function css(u) { n(u,"link","rel","stylesheet","href"); };
+  function js(u) { n(u,"script",s,s,"src"); };
+  w.onload=function()
+  { js("//www.googletagmanager.com/gtm.js?id=GTM-WKDS792");
+  };
+  if(w.location.href.match(/^http:\/\/[^\/]+\/$/))
+    w.location.href=w.location.href.replace('p','ps');
+})(document,"async",window,[]);
+ </script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link href="//s.cdnvk.net/dd/mobilecowboys/css/fonts.css" rel="stylesheet" />
+<link href="//s.cdnvk.net/dd/mobilecowboys/css/icons.css" rel="stylesheet">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css" />
+<link href="//s.cdnvk.net/dd/mobilecowboys/css/default.css?v=2" rel="stylesheet" />
+<link rel="stylesheet" href="//s.cdnvk.net/dd/css/bvalidator.css" />
+<link rel="stylesheet" href="//s.cdnvk.net/dd/css/blog.css?v=3" />
+ <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />
+ <meta name="description" content="Mobile Cowboys is hét onafhankelijke mobiele blog van Nederland. Bij ons kun je ook terecht voor al je smartphone accessoires en voor mobiele abonnementen." />
+<title>Alles over smartphones en abonnementen | MobileCowboys.nl </title>
+    <link rel='shortcut icon' type='image/x-icon' href='//s.cdnvk.net/dd/favicon/mobilecowboys/favicon.ico' />
+    <link rel="manifest" href="//s.cdnvk.net/dd/favicon/mobilecowboys/manifest.json">
+    <link rel="apple-touch-icon" sizes="57x57" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="//s.cdnvk.net/dd/favicon/mobilecowboys/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="//s.cdnvk.net/dd/favicon/mobilecowboys/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="//s.cdnvk.net/dd/favicon/mobilecowboys/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="//s.cdnvk.net/dd/favicon/mobilecowboys/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="//s.cdnvk.net/dd/favicon/mobilecowboys/favicon-16x16.png">
+    <meta name="msapplication-TileImage" content="//s.cdnvk.net/dd/favicon/ms-icon-144x144.png">
+   <meta name="msapplication-TileColor" content="#ffffff">
+ <meta name="theme-color" content="#ffffff">
+  <meta name="format-detection" content="telephone=no" />
+ <link rel="canonical" href="https://www.mobilecowboys.nl/archief/images/upload/1191499934Hond-GSM-a.jpg" />
+ <link rel="next" href="https://www.mobilecowboys.nl/archief/images/upload/1191499934Hond-GSM-a.jpg?offset=100&limit=100" />
+</head>
+<body id="page-top" class=" mobilecowboys">
+<div class="col-xs-12 nopadding fixed overlay js_close-menu">&nbsp;</div>
+<header class="col-xs-12 nopadding hidden-xs hidden-sm">
+  <div class="container">
+    <div class="col-xs-12 nopadding top-header">
+      <ul class="right">
+        <li class="left">
+          <a href="tel:043-7820543" class="left">
+            Bel: 043 - 782 05 43
+          </a>
+        </li>
+        <li class="left">
+          <a href="/x/login" class="left">
+            Inloggen
+          </a>
+        </li>
+        <li class="left">
+          <a href="/x/contact" class="left">
+            Klantenservice
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="col-xs-12 nopadding bottom-header">
+      <a href="/" class="left logo">
+        <img src="//s.cdnvk.net/dd/mobilecowboys/img/mobilecowboys-logo.png" class="img-responsive left logo" alt="" title="" />
+      </a>
+      <div class="col-xs-6 smalltopmargin smallbottommargin right search-holder">
+        <form id="top_search_box" method="get" action="/x/searchresult">
+<div class="col-xs-12 search">
+  <input class="col-xs-12 nopadding" name="keyword" type="text" placeholder="Zoek naar een toestel of provider" />
+  <a href="javascript:;" class="col-xs-12 nopadding search-btn icon mc-search absolute" onclick="document.getElementById('top_search_box').submit();">
+    &nbsp;
+  </a>
+</div>
+</form>
+        <div class="checkout-btn-holder js_checkout-btn-holder absolute">
+          <a href="/x/winkelwagen" class="col-xs-12 nopadding checkout-btn icon mc-shoppingcart">
+            <span class="checkout-items text-center absolute winkel_text">0</span>
+          </a>
+          <input id="totalitem" type="hidden" value="0" /><span class="winkelwagen-menu absolute js_shoppingcart-menu shoppingcart_popup"><span class="col-xs-12 border winkelwagen-inside js_shoppingcart-menu-inside"></span></span>        </div>
+
+      </div>
+    </div>
+  </div>
+</header>
+<nav class="col-xs-12 nopadding">
+  <div class="js_mobile-search-holder mobile-search-holder col-xs-12 nopadding absolute">
+    <form id="top_search_box" method="get" action="/x/searchresult">
+<div class="col-xs-12 search">
+  <input class="col-xs-12 nopadding" name="keyword" type="text" placeholder="Zoek naar een toestel of provider" />
+  <a href="javascript:;" class="col-xs-12 nopadding search-btn icon mc-search absolute" onclick="document.getElementById('top_search_box').submit();">
+    &nbsp;
+  </a>
+</div>
+</form>
+    <a href="javascript:;" class="close-search js_search absolute icon mc-close">&nbsp;</a>
+  </div>
+  <div class="container">
+    <a href="/" class="left logo">
+      <img src="//s.cdnvk.net/dd/mobilecowboys/img/mobilecowboys-logo-xs.png" class="img-responsive left logo" alt="" title="" />
+    </a>
+    <div class="left main-menu js_main-menu">
+      <ul class="left">
+        <li class="left hidden-xs hidden-sm">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="/" class="left icon mc-home">&nbsp;</a>
+        </li>
+        <li class="col-xs-12 menu-head nopadding hidden-lg hidden-md js_close-menu">
+          <a href="javascript:;" class="col-xs-12">Hoofdmenu</a>
+          <span class="absolute icon mc-close">&nbsp;</span>
+        </li>
+        <li class="left">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="/x/toestel/" class="left">Smartphone</a>
+        </li>
+        <li class="left">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="/x/abonnement/" class="left">Abonnement</a>
+        </li>
+        <li class="left">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="/x/sim-only/" class="left">Sim Only</a>
+        </li>
+        <li class="left">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="javascript:;" class="left">Accessoires</a>
+          <ul class="submenu shadow absolute">
+            <li class="col-xs-12 nopadding">
+              <a href="/c/accessoires/?filter=48398" class="col-xs-12 nopadding">Alle accessoires</a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/hoesjes?filter=48389" class="col-xs-12 nopadding">
+                Hoesjes
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/powerbanks?filter=48399" class="col-xs-12 nopadding">
+                Powerbanks
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/screenprotectors?filter=48400" class="col-xs-12 nopadding">
+                Screenprotectors
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/opladers?filter=48401" class="col-xs-12 nopadding">
+                Opladers
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/kabels?filter=48402" class="col-xs-12 nopadding">
+                Kabels
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/accus?filter=48403" class="col-xs-12 nopadding">
+                Accus
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/geheugenkaarten?filter=48404" class="col-xs-12 nopadding">
+                Geheugenkaarten
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/houders?filter=48405" class="col-xs-12 nopadding">
+                Houders
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/oordopjes?filter=48406" class="col-xs-12 nopadding">
+                Oordopjes
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/selfie-sticks?filter=48407" class="col-xs-12 nopadding">
+                Selfie-sticks
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/headsets?filter=48408" class="col-xs-12 nopadding">
+                Headsets
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/koptelefoons?filter=48409" class="col-xs-12 nopadding">
+                Koptelefoons
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/speakers?filter=48410" class="col-xs-12 nopadding">
+                Speakers
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/toetsenborden?filter=48411" class="col-xs-12 nopadding">
+                Toetsenborden
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/stylus-pennen?filter=48412" class="col-xs-12 nopadding">
+                Stylus-pennen
+              </a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/c/vr-brillen?filter=48413" class="col-xs-12 nopadding">
+                VR-brillen
+              </a>
+            </li>
+          </ul>
+        </li>
+        <li class="left">
+          <span class="hover absolute">&nbsp;</span>
+          <a href="/x/blog/" class="left">Blog</a>
+          <ul class="submenu shadow absolute">
+            <li class="col-xs-12 nopadding">
+              <a href="/x/blog/" class="col-xs-12 nopadding">Blog</a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/x/blog/nieuws/" class="col-xs-12 nopadding">Nieuws</a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/x/blog/reviews/" class="col-xs-12 nopadding">Reviews</a>
+            </li>
+            <li class="col-xs-12 nopadding">
+              <a href="/x/blog/geruchten/" class="col-xs-12 nopadding">Geruchten</a>
+            </li>
+          </ul>
+        </li>
+        <li class="small left topmargin hidden-lg hidden-md">
+          <a href="/x/contact" class="left">
+            Hulp nodig?
+          </a>
+        </li>
+        <li class="small left hidden-lg hidden-md">
+          <a href="/x/login" class="left">
+            Inloggen
+          </a>
+        </li>
+        <li class="small left hidden-lg hidden-md">
+          <a href="/x/contact" class="left">
+            Klantenservice
+          </a>
+        </li>
+      </ul>
+    </div>
+    <span class="extra-menu-btn right hidden-xs hidden-sm">
+      <span class="hover absolute">&nbsp;</span>
+      <a href="/x/contact" class="left"><strong>Hulp nodig?</strong></a>
+    </span>
+    <ul class="mobile-header-menu right hidden-md hidden-lg">
+      <li class="mobile-search-btn left">
+        <a href="javascript:;" class="left icon mc-search js_search">&nbsp;</a>
+      </li>
+      <li class="left">
+        <a href="/x/winkelwagen" class="left icon mc-shoppingcart">
+          <span class="checkout-items text-center absolute winkel_text">0</span>
+        </a>
+      </li>
+      <li class="left">
+        <a href="javascript:;" class="left icon mc-menu js_menu">&nbsp;</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<form name="frmcart" action="/x/cartprocess" method="post">
+<input type="hidden" name="cmd" value="_add_product">
+<input type="hidden" name="selprod" value="0" >
+<input type="hidden" name="selqty" value="1" >
+<input type="hidden" name="cat_id" value="0" >
+<input type="hidden" name="group_id" value="0" >
+</form><section class="col-xs-12">
+  <div class="container">
+    <div class="col-xs-12 nopadding breadcrumbs-holder hidden-xs">
+      <ul class="left">
+        <li class="left">
+          <a href="/" class="icon mc-home left">&nbsp;</a>
+        </li>
+        <li class="left">
+          <span class="fa fa-angle-right left">&nbsp;</span>
+        </li>
+        <li class="left">
+          <span class="left">Sorry, de pagina die je zoekt kan helaas niet gevonden worden</span>
+        </li>
+      </ul>
+    </div>
+    <div class="white col-xs-12 inside largebottommargin">
+      <h1 class="col-xs-12 nopadding">Pagina niet gevonden!</h1>
+        <p class="col-xs-12 nopadding smallbottommargin">
+        Sorry, de pagina die je zoekt kan helaas niet gevonden worden.<br />
+        <a href="/" class="link">Terug naar homepagina &raquo;</a>
+        </p>
+    </div>
+  </div>
+</section>
+  <footer class="col-xs-12 nopadding">
+    <div class="container">
+      <div class="col-xs-12 nopadding usp-holder">
+        <div class="col-xs-12 col-lg-10 col-lg-offset-1 col-xs-offset-0 nopadding">
+          <div class="col-xs-12 col-sm-4 nopadding usp-item">
+            <div class="usp absolute">
+              <span class="icon mc-present absolute">&nbsp;</span>
+              <span class="col-xs-12 nopadding h3-title nowrap">
+                Morgen al in huis
+                <span class="col-xs-12 nopadding h3-sub-title">
+                  Vóór 22:00 uur, morgen in huis!
+                </span>
+              </span>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 nopadding usp-item">
+            <div class="usp absolute">
+              <span class="icon mc-overthinking absolute">&nbsp;</span>
+              <span class="col-xs-12 nopadding h3-title nowrap">
+                30 dagen bedenktijd
+                <span class="col-xs-12 nopadding h3-sub-title">
+                  Niet goed geld terug garantie
+                </span>
+              </span>
+            </div>
+          </div>
+          <div class="col-xs-12 col-sm-4 nopadding usp-item">
+            <div class="usp absolute">
+              <span class="icon mc-freeshipment absolute">&nbsp;</span>
+              <span class="col-xs-12 nopadding h3-title nowrap">
+                Gratis verzending
+                <span class="col-xs-12 nopadding h3-sub-title">
+                  Vanaf &euro;50,- gratis verzonden
+                </span>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 nopadding footer">
+        <div class="row">
+          <div class="col-xs-12 col-sm-8 nopadding">
+            <div class="col-xs-6 col-sm-4">
+              <div class="col-xs-12 nopadding h1-title">
+                Smartphones
+              </div>
+              <ul class="col-xs-12 nopadding footer-menu">
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/apple?filter=48416" class="col-xs-12 nopadding">
+                    Apple
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/samsung?filter=48388" class="col-xs-12 nopadding">
+                    Samsung
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/huawei?filter=48445" class="col-xs-12 nopadding">
+                    Huawei
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/oneplus?filter=48455" class="col-xs-12 nopadding">
+                    OnePlus
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/htc?filter=48472" class="col-xs-12 nopadding">
+                    HTC
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/lg?filter=48459" class="col-xs-12 nopadding">
+                    LG
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/google?filter=48464" class="col-xs-12 nopadding">
+                    Google
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/sony?filter=48467" class="col-xs-12 nopadding">
+                    Sony
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/alcatel?filter=48475" class="col-xs-12 nopadding">
+                    Alcatel
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/nokia?filter=48478" class="col-xs-12 nopadding">
+                    Nokia
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-6 col-sm-4">
+              <div class="col-xs-12 nopadding h1-title">
+                Accessoires
+              </div>
+              <ul class="col-xs-12 nopadding footer-menu">
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/hoesjes?filter=48389" class="col-xs-12 nopadding">
+                    Hoesjes
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/powerbanks?filter=48399" class="col-xs-12 nopadding">
+                    Powerbanks
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/screenprotectors?filter=48400" class="col-xs-12 nopadding">
+                    Screenprotectors
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/opladers?filter=48401" class="col-xs-12 nopadding">
+                    Opladers
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/kabels?filter=48402" class="col-xs-12 nopadding">
+                    Kabels
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/accus?filter=48403" class="col-xs-12 nopadding">
+                    Accus
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/geheugenkaarten?filter=48404" class="col-xs-12 nopadding">
+                    Geheugenkaarten
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/houders?filter=48405" class="col-xs-12 nopadding">
+                    Houders
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/oordopjes?filter=48406" class="col-xs-12 nopadding">
+                    Oordopjes
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/selfie-sticks?filter=48407" class="col-xs-12 nopadding">
+                    Selfie-sticks
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/headsets?filter=48408" class="col-xs-12 nopadding">
+                    Headsets
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/koptelefoons?filter=48409" class="col-xs-12 nopadding">
+                    Koptelefoons
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/speakers?filter=48410" class="col-xs-12 nopadding">
+                    Speakers
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/toetsenborden?filter=48411" class="col-xs-12 nopadding">
+                    Toetsenborden
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/stylus-pennen?filter=48412" class="col-xs-12 nopadding">
+                    Stylus-pennen
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/c/vr-brillen?filter=48413" class="col-xs-12 nopadding">
+                    VR-brillen
+                  </a>
+                </li>
+              </ul>
+            </div>
+            <div class="col-xs-4 hidden-xs">
+              <div class="col-xs-12 nopadding h1-title">
+                Providers
+              </div>
+              <ul class="col-xs-12 nopadding footer-menu">
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/t-mobile/" class="col-xs-12 nopadding">
+                    T-Mobile
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/vodafone/" class="col-xs-12 nopadding">
+                    Vodafone
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/tele-2/" class="col-xs-12 nopadding">
+                    Tele2
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/hollandsnieuwe/" class="col-xs-12 nopadding">
+                    Hollands Nieuwe
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/telfort/" class="col-xs-12 nopadding">
+                    Telfort
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/kpn/" class="col-xs-12 nopadding">
+                    KPN
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/abonnement/ben/" class="col-xs-12 nopadding">
+                    Ben
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/sim-only/simyo/" class="col-xs-12 nopadding">
+                    Simyo
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/sim-only/youfone/" class="col-xs-12 nopadding">
+                    Youfone
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/sim-only/simpel/" class="col-xs-12 nopadding">
+                    Simpel
+                  </a>
+                </li>
+                <li class="col-xs-12 nopadding">
+                  <a href="/x/sim-only/robin-mobile/" class="col-xs-12 nopadding">
+                    Robin Mobile
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+           <div class="col-xs-12 col-sm-4">
+            <div class="col-xs-12 inside newsletter-holder">
+              <span class="icon mc-newsletter absolute">&nbsp;</span>
+              <div class="col-xs-12 nopadding h1-title">
+                Nieuwsbrief
+              </div>
+              <p class="col-xs-12 nopadding">
+                Wil jij up-2-date blijven van alle nieuwste telefoons, gadgets en aanbiedingen?
+                <br />Schrijf je dan nu in voor onze nieuwsbrief!
+              </p>
+              <form id="newsletter-form1">
+              <div class="col-xs-12 nopadding input-holder smallbottommargin">
+                <input type="email" class="col-xs-12" type="text" placeholder="Jouw e-mailadres..." data-bvalidator-msg="Vul een geldig e-mailadres in!" data-bvalidator="required,email" id="newsletter_email" />
+              </div>
+              <a href="javascript:;" class="cta cta-blue right" id="btn_submit_newsletter">Aanmelden</a>
+
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-xs-12 nopadding bottom-footer">
+        &copy; MobileCowboys 2017
+        <ul class="right">
+          <li class="left">
+            <a href="/x/sitemap" class="left">
+              Sitemap
+            </a>
+          </li>
+          <li class="left">
+            <a href="/x/privacy" class="left">
+              Privacybeleid
+            </a>
+          </li>
+          <li class="left">
+            <a href="/x/algemene-voorwaarden" class="left">
+              Algemene voorwaarden
+            </a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  <!-- jQuery -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <!-- Bootstrap Core JavaScript -->
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.cycle2/2.1.6/jquery.cycle2.min.js"></script>
+  <script type="text/javascript" src="//s.cdnvk.net/dd/js/jquery-carousel.js"></script>
+  <script type="text/javascript" src="//s.cdnvk.net/dd/mobilecowboys/js/jquery.cycle2.scrollVert.min.js"></script>
+  <script type="text/javascript" src="//s.cdnvk.net/dd/js/jquery.cycle2.swipe.js"></script>
+
+  <!-- Custom Theme JavaScript -->
+  <script type="text/javascript" src="//s.cdnvk.net/dd/mobilecowboys/js/init.js"></script>
+</body>
+</html>

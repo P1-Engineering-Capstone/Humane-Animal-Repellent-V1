@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Page not found | Jenna LeJeune, Ph.D., Clinical Psychologist</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://portlandpsychology.com/wp-content/themes/2010-weaver/style.css" />
+<link rel="pingback" href="http://portlandpsychology.com/xmlrpc.php" />
+
+<!-- MapPress Easy Google Maps Version:2.46 (http://www.wphostreviews.com/mappress) -->
+<script type='text/javascript'>mapp = window.mapp || {}; mapp.data = [];</script>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jenna LeJeune, Ph.D., Clinical Psychologist &raquo; Feed" href="http://portlandpsychology.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jenna LeJeune, Ph.D., Clinical Psychologist &raquo; Comments Feed" href="http://portlandpsychology.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/portlandpsychology.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=1f1d06af5de4cccfad7cea8346198d03"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b===c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://portlandpsychology.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9' type='text/css' media='all' />
+<link rel='stylesheet' id='mappress-css'  href='http://portlandpsychology.com/wp-content/plugins/mappress-google-maps-for-wordpress/css/mappress.css?ver=2.46' type='text/css' media='all' />
+<script type='text/javascript' src='http://portlandpsychology.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://portlandpsychology.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://portlandpsychology.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://portlandpsychology.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://portlandpsychology.com/wp-includes/wlwmanifest.xml" /> 
+
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//portlandpsychology.com/?wordfence_logHuman=1&hid=4CBD0108BBBB9B703406FE09DBDABC3B');
+</script><script src='http://www.portlanddepressiontreatment.com/?dm=ea17a5b98861e902cef1d30a89c0eb55&amp;action=load&amp;blogid=14&amp;siteid=1&amp;t=1211859742&amp;back=http%3A%2F%2Fportlandpsychology.com%2Fhands.jpg' type='text/javascript'></script><!-- This site is using 2010 Weaver V1.5.4 subtheme: Wheat -->
+<meta name="description" content=" Jenna LeJeune, Ph.D. - Clinical Psychologist in Portland, Oregon " />
+<meta name="keywords" content="Jenna LeJeune, Ph.D., psychologist, portland, Oregon, 97212, counseling" />
+<link rel="stylesheet" type="text/css" media="all" href="http://portlandpsychology.com/wp-content/uploads/sites/14/weaver-subthemes/style-weaver.css" />
+<!-- Add your own CSS snippets between the style tags. -->
+<style type="text/css">
+</style>
+<!-- End of Weaver options -->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style></head>
+
+<body class="error404">
+<div id="wrapper" class="hfeed">
+
+    
+    <div id="header">
+	<div id="masthead">
+	    <div id="branding" role="banner">
+		<div id="ttw-site-logo"></div>
+		<div id="ttw-site-logo-link" onclick="location.href='http://portlandpsychology.com/';" style="cursor:pointer;"></div>
+				    		    <div id="site-title">
+		    <span>
+			<a href="http://portlandpsychology.com/" title="Jenna LeJeune, Ph.D., Clinical Psychologist" rel="home">Jenna LeJeune, Ph.D., Clinical Psychologist</a>
+		    </span>
+		    </div>
+		<div id="site-description">Licensed Psychologist, Portland, OR</div>
+						
+		<div id="access2" role="navigation">
+		    <div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+		    
+		</div><!-- #access2 -->
+
+				
+		<img src="" width="940" height="125" alt="" />
+				    
+	    </div><!-- #branding -->
+		
+	    <div id="access" role="navigation">
+		    		<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+
+		    		    <div class="menu"><ul>
+<li ><a href="http://portlandpsychology.com/">Home</a></li><li class="page_item page-item-4"><a href="http://portlandpsychology.com/about-me/">About me</a></li>
+<li class="page_item page-item-33"><a href="http://portlandpsychology.com/contact-me/">Contact me</a></li>
+<li class="page_item page-item-29"><a href="http://portlandpsychology.com/location/">Location</a></li>
+<li class="page_item page-item-6 page_item_has_children"><a href="http://portlandpsychology.com/psychotherapy/">Psychotherapy</a>
+<ul class='children'>
+	<li class="page_item page-item-8"><a href="http://portlandpsychology.com/psychotherapy/trauma/">Trauma</a></li>
+	<li class="page_item page-item-10"><a href="http://portlandpsychology.com/psychotherapy/intimacy/">Sexuality, intimacy and relationship issues</a></li>
+	<li class="page_item page-item-14"><a href="http://portlandpsychology.com/psychotherapy/interpersonal/">Interpersonal and Communication Skills</a></li>
+	<li class="page_item page-item-18"><a href="http://portlandpsychology.com/psychotherapy/eating/">Eating Disorders and Body Image Concerns</a></li>
+	<li class="page_item page-item-20"><a href="http://portlandpsychology.com/psychotherapy/anxiety/">Anxiety and Stress Management</a></li>
+	<li class="page_item page-item-23"><a href="http://portlandpsychology.com/psychotherapy/depression/">Depression</a></li>
+	<li class="page_item page-item-25"><a href="http://portlandpsychology.com/psychotherapy/personal/">Personal Growth and Values Clarification</a></li>
+	<li class="page_item page-item-27"><a href="http://portlandpsychology.com/psychotherapy/act/">Acceptance and Commitment Therapy</a></li>
+</ul>
+</li>
+<li class="page_item page-item-31"><a href="http://portlandpsychology.com/resources/">Resources</a></li>
+</ul></div>
+	    </div><!-- #access -->
+				
+	</div><!-- #masthead -->
+    </div><!-- #header -->
+
+    
+    <div id="main">
+
+	<div id="container">
+		<div id="content" role="main">
+
+			<div id="post-0" class="post error404 not-found">
+				<h1 class="entry-title">Not Found</h1>
+				<div class="entry-content">
+					<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+					<form role="search" method="get" id="searchform" class="searchform" action="http://portlandpsychology.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>				</div><!-- .entry-content -->
+			</div><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #container -->
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+
+    </div><!-- #main -->
+        	<div id="footer">
+		<div id="colophon">
+
+<strong><center>Contact Info: 3700 N Williams Ave. 
+Portland, OR 97227
+Phone: (503) 281-4852 x 15</center></strong><table id='ttw_ftable'><tr>
+ <td id='ttw_ftdl'><div id="site-info">
+  </div></td></tr></table>
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+            
+</div><!-- #wrapper -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7747748-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"http:\/\/portlandpsychology.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://portlandpsychology.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9'></script>
+<script type='text/javascript' src='http://portlandpsychology.com/wp-includes/js/wp-embed.min.js?ver=1f1d06af5de4cccfad7cea8346198d03'></script>
+</body>
+</html>
+
+<!-- Page generated by LiteSpeed Cache 1.6.7 on 2018-01-23 00:47:49 -->

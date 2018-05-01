@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.georgine.nl/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.georgine.nl/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>Page not found | Le Moulin de la Pommeraye</title>
+<link rel="alternate" type="application/rss+xml" title="Le Moulin de la Pommeraye &raquo; Feed" href="http://www.georgine.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Le Moulin de la Pommeraye &raquo; Comments Feed" href="http://www.georgine.nl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.georgine.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.15"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://www.georgine.nl/wp-includes/css/dashicons.min.css?ver=4.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='wunderground-css'  href='http://www.georgine.nl/wp-content/plugins/wunderground/assets/css/wunderground.css?ver=2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tt-easy-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2Cregular%7CItalianno%3Aregular&#038;subset=latin%2Call%2Call&#038;ver=4.3.15' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.georgine.nl/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://www.georgine.nl/wp-content/themes/twentyfifteen/style.css?ver=4.3.15' type='text/css' media='all' />
+<style id='twentyfifteen-style-inline-css' type='text/css'>
+
+		/* Custom Header Background Color */
+		body:before,
+		.site-header {
+			background-color: #8fb7c2;
+		}
+
+		@media screen and (min-width: 59.6875em) {
+			.site-header,
+			.secondary {
+				background-color: transparent;
+			}
+
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				color: #8fb7c2;
+			}
+		}
+	
+
+		/* Custom Sidebar Text Color */
+		.site-title a,
+		.site-description,
+		.secondary-toggle:before {
+			color: #110756;
+		}
+
+		.site-title a:hover,
+		.site-title a:focus {
+			color: #110756; /* Fallback for IE7 and IE8 */
+			color: rgba( 17, 7, 86, 0.7);
+		}
+
+		.secondary-toggle {
+			border-color: #110756; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 17, 7, 86, 0.1);
+		}
+
+		.secondary-toggle:hover,
+		.secondary-toggle:focus {
+			border-color: #110756; /* Fallback for IE7 and IE8 */
+			border-color: rgba( 17, 7, 86, 0.3);
+		}
+
+		.site-title a {
+			outline-color: #110756; /* Fallback for IE7 and IE8 */
+			outline-color: rgba( 17, 7, 86, 0.3);
+		}
+
+		@media screen and (min-width: 59.6875em) {
+			.secondary a,
+			.dropdown-toggle:after,
+			.widget-title,
+			.widget blockquote cite,
+			.widget blockquote small {
+				color: #110756;
+			}
+
+			.widget button,
+			.widget input[type="button"],
+			.widget input[type="reset"],
+			.widget input[type="submit"],
+			.widget_calendar tbody a {
+				background-color: #110756;
+			}
+
+			.textwidget a {
+				border-color: #110756;
+			}
+
+			.secondary a:hover,
+			.secondary a:focus,
+			.main-navigation .menu-item-description,
+			.widget,
+			.widget blockquote,
+			.widget .wp-caption-text,
+			.widget .gallery-caption {
+				color: rgba( 17, 7, 86, 0.7);
+			}
+
+			.widget button:hover,
+			.widget button:focus,
+			.widget input[type="button"]:hover,
+			.widget input[type="button"]:focus,
+			.widget input[type="reset"]:hover,
+			.widget input[type="reset"]:focus,
+			.widget input[type="submit"]:hover,
+			.widget input[type="submit"]:focus,
+			.widget_calendar tbody a:hover,
+			.widget_calendar tbody a:focus {
+				background-color: rgba( 17, 7, 86, 0.7);
+			}
+
+			.widget blockquote {
+				border-color: rgba( 17, 7, 86, 0.7);
+			}
+
+			.main-navigation ul,
+			.main-navigation li,
+			.secondary-toggle,
+			.widget input,
+			.widget textarea,
+			.widget table,
+			.widget th,
+			.widget td,
+			.widget pre,
+			.widget li,
+			.widget_categories .children,
+			.widget_nav_menu .sub-menu,
+			.widget_pages .children,
+			.widget abbr[title] {
+				border-color: rgba( 17, 7, 86, 0.1);
+			}
+
+			.dropdown-toggle:hover,
+			.dropdown-toggle:focus,
+			.widget hr {
+				background-color: rgba( 17, 7, 86, 0.1);
+			}
+
+			.widget input:focus,
+			.widget textarea:focus {
+				border-color: rgba( 17, 7, 86, 0.3);
+			}
+
+			.sidebar a:focus,
+			.dropdown-toggle:focus {
+				outline-color: rgba( 17, 7, 86, 0.3);
+			}
+		}
+	
+</style>
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.georgine.nl/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.georgine.nl/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='wp-add-custom-css-css'  href='http://www.georgine.nl?display_custom_css=css&#038;ver=4.3.15' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WuWidget = {"apiKey":"3ffab52910ec1a0e","_wpnonce":"129cf9ebef","ajaxurl":"http:\/\/www.georgine.nl\/wp-admin\/admin-ajax.php","is_admin":"","subdomain":"www"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-content/plugins/wunderground/assets/js/widget.min.js?ver=2.1.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.georgine.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.georgine.nl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.15" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=yes" /><!-- <meta name="NextGEN" version="2.1.15" /> -->
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fdfdb8; }
+</style>
+			
+							<style id="tt-easy-google-font-styles" type="text/css">
+			
+																						p {
+							color: #110756; font-family: 'Open Sans'; font-size: 14px; font-style: normal; font-weight: 300; 						}
+								
+																										h1 {
+							color: #69a1bf; font-family: 'Italianno'; font-size: 15px; font-style: normal; font-weight: 400; line-height: 0.9; text-transform: none; 						}
+								
+																										h2 {
+							color: #110756; font-family: 'Open Sans'; font-style: normal; font-weight: 300; 						}
+								
+																										h3 {
+							color: #69a1bf; font-family: 'Open Sans'; font-style: normal; font-weight: 300; 						}
+								
+																										h4 {
+							color: #110756; font-family: 'Open Sans'; font-style: normal; font-weight: 300; 						}
+								
+																										h5 {
+							font-family: 'Open Sans'; font-style: normal; font-weight: 300; 						}
+								
+																										h6 {
+							font-family: 'Open Sans'; font-size: 11px; font-style: normal; font-weight: 400; text-decoration: none; text-transform: none; 						}
+								
+																										 {
+							font-family: 'Open Sans'; font-style: normal; font-weight: 300; text-decoration: none; 						}
+								
+										
+							</style>
+						</head>
+
+<body class="error404 custom-background">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<H1 class="site-title"><a href="http://www.georgine.nl/" rel="home">Le Moulin de la Pommeraye</a></h1>
+									<button class="secondary-toggle">Menu and widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+					<nav id="site-navigation" class="main-navigation" role="navigation">
+				<center><div class="menu-georgine-container"><ul id="menu-georgine" class="nav-menu"><li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="http://www.georgine.nl/">Home</a></li>
+<li id="menu-item-48" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48"><a href="http://www.georgine.nl/galerij/">Fotogalerij</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10"><a href="http://www.georgine.nl/meteo/">Meteo</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://www.georgine.nl/wat-is-er-te-doen/">Wat is er te doen?</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="http://www.georgine.nl/route/">Route</a></li>
+<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="http://www.georgine.nl/36-2/">over Georgine</a></li>
+<li id="menu-item-287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-287"><a href="http://www.georgine.nl/for-sale-2/">For Sale / A Vendre / Te Koop</a></li>
+<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://www.georgine.nl/contact/">Contact</a></li>
+</ul></div></center>
+			</nav><!-- .main-navigation -->
+		
+		
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oops! That page can&rsquo;t be found.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>It looks like nothing was found at this location. Maybe try a search?</p>
+
+					<form role="search" method="get" class="search-form" action="http://www.georgine.nl/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Search" />
+			</form>				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://www.georgine.nl/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.georgine.nl/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
+
+</body>
+</html>

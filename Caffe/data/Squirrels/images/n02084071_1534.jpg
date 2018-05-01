@@ -1,0 +1,1194 @@
+<!DOCTYPE HTML>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="http://www.bazaarvoice.com/favicon.ico">
+	<link rel="apple-touch-icon" href="http://media2.bazaarvoice.com/designimages/apple-touch-icon.png">
+<title>Page not found | Bazaarvoice.com</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<meta property="og:title" content="Page not found">
+<meta property="og:site_name" content="Bazaarvoice" />
+
+
+<!-- CSS calls -->
+	<link rel="stylesheet" type="text/css" href="http://www.bazaarvoice.com/includes/70d76a7a2e08cd3ff78256c211a619de/bv-redesign-globalUI.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.bazaarvoice.com/includes/8bae27df685bebbb34cea3e794995102/bv-redesign-templateDefault-responsive-05142013.css" />
+	<link rel="stylesheet" type="text/css" href="http://www.bazaarvoice.com/includes/47c42dbda8276cb23f0cf91a67d8c754/BV_Redesign_Style.css" />
+	 
+<!-- Scripts -->
+
+	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries ** MUST BE INCLUDED ** -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+	<!-- Modenizr -->
+	<script src="http://www.bazaarvoice.com/includes/7695cd2c000f7ee9c3a8a4e242dc5ef7/modernizr-2.6.2-respond-1.1.0.min.js" type="text/javascript"></script>
+	
+	<!--Jquery stuff -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+	<script src="http://www.bazaarvoice.com/includes/f3e2d043376a3ebaf0d5e7806951edc9/jquerytools.js" type="text/javascript"></script>
+	<script src="http://www.bazaarvoice.com/includes/68f13a9208acf557fb238fbcc4a7304f/bv-redesign-jquery-ui-1.8.13.custom.min.js" type="text/javascript"></script>
+	
+	<!-- Marketo stuff -->
+		<script type="text/javascript">
+			document.write(unescape("%3Cscript src='" + document.location.protocol +
+			"//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+		</script>
+		<script>Munchkin.init('848-PGD-174');</script>
+
+	<!-- Google stuff -->
+		<meta name="google-site-verification" content="II-POfY7QMN4LF4TOFCTwX-b1sXGPVTJ-WRaMDPOp8U" />
+
+</head>
+<body id="">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-3QF5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-3QF5');</script>
+<!-- End Google Tag Manager -->
+
+	<!-- Existing JS from previous -->
+    <script type="text/javascript" >var js="0.0";</script>
+    <script type="text/javascript1.0" >js="1.0";</script>
+    <script type="text/javascript1.1">js="1.1";</script>
+    <script type="text/javascript1.2" >js="1.2";</script>
+    <script type="text/javascript1.3">js="1.3";</script>
+    <script type="text/javascript1.4" >js="1.4";</script>
+    <script type="text/javascript1.5">js="1.5";</script>
+    <script type="text/javascript1.6">js="1.6";</script>
+    <script type="text/javascript1.7">js="1.7";</script>
+    <script type="text/javascript1.8">js="1.8";</script>
+    <script type="text/javascript1.9">js="1.9";</script>
+           <script type="text/javascript">
+      /* <![CDATA[ */
+      var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=901535661";_q+="&7=1535661";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+      function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
+      function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for 
+	  (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=901535661";_qc+="&7=1535661";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;
+	  alert('There are two imwaretracker calls on this page. Please alert Client Services');
+	  }else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}/* ]]> */
+      </script>
+      <noscript>
+        <img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=901535661&7=1535661&25=0&18=0.6908872581616706">
+      </noscript><!-- NAVBAR-->
+<!-- NAVBAR================================================== -->
+<div class="navbar navbar-fixed-top" role="navigation">
+<div class="secondary-nav">
+<div class="container">
+<div class="collapse navbar-collapse">
+	<ul class="nav navbar-nav">            
+	  		<li  class="country" ><a href="/country-selector"  class="GTM-Nav-toprail" >Select country</a></li>  
+	  		<li ><a href="/about"  class="GTM-Nav-toprail" >About</a></li>  
+	  		<li ><a href="/about/clients"  class="GTM-Nav-toprail" >Our clients</a></li>  
+	  		<li ><a href="/about/locations/"  class="GTM-Nav-toprail" >Office locations</a></li>  
+	  		<li ><a href="/about/leaders"  class="GTM-Nav-toprail" >Leaders</a></li>  
+	  		<li ><a href="/careers/"  class="GTM-Nav-toprail" >Careers</a></li>  
+	  		<li ><a href="http://blog.bazaarvoice.com" target="_new"  class="GTM-Nav-toprail" >Blog</a></li>  
+	  		<li  class="login" ><a href="https://login.bazaarvoice.com/portal/app"  class="GTM-Nav-toprail" >Client login</a></li>  
+	  	</ul>
+	<div class="search">
+	  <div id="sb-search" class="sb-search">
+		<form action="/search" method="post">
+		  <input class="sb-search-input" placeholder="I'm searching for..." type="text" value="" name="keywords" id="keywords">
+		  <input class="sb-search-submit" type="submit" value="">
+		  <span class="sb-icon-search"></span>
+		</form>
+	  </div>
+	</div>
+</div><!--/.nav-collapse -->
+</div>
+</div>
+<div class="container">
+<div class="navbar-header">
+  <a class="navbar-brand" href="/"><img src="http://media2.bazaarvoice.com/designimages/bazaarvoice-logo-stacked.png"></a>
+</div>
+<ul id="jetmenu" class="jetmenu blue navbar-fixed-top">
+			  <li><a href="http://www.bazaarvoice.com/products" class="GTM-Nav-main">Products</a>
+	
+			<div class="megamenu full-width clearfix">
+		  <div class="row">
+			<div class="col2">
+			  <ul>                                                                              
+				<li class="title no-border-bottom">
+				
+				<h5>Our core offerings</h5>
+				
+				<p>The Bazaarvoice suite of applications is a cloud-based user-generated content engine that helps you capture, manage and respond to customer input to grow your business.</p>
+				</li>
+			  </ul>
+			</div>
+			      <!-- ID: 2353911 -->
+                  									<div class="col2">
+					<ul>
+								<li>
+				  <div class="col-sm-3"><a href="http://www.bazaarvoice.com/products/conversations"><img src="http://media2.bazaarvoice.com/designimages/conversations.png" style="max-width:73px"></a></div>
+					<div class="col-sm-9">
+											<p class="content-title">Bazaarvoice Conversations</p>
+										<p>Sell more by encouraging people to review products, ask questions, give answers, and share stories.</p>
+					<p><a href="http://www.bazaarvoice.com/products/conversations">Learn more »</a></p>
+				  </div>
+				</li>
+							      <!-- ID: 2353921 -->
+                  								<li>
+				  <div class="col-sm-3"><a href="http://www.bazaarvoice.com/products/connections"><img src="http://media2.bazaarvoice.com/designimages/connections.png" style="max-width:73px"></a></div>
+					<div class="col-sm-9">
+											<p class="content-title">Bazaarvoice Connections</p>
+										<p>Respond to shopper questions and reviews across our network of leading retail sites.</p>
+					<p><a href="http://www.bazaarvoice.com/products/connections">Learn more »</a></p>
+				  </div>
+				</li>
+							      <!-- ID: 2353941 -->
+                  								<li>
+				  <div class="col-sm-3"><a href="http://www.bazaarvoice.com/products/curations"><img src="http://media2.bazaarvoice.com/designimages/curations.png" style="max-width:73px"></a></div>
+					<div class="col-sm-9">
+											<p class="content-title">Bazaarvoice Curations</p>
+										<p>Increase engagement, trust and conversion by displaying authentic moderated social content directly on your site.</p>
+					<p><a href="http://www.bazaarvoice.com/products/curations">Learn more »</a></p>
+				  </div>
+				</li>
+									</ul>
+					</div>
+					<div class="col2">
+					<ul>
+							      <!-- ID: 2353951 -->
+                  								<li>
+				  <div class="col-sm-3"><a href="http://www.bazaarvoice.com/products/advertising"><img src="http://media2.bazaarvoice.com/designimages/media.png" style="max-width:73px"></a></div>
+					<div class="col-sm-9">
+											<p class="content-title">Bazaarvoice Advertising</p>
+										<p>Reach and influence true in-market shoppers</p>
+					<p><a href="http://www.bazaarvoice.com/products/advertising">Learn more »</a></p>
+				  </div>
+				</li>
+							      <!-- ID: 3041463 -->
+                  								<li>
+				  <div class="col-sm-3"><a href="http://brandedge.bazaarvoice.com/?trk=mega"><img src="http://media2.bazaarvoice.com/designimages/2017.06.NA.BV_BE_Mega_125x125.png" style="max-width:73px"></a></div>
+					<div class="col-sm-9">
+											<p class="content-title">Bazaarvoice Brand Edge</p>
+										<p>Drive retail channel sales by collecting consumer reviews and distributing them to retail e-commerce sites.</p>
+					<p><a href="http://brandedge.bazaarvoice.com/?trk=mega">Learn more »</a></p>
+				  </div>
+				</li>
+							              </div>
+		</div>
+		</li>
+		
+		
+			
+				
+							
+							  <li><a href="http://www.bazaarvoice.com/solutions" class="GTM-Nav-main">Solutions</a>
+	
+			
+		
+		<div class="megamenu full-width clearfix">
+		  <div class="row">
+			<div class="col2">
+			  <ul>                                                                              
+				<li class="title no-border-bottom">
+				
+				<h5>Put user-generated content to work</h5>
+				
+				<p>Learn how the Bazaarvoice platform can help your business reach and engage consumers, boosting revenue and promoting loyalty.</p>
+				</li>
+			  </ul>
+			</div>
+												<div class="col2">
+					<ul>
+								<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Increase sales</p>
+										<p>Deploy user-generated content and targeted media to benefit from a proven boost in conversion at the point of sale.</p>
+					<p><a href="http://www.bazaarvoice.com/solutions/increase-sales">Learn more »</a></p>
+				  </div>
+				</li>
+															<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Extend brand reach</p>
+										<p>Leverage our network, connecting thousands of leading brands and reaching more than 700 million consumers each month.</p>
+					<p><a href="http://www.bazaarvoice.com/solutions/extend-brand-reach">Learn more »</a></p>
+				  </div>
+				</li>
+															<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Gain consumer insights</p>
+										<p>Authentic reviews, questions and answers expose valuable sentiment and product-specific insights you can use to improve your offering and your brand.</p>
+					<p><a href="http://www.bazaarvoice.com/solutions/gain-consumer-insights">Learn more »</a></p>
+				  </div>
+				</li>
+									</ul>
+					</div>
+					<div class="col2">
+					<ul>
+															<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Manage reputation</p>
+										<p>Respond to reviews, resolve product concerns and manage brand perception by actively participating in consumer conversations on our platform.</p>
+					<p><a href="http://www.bazaarvoice.com/solutions/manage-reputation">Learn more »</a></p>
+				  </div>
+				</li>
+															<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Successfully launch new products</p>
+										<p>Collect reviews on products pre-launch, boosting sales on release, and push those reviews with smart Word of Mouth ad targeting. </p>
+					<p><a href="http://www.bazaarvoice.com/solutions/launch-new-products">Learn more »</a></p>
+				  </div>
+				</li>
+															<li>
+								  <div class="col-sm-3"></div>
+				  					<div class="col-sm-9">
+											<p class="content-title">Drive site traffic through SEO</p>
+										<p>Customer-written content keeps pages fresh and full of product-specific content, which drives search traffic to your site.</p>
+					<p><a href="http://www.bazaarvoice.com/solutions/drive-traffic-seo">Learn more »</a></p>
+				  </div>
+				</li>
+									</ul>
+					</div>
+					<div class="col2">
+					<ul>
+							              </div>
+		</div>
+		</li>
+			
+				
+							
+							  <li><a href="http://www.bazaarvoice.com/case-studies" class="GTM-Nav-main">Case studies</a>
+	
+			
+		
+			
+			<div class="megamenu full-width clearfix">
+              <div class="row">
+                <div class="col1">
+                  <ul class="case-study-industry-title-list">
+                    <li class="title no-border-bottom">
+                      <h5>Success stories in your industry</h5> 
+                      <p>See how our products help companies like yours capture customer input and grow.</p> 
+                    </li>
+                  </ul>
+                </div>
+				 					<div class="col1 case-study-industry-section">
+					  <ul>
+						<li class="title"><h5>Retail</h5></li>
+						<li>
+						  <p>Let the voice of the customer fill your shopping carts. .</p>
+						  <p><a href="http://www.bazaarvoice.com/case-studies">See how »</a></p>
+						</li>
+						<li class="featured-case-studies">Featured case studies</li>
+																			<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/Spotlights-extends-SEO-benefits-of-Ratings--Reviews-to-category-like-pages.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/Spotlights+Case+Study+Feature+Logo+143x91.png" alt="" />
+								</a>						
+							</li>
+					                          													<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/Higher-review-volume-and-average-rating-correlate-with-order-increases.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/2014.03.IRTop25-CaseStudy_logo_feature.png" alt="" />
+								</a>						
+							</li>
+					                          					  </ul>
+					</div>
+									<div class="col1 case-study-industry-section">
+					  <ul>
+						<li class="title"><h5>Consumer brands & manufacturing</h5></li>
+						<li>
+						  <p>Connect with consumers where and when it matters..</p>
+						  <p><a href="http://www.bazaarvoice.com/case-studies">See how »</a></p>
+						</li>
+						<li class="featured-case-studies">Featured case studies</li>
+																			<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/more-review-volume-less-program-management-dirt-devil-hoover-oreck-with-bazaarvoice-sampling.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/201610-TTIFloorcare-CaseStudy_logo-158x100.png" alt="" />
+								</a>						
+							</li>
+					                          						                       					  </ul>
+					</div>
+									<div class="col1 case-study-industry-section">
+					  <ul>
+						<li class="title"><h5>Financial services</h5></li>
+						<li>
+						  <p>Build trust through the voice of the customer..</p>
+						  <p><a href="http://www.bazaarvoice.com/case-studies">See how »</a></p>
+						</li>
+						<li class="featured-case-studies">Featured case studies</li>
+												                       													<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/lendingtree-case-study.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/Lending-Tree-featured.png" alt="" />
+								</a>						
+							</li>
+					                          					  </ul>
+					</div>
+									<div class="col1 case-study-industry-section">
+					  <ul>
+						<li class="title"><h5>Travel</h5></li>
+						<li>
+						  <p>Travelers trust other travelers. .</p>
+						  <p><a href="http://www.bazaarvoice.com/case-studies">See how »</a></p>
+						</li>
+						<li class="featured-case-studies">Featured case studies</li>
+																			<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/Fat-Tire-Tours-customers-share-the-joys-of-travel.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/FatTireTours_logo_158x100.png" alt="" />
+								</a>						
+							</li>
+					                          					  </ul>
+					</div>
+									<div class="col1 case-study-industry-section">
+					  <ul>
+						<li class="title"><h5>Automotive</h5></li>
+						<li>
+						  <p>The customer voice will take you places..</p>
+						  <p><a href="http://www.bazaarvoice.com/case-studies">See how »</a></p>
+						</li>
+						<li class="featured-case-studies">Featured case studies</li>
+																			<li class="featured-case-study-thumb-container">
+								<a href="http://www.bazaarvoice.com/case-studies/lexus-case-study.html" class="GTM-megaNav-caseStudyImg">
+								  <img class="solutions-featured-logo" src="http://media2.bazaarvoice.com/images/lexus-featured.jpg" alt="Bazaarvoice social commerce case study for Lexus." />
+								</a>						
+							</li>
+					                          					  </ul>
+					</div>
+				              </div>
+    </div>
+			
+							
+							  <li><a href="http://www.bazaarvoice.com/research-and-insight" class="GTM-Nav-main">Research and insight</a>
+	
+			
+		
+			
+				
+			<div class="megamenu full-width clearfix">
+              <div class="row">
+                <div class="col1">
+                  <ul>
+                    <li class="title no-border-bottom research-insight-title-description-container">
+                      <h5>Essential knowledge for user-generated content marketing.</h5>
+                      <p>Check here for hard-hitting consumer research and insights, and join the discussion about deploying user-generated content in your marketing strategy.</p>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col2">
+                  <ul>
+                    <li class="title"><h5>Bazaarvoice Blog</h5></li>
+                    <li>
+                      <span id="headerBlogContent"></span>
+                    </li>
+                  </ul>
+                  <ul>
+                    <li class="title research-insight-featured-fact-container">
+                      <h5>Featured Fact</h5>
+                    </li>
+                    <li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																								<p>93% of those surveyed said that customer insight development was an important tool to prioritize in future DMP applications.</p>
+																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																															                        <p>
+					     <a  href="/research-and-insight/conversation-index/"
+                               title="Learn more in the Bazaarvoice Conversation Index">Learn more in the Bazaarvoice Conversation Index »</a>
+					    </p>
+                    </li>
+                    <li><p class="no-margin-bottom"> <a  href="/research-and-insight/social-commerce-statistics/"
+                               title="See all social commerce statistics">See all social commerce statistics »</a></p></li>
+                  </ul>
+                </div>
+                <div class="col3">
+                  <ul>
+                    <li class="title research-insight-featured-white-paper-container">
+                      <h5>Featured White Papers</h5>
+                    </li>
+                    <li>
+																				    						  <div class="col-sm-6 research-insight-white-paper-container">
+							<p class="content-title">How Brands Find, Reach, and Win Consumers with Bazaarvoice and Consumer-Generated Content</p>
+							<p><a href="http://www.bazaarvoice.com/research-and-insight/white-papers/how-brands-find-reach-win-consumers-with-bazaarvoice-consumer-generated-content.html" title="How Brands Find, Reach, and Win Consumers with Bazaarvoice and Consumer-Generated Content"><img src="http://media2.bazaarvoice.com/images/whitepaper-brands-win-featured.png" alt="" border="0" class="img-responsive"></a></p>
+							<p>In this e-book, learn how a diverse set of brands partnered with Bazaarvoice to successfully harness the power of consumer-generated content (CGC) to increase awareness, improve consideration, and drive sales conversion while turning customers into brand advocates.</p>
+							<p><a  href="http://www.bazaarvoice.com/research-and-insight/white-papers/how-brands-find-reach-win-consumers-with-bazaarvoice-consumer-generated-content.html" title="Read more">Read more »</a></p>
+						  </div>
+					                         					    						  <div class="col-sm-6 research-insight-white-paper-container">
+							<p class="content-title">How Retailers Find, Reach, and Win Consumers with Bazaarvoice and Consumer-Generated Content</p>
+							<p><a href="http://www.bazaarvoice.com/research-and-insight/white-papers/How-Best-in-Class-Retailers-Find-Reach-and-Win-Consumers-with-Bazaarvoice-and-Consumer-Generated-Content.html" title="How Retailers Find, Reach, and Win Consumers with Bazaarvoice and Consumer-Generated Content"><img src="http://media2.bazaarvoice.com/images/whitepaper-retailers-win-featured.png" alt="" border="0" class="img-responsive"></a></p>
+							<p>In this e-book, you will learn how a diverse set of retailers partnered with Bazaarvoice to successfully harness the power of consumer-generated content (CGC) to increase awareness, improve consideration, and drive sales conversion.</p>
+							<p><a  href="http://www.bazaarvoice.com/research-and-insight/white-papers/How-Best-in-Class-Retailers-Find-Reach-and-Win-Consumers-with-Bazaarvoice-and-Consumer-Generated-Content.html" title="Read more">Read more »</a></p>
+						  </div>
+					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                         					                                              
+                    </li>
+                </div>
+              </div>
+    </div>
+						
+							  <li><a href="http://www.bazaarvoice.com/events" class="GTM-Nav-main">Events</a>
+	
+			
+		
+			
+				
+						    <div class="megamenu full-width clearfix">
+              <div class="row">
+                <div class="col1">
+                  <ul>
+                    <li class="title no-border-bottom"><h5>Events</h5>
+                    <p>Join peers and industry leaders at the world''s premiere user-generated content gatherings.</p>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col3">
+                  <ul>
+					          <li><p>Attend our free social strategy workshops for Bazaarvoice clients, in North America and Europe.</p>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <div class="col-sm-3">
+                    <a href="http://www.bazaarvoice.com/events/inspire-na/Inspire-Austin-2018.html" ><img src="http://media2.bazaarvoice.com/images/inspire-auston-jan-2018-logo.png" alt="Inspire: Austin 2018" class="img-responsive bm" border="0"/></a>
+                    <p><span class="bold">Inspire: Austin 2018</span><br />
+                    January 25, 2018<br />
+                    <a href="http://www.bazaarvoice.com/events/inspire-na/Inspire-Austin-2018.html">Read more &raquo;</a></p>
+                  </div>
+                                                          <div class="col-sm-3">
+                    <a href="http://www.bazaarvoice.com/events/inspire-na/Inspire-Chicago-2018.html" ><img src="http://media2.bazaarvoice.com/images/inspire-chicago-mar-2018.png" alt="Inspire: Chicago 2018" class="img-responsive bm" border="0"/></a>
+                    <p><span class="bold">Inspire: Chicago 2018</span><br />
+                    March 7, 2018<br />
+                    <a href="http://www.bazaarvoice.com/events/inspire-na/Inspire-Chicago-2018.html">Read more &raquo;</a></p>
+                  </div>
+                                    </li>
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+					
+			
+							
+											                 
+                    
+                  </ul>
+                </div>
+                <div class="col2">
+                  <ul>
+                    <li class="title"><h5>Webinars</h5></li>
+											<li><a href="http://www.bazaarvoice.com/events/webinars/Busted-Three-Myths-About-How-Real-People-Shop.html" border="0"><img src="http://media2.bazaarvoice.com/images/shopper-journey-webinar-feature-455x260.png"></a></li>
+						<li><p class="content-title">Busted: Three Myths About How Real People Shop</p></li>
+						<li>
+						 
+						  <p>Marketers know that today’s consumer journey looks more like an unplanned adventure than a direct path. Every consumer takes an individualized path and the mix of channels and devices can be dizzying. </p>
+						  <p><a href="http://www.bazaarvoice.com/events/webinars/Busted-Three-Myths-About-How-Real-People-Shop.html">Read more »</a></p>
+						</li>
+					                  </ul>
+                </div>
+              </div>
+        </div>
+			
+							  <li><a href="http://www.bazaarvoice.com/partners" class="GTM-Nav-main">Partners</a>
+	
+			
+		
+			
+				
+							
+				    <div class="megamenu full-width clearfix">
+              <div class="row">
+                <div class="col1">
+                  <ul>
+                    <li class="title no-border-bottom"><h5>Our valued partners</h5></li>
+                    <li>
+                      <p>Our technology and service partners include the industry’s leading software companies, marketing firms, and digital agencies. Together, we make it simple to put the power of user-generated content to work for your business</p>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col2">
+                  <ul>
+                    <li>
+					 <p class="content-title">Latest partner integrations</p>
+															                     
+                      <p>The Bazaarvoice and SAP partnership lets customers integrate consumer generated product insights into SAP’s Social OnDemand application.</p>
+                      <p><a href="http://www.bazaarvoice.com/partners/Bazaarvoice-SAP.html" title="Read more">Read more »</a></p>
+					                    </li>
+                  </ul>
+                </div>
+                <div class="col1">
+                  <ul>
+                    <li class="title"><h5>Technology partners</h5></li>
+                    <li>
+                      <p>Bazaarvoice helps thousands of global brands and retailers capture, analyze, and amplify the voice of their customers to drive consumer engagement and sales.</p>
+                      <p> <a href="/partners" title="Learn more">Learn more »</a></p>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col1">
+                  <ul>
+                    <li class="title"><h5>Service partners</h5></li>
+                    <li>
+                      <p>We work with some of the world’s largest marketing firms, digital agencies, and consulting organizations to help our clients design, implement, and integrate Bazaarvoice solutions.</p>
+                      <p><a href="/partners" title="Learn more">Learn more »</a></p>
+                    </li>
+                  </ul>
+                </div>
+                <div class="col1">
+                  <ul>
+                    <li class="title"><h5>Join the network</h5></li>
+                    <li>
+                      <p>We partner with companies to make integrations easier and to unlock the power of customers''data.</p>
+                      <p> <a href="/partners/apply-to-become-a-partner/" title="See them all">Learn how to become a Bazaarvoice Partner »</a></p>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+        </div>
+																																																										<li class="contact-us"><a href="#" data-toggle="modal" data-target=".bs-example-modal-lg">Contact us</a></li>
+</ul> <!-- /.jetmenu -->
+</div> <!-- /.container -->
+</div><!-- /.navbar -->
+
+
+
+<div id="main-title" ><!-- END of NAVBAR -->
+<!-- MODAL CONTACT FORM -->
+<!-- MODAL CONTACT FORM -->
+<div class="modal fade bs-example-modal-lg contact-us-form" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+<div class="modal-dialog modal-lg">
+<div class="modal-content">
+<div class="modal-header">
+	<button type="button" class="close" data-dismiss="modal"><span class="sr-only">Close</span><span class="close-x" aria-hidden="true">×</span></button>
+</div>
+<div class="modal-body">
+<div class="row">
+  <div class="col-sm-4">
+	<h5>Contact Bazaarvoice</h5>
+	<p>We will contact you shortly to talk about our solutions.</p>
+	<p>Can't wait? Call us now at (866) 522-9227.</p>
+	<p>If you are already a customer and have a question, access our <a href='http://support.bazaarvoice.com'>Support Community</a>.</p>
+	<p><small><a href="/privacy-policy">Privacy policy</a></small></p>
+  </div>
+  <div class="col-sm-8">
+	<script src="//app-aba.marketo.com/js/forms2/js/forms2.min.js"></script>
+<form id="mktoForm_2674"></form>
+<script>MktoForms2.loadForm("//app-aba.marketo.com", "848-PGD-174", 2674);</script>
+
+  </div><!-- end col-sm-8-->
+</div><!--end row-->
+</div>
+</div>
+</div>
+</div><!-- END OF MODAL CONTACT FORM -->
+<div id="main">
+  <!-- Added for to adapt new design and center the main content -->
+  <div class="row">
+	<div id="pageActions">
+					<div style="width: 100%; text-align: center;">
+				<div class="span12" style="margin: 0 auto;">
+		
+		<div class="col span8">
+			<div class="panel">
+				<div id="breadCrumbs">
+																				</div>
+			</div>
+			<!-- panel-->
+		</div>
+
+						</div>
+			</div>
+			</div>
+</div>
+  <style>
+  @charset "utf-8";
+/* CSS Document */
+
+.prodSpan {
+	float:left;
+	position: relative;
+}
+
+#main {
+	min-height: 0;
+}
+
+
+.heroProd {
+	width: 330px !important;
+	height: 77px;
+	background: #eae9e1;
+	margin-bottom: 2px;
+}
+
+.heroProd.active{
+	color: #ffffff;
+}
+
+.heroProd h4 {
+	padding: 10px;
+	font-size: 2.4em;
+	padding-bottom: 0px;
+	margin-bottom: -4px;
+}
+
+#heroProd1Title {
+	color:#d9661d;
+}
+
+#heroProd2Title {
+	color:#984b22;
+}
+
+#heroProd3Title {
+	color:#991b2d;
+}
+
+#heroProd4Title {
+	color:#7f762f;
+}
+
+.heroProdSub {
+	position: absolute;
+	width: 745px;
+	top: 0px;
+	left: 330px;
+	z-index: 99;
+	height: 315px;
+	display:none;
+	border-left:5px solid #f6f5ed;	
+
+}
+
+.imgCaption {
+	width:174px;
+	margin: 0 1% 0 0;
+}
+
+.prodHeroButton a {
+	color: #fff;
+	font-weight: normal !important;
+}
+
+.heroProdSub h3 {
+	color:#fff;
+	padding:30px 0px 0px 30px;
+}
+
+#heroProdSub1, #heroProd1:hover {
+	background: #d9661d;
+}
+
+#heroProd1:hover h4,
+#heroProd2:hover h4,
+#heroProd3:hover h4,
+#heroProd4:hover h4 {
+	color:#fff;
+}
+
+.prodSubLearnMore {
+	display:none;
+	margin: 10px 10px 10px 10px;
+}
+
+#heroProdSub2, #heroProd2:hover {
+	background: #984b22;
+}
+
+#heroProdSub3, #heroProd3:hover {
+	background: #991b2d;
+}
+
+#heroProdSub4, #heroProd4:hover {
+	background: #7f762f;
+}
+
+/* slider */
+
+.flex-control-nav {
+display: block;
+position: absolute;
+top: 7px;
+right: 20px;
+z-index: 55;
+}
+
+.flex-control-nav li {
+margin: 0 4px;
+}
+
+.sliderSpan {
+	float:left;
+	width:745px;
+	height: 314px;
+	margin-left: 5px;
+}
+
+.slideTitleBox {
+	width: 350px;
+	height: 80px;
+	background: rgba(0,61,76,0.8);
+	color: #fff;
+	position: relative;
+	left: 30px;
+	top: -100px;
+	display: inline-block;
+}
+
+.slideTitleBox div {
+	padding-top: 5px;
+	padding-left: 15px;
+}
+
+.slideTitleBox div h3, .slideTitleBox div h5 {
+	color: #fff;
+	border: none;
+}
+
+.sliderHolder {
+	width: 745px;
+	height: 314px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+}
+
+.sliderImgs {
+	width: 3800px;
+	height: 314px;
+	position: relative;
+}
+
+.sliderImgs span {
+	width: 745px;
+	height: 314px;
+	display: inline-block;
+}
+
+.imgSliderSquares {
+	float: right;
+	position: relative;
+	top: -40px;
+	right: 30px;
+}
+
+.imgSliderSquares span {
+	width: 18px;
+	height: 18px;
+	display: inline-block;
+	cursor: pointer;
+}
+
+#homeSlides .captionStatic {
+	width: 88%;
+}
+
+#homeSlides .captionStatic h3 {
+	font-size: 2.25em;
+}
+
+#homeSlides .captionStatic a.secAction {
+	color: #fff;
+	font-size: 1.3em;
+}
+	
+
+.imgSliderSqrOn {
+	background: rgba(215, 113, 41, 0.8);
+}
+
+.imgSliderSqrOff {
+	background: rgba(236, 233, 222, 0.8);
+}
+
+.prodSub {
+	padding: 0px 10px;
+	color: #003d4c;
+}
+
+.prodSub p {
+	padding: 6px 0 0 0;
+		line-height: 1.3em;
+		font-size: 1.1em;
+}
+
+
+
+
+/* social tabs */
+
+
+
+.panes .panesRow, .paneSort .sort {
+	border: none;
+	background: #fff;
+	width: 100%;
+	padding: 0px;
+}
+
+ul.tabs {
+	border-bottom: none;
+}
+
+
+
+.scrollbar {
+	display: none;
+}
+
+.scrollBox .viewport {
+	width: 90%;
+	margin: 20px;
+}
+
+.socialFeed p {
+	font-family: gibsonRegular;
+	font-size: 12px;
+	color: #222;
+}
+
+.socHash {
+	font-family: gibsonRegular;
+	font-size: 12px;
+	color: #00ab8e !important;
+}
+
+.blogPostDate {
+	font-family: gibsonRegular;
+	font-size: 10px;
+	color: #222 !important;
+}
+
+.blogPostTitle {
+	font-family: gibsonRegular;
+	font-size: 14px;
+	color: #003d4c;
+	font-weight: bold;
+}
+
+.blogPostText {
+	font-family: gibsonRegular;
+	font-size: 12px;
+	color: #222 !important;
+}
+
+.blogPostEntry {
+	margin-bottom: 20px;
+}
+
+h5 {
+	font-size: 1.2em;
+}
+
+.infoSection {
+	margin-bottom: 20px;
+}
+
+.infoSectTitle {
+	font-family: gibsonRegular;
+	font-size: 12px;
+	color: #222 !important;
+}
+
+.infoSectSub {
+	font-family: foralRegular;
+	font-size: 20px;
+	font-weight: bold;
+	color: #e86d1f;
+}
+
+.prodSub a {
+	color: #fff;
+}
+
+.prodHeroSpan {
+	position: relative;
+	float: left;
+	width: 745px;
+	height: 314px;
+	margin-left: 5px;
+	background: #d9661d;
+	display: none;
+}
+
+.prodHeroSpan h3 {
+	color: #fff;
+	font-size: 3.0em;
+	padding: 20px 0px 10px 30px;
+	width: 200px;
+	line-height: 26px;
+}
+
+.prodHeroSub {
+	padding-left: 30px;
+	font-size: 12px;
+	color: #fff;
+	width: 300px;
+	font-family: gibsonRegular;
+}
+
+.prodCont {
+	float: left;
+	width: 52%;
+}
+
+.prodHeroButton .mainAction {
+	margin: 0 0 0 30px;
+}
+
+.prodHeroImg {
+	float: right;
+	margin: 24px 24px 0 0;
+}
+
+.prodSubLearnMore .secAction {
+	color: #fff;
+}
+
+
+
+
+
+
+
+  </style>
+    <script src='http://www.bazaarvoice.com/includes/db9d1e0e33b27abdaaa9be626d07ff61/errorScripts.js' type="text/javascript"></script> 
+  <div class="row" style="margin-top:20px;">
+    <div id="errorHeader">
+      <div class="panel" id="heroBlock">
+	<div class="errorLeft">
+	  <h2>Oops!</h2>
+	  <p class="subTag">The page you are looking for can’t be found. Try checking the spelling of the URL or clicking the back button. Or take a look around this page and you might find what you were looking for.</p>
+	
+	</div>
+	<div class="errorRight">
+	  
+	  	  <h5>Our Products</h5>
+	  	  <div id="errorNav">
+	  	  	    	    <div class="errorCont">
+	      <h4><a id="error1" href="http://www.bazaarvoice.com/products/conversations">Bazaarvoice Conversations</h4>
+	      <p>Sell more by encouraging people to review products, ask questions, give answers, and share stories.</p>
+	    </div>
+	    	    <div class="errorCont">
+	      <h4><a id="error2" href="http://www.bazaarvoice.com/products/connections">Bazaarvoice Connections</h4>
+	      <p>Respond to shopper questions and reviews across our network of leading retail sites.</p>
+	    </div>
+	    	    <div class="errorCont">
+	      <h4><a id="error3" href="http://www.bazaarvoice.com/products/curations">Bazaarvoice Curations</h4>
+	      <p>Increase engagement, trust and conversion by displaying authentic moderated social content directly on your site.</p>
+	    </div>
+	    	    <div class="errorCont">
+	      <h4><a id="error4" href="http://www.bazaarvoice.com/products/advertising">Bazaarvoice Advertising</h4>
+	      <p>Reach and influence true in-market shoppers</p>
+	    </div>
+	    	    <div class="errorCont">
+	      <h4><a id="error5" href="http://www.bazaarvoice.com/products/brandedge">Bazaarvoice Brand Edge</h4>
+	      <p>Drive retail channel sales by collecting consumer reviews and distributing them to retail e-commerce sites.</p>
+	    </div>
+	    	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+<div class="clearfix"></div>
+
+<!-- FOOTER -->
+<!-- FOOTER -->
+<footer>
+  <div class="container">
+	<div class="footer-links clearfix">
+                        <div class="col-sm-2">
+      <a href="/products" class="footer-links-title GTM-footer">Products</a>
+
+                                              <a href="/products/conversations" class="GTM-footer">Conversations</a>
+                                        <a href="/products/connections" class="GTM-footer">Connections</a>
+                                        <a href="/products/advertising" class="GTM-footer">Advertising</a>
+                                        <a href="/products/curations" class="GTM-footer">Curations</a>
+                                        <a href="http://brandedge.bazaarvoice.com" class="GTM-footer">Brand Edge </a>
+                                    </div>
+            <div class="col-sm-2">
+      <a href="/case-studies" class="footer-links-title GTM-footer">Case studies</a>
+
+                                              <a href="/case-studies" class="GTM-footer">Retail</a>
+                                        <a href="/case-studies" class="GTM-footer">Consumer brands & manufacturing</a>
+                                        <a href="/case-studies" class="GTM-footer">Financial services</a>
+                                        <a href="/case-studies" class="GTM-footer">Travel</a>
+                                        <a href="/case-studies" class="GTM-footer">Automotive</a>
+                                    </div>
+            <div class="col-sm-2">
+      <a href="/research-and-insight" class="footer-links-title GTM-footer">Research & insight</a>
+
+                                              <a href="/research-and-insight/white-papers" class="GTM-footer">White papers</a>
+                                        <a href="/research-and-insight/social-commerce-statistics" class="GTM-footer">Social commerce statistics</a>
+                                        <a href="/research-and-insight/video-gallery" class="GTM-footer">Video gallery</a>
+                                        <a href="/research-and-insight/infographics" class="GTM-footer">Infographics</a>
+                                        <a href="/cgcindex" class="GTM-footer">CGC Index</a>
+                                    </div>
+            <div class="col-sm-2">
+      <a href="/events" class="footer-links-title GTM-footer">Events</a>
+
+                                              <a href="/events/inspire-na" class="GTM-footer">Inspire workshops</a>
+                                        <a href="/events/webinars" class="GTM-footer">Webinars</a>
+                                        <a href="/live/summit" class="GTM-footer">The Bazaarvoice Summit</a>
+                                    </div>
+            <div class="col-sm-2">
+      <a href="/partners" class="footer-links-title GTM-footer">Partners</a>
+
+                                              <a href="/partners/" class="GTM-footer">Technology partners</a>
+                                        <a href="/partners" class="GTM-footer">Service partners</a>
+                                        <a href="/partners/apply-to-become-a-partner/" class="GTM-footer">Apply to become a partner</a>
+                                    </div>
+            <div class="col-sm-2">
+      <a href="/about" class="footer-links-title GTM-footer">About</a>
+
+                                              <a href="/about/leaders" class="GTM-footer">Our leaders</a>
+                                        <a href="/about/clients" class="GTM-footer">Our clients</a>
+                                        <a href="/about/newsroom" class="GTM-footer">Newsroom</a>
+                                        <a href="/about/why-bazaarvoice" class="GTM-footer">Why choose Bazaarvoice?</a>
+                                        <a href="/careers" class="GTM-footer">Careers</a>
+                  </div>
+            
+            <div class="col-sm-2 hidden-sm hidden-md hidden-lg">
+        <a href="/careers/" class="footer-links-title GTM-footer">Careers</a>
+      </div>
+
+	</div>
+<div class="footer-links-secondary text-center">
+  	<a href="http://investors.bazaarvoice.com/" class="GTM-footer" target="_new"  >Investor relations</a>
+  	<a href="/privacy-policy/" class="GTM-footer"  >Privacy policy</a>
+  	<a href="/privacy-policy#optout" class="GTM-footer"  >Opt out</a>
+  	<a href="/privacy-policy#nai" class="GTM-footer"  >Advertising choices</a>
+  	<a href="/legal" class="GTM-footer"  >Legal</a>
+  	<a href="http://status.bazaarvoice.com" class="GTM-footer" target="_new"  >Service status</a>
+  </div>
+<div class="social-media">
+  <a class="footer-logo" href="#" title="Bazaarvoice Logo"><img src="http://media2.bazaarvoice.com/designimages/footerLogo.png" alt="Bazaarvoice Logo"></a>
+   	<a href="https://www.facebook.com/bazaarvoice" class="GTM-footer"   target="_new" >
+	<img src="http://media2.bazaarvoice.com/images/fb.png" alt="Bazaarvoice Logo"></a>
+   	<a href="https://twitter.com/bazaarvoice" class="GTM-footer"   target="_new" >
+	<img src="http://media2.bazaarvoice.com/images/tw.png" alt="Bazaarvoice Logo"></a>
+   	<a href="http://www.linkedin.com/company/bazaarvoice" class="GTM-footer"   target="_new" >
+	<img src="http://media2.bazaarvoice.com/images/li.png" alt="Bazaarvoice Logo"></a>
+   	<a href="http://www.youtube.com/user/bazaarvoice" class="GTM-footer"   target="_new" >
+	<img src="http://media2.bazaarvoice.com/images/yt.png" alt="Bazaarvoice Logo"></a>
+   	<a href="http://www.flickr.com/photos/bazaarvoice" class="GTM-footer"   target="_new" >
+	<img src="http://media2.bazaarvoice.com/images/fl.png" alt="Bazaarvoice Logo"></a>
+   </div>
+<!-- <p class="pull-right"><a href="#">Back to top</a></p> -->
+<p class="copyright text-center">&copy;  Bazaarvoice. All rights reserved.</p>
+</div>
+</footer>
+
+<!-- MERGED FOOTER ================================================== -->
+
+<!-- FOOTER SCRIPTS FROM OLD DESIGN-->
+<script src="http://www.bazaarvoice.com/includes/21924ee2c24dd41a709c6ae6ba3c1db3/bv_redesign_docReady.js" type="text/javascript"></script>
+<script src="http://www.bazaarvoice.com/includes/3980775028f102a892580b729dc845d2/bv_redesign_header.js" type="text/javascript"></script>
+<script>
+$(document).ready(function(){
+  $('input[type=text][title],input[type=password][title],textarea[title]').each(function(i){
+	$(this).addClass('input-prompt-' + i);
+	var promptSpan = $('<span class="input-prompt"/>');
+	$(promptSpan).attr('id', 'input-prompt-' + i);
+	$(promptSpan).append($(this).attr('title'));
+	$(promptSpan).click(function(){
+	  $(this).hide();
+	  $('.' + $(this).attr('id')).focus();
+	});
+	if($(this).val() != ''){
+	  $(promptSpan).hide();
+	}
+	$(this).before(promptSpan);
+	$(this).focus(function(){
+	  $('#input-prompt-' + i).hide();
+	});
+	$(this).blur(function(){
+	  if($(this).val() == ''){
+		$('#input-prompt-' + i).show();
+	  }
+	});
+	$('.mobileSearchAction').click(function(e){
+			e.preventDefault();
+			$('#mobileSearchForm').submit();
+		  });
+  });
+});
+</script>
+
+<script type="text/javascript">
+$(function(){
+	  // bind change event to select
+	  $('#countrySelect').change(function () {
+		  var url = $(this).val(); // get selected value
+		  if (url) { // require a URL
+			  window.location = url; // redirect
+		  }
+		  return false;
+	  });
+	});
+	
+// Controls the ability to scroll down to specific div id	
+bazaarApp = {
+scrollMe: function(easyDoesIt) {
+// console.log(easyDoesIt);
+var scrollTo = "#scrollDown";
+// console.log(scrollTo);
+$('html, body').animate({
+    scrollTop: $(scrollTo).offset().top - 180}, 2000);
+}
+
+};	
+	
+</script>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + document.location.protocol +
+"//munchkin.marketo.net/munchkin.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>Munchkin.init('848-PGD-174');</script>
+
+
+
+<script src="http://cdn.integrousmarketing.com/imt.bazaarvoice.min.js"></script>
+ <!-- END FOOTER SCRIPTS FROM OLD DESIGN -->
+<!-- Start Core JavaScript for New Design -->
+<script src="http://www.bazaarvoice.com/includes/c55c67e8aefcd2304802d769891abc02/plugins.min.js" type="text/javascript"></script>
+<script src="http://www.bazaarvoice.com/includes/89254ec03be5a604670ed9c73045e272/bootstrap-popover.js" type="text/javascript"></script>
+<script src="//cdn.integrousmarketing.com/imt.bazaarvoice.min.js"></script>
+<script src="http://www.bazaarvoice.com/includes/985c89b4080ad0d1d43e8979f8d6a776/jquery.smooth-scroll.min.js" type="text/javascript"></script>
+  <!-- DB form fix -->
+  <script src="http://www.bazaarvoice.com/includes/aabba0a9b030f78d3ab81289f26abf72/demandbase-form-fix.js" type="text/javascript"></script>
+<script>
+  $(document).ready(function(){
+    $('a').smoothScroll({offset: parseInt("-" + $('body').css('padding-top'))});
+  });
+</script>
+
+  
+  </body>
+</html><!-- END FOOTER -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

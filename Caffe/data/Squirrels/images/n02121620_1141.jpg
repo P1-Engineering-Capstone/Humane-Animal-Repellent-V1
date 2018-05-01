@@ -1,0 +1,374 @@
+<!doctype html>
+
+<!--[if IEMobile 7 ]> <html lang="en-US"class="no-js iem7"> <![endif]-->
+<!--[if lt IE 7 ]> <html lang="en-US" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en-US" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-US" class="no-js ie8"> <![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" class="no-js"><!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="description" content="MEOW Foundation is a cat-focused no-kill charity that rescues, cares for and adopts stray and abandoned cats in Calgary." />
+
+		 <title>  Page not found</title>
+
+		<!-- meta name="viewport" content="width=device-width; initial-scale=1.0" -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<!-- For everything else -->
+		<link rel="shortcut icon" href="https://www.meowfoundation.com/wp-content/themes/wp-foundation/favicon.ico">
+
+		<!-- media-queries.js (fallback) -->
+		<!--[if lt IE 9]>
+			<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
+
+		<!-- html5.js -->
+		<!--[if lt IE 9]>
+			<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+  		<link rel="pingback" href="https://www.meowfoundation.com/xmlrpc.php">
+
+
+		<!-- wordpress head functions -->
+		<link rel="alternate" type="text/calendar" title="MEOW Foundation &raquo; iCal Feed" href="https://www.meowfoundation.com/events/?ical=1" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.meowfoundation.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.15"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js?ver=4.3.15'></script>
+		<!-- end of wordpress head -->
+
+		<!-- App Specific JS -->
+		<script type="text/javascript" src="https://www.meowfoundation.com/wp-content/themes/wp-foundation/javascripts/foundation.min.js"></script>
+		<script type="text/javascript" src="https://www.meowfoundation.com/wp-content/themes/wp-foundation/javascripts/app.js"></script>
+
+		<link rel="stylesheet" type="text/css" media="all" href="https://www.meowfoundation.com/wp-content/themes/wp-foundation/style.css" />
+
+
+
+		<!-- Typekit Include -->
+		<script type="text/javascript" src="//use.typekit.net/ogb2jqm.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+
+
+	</head>
+	<body data-rsssl=1 id="" class="hello-world">
+	<div id="wrapper"><!-- Start Wrapper for CSS Sticky Footer -->
+	<div id="top-small-nav">
+		<div class="row">
+			<nav id="menu-top-small" class="ten columns no-padding-right hide-for-small offset-by-two">
+				<ul class="right hide-for-small">
+					<li><a href="https://www.facebook.com/meowfoundation" class="fb">facebook</a></li>
+					<li><a href="https://twitter.com/MEOWFoundation" class="twitter">twitter</a></li>
+                    <li><a href="https://www.instagram.com/meowfoundation/" class="instagram">instagram</a></li>
+					<li><a href="http://www.youtube.com/user/ME0WFoundation" class="youtube">youtube</a></li>
+
+					<li><a href="/adopt/" class="adopt">Cat-A-Logue</a></li>
+					<li><a href="/get-involved/events/" class="events">Events</a></li>
+					<li class="search">
+						<form role="search" method="get" id="searchform" action="https://www.meowfoundation.com/" >
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" placeholder="Search for:" />
+	<input type="submit" id="searchsubmit" value="" />
+	</form>					</li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+
+		<div id="head-page" class="row">
+		  <header>
+
+			  <div class="two mobile-one columns">
+			  	 <h3 id="main-logo"><a href="/">MEOW Foundation</a></h3>
+			  </div>
+
+			  <!-- Mobile Menu -->
+			  <div id="menu-lil" class="mobile-three columns show-for-small text-right">
+		  			<a href="/donate" class="mobile_button mobile_donate">Donate</a>
+		            <a href="#" class="mobile_button" id="mobile-menu" data-toggle="#mm"></a>
+		        </div>
+			  <div class="clear"></div>
+
+		    <!-- Navigation -->
+
+		    	<nav class="top-bar">
+		          <ul id="mm" class="right">
+		              <li id="mm-about"><a href="/about/" class="wsub" data-toggle="#sm-about_us">About Us <span class="btn-toggle show-for-small">&#9662;</span></a></li>
+			              <ul class="show-for-small" id="sm-about_us">
+			              	  <li><a href="/about/">Overview</a></li>
+			              	  <li class="page_item page-item-14"><a href="https://www.meowfoundation.com/about/mission/">Our Vision, Mission &#038; Goals</a></li>
+<li class="page_item page-item-1424"><a href="https://www.meowfoundation.com/about/program-statistics/">Program Statistics</a></li>
+<li class="page_item page-item-12"><a href="https://www.meowfoundation.com/about/people/">Our People</a></li>
+<li class="page_item page-item-20"><a href="https://www.meowfoundation.com/about/meowzine/">MEOWZine Newsletter</a></li>
+<li class="page_item page-item-24"><a href="https://www.meowfoundation.com/about/careers/">Careers</a></li>
+<li class="page_item page-item-25"><a href="https://www.meowfoundation.com/about/contact/">Contact</a></li>
+			              </ul>
+		              <li id="mm-adopt"><a href="/adopt/" class="wsub" data-toggle="#sm-adopt">Adopt a Cat<span class="btn-toggle show-for-small">&#9662;</span></a></li>
+				          <ul class="show-for-small" id="sm-adopt">
+				              <li><a href="/adopt/">Cat-A-Logue</a></li>
+				              <li class="page_item page-item-32"><a href="https://www.meowfoundation.com/adopt/application-form/">Application Form</a></li>
+<li class="page_item page-item-34"><a href="https://www.meowfoundation.com/adopt/selecting-a-cat/">Selecting a Cat</a></li>
+<li class="page_item page-item-36"><a href="https://www.meowfoundation.com/adopt/why-adopt-with-meow/">Why Adopt with MEOW</a></li>
+<li class="page_item page-item-38"><a href="https://www.meowfoundation.com/adopt/process-policies-fees/">Process, Policies &#038; Fees</a></li>
+<li class="page_item page-item-1413"><a href="https://www.meowfoundation.com/adopt/courtesy-re-homing/">Courtesy Re-homing</a></li>
+<li class="page_item page-item-582"><a href="https://www.meowfoundation.com/adopt/new-home/">Trying Out My Home</a></li>
+<li class="page_item page-item-573"><a href="https://www.meowfoundation.com/adopt/adopted/">Adopted Cats</a></li>
+
+				          </ul>
+		              <li id="mm-programs"><a href="/programs/" class="wsub" data-toggle="#sm-program">Programs <span class="btn-toggle show-for-small">&#9662;</span></a></li>
+			              <ul class="show-for-small" id="sm-program">
+				             <li class="page_item page-item-52"><a href="https://www.meowfoundation.com/programs/rescue-intake/">Rescue and Adoption</a></li>
+<li class="page_item page-item-54"><a href="https://www.meowfoundation.com/programs/snap/">Spay Neuter Assistance</a></li>
+<li class="page_item page-item-56"><a href="https://www.meowfoundation.com/programs/trap-neuter-return/">Trap Neuter Return</a></li>
+<li class="page_item page-item-59"><a href="https://www.meowfoundation.com/programs/cat-food-assistance/">Cat Food Assistance</a></li>
+			              </ul>
+		              <li id="mm-involved"><a href="/get-involved/" class="wsub" data-toggle="#sm-involved">Get Involved <span class="btn-toggle show-for-small">&#9662;</span></a></li>
+			              <ul class="show-for-small" id="sm-involved">
+				              <li class="page_item page-item-67"><a href="https://www.meowfoundation.com/get-involved/volunteer/">Volunteer</a></li>
+<li class="page_item page-item-70"><a href="https://www.meowfoundation.com/get-involved/foster/">Foster</a></li>
+<li class="page_item page-item-64"><a href="https://www.meowfoundation.com/get-involved/events/">Events</a></li>
+<li class="page_item page-item-75 page_item_has_children"><a href="https://www.meowfoundation.com/get-involved/merchandise/">Merchandise</a>
+<ul class='children'>
+	<li class="page_item page-item-527"><a href="https://www.meowfoundation.com/get-involved/merchandise/cat-bed-retailers/">Cat Bed Retailers</a></li>
+	<li class="page_item page-item-539"><a href="https://www.meowfoundation.com/get-involved/merchandise/calendar-retailers/">Calendar Retailers</a></li>
+</ul>
+</li>
+<li class="page_item page-item-77"><a href="https://www.meowfoundation.com/get-involved/dear-meow/">Dear MEOW</a></li>
+			              </ul>
+		              <li id="mm-resources"><a href="/resources/" class="wsub" data-toggle="#sm-resources">Resources <span class="btn-toggle show-for-small">&#9662;</span></a></li>
+			              <ul class="show-for-small" id="sm-resources">
+							<li class="page_item page-item-81"><a href="https://www.meowfoundation.com/resources/new-cat/">Bringing Home a Cat</a></li>
+<li class="page_item page-item-83"><a href="https://www.meowfoundation.com/resources/cat-behaviour/">Cat Behaviour 101</a></li>
+<li class="page_item page-item-87"><a href="https://www.meowfoundation.com/resources/feral-cats/">Feral Cats</a></li>
+<li class="page_item page-item-89"><a href="https://www.meowfoundation.com/resources/lost-and-found/">Lost and Found</a></li>
+<li class="page_item page-item-91"><a href="https://www.meowfoundation.com/resources/downloads/">Downloads</a></li>
+<li class="page_item page-item-93"><a href="https://www.meowfoundation.com/resources/useful-links/">Useful Links</a></li>
+			              </ul>
+		              <li id="mm-donate" class="hide-for-small">
+			            <a class="donate" href="/donate">Donate </a>
+			          </li>
+			          <li id="mobile-search" class="show-for-small" style="padding:0 5px;">
+						<form role="search" method="get" id="searchform" action="https://www.meowfoundation.com/" >
+	<label class="screen-reader-text" for="s">Search for:</label>
+	<input type="text" value="" name="s" id="s" placeholder="Search for:" />
+	<input type="submit" id="searchsubmit" value="" />
+	</form>					</li>
+		          </ul>
+
+		        </nav>
+		    <!-- End Navigation -->
+		    </header>
+		  </div>
+
+			
+			<div id="content" class="row">
+			
+			<div  id="banner" class="twelve columns centered">
+				<h1>Whoops!<br />Looks like the cats got this one!</h1>
+				<p>Please try selecting a page from the pages listed below.</p>
+			</div>
+			<div class="wave twelve columns centered"></div>
+			
+		
+						<div class="four columns">
+						<h3><a href="/about">About Us</a></h3>
+						<li class="page_item page-item-14"><a href="https://www.meowfoundation.com/about/mission/">Our Vision, Mission &#038; Goals</a></li>
+<li class="page_item page-item-1424"><a href="https://www.meowfoundation.com/about/program-statistics/">Program Statistics</a></li>
+<li class="page_item page-item-12"><a href="https://www.meowfoundation.com/about/people/">Our People</a></li>
+<li class="page_item page-item-20"><a href="https://www.meowfoundation.com/about/meowzine/">MEOWZine Newsletter</a></li>
+<li class="page_item page-item-24"><a href="https://www.meowfoundation.com/about/careers/">Careers</a></li>
+<li class="page_item page-item-25"><a href="https://www.meowfoundation.com/about/contact/">Contact</a></li>
+ 
+						</div>
+					
+						<div class="four columns">
+						<h3><a href="/adopt">Adopt a Cat</a></h3>
+						 <li class="page_item page-item-32"><a href="https://www.meowfoundation.com/adopt/application-form/">Application Form</a></li>
+<li class="page_item page-item-34"><a href="https://www.meowfoundation.com/adopt/selecting-a-cat/">Selecting a Cat</a></li>
+<li class="page_item page-item-36"><a href="https://www.meowfoundation.com/adopt/why-adopt-with-meow/">Why Adopt with MEOW</a></li>
+<li class="page_item page-item-38"><a href="https://www.meowfoundation.com/adopt/process-policies-fees/">Process, Policies &#038; Fees</a></li>
+<li class="page_item page-item-1413"><a href="https://www.meowfoundation.com/adopt/courtesy-re-homing/">Courtesy Re-homing</a></li>
+<li class="page_item page-item-582"><a href="https://www.meowfoundation.com/adopt/new-home/">Trying Out My Home</a></li>
+<li class="page_item page-item-573"><a href="https://www.meowfoundation.com/adopt/adopted/">Adopted Cats</a></li>
+<li class="page_item page-item-229"><a href="https://www.meowfoundation.com/adopt/catalogue/">Cat Details</a></li>
+						</div>
+					
+						<div class="four columns">
+						<h3><a href="/Programs">Programs</a></h3>
+						 <li class="page_item page-item-52"><a href="https://www.meowfoundation.com/programs/rescue-intake/">Rescue and Adoption</a></li>
+<li class="page_item page-item-54"><a href="https://www.meowfoundation.com/programs/snap/">Spay Neuter Assistance</a></li>
+<li class="page_item page-item-56"><a href="https://www.meowfoundation.com/programs/trap-neuter-return/">Trap Neuter Return</a></li>
+<li class="page_item page-item-59"><a href="https://www.meowfoundation.com/programs/cat-food-assistance/">Cat Food Assistance</a></li>
+						</div>
+							<div class="clear"></div>
+						<div class="four columns">
+						<h3><a href="/get-involved">Get Involved</a></h3>
+						 <li class="page_item page-item-67"><a href="https://www.meowfoundation.com/get-involved/volunteer/">Volunteer</a></li>
+<li class="page_item page-item-70"><a href="https://www.meowfoundation.com/get-involved/foster/">Foster</a></li>
+<li class="page_item page-item-64"><a href="https://www.meowfoundation.com/get-involved/events/">Events</a></li>
+<li class="page_item page-item-75"><a href="https://www.meowfoundation.com/get-involved/merchandise/">Merchandise</a></li>
+<li class="page_item page-item-77"><a href="https://www.meowfoundation.com/get-involved/dear-meow/">Dear MEOW</a></li>
+						</div>
+					
+						<div class="four columns end">
+						<h3><a href="/get-involved">Resources</a></h3>
+						 <li class="page_item page-item-81"><a href="https://www.meowfoundation.com/resources/new-cat/">Bringing Home a Cat</a></li>
+<li class="page_item page-item-83"><a href="https://www.meowfoundation.com/resources/cat-behaviour/">Cat Behaviour 101</a></li>
+<li class="page_item page-item-87"><a href="https://www.meowfoundation.com/resources/feral-cats/">Feral Cats</a></li>
+<li class="page_item page-item-89"><a href="https://www.meowfoundation.com/resources/lost-and-found/">Lost and Found</a></li>
+<li class="page_item page-item-91"><a href="https://www.meowfoundation.com/resources/downloads/">Downloads</a></li>
+<li class="page_item page-item-93"><a href="https://www.meowfoundation.com/resources/useful-links/">Useful Links</a></li>
+						</div>				
+			
+			 <!-- end #main -->
+    
+				
+    
+			</div> <!-- end #content -->
+
+
+			<div class="row" id="back-to-top">
+			<div class="two columns centered"><a href="#">Back to Top</a></div>
+			</div>
+			<div class="push"></div>
+			</div><!-- /Wrapper -->
+
+			<div id="footer">
+
+				<footer role="contentinfo">
+					<div id="footer_content">
+
+						<div class="row"><!-- Footer Grid -->
+							<div class="four columns push-eight mobile-dashed">
+								<h4>Stay informed. Get our newsletter.</h4>
+								<form id="frm_contact" action="https://meowfoundation.us1.list-manage.com/subscribe/post-json?u=139536050b3f87c974e2bac7e&id=0a90410361&c=?" method="get">
+									<div class="ten columns mobile-three">
+										<input type="text" name="EMAIL" id="mce-EMAIL" class="newsletter left" placeholder="Email address" />
+									</div>
+									<div class="two columns mobile-one">
+										<a href="#" data-action="submit" class="newsletter_button right">Sign Up</a>
+									</div>
+								</form>
+								<p class="thanks hide">Thank you for registering.</p>
+							</div>
+
+							<div class="four columns pull-four mobile-dashed">
+								<h4>Explore the site</h4>
+								<ul class="block-grid two-up site-nav">
+									<li><a href="/about">About</a></li>
+									<li><a href="/get-involved/events/">Events Calendar</a></li>
+									<li><a href="/adopt">Adopt a Cat</a></li>
+									<li><a href="/get-involved/volunteer/">Volunteer</a></li>
+									<li><a href="/programs">Programs</a></li>
+									<li><a href="#">Adoption Application</a></li>
+									<li><a href="/get-involved">Get Involved</a></li>
+									<li><a href="https://www.meowfoundation.com/meowcam" target="_blank">Kitty Cam</a></li>
+									<li><a href="/resources">Resources</a></li>
+								</ul>
+							</div>
+
+							<div class="four columns pull-four">
+								<h4>We’d love to hear from you</h4>
+								<div class="row">
+									<div class="six columns mobile-two">
+									<p>Box 65024, RPO North Hill<br />
+										Calgary, AB<br />
+										T2N 4T6</p>
+									</div>
+
+									<div class="six columns mobile-two">
+									<ul class="right footer-contact">
+										<li class="phone">403.230.6033</li>
+										<li class="fax">1.866.345.0042</li>
+										<li class="email"><a href="/about/contact/">Email us</a></li>
+									</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<div id="footer_supplement" class="row">
+							<div class="seven columns social mobile">
+								<ul class="block-grid four-up mobile-four">
+									<li><a href="https://www.facebook.com/meowfoundation" class="fb">Like MEOW</a></li>
+									<li><a href="https://twitter.com/MEOWFoundation" class="twitter">Follow MEOW</a></li>
+									<li><a href="https://www.instagram.com/meowfoundation" class="instagram">MEOW Images</a></li>
+                                    <li><a href="http://www.youtube.com/user/ME0WFoundation" class="youtube">MEOW Video</a></li>
+								</ul>
+							</div>
+
+							<div class="five columns mobile">
+								<div class="row mobile-center">
+									<div class="twelve columns">
+									<p><small><a href="/contact">Contact</a> |
+											<a href="/terms-of-use/">Terms of Use</a> |
+											<a href="/privacy-policy/">Privacy Policy</a> |
+											<a href="/site-map">Site Map</a><br />
+											© Copyright 2018 - MEOW Foundation<br />Registered Charity #89501 2813 RR0001</small></p>
+											<p></p>
+									</div>
+								</div>
+							</div>
+
+								<div class="one columns centered mobile-center">
+									<a href="http://flipp.ca" target="_blank" class="icon-logo-flipp right">f</a>
+								</div>
+
+						</div>
+
+					</div>
+				</footer>
+				<div class="clear"></div>
+			</div> <!-- end footer -->
+
+		</div> <!-- end #container -->
+
+		<!--[if lt IE 7 ]>
+  			<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+  			<script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+		<![endif]-->
+		
+		
+		<script type="text/javascript">
+		
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-31636560-1']);
+		  _gaq.push(['_trackPageview']);
+		
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		
+		</script>
+				</div>
+	</body>
+
+</html>

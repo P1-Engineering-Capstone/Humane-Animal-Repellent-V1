@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head >
+<meta charset="UTF-8" />
+<title>Page not found</title>		<meta name="robots" content="noodp,noydir" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Cat Info &raquo; Feed" href="http://catinfo.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Cat Info &raquo; Comments Feed" href="http://catinfo.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/catinfo.org\/website\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='genesis-sample-css'  href='http://catinfo.org/website/wp-content/themes/catinfo2016/style.css?ver=2.2.4' type='text/css' media='all' />
+<style id='genesis-sample-inline-css' type='text/css'>
+
+
+		a,
+		.entry-title a:focus,
+		.entry-title a:hover,
+		.genesis-nav-menu a:focus,
+		.genesis-nav-menu a:hover,
+		.genesis-nav-menu .current-menu-item > a,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:focus,
+		.genesis-nav-menu .sub-menu .current-menu-item > a:hover,
+		.js nav button:focus,
+		.js .menu-toggle:focus {
+			color: #000080;
+		}
+		
+
+		button:focus,
+		button:hover,
+		input:focus[type="button"],
+		input:focus[type="reset"],
+		input:focus[type="submit"],
+		input:hover[type="button"],
+		input:hover[type="reset"],
+		input:hover[type="submit"],
+		.archive-pagination li a:focus,
+		.archive-pagination li a:hover,
+		.archive-pagination .active a,
+		.button:focus,
+		.button:hover,
+		.sidebar .enews-widget input[type="submit"] {
+			background-color: #000080;
+			color: #ffffff;
+		}
+		
+</style>
+<link rel='stylesheet' id='wprmenu.css-css'  href='http://catinfo.org/website/wp-content/plugins/wp-responsive-menu/css/wprmenu.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wprmenu-font-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C300%2C600&#038;ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='genesis-sample-fonts-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C600%2C700&#038;ver=2.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://catinfo.org/website/wp-includes/css/dashicons.min.css?ver=4.8.5' type='text/css' media='all' />
+<link rel='stylesheet' id='gca-column-styles-css'  href='http://catinfo.org/website/wp-content/plugins/genesis-columns-advanced/css/gca-column-styles.css?ver=4.8.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://catinfo.org/website/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var gadwpUAEventsData = {"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"catinfo.org","event_timeout":100,"event_formsubmit":0,"ga_pagescrolldepth_tracking":0}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/plugins/google-analytics-dashboard-for-wp/front/js/tracking-analytics-events.js?ver=5.0.1'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/plugins/wp-responsive-menu/js/jquery.transit.min.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/plugins/wp-responsive-menu/js/jquery.sidr.js?ver=4.8.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wprmenu = {"zooming":"yes","from_width":"767","swipe":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/plugins/wp-responsive-menu/js/wprmenu.js?ver=4.8.5'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/themes/genesis/lib/js/skip-links.js?ver=4.8.5'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/themes/genesis/lib/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<link rel='https://api.w.org/' href='http://catinfo.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://catinfo.org/website/xmlrpc.php?rsd" />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//catinfo.org/?wordfence_logHuman=1&hid=77BC492F703313DDFF35068A5F4A9542');
+</script>		<style id="wprmenu_css" type="text/css" >
+			/* apply appearance settings */
+			#wprmenu_bar {
+				background: #00310a;
+			}
+			#wprmenu_bar .menu_title, #wprmenu_bar .wprmenu_icon_menu {
+				color: #F2F2F2;
+			}
+			#wprmenu_menu {
+				background: #00310a!important;
+			}
+			#wprmenu_menu.wprmenu_levels ul li {
+				border-bottom:1px solid #00310a;
+				border-top:1px solid #00310a;
+			}
+			#wprmenu_menu ul li a {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu ul li a:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels a.wprmenu_parent_item {
+				border-left:1px solid #00310a;
+			}
+			#wprmenu_menu .wprmenu_icon_par {
+				color: #CFCFCF;
+			}
+			#wprmenu_menu .wprmenu_icon_par:hover {
+				color: #606060;
+			}
+			#wprmenu_menu.wprmenu_levels ul li ul {
+				border-top:1px solid #00310a;
+			}
+			#wprmenu_bar .wprmenu_icon span {
+				background: #FFFFFF;
+			}
+			
+			#wprmenu_menu.left {
+				width:80%;
+				left: -80%;
+			    right: auto;
+			}
+			#wprmenu_menu.right {
+				width:80%;
+			    right: -80%;
+			    left: auto;
+			}
+
+
+			
+							#wprmenu_bar .wprmenu_icon {
+					float: right!important;
+					margin-right:0px!important;
+				}
+				#wprmenu_bar .bar_logo {
+					pading-left: 0px;
+				}
+						/* show the bar and hide othere navigation elements */
+			@media only screen and (max-width: 767px) {
+				html { padding-top: 42px!important; }
+				#wprmenu_bar { display: block!important; }
+				div#wpadminbar { position: fixed; }
+							}
+		</style>
+		<link rel="pingback" href="http://catinfo.org/website/xmlrpc.php" />
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12442368-1', 'auto');
+  ga('send', 'pageview');
+
+</script><style type="text/css">.site-title a { background: url(http://catinfo.org/website/wp-content/uploads/2016/10/header3-1.jpg) no-repeat !important; }</style>
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #fbf1d9; }
+</style>
+<link rel="icon" href="http://catinfo.org/website/wp-content/uploads/2016/10/cropped-header3-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="http://catinfo.org/website/wp-content/uploads/2016/10/cropped-header3-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="http://catinfo.org/website/wp-content/uploads/2016/10/cropped-header3-180x180.jpg" />
+<meta name="msapplication-TileImage" content="http://catinfo.org/website/wp-content/uploads/2016/10/cropped-header3-270x270.jpg" />
+
+<!-- BEGIN GADWP v5.0.1 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-12442368-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+</head>
+<body class="error404 custom-background custom-header header-image header-full-width content-sidebar" itemscope itemtype="http://schema.org/WebPage"><div class="site-container"><section><h2 class="screen-reader-text">Skip links</h2><ul class="genesis-skip-link"><li><a href="#genesis-content" class="screen-reader-shortcut"> Skip to content</a></li><li><a href="#genesis-sidebar-primary" class="screen-reader-shortcut"> Skip to primary sidebar</a></li></ul></section>
+<header class="site-header" itemscope itemtype="http://schema.org/WPHeader"><div class="wrap"><div class="title-area"><p class="site-title" itemprop="headline"><a href="http://catinfo.org/">Cat Info</a></p><p class="site-description" itemprop="description">Common Sense. Healthy Cats.</p></div></div></header><div class="site-inner"><div class="content-sidebar-wrap"><main class="content" id="genesis-content"><article class="entry"><h1 class="entry-title">Not found, error 404</h1><div class="entry-content"><p>The page you are looking for no longer exists. Perhaps you can return back to the site's <a href="http://catinfo.org/">homepage</a> and see if you can find what you are looking for. Or, you can try finding it by using the search form below.</p><form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://catinfo.org/" role="search"><meta itemprop="target" content="http://catinfo.org/?s={s}"/><label class="search-form-label screen-reader-text" for="searchform-5a6691f8ae246">Search this site...</label><input itemprop="query-input" type="search" name="s" id="searchform-5a6691f8ae246" placeholder="Search this site..." /><input type="submit" value="Search" /></form><h2>Sitemap</h2><h3>Pages:</h3><ul><li class="page_item page-item-436"><a href="http://catinfo.org/alley-cat-allies-drop-trap-review/">Alley Cat Allies Drop Trap Review</a></li>
+<li class="page_item page-item-97"><a href="http://catinfo.org/building-a-folding-drop-trap/">Building A Folding Drop Trap</a></li>
+<li class="page_item page-item-18"><a href="http://catinfo.org/feline-urinary-tract-diseases/">Cat Urinary Tract Diseases: Cystitis, Urethral Obstruction, Urinary Tract Infection</a></li>
+<li class="page_item page-item-33"><a href="http://catinfo.org/commercial-cat-foods/">Commercial Cat Foods</a></li>
+<li class="page_item page-item-654"><a href="http://catinfo.org/consultation-service/">Consultation Service</a></li>
+<li class="page_item page-item-56"><a href="http://catinfo.org/convenia-worth-the-risk/">Convenia: Worth the Risk?</a></li>
+<li class="page_item page-item-451"><a href="http://catinfo.org/dr-piersons-tall-dark-and-handsome-men/">Dr. Pierson&#8217;s Tall, Dark, and Handsome Men</a></li>
+<li class="page_item page-item-86"><a href="http://catinfo.org/feeding-tubes-for-cats/">Feeding Tubes For Cats</a></li>
+<li class="page_item page-item-14"><a href="http://catinfo.org/">Feeding Your Cat: Know the Basics of Feline Nutrition</a></li>
+<li class="page_item page-item-21"><a href="http://catinfo.org/feline-diabetes/">Feline Diabetes</a></li>
+<li class="page_item page-item-377"><a href="http://catinfo.org/feline-hyperthyroidism/">Feline Hyperthyroidism</a></li>
+<li class="page_item page-item-82"><a href="http://catinfo.org/feline-obesity-an-epidemic-of-fat-cats/">Feline Obesity: An Epidemic of Fat Cats</a></li>
+<li class="page_item page-item-222"><a href="http://catinfo.org/feral-cat-managementtnr-folding-drop-trapremote-control-trap/">Feral Cat Management/TNR Folding Drop Trap/Remote Control Trap</a></li>
+<li class="page_item page-item-35"><a href="http://catinfo.org/making-cat-food/">Making Cat Food</a></li>
+<li class="page_item page-item-484"><a href="http://catinfo.org/miscellaneous-pictures/">Miscellaneous Pictures</a></li>
+<li class="page_item page-item-288"><a href="http://catinfo.org/pilling-cats-and-dogs-and-erosive-esophagitis-compounded-flavored-liquid-alternatives-transdermal-medications-pill-pockets/">Pilling Cats and Dogs:  Erosive Esophagitis, Compounded Flavored Liquid Alternatives, Transdermal Medications, Pill Pockets</a></li>
+<li class="page_item page-item-580"><a href="http://catinfo.org/contact-catinfo/">Request for information regarding consulting service</a></li>
+<li class="page_item page-item-474"><a href="http://catinfo.org/robbies-barium-study/">Robbie&#8217;s Barium Study</a></li>
+<li class="page_item page-item-676"><a href="http://catinfo.org/search_gcse/">Search Results</a></li>
+<li class="page_item page-item-1277"><a href="http://catinfo.org/sitemap/">Sitemap</a></li>
+<li class="page_item page-item-481"><a href="http://catinfo.org/south-bay-stores-selling-high-quality-canned-food/">South Bay Stores Selling High Quality Canned Food</a></li>
+<li class="page_item page-item-29"><a href="http://catinfo.org/the-litter-box-from-your-cats-point-of-view/">The Litter Box From Your Cat&#8217;s Point of View</a></li>
+<li class="page_item page-item-92"><a href="http://catinfo.org/the-origin-of-catinfo-org/">The Origin of CatInfo.org</a></li>
+<li class="page_item page-item-95"><a href="http://catinfo.org/tlc-adoptions/">TLC ADOPTIONS</a></li>
+<li class="page_item page-item-175"><a href="http://catinfo.org/vaccines-for-cats-we-need-to-stop-overvaccinating/">Vaccines for Cats: We Need to Stop Overvaccinating</a></li>
+</ul></div></article></main><aside class="sidebar sidebar-primary widget-area" role="complementary" aria-label="Primary Sidebar" itemscope itemtype="http://schema.org/WPSideBar" id="genesis-sidebar-primary"><h2 class="genesis-sidebar-title screen-reader-text">Primary Sidebar</h2><section id="search-3" class="widget widget_search"><div class="widget-wrap"><h3 class="widgettitle widget-title">Search Catinfo</h3>
+<form class="search-form" itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" method="get" action="http://catinfo.org/" role="search"><meta itemprop="target" content="http://catinfo.org/?s={s}"/><label class="search-form-label screen-reader-text" for="searchform-5a6691f8b4806">Search this site...</label><input itemprop="query-input" type="search" name="s" id="searchform-5a6691f8b4806" placeholder="Search this site..." /><input type="submit" value="Search" /></form></div></section>
+<section id="nav_menu-2" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">ORIGIN of CATINFO</h3>
+<div class="menu-origin-of-catinfo-container"><ul id="menu-origin-of-catinfo" class="menu"><li id="menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-506"><a href="http://catinfo.org/the-origin-of-catinfo-org/" itemprop="url">Dr. Pierson &#8211; How CatInfo Came to Be</a></li>
+</ul></div></div></section>
+<section id="nav_menu-3" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">FELINE NUTRITION</h3>
+<div class="menu-feline-nutrition-container"><ul id="menu-feline-nutrition" class="menu"><li id="menu-item-507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-507"><a href="http://catinfo.org/" itemprop="url">Feeding Your Cat: Know the Basics of Feline Nutrition</a></li>
+<li id="menu-item-508" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-508"><a href="http://catinfo.org/#Prescription/Therapeutic_Diets" itemprop="url">&#8220;Prescription&#8221; Diets</a></li>
+<li id="menu-item-509" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-509"><a target="_blank" href="http://www.catinfo.org/docs/TipsForTransitioning1-14-11.pdf" itemprop="url">Transitioning Dry Food Addicts to Canned Food</a></li>
+<li id="menu-item-510" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-510"><a target="_blank" href="http://www.catinfo.org/docs/DrZoran.pdf" itemprop="url">The Carnivore Connection to Nutrition in Cats</a></li>
+<li id="menu-item-511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-511"><a href="http://catinfo.org/commercial-cat-foods/" itemprop="url">Commercial Cat Foods</a></li>
+<li id="menu-item-512" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-512"><a target="_blank" href="http://catinfo.org/docs/CatFoodProteinFatCarbPhosphorusChart.pdf" itemprop="url">Protein/Fat/Carb/               Phosphorus Chart</a></li>
+<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://catinfo.org/making-cat-food/" itemprop="url">Making Cat Food</a></li>
+</ul></div></div></section>
+<section id="nav_menu-4" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">FELINE HEALTH</h3>
+<div class="menu-feline-health-container"><ul id="menu-feline-health" class="menu"><li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://catinfo.org/feline-urinary-tract-diseases/" itemprop="url">Urinary Tract Diseases</a></li>
+<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="http://catinfo.org/feline-diabetes/" itemprop="url">Diabetes</a></li>
+<li id="menu-item-517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-517"><a href="http://catinfo.org/feline-obesity-an-epidemic-of-fat-cats/" itemprop="url">Obesity</a></li>
+<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="http://catinfo.org/feline-hyperthyroidism/" itemprop="url">Hyperthyroidism</a></li>
+<li id="menu-item-519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-519"><a href="http://catinfo.org/vaccines-for-cats-we-need-to-stop-overvaccinating/" itemprop="url">Vaccines</a></li>
+<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://catinfo.org/the-litter-box-from-your-cats-point-of-view/" itemprop="url">The Litter Box</a></li>
+<li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="http://catinfo.org/feeding-tubes-for-cats/" itemprop="url">Feeding Tubes</a></li>
+<li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="http://catinfo.org/pilling-cats-and-dogs-and-erosive-esophagitis-compounded-flavored-liquid-alternatives-transdermal-medications-pill-pockets/" itemprop="url">Pilling Cats and Dogs Safely</a></li>
+<li id="menu-item-1565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1565"><a href="http://catinfo.org/making-cat-food/#Dental_Health" itemprop="url">Dental Health</a></li>
+<li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="http://catinfo.org/convenia-worth-the-risk/" itemprop="url">Convenia: Long-Acting Antibiotic</a></li>
+</ul></div></div></section>
+<section id="nav_menu-5" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">RESCUE</h3>
+<div class="menu-rescue-container"><ul id="menu-rescue" class="menu"><li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://catinfo.org/tlc-adoptions/" itemprop="url">TLC ADOPTIONS</a></li>
+<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="http://catinfo.org/feral-cat-managementtnr-folding-drop-trapremote-control-trap/" itemprop="url">Drop Trap/Remote Control Trap</a></li>
+<li id="menu-item-527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-527"><a href="http://catinfo.org/building-a-folding-drop-trap/" itemprop="url">Building A Folding Drop Trap</a></li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="http://catinfo.org/alley-cat-allies-drop-trap-review/" itemprop="url">Alley Cat Allies Drop Trap Review</a></li>
+</ul></div></div></section>
+<section id="nav_menu-6" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">RECOMMENDED READING</h3>
+<div class="menu-recommended-reading-container"><ul id="menu-recommended-reading" class="menu"><li id="menu-item-528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-528"><a target="_blank" href="https://www.amazon.com/Your-Cat-Simple-Secrets-Stronger/dp/0312358016/ref=pd_bbs_sr_1/103-1121778-6836659?ie=UTF8&#038;s=books&#038;qid=1179210413&#038;sr=8-1" itemprop="url">Your Cat &#8211; Dr. Elizabeth Hodgkins</a></li>
+<li id="menu-item-529" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-529"><a target="_blank" href="https://www.amazon.com/dp/0967492645/ref=cm_sw_su_dp" itemprop="url">Canine Nutrition: Feeding Miss Lilly &#8211; Dr. Christine King</a></li>
+</ul></div></div></section>
+<section id="nav_menu-7" class="widget widget_nav_menu"><div class="widget-wrap"><h3 class="widgettitle widget-title">EXTRA STUFF</h3>
+<div class="menu-extra-stuff-container"><ul id="menu-extra-stuff" class="menu"><li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://catinfo.org/dr-piersons-tall-dark-and-handsome-men/" itemprop="url">Dr. Pierson&#8217;s Tall, Dark, and Handsome Men</a></li>
+<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://catinfo.org/robbies-barium-study/" itemprop="url">Robbie&#8217;s Barium Study</a></li>
+<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="http://catinfo.org/miscellaneous-pictures/" itemprop="url">Interesting Pictures</a></li>
+<li id="menu-item-532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-532"><a target="_blank" href="http://theantser.com/index.shtml" itemprop="url">Ant problem solution</a></li>
+<li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534"><a href="http://catinfo.org/south-bay-stores-selling-high-quality-canned-food/" itemprop="url">South Bay Pet Stores</a></li>
+<li id="menu-item-1603" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1603"><a target="_blank" href="http://catinfo.org/consultation-service/#contact" itemprop="url">Contact</a></li>
+</ul></div></div></section>
+</aside></div></div>	<div class="site-footer"><div class="wrap"><p>Copyright 2016 CatInfo.org - All Rights Reserved - <a href="http://catinfo.org/sitemap">Sitemap</a></p>
+<br><a href="http://www.stellarmediagroup.com">Web design</a>  by Stellar Media Group</p></div></div>
+
+</div><script type='text/javascript' src='http://catinfo.org/website/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/themes/genesis/lib/js/menu/superfish.min.js?ver=1.7.5'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/themes/genesis/lib/js/menu/superfish.args.min.js?ver=2.4.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var genesisSampleL10n = {"mainMenu":"Menu","subMenu":"Menu"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-content/themes/catinfo2016/js/responsive-menu.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://catinfo.org/website/wp-includes/js/wp-embed.min.js?ver=4.8.5'></script>
+		<div id="wprmenu_bar" class="wprmenu_bar">
+			<div class="wprmenu_icon">
+				<span class="wprmenu_ic_1"></span>
+				<span class="wprmenu_ic_2"></span>
+				<span class="wprmenu_ic_3"></span>
+			</div>
+			<div class="menu_title">
+				MENU							</div>
+		</div>
+
+		<div id="wprmenu_menu" class="wprmenu_levels top wprmenu_custom_icons">
+						<ul id="wprmenu_menu_ul">
+				<li id="menu-item-537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-537"><a href="#" itemprop="url">ORIGIN of CATINFO</a>
+<ul  class="sub-menu">
+	<li id="menu-item-538" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-538"><a href="http://catinfo.org/the-origin-of-catinfo-org/" itemprop="url">Dr. Pierson &#8211; How CatInfo Came to Be</a></li>
+</ul>
+</li>
+<li id="menu-item-539" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-539"><a target="_blank" href="http://catinfo.org/?page_id=1439&#038;preview=true" itemprop="url">FELINE NUTRITION</a>
+<ul  class="sub-menu">
+	<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-540"><a href="http://catinfo.org/" itemprop="url">Feeding Your Cat: The Basics</a></li>
+	<li id="menu-item-541" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-541"><a href="http://catinfo.org/#Prescription/Therapeutic_Diets" itemprop="url">&#8220;Prescription&#8221; Diets</a></li>
+	<li id="menu-item-542" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-542"><a href="http://catinfo.org/docs/TipsForTransitioning1-14-11.pdf" itemprop="url">Transitioning Dry Food Addicts to Canned Food</a></li>
+	<li id="menu-item-543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-543"><a href="http://www.catinfo.org/docs/DrZoran.pdf" itemprop="url">The Carnivore Connection to Nutrition in Cats</a></li>
+	<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="http://catinfo.org/commercial-cat-foods/" itemprop="url">Commercial Cat Foods</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-545"><a target="_blank" href="http://catinfo.org/docs/CatFoodProteinFatCarbPhosphorusChart.pdf" itemprop="url">Protein/Fat/Carb/Phosphorus Chart</a></li>
+	<li id="menu-item-547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-547"><a href="http://catinfo.org/making-cat-food/" itemprop="url">Making Cat Food</a></li>
+</ul>
+</li>
+<li id="menu-item-548" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-548"><a href="#" itemprop="url">FELINE HEALTH</a>
+<ul  class="sub-menu">
+	<li id="menu-item-549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-549"><a href="http://catinfo.org/feline-urinary-tract-diseases/" itemprop="url">Urinary Tract Diseases</a></li>
+	<li id="menu-item-552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-552"><a href="http://catinfo.org/feline-diabetes/" itemprop="url">Diabetes</a></li>
+	<li id="menu-item-553" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-553"><a href="http://catinfo.org/feline-hyperthyroidism/" itemprop="url">Hyperthyroidism</a></li>
+	<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://catinfo.org/feline-obesity-an-epidemic-of-fat-cats/" itemprop="url">Obesity</a></li>
+	<li id="menu-item-557" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-557"><a href="http://catinfo.org/vaccines-for-cats-we-need-to-stop-overvaccinating/" itemprop="url">Vaccines</a></li>
+	<li id="menu-item-556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-556"><a href="http://catinfo.org/the-litter-box-from-your-cats-point-of-view/" itemprop="url">The Litter Box</a></li>
+	<li id="menu-item-551" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-551"><a href="http://catinfo.org/feeding-tubes-for-cats/" itemprop="url">Feeding Tubes Save Lives</a></li>
+	<li id="menu-item-555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-555"><a href="http://catinfo.org/pilling-cats-and-dogs-and-erosive-esophagitis-compounded-flavored-liquid-alternatives-transdermal-medications-pill-pockets/" itemprop="url">Pilling Cats and Dogs Safely</a></li>
+	<li id="menu-item-1587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1587"><a href="http://catinfo.org/making-cat-food/#Dental_Health" itemprop="url">Dental Health</a></li>
+	<li id="menu-item-550" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-550"><a href="http://catinfo.org/convenia-worth-the-risk/" itemprop="url">Convenia: Long-Acting Antibiotic</a></li>
+</ul>
+</li>
+<li id="menu-item-558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-558"><a href="#" itemprop="url">RESCUE</a>
+<ul  class="sub-menu">
+	<li id="menu-item-562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-562"><a href="http://catinfo.org/tlc-adoptions/" itemprop="url">TLC Adoptions and Rescue</a></li>
+	<li id="menu-item-561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-561"><a href="http://catinfo.org/feral-cat-managementtnr-folding-drop-trapremote-control-trap/" itemprop="url">Drop Trap/Remote Control Trap</a></li>
+	<li id="menu-item-559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-559"><a href="http://catinfo.org/alley-cat-allies-drop-trap-review/" itemprop="url">Alley Cat Allies Drop Trap Review</a></li>
+	<li id="menu-item-560" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-560"><a href="http://catinfo.org/building-a-folding-drop-trap/" itemprop="url">Building A Folding Drop Trap</a></li>
+</ul>
+</li>
+<li id="menu-item-563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-563"><a href="#" itemprop="url">RECOMMENDED READING</a>
+<ul  class="sub-menu">
+	<li id="menu-item-564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-564"><a target="_blank" href="https://www.amazon.com/Your-Cat-Simple-Secrets-Stronger/dp/0312358016/ref=pd_bbs_sr_1/103-1121778-6836659?ie=UTF8&#038;s=books&#038;qid=1179210413&#038;sr=8-1" itemprop="url">Your Cat &#8211; Dr. Elizabeth Hodgkins</a></li>
+	<li id="menu-item-565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-565"><a target="_blank" href="https://www.amazon.com/dp/0967492645/ref=cm_sw_su_dp" itemprop="url">Canine Nutrition: Feeding Miss Lilly &#8211; Dr. Christine King</a></li>
+</ul>
+</li>
+<li id="menu-item-566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-566"><a href="#" itemprop="url">EXTRA STUFF</a>
+<ul  class="sub-menu">
+	<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-567"><a href="http://catinfo.org/dr-piersons-tall-dark-and-handsome-men/" itemprop="url">Dr. Pierson&#8217;s Tall, Dark, and Handsome Men</a></li>
+	<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-569"><a href="http://catinfo.org/robbies-barium-study/" itemprop="url">Robbie&#8217;s Barium Study</a></li>
+	<li id="menu-item-571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-571"><a target="_blank" href="http://theantser.com/index.shtml" itemprop="url">Ant problem solution</a></li>
+	<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-568"><a href="http://catinfo.org/miscellaneous-pictures/" itemprop="url">Interesting Pictures</a></li>
+	<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-570"><a href="http://catinfo.org/south-bay-stores-selling-high-quality-canned-food/" itemprop="url">South Bay Pet Stores</a></li>
+	<li id="menu-item-1602" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1602"><a href="http://catinfo.org/consultation-service/#contact" itemprop="url">Contact</a></li>
+</ul>
+</li>
+			</ul>
+					</div>
+		</body></html>

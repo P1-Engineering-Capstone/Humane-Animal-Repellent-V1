@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<script src="//navbar.lacity.org/global_nav.js"></script>
+<link rel="stylesheet" type="text/css" href="../assets/css/storelocator.css" />
+<meta charset="UTF-8" />
+<title>Page not found | Los Angeles Animal Services</title>
+    
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+<script src="http://www.laanimalservices.com/wp-content/themes/laas/js/superfish.js"></script>
+<!--<script src="http://www.laanimalservices.com/wp-content/themes/laas/js/jquery.tabify.js"></script>-->
+<script src="http://www.laanimalservices.com/wp-content/themes/laas/js/laas.js"></script>
+
+<script src="http://www.laanimalservices.com/wp-content/themes/laas/js/jquery-ui.js"></script>
+<script src="http://www.laanimalservices.com/wp-content/themes/laas/js/tabs2.js"></script>
+    
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/reset.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/laas.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/css/superfish.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/css/animate.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/laasecond.css" />
+<!--<link rel="stylesheet" type="text/css" media="all" href="http://www.laanimalservices.com/wp-content/themes/laas/css/tabs2.css" />-->
+
+<link rel="shortcut icon" href="http://www.laanimalservices.com/wp-content/themes/laas/favicon.ico" />
+
+<script type="text/javascript">
+// <![CDATA[
+    jQuery(function(){
+         // This initializes the Superfish menu.
+         jQuery('ul.sf-menu').superfish();
+     });
+// ]]>
+</script>
+
+<!--Popup Window for Survey Monkey
+<script>
+function popupCenter(url, title, w, h) {
+var left = (screen.width/2)-(w/2);
+var top = (screen.height/2)-(h/2);
+return window.open(url, title, 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width='+w+', height='+h+', top='+top+', left='+left);
+} 
+</script>-->
+
+</head>
+
+<body >
+<div id="wrapper" class="hfeed">
+	<div id="header">
+		<div id="masthead">
+		
+        <div id="headimg">
+											<img src="http://www.laanimalservices.com/wp-content/uploads/2012/11/cropped-logolaas.png" width="940" height="140"   alt="City of Los Angeles Department of Animal Services Banner" title = "City of Los Angeles Department of Animal Services Banner"/>
+					        
+        </div><!--#headimg-->
+
+								<div id="navwrap" class="menu-header"><ul id="menu-main" class="sf-menu"><li id="menu-item-430" class="menu-home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-430"><a title="laas home" href="http://www.laanimalservices.com/">Home</a></li>
+<li id="menu-item-454" class="menu-visit menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="http://www.laanimalservices.com/shelters/">Visit</a></li>
+<li id="menu-item-458" class="menu-calendar menu-item menu-item-type-post_type menu-item-object-page menu-item-458"><a href="http://www.laanimalservices.com/about-us-2/calendar/">Calendar</a></li>
+<li id="menu-item-436" class="menu-adopt menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-436"><a href="http://www.laanimalservices.com/adopt/">Adopt</a>
+<ul class="sub-menu">
+	<li id="menu-item-441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-441"><a href="http://www.laanimalservices.com/adopt/adoption-fees/">Adoption Fees/Policy</a></li>
+	<li id="menu-item-2001" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2001"><a href="http://www.laanimalservices.com/adopt/finding-a-companion/">Adoptable Pet Search</a></li>
+	<li id="menu-item-682" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-682"><a href="http://www.laanimalservices.com/adopt/introducing-companions/">Introducing companions</a></li>
+	<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-443"><a href="http://www.laanimalservices.com/adopt/animal-id-search/">Animal ID Search</a></li>
+	<li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="http://www.laanimalservices.com/adopt/seniors/">Seniors</a></li>
+	<li id="menu-item-2154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2154"><a href="http://www.laanimalservices.com/shelter-search/">Search by Shelter</a></li>
+</ul>
+</li>
+<li id="menu-item-447" class="menu-aboutus menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-447"><a href="http://www.laanimalservices.com/about-us-2/">About Us</a>
+<ul class="sub-menu">
+	<li id="menu-item-451" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="http://www.laanimalservices.com/about-us-2/contact-us/">Contact Us</a></li>
+	<li id="menu-item-450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-450"><a href="http://www.laanimalservices.com/about-us-2/commission/">Commission</a></li>
+	<li id="menu-item-463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-463"><a href="http://www.laanimalservices.com/about-us-2/smart/">Specialized Mobile Animal Rescue Team</a></li>
+	<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="http://www.laanimalservices.com/about-us-2/department-press-releases/">Press Releases</a></li>
+	<li id="menu-item-3135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3135"><a href="http://www.laanimalservices.com/blog/">Notes from the GM</a></li>
+	<li id="menu-item-449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-449"><a href="http://www.laanimalservices.com/about-us-2/careers/">Careers</a></li>
+	<li id="menu-item-474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-474"><a href="http://www.laanimalservices.com/about-us-2/statistics/">Statistics</a></li>
+	<li id="menu-item-478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-478"><a href="http://www.laanimalservices.com/about-us-2/requests-for-proposals/">Requests for Proposals</a></li>
+	<li id="menu-item-480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-480"><a href="http://eng.lacity.org/projects/animal_bond/index.htm">Animal facilities bond</a></li>
+</ul>
+</li>
+<li id="menu-item-481" class="menu-petcare menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-481"><a href="http://www.laanimalservices.com/about-animals/">Pet care</a>
+<ul class="sub-menu">
+	<li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="http://www.laanimalservices.com/general-information/spay-neuter/">Spay &#038; Neuter</a></li>
+	<li id="menu-item-515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-515"><a href="http://www.laanimalservices.com/general-information/microchipping/">Microchipping</a></li>
+	<li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="http://www.laanimalservices.com/general-information/vaccinations/">Vaccinations</a></li>
+	<li id="menu-item-514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-514"><a href="http://www.laanimalservices.com/about-animals/lost-pet/">Lost Pet</a></li>
+	<li id="menu-item-3052" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3052"><a href="/about-animals/?cats">Cats</a></li>
+	<li id="menu-item-3053" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3053"><a href="/about-animals/?dogs">Dogs</a>
+	<ul class="sub-menu">
+		<li id="menu-item-518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-518"><a href="http://www.laanimalservices.com/about-animals/dogs/preventing-dog-bites/">Preventing Dog Bites</a></li>
+	</ul>
+</li>
+	<li id="menu-item-3054" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3054"><a href="/about-animals/?rabbits">Rabbits &#038; Pocket Pets</a></li>
+	<li id="menu-item-509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-509"><a href="http://www.laanimalservices.com/general-information/emergency-preparedness/">Emergency Preparedness</a></li>
+	<li id="menu-item-4133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4133"><a href="http://www.laanimalservices.com/general-information/planningforpets/">Planning for Pets if you can’t be there for them</a></li>
+	<li id="menu-item-512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-512"><a href="http://www.laanimalservices.com/general-information/hot-weather-tips/">Hot Weather Tips</a></li>
+	<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-513"><a href="http://www.laanimalservices.com/general-information/household-hazards/">Household Hazards</a></li>
+	<li id="menu-item-516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-516"><a href="http://www.laanimalservices.com/general-information/pet-friendly-housing/">Pet Friendly Housing</a></li>
+	<li id="menu-item-492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-492"><a href="http://www.laanimalservices.com/about-animals/wildlife/">Wildlife</a></li>
+	<li id="menu-item-508" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-508"><a href="http://www.laanimalservices.com/general-information/deceased-animal/">Deceased Animal</a></li>
+</ul>
+</li>
+<li id="menu-item-527" class="menu-policies menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-527"><a href="http://www.laanimalservices.com/laws-policies/">Policies</a>
+<ul class="sub-menu">
+	<li id="menu-item-533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-533"><a href="http://www.laanimalservices.com/laws-policies/animal-licenses/">Animal Licenses</a></li>
+	<li id="menu-item-529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-529"><a href="http://www.laanimalservices.com/laws-policies/permits/">Permits</a></li>
+	<li id="menu-item-530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-530"><a href="http://www.laanimalservices.com/laws-policies/spayneuter-ordinance/">Spay/Neuter Ordinance</a></li>
+	<li id="menu-item-528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-528"><a href="http://www.laanimalservices.com/laws-policies/nuisance-barking/">Nuisance Barking</a></li>
+	<li id="menu-item-507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-507"><a href="http://www.laanimalservices.com/laws-policies/dangerous-animals/">Dangerous Animals</a></li>
+	<li id="menu-item-531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-531"><a href="http://www.laanimalservices.com/laws-policies/administrative-hearing/">Administrative Hearing</a></li>
+	<li id="menu-item-532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-532"><a href="http://www.laanimalservices.com/laws-policies/animal-cruelty/">Animal Cruelty</a></li>
+	<li id="menu-item-534" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-534"><a href="http://www.laanimalservices.com/laws-policies/chained-dog-laws/">Chained Dog Laws</a></li>
+</ul>
+</li>
+<li id="menu-item-535" class="menu-volunteer menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-535"><a href="http://www.laanimalservices.com/volunteer/">Volunteer</a>
+<ul class="sub-menu">
+	<li id="menu-item-537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-537"><a href="http://www.laanimalservices.com/volunteer/new-hope/">New Hope</a></li>
+	<li id="menu-item-540" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-540"><a href="http://www.laanimalservices.com/volunteer/foster-program/">Foster Program</a></li>
+	<li id="menu-item-4298" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4298"><a href="http://www.laanimalservices.com/volunteer/playgroups/">Playgroups</a></li>
+</ul>
+</li>
+<li id="menu-item-542" class="menu-donate menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-542"><a href="http://www.laanimalservices.com/donate/">Donate</a>
+<ul class="sub-menu">
+	<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="http://www.laanimalservices.com/donate/gift-certificates/">Gift Certificates</a></li>
+	<li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545"><a href="http://www.laanimalservices.com/donate/kennel-sponsorship/">Kennel Sponsorship</a></li>
+	<li id="menu-item-548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-548"><a href="http://www.laanimalservices.com/donate/wills-and-bequests/">Wills and Bequests</a></li>
+	<li id="menu-item-2228" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2228"><a href="http://www.laanimalservices.com/donate/wish-list/">Wish List</a></li>
+	<li id="menu-item-3055" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3055"><a href="https://www.dmv.ca.gov/online/elp/elp.htm">Pet Lovers Plates</a></li>
+</ul>
+</li>
+</ul></div>  		</div><!-- #masthead -->
+	</div><!-- #header -->
+<br>
+<style>
+p.foster1 {
+    font: bold 13px arial, sans-serif;
+    color: blue;
+    align-content: left;
+}
+</style>
+
+<!--<div style="padding:15px;">
+<font color=red><b>Urgent need for adopters and fosters NOW. Our shelters are full as we prepare to provide care and shelter for animals being evacuated from the La Tuna Canyon fire.</b></font>
+</div>-->
+	<div id="main">
+		<div id="content" role="main">
+
+			<div id="error404page" class="post error404 not-found">
+				<h1 class="entry-title">Not Found!</h1>
+				<div class="entry-content">
+                
+                
+                
+					<p>Apologies, but the page you requested could not be found. Perhaps searching will help.</p>
+					<script>
+$( document ).ready(function() {
+$( "#s" ).focus(function() {
+if (document.getElementById('s').value == "Search")
+{
+document.getElementById('s').value ="";
+}
+});
+$( "#s" ).blur(function() {
+
+if (document.getElementById('s').value == "")
+{
+document.getElementById('s').value ="Search";
+}
+});
+});
+
+
+</script>
+
+<form role="search" method="get" id="searchform" action="http://www.laanimalservices.com/">
+    <div style="border:0px solid black;line-height:20px">
+        <input type="text" value="Search" name="s" id="s" placeholder="Search"  style="color:#4c4c4c;border:1px #c1c1c1;vertical-align: middle;background-color: #ecfbff;"/><input type = "image" src ="http://www.laanimalservices.com/wp-content/themes/laas/images/search_icon20.png" id="searchsubmit" style="border:0px solid gray;vertical-align: middle;">
+       <!--- <input type="submit" id="searchsubmit" value="Search" />--->
+		
+    </div>
+</form>				</div><!-- .entry-content -->
+			</div><!-- #post-0 -->
+
+		</div><!-- #content -->
+	</div><!-- #main -->
+	<script type="text/javascript">
+		// focus on search field after it has loaded
+		document.getElementById('s') && document.getElementById('s').focus();
+	</script>
+
+	
+
+
+
+
+
+</div><!-- #main -->
+
+
+</div><!-- #wrapper -->
+
+
+
+	<div id="footer" >
+   	  <div class="fwrapper">
+        <div class="citylogo">
+        	<a href="http://www.lacity.org" target="_new" >City of Los Angeles</a>
+        </div>
+               
+        <div id="fcol">
+        <div class="shelterLocation">
+      Department of Animal Services<br>
+221 N. Figueroa Street, 6th Floor, Suite 600, Los Angeles, CA 90012 (888) 452-7381<br />
+	  Administrative Office Hours: Monday - Friday (8am-5pm) Saturday, Sunday & Holidays (Closed)<br> 
+      Visit a <a href="http://www.laanimalservices.com/shelters/">Shelter</a>       
+        </div>            
+        
+        </div><!-- #end fcol--> 
+  
+      </div><!-- end fwrapper--->
+        
+	</div><!-- #footer -->
+
+</body>
+</html>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12864153-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

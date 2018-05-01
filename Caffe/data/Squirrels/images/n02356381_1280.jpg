@@ -1,0 +1,58 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>404 Not Found</title>
+<meta name="robots" content="noindex,follow" />
+<meta http-equiv="refresh" content="8;URL=http://www.lakecountyspecies.org" />
+
+<style type="text/css">
+.wrapper{ width:960px; margin:0 auto; min-height:762px; font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; background:#fff url('/cms/images/layout/404-lcfpd.png') no-repeat; background-position: fixed;}
+
+.message-wrpr{ width:960px; position: relative; min-height:570px; }
+.message-wrpr img{float:right; position:absolute; right:0; bottom:0;}
+
+.pnf{ font-size:3.1em; font-weight:bold; background:#fff; padding:10px; width: 560px; margin: 0 auto; top:60px; position: relative; -webkit-transform: rotate(-3deg); -moz-transform: rotate(-3deg); -ms-transform: rotate(-3deg); -o-transform: rotate(-3deg); transform: rotate(-3deg); -webkit-box-shadow:  1px 3px 2px rgb(136, 136, 136);; -moz-box-shadow:  1px 4px 2px rgb(136, 136, 136);; box-shadow:  1px 4px 2px rgb(136, 136, 136);; }
+.pnf:before{ content:''; background:#fff; width:3px; height:110px; display:block; position:absolute; top:-100px; left:10px; -webkit-transform: rotate(3deg); -moz-transform: rotate(3deg); -ms-transform: rotate(3deg); -o-transform: rotate(3deg); transform: rotate(3deg); }
+.pnf:after{ content:''; background:#fff; width:3px; height:110px; display:block; position:absolute; top:-100px; right:0; }
+
+.four {text-transform: uppercase; font-weight:bold; position: relative; color:#232822; top: 130px; left:20px; letter-spacing:-3px;}
+.four span{ font-size:14em; display: block; letter-spacing: -17px;}
+.four span:first-child {font-size:2.0em; position: absolute; top: 16px; left: 70px;letter-spacing: -2px;}
+
+.message{ position:absolute; top: 200px; right: 10px; z-index:200; }
+.message h1{font-size:1.5em; font-weight:bolder;}
+.message ul{margin:0; padding-left:10px;}
+.message ul li{ display:block; padding-bottom:10px; font-weight:bold;}
+.return{ padding:8px 12px; background:#3B860F; color:#fff; margin:20px 10px; border-radius:5px; float:left; text-decoration: none; border:1px solid transparent; -webkit-transition: all .50s ease; -moz-transition: all .50s ease; -ms-transition: all .50s ease; -o-transition: all .50s ease; transition: all .50s ease; }
+.return:hover{
+	-webkit-box-shadow: 0 1px 5px rgb(156, 156, 156);
+	-moz-box-shadow: 0 1px 5px rgb(156, 156, 156);
+	box-shadow: 0 1px 5px rgb(156, 156, 156);
+	border:1px solid #fff;
+}
+</style>
+
+</head>
+
+<body class="wrapper">
+	<div class="message-wrpr">
+		<div class="pnf">File or Page not found</div>
+		<div class="four">
+			<span>Error</span>
+			<span>404</span>
+		</div>
+		<div class="message clearfix">
+			<h1>Perhaps you are here because</h1>
+			<ul>
+				<li>1. The page has moved</li>
+				<li>2. The page no longer exists</li>
+				<li>3. You are in need of some nuts</li>
+				<li>4. You like 404 pages</li>
+			</ul>
+			<a class="return" href="http://www.lakecountyspecies.org">Return to homepage</a>
+		</div>
+		<img src="/cms/images/layout/404-racoon.png" class="message-box">
+	</div>
+</body>
+</html>

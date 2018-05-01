@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr">
+<head>
+	<title>404 - Error: 404</title>
+	<link rel="stylesheet" href="/templates/cathealthj3/css/styles.css" type="text/css" />
+</head>
+
+<body id="error">
+	<div class="center">
+
+		<h1 class="error">
+			<span>404</span>
+		</h1>
+		<h2 class="title">THE REQUESTED RESOURCE WAS NOT FOUND</h2>
+        
+		<p class="message">The Page you are looking for doesn't exist or an other error occurred. <a href="javascript:history.go(-1)">Go back</a>, or head over to <a href="">Home Page</a> to choose a new direction.</p>
+        		
+                <p><strong>You may not be able to visit this page because of:</strong></p>
+				<ol>
+					<li>an <strong>out-of-date bookmark/favourite</strong></li>
+					<li>a search engine that has an <strong>out-of-date listing for this site</strong></li>
+					<li>a <strong>mistyped address</strong></li>
+					<li>you have <strong>no access</strong> to this page</li>
+					<li>The requested resource was not found.</li>
+					<li>An error has occurred while processing your request.</li>
+				</ol>
+
+			<p>
+							</p>
+
+	</div>
+
+</body>
+</html>

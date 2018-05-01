@@ -1,0 +1,9 @@
+<br />
+<b>Fatal error</b>:  Uncaught exception 'Zend\Cache\Exception\InvalidArgumentException' with message 'The key 'route-cache-content_rednaturaleza_animales_fotos_t382.jpg' doesn't match against pattern '/^[a-z0-9_\+\-]*$/Di'' in /home/lugnet/lib/zf2.4.9/Zend/Cache/Storage/Adapter/AbstractAdapter.php:1537
+Stack trace:
+#0 /home/lugnet/lib/zf2.4.9/Zend/Cache/Storage/Adapter/AbstractAdapter.php(461): Zend\Cache\Storage\Adapter\AbstractAdapter-&gt;normalizeKey('route-cache-con...')
+#1 /home/lugnet/lib/zf2.4.9/Zend/Cache/Storage/Adapter/Filesystem.php(597): Zend\Cache\Storage\Adapter\AbstractAdapter-&gt;hasItem('route-cache-con...')
+#2 /home/lugnet/webapps/_ymas/modules04/Content/Module.php(89): Zend\Cache\Storage\Adapter\Filesystem-&gt;hasItem('route-cache-con...')
+#3 [internal function]: Content\Module-&gt;Content\{closure}(Object(Zend\Mvc\MvcEvent))
+#4 /home/lugnet/lib/zf2.4.9/Zend/EventManager/EventManager.php(444): call_user_func(Object(Closure), Object(Zend\Mvc\MvcEvent))
+#5 /home/lugnet/lib/zf2.4.9/Zend/EventManager/EventManager.php(205): Zen in <b>/home/lugnet/lib/zf2.4.9/Zend/Cache/Storage/Adapter/AbstractAdapter.php</b> on line <b>1537</b><br />

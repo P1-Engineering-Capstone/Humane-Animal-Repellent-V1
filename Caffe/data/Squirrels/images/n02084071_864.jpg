@@ -1,0 +1,335 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=8"/>
+<TITLE></TITLE>
+<META NAME="Title" CONTENT="" />
+<link href="http://productie4.wijakoers.nl/sites/ftp_artsdier/AAA_default1.css" rel="stylesheet" type="text/css" media="screen"/>
+<link href="/hst/a13r09t/arts_dier.nsf/AAA_print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/hst/a13r09t/arts_dier.nsf/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+<script language="javascript" type="text/javascript">AC_FL_RunContent = 0;</script>
+<script src="/hst/a13r09t/arts_dier.nsf/AC_RunActiveContent.js" language="javascript" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.8.3.js	" language="javascript" type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-migrate-1.0.0.js" language="javascript" type="text/javascript"></script>
+<script src="http://code.jquery.com/ui/1.10.0/jquery-ui.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript" src="/hst/a13r09t/arts_dier.nsf/flowplayer-3.2.6.min.js"></script>
+<script type="text/javascript" src="/hst/a13r09t/arts_dier.nsf/jqModal.js"></script>
+<script type="text/javascript"> 
+$.ctrl = function(key, callback, args) {
+    $(document).keydown(function(e) {
+        if(!args) args=[]; // IE barks when args is null
+        if(e.keyCode == key.charCodeAt(0) && e.ctrlKey) {
+            callback.apply(this, args);
+            return false;
+        }
+    });
+};
+$.ctrl('M', function() {
+	$('div#ex3b').jqmShow(); 	return false;
+});
+</script> 
+<script type="text/javascript" src="/hst/a13r09t/arts_dier.nsf/jq.transform.js"></script>
+<link href="/hst/a13r09t/arts_dier.nsf/jqtransform.css" rel="stylesheet" type="text/css" />
+<link href="/hst/a13r09t/arts_dier.nsf/jquery-ui-1.10.0.custom.min.css" rel="stylesheet" type="text/css" />
+<link href="/hst/a13r09t/arts_dier.nsf/lightbox.css" rel="stylesheet" type="text/css" media="screen"/>
+<script src="/hst/a13r09t/arts_dier.nsf/lightbox.js" type="text/javascript"></script>
+<script  language="javascript" type="text/javascript">
+$(document).ready(function() {	
+$('a.zoom').lightBox({
+	overlayBgColor: '#000',
+	overlayOpacity: 0.6,
+	imageLoading: '/hst/a13r09t/arts_dier.nsf/Main/images/lightbox-ico-loading.gif',
+	imageBtnClose: '/hst/a13r09t/arts_dier.nsf/Main/images/lightbox-btn-close.gif',
+	imageBtnPrev: '/hst/a13r09t/arts_dier.nsf/Main/images/lightbox-btn-prev.gif',
+	imageBtnNext: '/hst/a13r09t/arts_dier.nsf/Main/images/lightbox-btn-next.gif',
+	containerResizeSpeed: 350
+	});
+}); </script><script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', '123-xx']);
+  _gaq.push(['_setDomainName', 'none']);
+  _gaq.push(['_setAllowLinker', true]);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script src="/hst/a13r09t/arts_dier.nsf/bjqs-1.3.min.js"></script>
+<link rel="stylesheet" href="/hst/a13r09t/arts_dier.nsf/bjqs.css">
+
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function locatie(srvpage) {	this.location.href = srvpage;}
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+$().ready(function() {  $('#ex3b').jqm({    trigger: '#showlogin',    target: 'div.jqmAlertContent',    overlay: 0    });  if($.browser.msie) {  $('div.jqmAlert .jqmClose').hover(    function(){ $(this).addClass('jqmCloseHover'); },     function(){ $(this).removeClass('jqmCloseHover'); });  }});
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" class="">
+
+<form action="">  
+<div class="wrapper">
+<div class="container">
+	<div class="header">
+		<div class="logo">
+			<img src="/hst/a13r09t/arts_dier.nsf/logo.png" alt="Arts & Dier" title="Arts & Dier"/>
+		</div><!--logo-->
+<div class="menuwrap">
+<div class="menu"><ul><li class="Nivo0 "><a title="Home" href="/hst/a13r09t/arts_dier.nsf/Main/Home?open">Home</a></li>
+<li class="Nivo0 submenu"><a title="Huisdieren" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren?open">Huisdieren</a><ul>
+<li class="Nivo1 submenu"><a title="Vestigingen" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen?open">Vestigingen</a><ul>
+<li class="Nivo2 "><a title="Klijndijk" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen~Klijndijk?open">Klijndijk</a></li>
+<li class="Nivo2 "><a title="Emmen" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen~Emmen?open">Emmen</a></li>
+<li class="Nivo2 "><a title="Klazienaveen" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen~Klazienaveen?open">Klazienaveen</a></li>
+<li class="Nivo2 "><a title="Stadskanaal" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen~Stadskanaal?open">Stadskanaal</a></li>
+<li class="Nivo2 "><a title="Ter Apel" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Vestigingen~Ter%20Apel?open">Ter Apel</a></li></ul>
+<li class="Nivo1 "><a title="&#8220;Vind ons leuk&#8221; op Facebook" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~%E2%80%9CVind%20ons%20leuk%E2%80%9D%20op%20Facebook?open">&#8220;Vind ons leuk&#8221; op Facebook</a></li>
+<li class="Nivo1 "><a title="Medewerkers" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Medewerkers?open">Medewerkers</a></li>
+<li class="Nivo1 submenu"><a title="Diersoorten" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten?open">Diersoorten</a><ul>
+<li class="Nivo2 "><a title="Hond" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Hond?open">Hond</a></li>
+<li class="Nivo2 "><a title="Kat" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Kat?open">Kat</a></li>
+<li class="Nivo2 "><a title="Konijn" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Konijn?open">Konijn</a></li>
+<li class="Nivo2 "><a title="Knaagdieren" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Knaagdieren?open">Knaagdieren</a></li>
+<li class="Nivo2 "><a title="Fretten" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Fretten?open">Fretten</a></li>
+<li class="Nivo2 "><a title="Vogels" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Vogels?open">Vogels</a></li>
+<li class="Nivo2 "><a title="Exoten" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Diersoorten~Exoten?open">Exoten</a></li></ul>
+<li class="Nivo1 submenu"><a title="Disciplines" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines?open">Disciplines</a><ul>
+<li class="Nivo2 "><a title="Interne geneeskunde" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Interne%20geneeskunde?open">Interne geneeskunde</a></li>
+<li class="Nivo2 "><a title="Chirurgie algemeen" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Chirurgie%20algemeen?open">Chirurgie algemeen</a></li>
+<li class="Nivo2 submenu"><a title="Orthopedie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Orthopedie?open">Orthopedie</a><ul>
+<li class="Nivo3 "><a title="Stamceltherapie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Orthopedie~Stamceltherapie?open">Stamceltherapie</a></li></ul>
+<li class="Nivo2 "><a title="Cardiologie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Cardiologie?open">Cardiologie</a></li>
+<li class="Nivo2 submenu"><a title="Endoscopie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Endoscopie?open">Endoscopie</a><ul>
+<li class="Nivo3 "><a title="Laparoscopische sterilisatie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Endoscopie~Laparoscopische%20sterilisatie?open">Laparoscopische sterilisatie</a></li></ul>
+<li class="Nivo2 submenu"><a title="Beeldvorming" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Beeldvorming?open">Beeldvorming</a><ul>
+<li class="Nivo3 "><a title="Röntgen" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Beeldvorming~R%C3%B6ntgen?open">Röntgen</a></li>
+<li class="Nivo3 "><a title="Echografie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Beeldvorming~Echografie?open">Echografie</a></li></ul>
+<li class="Nivo2 "><a title="Oogheelkunde" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Oogheelkunde?open">Oogheelkunde</a></li>
+<li class="Nivo2 "><a title="Voortplanting" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Voortplanting?open">Voortplanting</a></li>
+<li class="Nivo2 "><a title="Fysiotherapie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Fysiotherapie?open">Fysiotherapie</a></li>
+<li class="Nivo2 "><a title="Dermatologie" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Dermatologie?open">Dermatologie</a></li>
+<li class="Nivo2 "><a title="Laboratorium" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Disciplines~Laboratorium?open">Laboratorium</a></li></ul>
+<li class="Nivo1 "><a title="Puppyparty" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Puppyparty?open">Puppyparty</a></li>
+<li class="Nivo1 "><a title="Gezondheidspakketten" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Gezondheidspakketten?open">Gezondheidspakketten</a></li>
+<li class="Nivo1 "><a title="Verzeker uw huisdier" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Verzeker%20uw%20huisdier?open">Verzeker uw huisdier</a></li>
+<li class="Nivo1 "><a title="Thuisbezorg service" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Thuisbezorg%20service?open">Thuisbezorg service</a></li>
+<li class="Nivo1 submenu"><a title="Infotheek" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Infotheek?open">Infotheek</a><ul>
+<li class="Nivo2 "><a title="A - F" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Infotheek~A%20-%20F?open">A - F</a></li>
+<li class="Nivo2 "><a title="G - M" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Infotheek~G%20-%20M?open">G - M</a></li>
+<li class="Nivo2 "><a title="N - U" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Infotheek~N%20-%20U?open">N - U</a></li>
+<li class="Nivo2 "><a title="V - Z" href="/hst/a13r09t/arts_dier.nsf/Main/Huisdieren~Infotheek~V%20-%20Z?open">V - Z</a></li></ul></ul>
+<li class="Nivo0 submenu"><a title="Paarden" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden?open">Paarden</a><ul>
+<li class="Nivo1 submenu"><a title="Paardenkliniek Klijndijk" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Klijndijk?open">Paardenkliniek Klijndijk</a><ul>
+<li class="Nivo2 "><a title="Medewerkers" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Klijndijk~Medewerkers?open">Medewerkers</a></li>
+<li class="Nivo2 "><a title="Paardenpaspoort en medicijngebruik" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Klijndijk~Paardenpaspoort%20en%20medicijngebruik?open">Paardenpaspoort en medicijngebruik</a></li>
+<li class="Nivo2 "><a title="Diverse benaderingen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Klijndijk~Diverse%20benaderingen?open">Diverse benaderingen</a></li></ul>
+<li class="Nivo1 submenu"><a title="Paardenkliniek Bears" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Bears?open">Paardenkliniek Bears</a><ul>
+<li class="Nivo2 "><a title="Medewerkers" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Bears~Medewerkers?open">Medewerkers</a></li>
+<li class="Nivo2 "><a title="Paardenpaspoort en medicijngebruik" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Bears~Paardenpaspoort%20en%20medicijngebruik?open">Paardenpaspoort en medicijngebruik</a></li>
+<li class="Nivo2 "><a title="Diverse benaderingen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Paardenkliniek%20Bears~Diverse%20benaderingen?open">Diverse benaderingen</a></li></ul>
+<li class="Nivo1 submenu"><a title="Disciplines" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines?open">Disciplines</a><ul>
+<li class="Nivo2 submenu"><a title="Beeldvorming" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Beeldvorming?open">Beeldvorming</a><ul>
+<li class="Nivo3 "><a title="röntgen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Beeldvorming~r%C3%B6ntgen?open">röntgen</a></li>
+<li class="Nivo3 "><a title="echografie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Beeldvorming~echografie?open">echografie</a></li></ul>
+<li class="Nivo2 submenu"><a title="Chirurgie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chirurgie?open">Chirurgie</a><ul>
+<li class="Nivo3 "><a title="buikchirurgie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chirurgie~buikchirurgie?open">buikchirurgie</a></li>
+<li class="Nivo3 "><a title="hoofd- keelchirurgie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chirurgie~hoofd-%20keelchirurgie?open">hoofd- keelchirurgie</a></li>
+<li class="Nivo3 "><a title="chirurgie van het geslachtsdeel" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chirurgie~chirurgie%20van%20het%20geslachtsdeel?open">chirurgie van het geslachtsdeel</a></li>
+<li class="Nivo3 "><a title="arthroscopie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chirurgie~arthroscopie?open">arthroscopie</a></li></ul>
+<li class="Nivo2 "><a title="Interne geneeskunde" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Interne%20geneeskunde?open">Interne geneeskunde</a></li>
+<li class="Nivo2 submenu"><a title="Reproductie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Reproductie?open">Reproductie</a><ul>
+<li class="Nivo3 "><a title="merriespreekuur" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Reproductie~merriespreekuur?open">merriespreekuur</a></li>
+<li class="Nivo3 "><a title="drachtigheidsbegeleiding" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Reproductie~drachtigheidsbegeleiding?open">drachtigheidsbegeleiding</a></li>
+<li class="Nivo3 "><a title="de geboorte van het veulen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Reproductie~de%20geboorte%20van%20het%20veulen?open">de geboorte van het veulen</a></li></ul>
+<li class="Nivo2 "><a title="Orthopedie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Orthopedie?open">Orthopedie</a></li>
+<li class="Nivo2 "><a title="Revalidatie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Revalidatie?open">Revalidatie</a></li>
+<li class="Nivo2 "><a title="Tandheelkunde" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Tandheelkunde?open">Tandheelkunde</a></li>
+<li class="Nivo2 "><a title="Chiropractie" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Chiropractie?open">Chiropractie</a></li>
+<li class="Nivo2 "><a title="Dry Needling" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Disciplines~Dry%20Needling?open">Dry Needling</a></li></ul>
+<li class="Nivo1 submenu"><a title="Keuringen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen?open">Keuringen</a><ul>
+<li class="Nivo2 submenu"><a title="Aan- en verkoopkeuringen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Aan-%20en%20verkoopkeuringen?open">Aan- en verkoopkeuringen</a><ul>
+<li class="Nivo3 "><a title="Klinische keuring" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Aan-%20en%20verkoopkeuringen~Klinische%20keuring?open">Klinische keuring</a></li>
+<li class="Nivo3 "><a title="Röntgenologische keuring" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Aan-%20en%20verkoopkeuringen~R%C3%B6ntgenologische%20keuring?open">Röntgenologische keuring</a></li>
+<li class="Nivo3 "><a title="Keuringen voor (diverse) stamboeken" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Aan-%20en%20verkoopkeuringen~Keuringen%20voor%20(diverse)%20stamboeken?open">Keuringen voor (diverse) stamboeken</a></li></ul>
+<li class="Nivo2 "><a title="Verzekeringen" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Verzekeringen?open">Verzekeringen</a></li>
+<li class="Nivo2 submenu"><a title="Stamboeken" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken?open">Stamboeken</a><ul>
+<li class="Nivo3 "><a title="KWPN" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~KWPN?open">KWPN</a></li>
+<li class="Nivo3 "><a title="Zangersheide" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~Zangersheide?open">Zangersheide</a></li>
+<li class="Nivo3 "><a title="NRPS" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~NRPS?open">NRPS</a></li>
+<li class="Nivo3 "><a title="KFPS" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~KFPS?open">KFPS</a></li>
+<li class="Nivo3 "><a title="NSIJP" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~NSIJP?open">NSIJP</a></li>
+<li class="Nivo3 "><a title="..en meer" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Keuringen~Stamboeken~..en%20meer?open">..en meer</a></li></ul></ul>
+<li class="Nivo1 "><a title="De Röntgenbus" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~De%20R%C3%B6ntgenbus?open">De Röntgenbus</a></li>
+<li class="Nivo1 submenu"><a title="Hoefsmeden en beslag" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag?open">Hoefsmeden en beslag</a><ul>
+<li class="Nivo2 submenu"><a title="Hoefsmidspecialist" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Hoefsmidspecialist?open">Hoefsmidspecialist</a><ul>
+<li class="Nivo3 "><a title="Harry Langenburg" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Hoefsmidspecialist~Harry%20Langenburg?open">Harry Langenburg</a></li></ul>
+<li class="Nivo2 submenu"><a title="Rijksgediplomeerd hoefsmid" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Rijksgediplomeerd%20hoefsmid?open">Rijksgediplomeerd hoefsmid</a><ul>
+<li class="Nivo3 "><a title="Edward Scholtens" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Rijksgediplomeerd%20hoefsmid~Edward%20Scholtens?open">Edward Scholtens</a></li>
+<li class="Nivo3 "><a title="Dennis Karapatis" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Rijksgediplomeerd%20hoefsmid~Dennis%20Karapatis?open">Dennis Karapatis</a></li>
+<li class="Nivo3 "><a title="Bernie Prins" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Hoefsmeden%20en%20beslag~Rijksgediplomeerd%20hoefsmid~Bernie%20Prins?open">Bernie Prins</a></li></ul></ul>
+<li class="Nivo1 "><a title="Buitenpraktijk" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Buitenpraktijk?open">Buitenpraktijk</a></li>
+<li class="Nivo1 submenu"><a title="Infotheek" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Infotheek?open">Infotheek</a><ul>
+<li class="Nivo2 "><a title="A-F" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Infotheek~A-F?open">A-F</a></li>
+<li class="Nivo2 "><a title="G-M" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Infotheek~G-M?open">G-M</a></li>
+<li class="Nivo2 "><a title="N-U" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Infotheek~N-U?open">N-U</a></li>
+<li class="Nivo2 "><a title="V-Z" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~Infotheek~V-Z?open">V-Z</a></li></ul>
+<li class="Nivo1 "><a title="&#8220;Like&#8221; Arts&Dier Paardenklinieken" href="/hst/a13r09t/arts_dier.nsf/Main/Paarden~%E2%80%9CLike%E2%80%9D%20Arts%26Dier%20Paardenklinieken?open">&#8220;Like&#8221; Arts&Dier Paardenklinieken</a></li></ul>
+<li class="Nivo0 submenu"><a title="Runderen" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen?open">Runderen</a><ul>
+<li class="Nivo1 "><a title="Bedrijfsbegeleiding" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Bedrijfsbegeleiding?open">Bedrijfsbegeleiding</a></li>
+<li class="Nivo1 "><a title="Laboratorium" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Laboratorium?open">Laboratorium</a></li>
+<li class="Nivo1 "><a title="Webshop" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Webshop?open">Webshop</a></li>
+<li class="Nivo1 "><a title="Activiteiten" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Activiteiten?open">Activiteiten</a></li>
+<li class="Nivo1 "><a title="Medewerkers" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Medewerkers?open">Medewerkers</a></li>
+<li class="Nivo1 "><a title="Vacatures" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Vacatures?open">Vacatures</a></li>
+<li class="Nivo1 "><a title="Veel gestelde vragen" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Veel%20gestelde%20vragen?open">Veel gestelde vragen</a></li>
+<li class="Nivo1 submenu"><a title="Infotheek" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Infotheek?open">Infotheek</a><ul>
+<li class="Nivo2 "><a title="OrbeSeal toedieningswijze" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Infotheek~OrbeSeal%20toedieningswijze?open">OrbeSeal toedieningswijze</a></li>
+<li class="Nivo2 "><a title="OrbeSeal ontluchten" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Infotheek~OrbeSeal%20ontluchten?open">OrbeSeal ontluchten</a></li>
+<li class="Nivo2 "><a title="Pijnbestrijding bij mastitis" href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Infotheek~Pijnbestrijding%20bij%20mastitis?open">Pijnbestrijding bij mastitis</a></li></ul></ul>
+<li class="Nivo0 submenu"><a title="Varkens" href="/hst/a13r09t/arts_dier.nsf/Main/Varkens?open">Varkens</a><ul>
+<li class="Nivo1 "><a title="Bedrijfsbegeleiding" href="/hst/a13r09t/arts_dier.nsf/Main/Varkens~Bedrijfsbegeleiding?open">Bedrijfsbegeleiding</a></li>
+<li class="Nivo1 "><a title="Medewerkers" href="/hst/a13r09t/arts_dier.nsf/Main/Varkens~Medewerkers?open">Medewerkers</a></li></ul>
+<li class="Nivo0 "><a title="Pluimvee" href="/hst/a13r09t/arts_dier.nsf/Main/Pluimvee?open">Pluimvee</a></li>
+<li class="Nivo0 "><a title="Webshop" href="/hst/a13r09t/arts_dier.nsf/Shopdocument?openform">Webshop</a></li>
+<li class="Nivo0 "><a title="FAQ" href="/hst/a13r09t/arts_dier.nsf/Main/FAQ?open">FAQ</a></li></ul></div>  <script type="text/javascript">
+try {
+SetMenuHover=function(){
+	var sfEls=$(".menu li");
+	for(var i=0;i<sfEls.length;i++){
+		sfEls.get(i).onmouseover=function(){
+			$(this).addClass("sfhover");
+			return false;
+			};
+		sfEls.get(i).onmouseout=function(){
+			$(this).removeClass("sfhover");
+			return false;
+			}
+		}
+	}
+	SetMenuHover();
+} catch(e) {};
+</script>  
+</div><!--menuwrap-->
+<a class="shoppingcart" href="/hst/a13r09t/arts_dier.nsf/ShopWinkelwagen?openform">
+ <span class="count">Geen artikelen</span> </a>
+		<div class="zoekenwrap">
+		<div class="zoeken1"><input class="searchquery" type="text" value="Trefwoorden" name="SearchQuery" 				id="SearchQuery" onkeydown="if(event.keyCode==13 && this.value!=='') {locatie('http://'+location.host+'/hst/a13r09t/arts_dier.nsf/Mains/Extra~Search?SearchView&amp;lang=NL&amp;Query=%5Blanguage%5D%3DNL%20%26%20'+document.getElementById('SearchQuery').value+'&amp;SearchWV=TRUE&amp;SearchFuzzy=TRUE'); return false;}" 						onclick="if(this.value!=''){this.value=''}" /></div><!-- // eind zoeken1 // -->
+		<div class="zoeken2"><img class="zoekknop" src="/hst/a13r09t/arts_dier.nsf/zoekbutton.gif" alt="Zoek" 					onclick="if(document.getElementById('SearchQuery').value==''){return false;} else {locatie('http://'+location.host+'/hst/a13r09t/arts_dier.nsf/Mains/Extra~Search?SearchView&amp;lang=NL&amp;Query=%5Blanguage%5D%3DNL%20%26%20'+document.getElementById('SearchQuery').value+'&amp;SearchWV=TRUE&amp;SearchFuzzy=TRUE')}" /></div><!-- // eind zoeken2 // -->
+		</div><!-- // eind zoeken // -->	</div><!--header-->
+	</div>
+<div class="mainshop "><div class="loginleft">
+</form>
+<form name="_DominoForm_login" action="/names.nsf?Login" method="post">
+<div class="loginbg">
+<div class="login">
+<h3> Ik ben een professioneel veehouder</h3>
+<p>Vul onderstaande velden in om u aan te melden<br/>
+Heeft u nog geen inloggegevens? Registreer u via <a href="/hst/a13r09t/arts_dier.nsf/Main/Runderen~Webshop?open">deze pagina</a>.</p>
+
+<table id="LoginUserFormTable_1" width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr valign="top"><td id="LoginUserFormTable_a" width="1%" valign="middle"><img width="86" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<label for="user-id">E-mail adres:</label></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td id="LoginUserFormTable_b" width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<font face="Courier New"></font></td></tr>
+
+<tr valign="top"><td id="LoginUserFormTable_c" width="1%" valign="middle"><img width="86" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<label for="pw-id">Wachtwoord:</label></td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td id="LoginUserFormTable_d" width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<font face="Courier New"></font></td></tr>
+
+<tr valign="top"><td width="0%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="0%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""></td><td width="100%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<font size="2" color="#ff0000">/hst/a13r09t/arts_dier.nsf/Shopdocument?openform</font></td></tr>
+
+<tr valign="top"><td width="1%"><img width="86" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="1%"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td height=10 width="100%"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td></tr>
+
+<tr valign="top"><td height=50 width="1%" valign="middle"><img width="86" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="1%" valign="middle"><img width="12" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+</td><td width="100%" valign="middle"><img width="1" height="1" src="/icons/ecblank.gif" border="0" alt=""><br>
+<span class="submit"><button type="submit" value="submit">Login</button></span></td></tr>
+</table>
+</div></div>
+</form>
+</DIV>
+<div class="mainright">
+<div id="content">
+
+
+<a href="#" onclick="$('#CMS_Error').toggle(); return false;">LET OP: Pagina is nog niet gevuld</a><p style="display:none" id="CMS_Error">Error=HTTP Web Server: Couldn't find design note - hst/a03b08r/artsendier.nsf/(Images)/FA5481C221EDF5CCC12571DA00426279/$FILE/fundog.jpg</p> </div><!--content-->
+</div><!--mainright SHOP-->
+</div><!--main-->
+</div><!--container-->
+</div><!--wrapper-->
+<div class="footerwrapper">
+<div class="footer">
+<div class="bottomlogos">
+	<a href="http://knmvd.nl/home" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/logo-knmvd.jpg" alt="knmvd" title="knmvd"/></a><a href="http://www.fei.org/" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/logo-fei.jpg" alt="fei" title="fei"/></a>
+<a href="http://www.knmvd.nl/actueel/dierenartsspecialist" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/logo-dierenartsspecialist.jpg" alt="dierenarts specialist" title="dierenarts specialist"/></a>
+<a href="http://www.nvvgp.nl/" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/nvvgp-logo.png" height="54	" alt="nvvgp" title="nvvgp" /></a>
+<a href="http://www.hoefsmedenvereniging.nl/veelgestelde-vragen/waarom-bekappen-beslaan.html" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/logo-hoefsmedenver.png" height="54" alt="Nederlandse Vereniging van Hoefsmeden" title="Nederlandse Vereniging van Hoefsmeden" /></a></div>
+<div class="socialmedialogos">
+	<a href="http://www.youtube.com/artsendier" target="_blank"><img src="/hst/a13r09t/arts_dier.nsf/youtube.jpg" alt="Youtube" title="Youtube"/></a>
+</div>
+<div class="bottommenu">
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Home?open">Home</a>&nbsp;|&nbsp;
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Extra~Links?open">Links</a>&nbsp;|&nbsp;
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Extra~Sitemap?open">Sitemap</a>&nbsp;|&nbsp;
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Extra~Disclaimer?open">Disclaimer</a>&nbsp;|&nbsp;
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Extra~Leveringsvoorwaarden?open">Leveringsvoorwaarden</a>&nbsp;|&nbsp;
+	<a href="/hst/a13r09t/arts_dier.nsf/Main/Contact?edit">Contact</a>
+</div>
+</div>
+</div><!-- footerwrapper-->
+<script type="text/javascript">
+$(function() {
+    //find all form with class jqtransform and apply the plugin
+    $('form[name="_ShopBestelformulierDocData"]').jqTransform();
+    $('form[name="_businessform"]').jqTransform();
+});
+</script><div class="jqmAlert" id="ex3b" style="display:none;">
+<div id="ex3c" class="jqmAlertWindow">
+    <div class="jqmAlertTitle clearfix">
+      <a href="#" class="jqmClose"><em>Close</em></a><span>CMS WijaKoers</span>
+    </div>
+  <div class="jqmAlertContent">
+  <p><a href="/hst/a13r09t/arts_dier.nsf/Maintenance" target="_blank">Open WijaKoers CMS onderhoud</a></p>
+  <p>Het onderhoud word in een nieuw window geopend, gebruikt &lt;CTRL&gt; voor tab.</p>
+  <p class="info">01/23/2018 02:17:08 AM on WKRNOTES11</p>
+  </div>
+</div>
+</div></form>
+</body>
+</html>

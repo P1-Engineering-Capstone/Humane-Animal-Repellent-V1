@@ -1,0 +1,38 @@
+<body bgcolor="#ffffff" text="#909090" link="#909090" vlink="#909090" alink="#909090">
+
+<CENTER>
+<table height="100%" width="100%" border="0">
+	<tr>
+		<td align="center">
+<img src="http://www.scarysquirrel.org/404.jpg" width="353" height="289" alt="">
+<blockquote><font size="6" face="verdana"><b>404</b> scary squirrel world <b>404</b></font></blockquote>
+<p>
+<!-- Search Google -->
+<center>
+<FORM method=GET action="http://www.google.com/search">
+<TABLE cellspacing=0 border=0>
+<tr valign=top>
+<td>
+<INPUT TYPE=text name=q size=40 maxlength=255 value="">
+<INPUT type=submit name=sa VALUE="search" style="color:#008000;">
+<input type=hidden name=domains value="www.scarysquirrel.org">&nbsp;<input type=radio name=sitesearch value=""><font size="2" color="#000000" face="verdana">The web</font>&nbsp;&nbsp;&nbsp;<input type=radio name=sitesearch value="www.scarysquirrel.org" checked><font size="2" color="#000000" face="verdana">This site<br></font>
+</td></tr></TABLE>
+</FORM>
+</center>
+<!-- Search Google -->
+<p>
+<FONT SIZE="2" FACE="VERDANA">
+SKWERLS ATE THE PAGE YOU'RE LOOKING FOR<br>
+OR IT'S TEMPORARILY UNAVAILABLE.<br>
+YOU CAN SEARCH ABOVE FOR MORE INFORMATION<br>
+OR USE THE LINKS BELOW
+<br>
+<br>
+<b><a href="javascript:history.back();">BACK</a>
+&nbsp;&nbsp;&nbsp;
+<A HREF="http://www.scarysquirrel.org/">HOME</A></b>
+</FONT>
+		</td>
+	</tr>
+</table>
+</CENTER>

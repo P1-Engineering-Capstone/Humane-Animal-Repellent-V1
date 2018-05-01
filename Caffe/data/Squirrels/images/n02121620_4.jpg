@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" class="no-js">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>We&#39;re Sorry - Scientific American</title>
+    <script>
+        var A17 = window.A17 || {};
+        A17.svgSupport = document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#BasicStructure", "1.1");
+        A17.browserSpec = (typeof document.querySelectorAll && 'addEventListener' in window && A17.svgSupport) ? "html5" : "html4";
+        var element = document.createElement('x');
+        element.style.cssText = 'pointer-events:auto';
+        (function() {
+            var doc = document.documentElement;
+            var str = " js " + (A17.svgSupport ? " svg" : " no-svg") + (element.style.pointerEvents === 'auto' ? " csspointerevents" : " no-csspointerevents");
+            doc.className = doc.className.replace(/\bno-js\b/, str);
+        })();
+        A17.loadCSS = function(href) {
+            "use strict";
+            var ss = window.document.createElement("link");
+            var ref = window.document.getElementsByTagName("script")[0];
+            var sheets = window.document.styleSheets;
+            ss.rel = "stylesheet";
+            ss.href = href;
+            ss.media = "only x";
+            ref.parentNode.insertBefore(ss, ref);
+            ss.onloadcssdefined = function(cb) {
+                var defined;
+                for (var i = 0; i < sheets.length; i++) {
+                    if (sheets[i].href && sheets[i].href.indexOf(href) > -1) {
+                        defined = true;
+                    }
+                }
+                if (defined) {
+                    cb();
+                } else {
+                    setTimeout(function() {
+                        ss.onloadcssdefined(cb);
+                    });
+                }
+            };
+            ss.onloadcssdefined(function() {
+                ss.media = "all";
+            });
+            return ss;
+        };
+        A17.loadCSS("/public/resources/icons-6bbdbe0c0bc51b6dcb36c6535563b1a6.css");
+        userHasAccessOptimizely = false;
+    </script>
+    <link rel="apple-touch-icon" sizes="196x196" href="/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png" />
+    <link rel="apple-touch-icon" sizes="128x128" href="/public/resources/favicons/favicon-128-c8f859d1014234520d7e542de84686de.png" />
+    <link rel="apple-touch-icon" sizes="96x96" href="/public/resources/favicons/favicon-96-dba133e71973e661bb307c3aeb34eef3.png" />
+    <link rel="apple-touch-icon" sizes="32x32" href="/public/resources/favicons/favicon-32-98279223f56790c51fe10cdd69903dcc.png" />
+    <link rel="apple-touch-icon" sizes="16x16" href="/public/resources/favicons/favicon-16-5e90814f8e355cae989b4f7a0b95829a.png" />
+    <link rel="shortcut icon" href="/public/resources/favicons/favicon-2bdc20b6b8b461ae319099c48d4f62d0.ico" />
+    <link rel="icon" type="image/svg" href="/public/resources/source/icon__logo--lg-d3fb00748e9f21e2a4391a92026065be.svg" />
+    <meta name="msapplication-TileImage" content="/public/resources/favicons/favicon-196-73208969ab1ed3409bc55e8915ed8bae.png">
+    <meta name="referrer" content="origin">
+    <meta class="swiftype" name="content_id" data-type="enum" content="0011B905-3E4C-4F29-BDCB6695D7D742A6" />
+    <meta class="swiftype" name="published_at" data-type="date" content="" />
+    <meta class="swiftype" name="lastupdate" data-type="date" content="2017-05-15T10:47:57" />
+    <meta class="swiftype" name="type" data-type="enum" content="Page" />
+    <meta class="swiftype" name="subtype" data-type="enum" content="Default" />
+    <meta class="swiftype" name="section" data-type="enum" content="" />
+    <meta class="swiftype" name="author" data-type="string" content="" />
+    <meta class="swiftype" name="primary_category" data-type="string" content="" />
+    <meta class="swiftype" name="doi" data-type="string" content="" />
+    <link rel="stylesheet" type="text/css" href="/public/resources/sa-306d7dd050096dcdedb9e45714c88b51.css" />
+    <script type="text/javascript" src="/sciam/includes/themes/responsive/js/mura.min.js?v=6787"></script>
+    <script type="text/javascript">
+        Mura.init({
+            loginURL: "?display=login",
+            siteid: "sciam",
+            contentid: "0011B905-3E4C-4F29-BDCB6695D7D742A6",
+            contenthistid: "A5835317-9278-43A0-99BA63EDD25273FF",
+            type: "Page",
+            subtype: "Default",
+            ismind: "false",
+            siteID: "sciam",
+            context: "",
+            jslib: "jquery",
+            nocache: 0,
+            assetpath: "/sciam",
+            siteConfig: "/requirements",
+            themepath: "/sciam/includes/themes/responsive",
+            rb: "en",
+            reCAPTCHALanguage: "en",
+            preloaderMarkup: "",
+            mobileformat: "false",
+            adminpreview: "false",
+            windowdocumentdomain: "",
+            dtExample: "11/10/2018",
+            dtCh: "/",
+            dtFormat: [0, 1, 2],
+            dtLocale: "en-US"
+        });
+    </script>
+    <meta name="robots" content="noindex, follow" />
+    <meta property="og:site_name" content="Scientific American" />
+    <meta property="og:type" content="article" />
+    <meta property="og:title" content="We're Sorry" />
+    <meta property="og:description" content="" />
+    <meta property="og:image" content="http://www.scientificamerican.com/sciam/includes/themes/responsive/images/logo400x400.jpg?w=600&amp;h=335" />
+    <meta property="og:url" content="https://www.scientificamerican.com/404/" />
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@sciam">
+    <meta name="twitter:title" content="Page Not Found">
+    <meta name="description" content="Page Not Found">
+    <meta name="keywords" content="">
+    <meta property="fb:pages" content="340704949293332" />
+    <!--[ if lte IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![ endif]-->
+</head>
+
+<body class="site-sciam lang-en  leaderboard-top">
+    <div id='div-gpt-ad-interstitial-1' class="banner-interstitial">
+        <div id='div-gpt-ad-interstitial-1-child' data-dfp-adContainer="div-gpt-ad-interstitial-1"></div>
+    </div>
+    <!--[if IE 8]><![endif]-->
+    <!--[if lte IE 9]><div class="browser-update" data-behavior="browser_update"><div class="container"><p class="t_meta"><span class="browser-update__alert"><img src="/public/resources/png/icon__alert-a313300df9de48356a7faee7f3be54f5.png" alt=""></span> We're sorry, your browser is not supported. Please update to a modern browser to view this page. <a href="https://www.scientificamerican.com/page/frequently-asked-questions/?tab=about-the-site#what-are-the-technical-specifications-for-using-scientificamericancom" class="browser-update__link">Learn More</a></p><div class="browser-update__close"><a href="#" data-browser-update-close><span class="icon icon__close--black icon--subtle"></span></a></div></div></div><![endif]-->
+    <div class="browser-update--hide" data-behavior="browser_update" id="cookie-policy">
+        <div class="container">
+            <p class="t_meta">We use cookies to provide you with a better onsite experience. By continuing to browse the site you are agreeing to our use of cookies in accordance with our <a class='browser-update__link' href='http://www.scientificamerican.com/page/use-of-cookies/' target='_blank'>Cookie Policy</a>.</p>
+            <div class="browser-update__close"><a href="#" data-browser-update-close><span class="icon icon__close--black icon--subtle" data-behavior="cookie_policy" id="cookie_policy_close"></span></a></div>
+        </div>
+    </div><a class="skipnav" href="#sa_body">Skip to main content</a>
+    <div id="scientific-american">
+        <div class="banner banner-leaderboard banner-leaderboard-top" data-banner-leaderboard>
+            <div id="div-gpt-ad-top-1">
+                <div id="div-gpt-ad-top-1-child" data-dfp-adContainer="div-gpt-ad-top-1"></div>
+            </div>
+        </div>
+        <div class="sticky-bounds" data-sticky-bounds data-sticky-id="site-header">
+            <header class="sticky-header" data-sticky-container data-sticky-id="site-header">
+                <div id="site-header" class="sticky-header__inner" data-behavior="sticky subscribe_hover">
+                    <div class="header-outer container" data-header-outer>
+                        <div class="header">
+                            <div class="header__left">
+                                <!-- hide subscribe button on Subscription Grid -->
+                                <button><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.ac=SA_ecom_SA_Nav_Subscribe_white" id="subscribe-nav-btn" class="btn--small header__left__subscribe-btn" data-track="click" data-track-category="offer" data-track-label="404-nav-subscribe-but" data-track-action="link">Subscribe</a></button>
+                                <button class="header__menu-link" data-behavior="click_trigger" data-event-name="primary_nav:open"><span class="header__left__menu-btn icon icon__menu--black">Menu</span></button>
+                            </div>
+                            <div class="header__logo header__logo--en"><a href="https://www.scientificamerican.com/" class="icon icon__logo--lg header__logo__icon">Scientific American</a></div>
+                            <div class="header__right tooltip-outer">
+                                <esi:remove>
+                                    <ul class="header__right__utils meta-list">
+                                        <li class="meta-list__item tx_meta " data-tooltip-trigger data-tooltip="region-tooltip">English
+                                            <a class="icon icon--after icon--subtle icon__ddarr--black" data-behavior="tooltip" data-tooltip-width="180" data-tooltip-id="region-tooltip"></a>
+                                        </li>
+                                        <li class="meta-list__item tx_meta"><a href="https://www.scientificamerican.com/store/shopping-cart/" class="link">Cart <span class="cart-count">0</span></a></li>
+                                        <li class="meta-list__item tx_meta " data-behavior="sign_in_flyout"><a id="signin-click" class="link signin-click" style="margin-right: 10px">Sign In</a>|<a href="https://www.scientificamerican.com/my-account/register/" class="link register-click" style="margin-left: 10px">Register</a>
+                                            <section class="signin-flyout" id="signin-flyout"><span class="icon icon__close--white" id="signin-flyout__close"></span><span class="signin-flyout__arrow"></span>
+                                                <form class="signin-flyout__form" action="https://www.scientificamerican.com/my-account/login/?s=1" method="post" data-behavior="csrf_token_update">
+                                                    <input type="hidden" name="slatAction" value="public:account.login">
+                                                    <input type="hidden" name="flyoutlogin" value="true">
+                                                    <input type="hidden" name="csrf_token" value="BDF6A75F95A9D7ADE0F4F2F77BBFEFD0" />
+                                                    <input type="hidden" name="csrf_token_expires" value="171025220244514" />
+                                                    <label for="emailAddress1" class="signin-flyout__form__label">Email:</label>
+                                                    <input type="text" name="emailAddress" id="emailAddress1" class="signin-flyout__form__input" data-signin-email>
+                                                    <label for="password1" class="signin-flyout__form__label">Password:</label>
+                                                    <input type="password" name="password" id="password1" class="signin-flyout__form__input" data-signin-password><a href="https://www.scientificamerican.com/my-account/forgot-password/" class="signin-flyout__form__forgot">Forgot password?</a>
+                                                    <button class="btn btn--small btn--inverted signin-flyout__form__submit" type="submit" data-signin-submit-btn>Login</button><img src="/public/resources/loader-824962d9e67c8497c9ef428a9fdfad71.gif" class="signin-flyout__form__loading" alt="Loading" data-signin-loading/></form><a href="https://www.scientificamerican.com/my-account/register/" class="signin-flyout__register">Not yet registered?</a></section>
+                                        </li>
+                                    </ul>
+                                </esi:remove>
+                                <!--esi<esi:include src="/sciam/esi-my-account.cfm?responsive=true" />-->
+                                <button class="header__right__search-btn"><span class="icon icon__search--black" data-mobile-search-btn>Search</span></button><a class="header__right__subscribe" href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.ac=SA_ecom_SA_Nav-Subscribe-mobile">Subscribe</a>
+                                <div class="tooltip tooltip--dark" id="region-tooltip"><span class="tooltip__arrow"></span>
+                                    <div class="account-tooltip">
+                                        <ul class="account-tooltip__list">
+                                            <li><a href="https://www.scientificamerican.com/">English</a></li>
+                                            <li><a href="https://www.scientificamerican.com/espanol/">Español</a></li>
+                                            <li><a href="https://www.scientificamerican.com/arabic/">العربية</a></li>
+                                            <li><a href="https://www.scientificamerican.com/page/international/">Other Editions</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mobile-search" data-behavior="mobile_search">
+                            <form data-mobile-search-form method="GET" action="https://www.scientificamerican.com/search/">
+                                <div class="mobile-search__input-container">
+                                    <label class="hide-label">Search</label>
+                                    <input class="mobile-search__input" placeholder="Search" data-mobile-search-input type="text" id="mobile-sidebar-search" data-behavior="search" name="q" />
+                                    <button type="submit" class="mobile-search__icon icon icon__search--white"></button><span data-mobile-search-close class="mobile-search__icon mobile-search__icon--close icon icon__close--white"></span></div>
+                            </form>
+                            <ul class="mobile-search__results" data-mobile-search-results id="mobile-search-results"></ul>
+                        </div>
+                        <aside class="subscribe-sidebar" data-subscribe-hover-panel>
+                            <!--div class="subscribe-sidebar__cover mura-async-object"data-object="current-issue"data-ismind="0"data-instanceid="0"data-contentid="00000000000000000000000000000000001"data-contenthistid=""></div-->
+                        </aside>
+                    </div>
+                    <nav class="primary-nav" data-behavior="primary_nav">
+                        <div class="primary-nav__bg"></div>
+                        <!-- bg opacity layer -->
+                        <div class="primary-nav__container container">
+                            <!-- close button for burger menu -->
+                            <button class="primary-nav__close-btn"><span class="icon icon--subtle icon__close--white">Close</span></button>
+                        </div>
+                        <div class="primary-nav__inner" id="primary-nav__inner" data-primary-nav>
+                            <div class="primary-nav__inner__container container">
+                                <div class="primary-nav__search-container">
+                                    <form id="search-form" action="https://www.scientificamerican.com/search/" method="GET">
+                                        <label for="sidebar-search" class="hide-label">Search</label>
+                                        <div class="primary-nav__search-bar">
+                                            <input id="sidebar-search" type="text" name="q" placeholder="Search" class="primary-nav__search-input" data-behavior="search" />
+                                        </div>
+                                        <button type="submit" class="primary-nav__search-btn icon icon__search--black"></button>
+                                    </form>
+                                </div>
+                                <div class="primary-nav__search-results">
+                                    <div class="primary-nav__search-results__inner">
+                                        <div class="search-results">
+                                            <ul class="search-results__inner" id="search-results"></ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <ul class="primary-nav__list" data-behavior="child_navs">
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/the-sciences/">The Sciences</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/mind/">Mind</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/health/">Health</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/tech/"> Tech</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/sustainability/">Sustainability</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/education/">Education</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/video/">Video</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/podcasts/">Podcasts</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://blogs.scientificamerican.com/">Blogs</a></li>
+                                    <li class="primary-nav__list__item"><a href="https://www.scientificamerican.com/store/">Store</a></li>
+                                </ul>
+                                <div class="primary-nav__drawer-utils"><a href="https://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.ac=SA_ecom_SA_Nav_Subscribe_white" class="btn btn--small">Subscribe</a><a href="https://www.scientificamerican.com/magazine/sa/2017/11-01/" class="btn btn--small">Current Issue</a>
+                                    <ul class="primary-nav__drawer-utils__list" data-behavior="child_navs">
+                                        <li class="primary-nav__drawer-utils__list__item"><a href="https://www.scientificamerican.com/store/shopping-cart/">Cart</a></li>
+                                        <esi:remove>
+                                            <li class="primary-nav__drawer-utils__list__item"><a href="https://www.scientificamerican.com/my-account/login/">Sign In</a></li>
+                                            <li class="primary-nav__drawer-utils__list__item"><a href="https://www.scientificamerican.com/my-account/register/">Register</a></li>
+                                        </esi:remove>
+                                        <!--esi<esi:include src="/sciam/esi-my-account.cfm?context=mobile&responsive=true" />-->
+                                    </ul>
+                                    <ul class="primary-nav__drawer-utils__social">
+                                        <li class="primary-nav__drawer-utils__social__item"><a href="https://www.facebook.com/ScientificAmerican"><span class="icon icon--subtle icon__facebook--black">Facebook</span></a></li>
+                                        <li class="primary-nav__drawer-utils__social__item"><a href="https://twitter.com/sciam"><span class="icon icon--subtle icon__twitter--black">Twitter</span></a></li>
+                                        <li class="primary-nav__drawer-utils__social__item"><a href="https://plus.google.com/+scientificamerican/"><span class="icon icon--subtle icon__googleplus--black">Google+</span></a></li>
+                                        <li class="primary-nav__drawer-utils__social__item"><a href="https://www.youtube.com/user/SciAmerican"><span class="icon icon--subtle icon__youtube--black">YouTube</span></a></li>
+                                        <li class="primary-nav__drawer-utils__social__item"><a href="http://rss.sciam.com/ScientificAmerican-Global"><span class="icon icon--subtle icon__rss--black">RSS</span></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </header>
+            <main id="sa_body" class="panel main-area" data-swiftype-name="body" data-swiftype-type="text" data-swiftype-index="true">
+                <div class="mura-region">
+                    <div class="mura-region-inherited"></div>
+                    <div class="mura-region-local">
+                        <div class="mura-object" data-object="container" data-objectid="5E40B364-B5DB-4FAA-9D14F51F2B3D21A7" data-instanceid="5498CDB9-37F6-454A-A27FD11EA8CD7E9A" data-object="container" data-objectname="" data-objecticonclass="mi-trello" data-inited="true" data-content="" data-render="client" data-async="false" data-objectid="5E40B364-B5DB-4FAA-9D14F51F2B3D21A7" data-instanceid="5498CDB9-37F6-454A-A27FD11EA8CD7E9A"></div>
+                    </div>
+                </div>
+                <div id="page-404" class="container ">
+                    <div class="footer-text">
+                        <div class="footer-page-header">
+                            <h1 class="footer-page-header__title">We're Sorry</h1>
+                            <div class="footer-page-header__divider"></div>
+                        </div>
+                        <h1>The page you were looking for could not be found. We Suggest:</h1>
+                        <p>&nbsp;</p>
+
+                        <ul>
+                            <li>Check the spelling of the web address.</li>
+                            <li>Browse through our <a href="https://www.scientificamerican.com/store/archive">archive</a> for a magazine article from a specific issue.</li>
+                            <li>Go to our <a href="https://www.scientificamerican.com/">home page</a>.</li>
+                            <li><a href="https://www.scientificamerican.com/search">Search</a> the site</li>
+                        </ul>
+                    </div>
+                </div>
+                <aside class="tout_subscribe container">
+                    <h2 class="tout_subscribe-title">Every Issue. Every Year. 1845 - Present</h2>
+                    <p class="small-hide">Neuroscience. Evolution. Health. Chemistry. Physics. Technology.</p><a href="http://www.scientificamerican.com/store/subscribe/scientific-american-magazine/?WT.ac=SA_ecom_SA_FooterPromo" class="btn editable-button">Subscribe Now!</a>
+                    <picture>
+                        <source media="(max-width: 767px)" srcset="/sciam/cache/file/E82AEBA1-0A06-4B0F-9B1CFF1CE6BD8745_source.png?w=220&amp;h=100" />
+                        <source media="(min-width: 768px) and (max-width: 1023px)" srcset="/sciam/cache/file/E82AEBA1-0A06-4B0F-9B1CFF1CE6BD8745_source.png?w=420&amp;h=190" /><img src="/sciam/cache/file/BD1A6893-C362-486B-B0FBB38C1A104C46_source.png?w=385&amp;h=375" alt="Every Issue. Every Year. 1845 - Present" /></picture>
+                </aside><span data-swiftype-name="title" data-swiftype-type="string" style="display:none" data-swiftype-index="true">We're Sorry</span><span data-swiftype-name="summary" data-swiftype-type="text" style="display:none" data-swiftype-index="true"></span></main>
+        </div>
+    </div>
+    <footer id="footer" class="container">
+        <p>Follow us</p>
+        <ul class="footer_followUs">
+            <li><a href="https://www.facebook.com/ScientificAmerican" title="Facebook" target="_blank"><span class="icon icon--subtle icon__facebook--black">Facebook</span></a></li>
+            <li><a href="https://twitter.com/sciam" title="Twitter" target="_blank"><span class="icon icon--subtle icon__twitter--black">Twitter</span></a></li>
+            <li><a href="https://plus.google.com/+scientificamerican/" title="Google+" target="_blank"><span class="icon icon--subtle icon__googleplus--black">Google+</span></a></li>
+            <li><a href="https://www.youtube.com/user/SciAmerican" title="YouTube" target="_blank"><span class="icon icon--subtle icon__youtube--black">YouTube</span></a></li>
+            <li><a href="http://rss.sciam.com/ScientificAmerican-Global" title="RSS"><span class="icon icon--subtle icon__rss--black">RSS</span></a></li>
+            <li><a href="[object Object]" title="RSS"><span class="icon icon--subtle icon__rss--black">RSS</span></a></li>
+        </ul>
+        <div class="panel">
+            <div class="grid">
+                <div class="col grid__col grid__col--first">
+                    <ul class="footer-links">
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/store/">Store</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/about-scientific-american/">About</a></li>
+                        <li class="footer-links__item t_meta">
+                            <a href="https://www.scientificamerican.com/pressroom/">Press Room</a>
+                        </li>
+                        <li class="footer-links__item large-up-hide" data-footer-reveal-parent=""><a data-behavior="footer_reveal" href="#">More </a></li>
+                    </ul>
+                </div>
+
+                <div class="grid__col small-first-col medium-down-hide">
+                    <ul class="footer-links">
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/frequently-asked-questions/">FAQs</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/contact-us/">Contact Us</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/sitemap">Site Map</a></li>
+                    </ul>
+                </div>
+
+                <div class="grid__col medium-first-col small-first-col medium-down-hide">
+                    <ul class="footer-links">
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/mediakit/">Advertise</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/ad-sections/">Special Ad Sections</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/custom-media-and-partnerships/">SA Custom Media</a></li>
+                    </ul>
+                </div>
+
+                <div class="grid__col small-first-col medium-down-hide">
+                    <ul class="footer-links">
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/terms-of-use/">Terms of Use</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/privacy-policy/">Privacy Policy</a></li>
+                        <li class="footer-links__item t_meta"><a href="https://www.scientificamerican.com/page/use-of-cookies/">Use of Cookies</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="panel">
+            <div class="tx_meta footer_disclosure">Scientific American is part of Springer Nature, which owns or has commercial relations with thousands of scientific publications (many of them can be found at <a href="http://www.springernature.com/us" target="_blank">www.springernature.com/us</a>). Scientific American maintains a strict policy of editorial independence in reporting developments in science to our readers.</div>
+            <p class="footer-copyright">&copy; 2017 Scientific American, a Division of Nature America, Inc.</p>
+            <p class="footer-copyright">All Rights Reserved.</p>
+        </div>
+    </footer>
+    <div class="wt-track-wrap" data-behavior="wt_tracking"></div>
+    <noscript><img alt="dcsimg" id="dcsimg" width="1" height="1" src="//statse.webtrendslive.com/dcszbiart00000oiar2s6w5ud_4y9j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.4.12&amp;dcssip=www.sciam.com" /></noscript>
+    <script src="/public/resources/main-52199ab4f863705e8fd4c8e5818f95ab.js"></script>
+</body>
+
+</html>

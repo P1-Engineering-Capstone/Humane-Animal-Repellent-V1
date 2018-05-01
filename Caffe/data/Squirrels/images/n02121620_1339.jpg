@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title>Blog | We Heart Cats</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="pingback" href="http://weheartcats.com/xmlrpc.php" />
+			<!-- start/ wwcAmzAff -->
+			<style>
+				.wwcAmzAff-price-info {
+					font-size: 0.6em;
+					font-weight: normal;
+				}
+
+				.wwcAmzAff-availability-icon {
+					background: transparent url("http://weheartcats.com/wp-content/plugins/woozone/aa-framework/images/shipping.png") no-repeat top left;
+					padding-left: 30px;
+				}
+
+				.wwcAmzAff-free-shipping {
+					color: #000;
+					font-size: 14px;
+				}
+				.wwcAmzAff-free-shipping a.link {
+					text-decoration: none;
+				}
+
+				.wwcAmzAff-coupon {
+				}
+					.wwcAmzAff-coupon .wwcAmzAff-coupon-title {
+						color: #d71321;
+						font-size: 18px;
+					}
+					.wwcAmzAff-coupon .wwcAmzAff-coupon-details {
+						color: #8c8c8c;
+						font-size: 14px;
+					}
+					.wwcAmzAff-coupon .wwcAmzAff-coupon-details a.link {
+						color: #db2a37;
+						text-decoration: none;
+					}
+				.wwcAmzAff-coupon-container {
+					margin-top: 17px;
+				}
+					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-clear {
+						clear: left;
+					}
+					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-header {
+						float: left;
+						width: 100%;
+						color: #808080;
+						font-size: 12px;
+					}
+					#TB_ajaxContent .wwcAmzAff-coupon-container .wwcAmzAff-coupon-header p {
+						margin: 0px 0px 9px;
+						padding: 0;
+					}
+					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-header > p {
+						float: left;
+					}
+					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-header > a {
+						float: right;
+						color: #2b62a0;
+						font-weight: bold;
+					}
+					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-summary {
+						background-color: #fff;
+    					border: 1px solid #eaeaea;
+    					border-radius: 4px;
+						padding: 6px 8px;
+   						display: block;
+   					}
+   						.wwcAmzAff-coupon-container .wwcAmzAff-coupon-summary-inner {
+   							display: block;
+   							width: 100%;
+							/*-webkit-transform-style: preserve-3d;
+							-moz-transform-style: preserve-3d;
+ 							transform-style: preserve-3d;*/
+   						}
+   							.wwcAmzAff-coupon-container .wwcAmzAff-coupon-summary-inner-left {
+   								display: inline-block;
+    							width: 53px;
+								padding: 10px 5px;
+								color: #7d9f22;
+								line-height: 1.3em;
+								border: 2px dashed #699000;
+								border-radius: 10px;
+								/*box-shadow: 0 0 0 4px #f5f8ee, 2px 1px 6px 4px rgba(10, 10, 0, 0.5);*/
+								text-shadow: -1px -1px #c3d399;
+								text-align: center;
+   							}
+   							.wwcAmzAff-coupon-container .wwcAmzAff-coupon-summary-inner-right {
+								display: inline-block;
+								margin-left: 15px;
+								font-size: 12px;
+								color: #363636;
+								width: 80%;
+  								/*position: relative;
+  								top: 50%;
+  								-webkit-transform: translateY(-50%);
+  								-ms-transform: translateY(-50%);
+  								transform: translateY(-50%);*/
+   							}
+   							#TB_ajaxContent .wwcAmzAff-coupon-container .wwcAmzAff-coupon-summary-inner-right p {
+   								margin: 0px;
+   								padding: 0px;
+   							}
+   					.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc {
+   						font-size: 12px;
+   						color: #808080;
+   						margin-top: 24px;
+   					}
+   						.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc strong {
+   							color: #444444;
+   							margin-bottom: 12px;
+   						}
+   						.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc ol,
+   						.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc ul  {
+   							font-size: 11px;
+   							color: #5d5d5d;
+   						}
+   						.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc ul,
+   							.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc ol li,
+   							.wwcAmzAff-coupon-container .wwcAmzAff-coupon-desc ul li {
+   								margin-left: 9px;
+   							}
+			</style>
+			<!-- end/ wwcAmzAff -->
+		<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="We Heart Cats &raquo; Feed" href="http://weheartcats.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="We Heart Cats &raquo; Comments Feed" href="http://weheartcats.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="We Heart Cats &raquo; Blog Category Feed" href="http://weheartcats.com/category/blog/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/weheartcats.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='thickbox.css-css'  href='http://weheartcats.com/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://weheartcats.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.5' type='text/css' media='all' />
+<!-- Inline jetpack_facebook_likebox -->
+<style id='jetpack_facebook_likebox-inline-css' type='text/css'>
+.widget_facebook_likebox {
+	overflow: hidden;
+}
+
+</style>
+<link rel='stylesheet' id='wwcAmzAffProducts-css'  href='http://weheartcats.com/wp-content/plugins/woozone/modules/product_in_post/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='theme-stylesheet-css'  href='http://weheartcats.com/wp-content/themes/superstore/style.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woo-layout-css'  href='http://weheartcats.com/wp-content/themes/superstore/css/layout.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-css'  href='http://weheartcats.com/wp-content/themes/superstore/css/woocommerce.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://weheartcats.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://weheartcats.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/plugins/woozone//lib/frontend/frontend.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/themes/superstore/includes/js/third-party.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/themes/superstore/includes/js/jquery.tiptip.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/themes/superstore/includes/js/general.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/themes/superstore/includes/js/jquery.flexslider-min.js?ver=4.6.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woo_localized_data = {"animation":"fade","controlsContainer":".controls-container","smoothHeight":"true","directionNav":"true","controlNav":"false","manualControls":"","slideshow":"true","pauseOnHover":"true","slideshowSpeed":"7000","touch":"true","pauseOnAction":"true"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/themes/superstore/includes/js/featured-slider.js?ver=4.6.1'></script>
+<link rel='https://api.w.org/' href='http://weheartcats.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://weheartcats.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://weheartcats.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<meta name="generator" content="WooCommerce 2.6.4" />
+<link rel='shortlink' href='http://wp.me/48tqg' />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//widgets.wp.com'>
+<link rel='dns-prefetch' href='//s0.wp.com'>
+<link rel='dns-prefetch' href='//0.gravatar.com'>
+<link rel='dns-prefetch' href='//1.gravatar.com'>
+<link rel='dns-prefetch' href='//2.gravatar.com'>
+
+<!-- Theme version -->
+<meta name="generator" content="Superstore 1.0.20" />
+<meta name="generator" content="WooFramework 5.5.5" />
+
+<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame -->
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+<!--  Mobile viewport scale | Disable user zooming as the layout is optimised -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="We Heart Cats" />
+<meta property="og:url" content="http://weheartcats.com/" />
+<meta property="og:site_name" content="We Heart Cats" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@WeHeartCatsCom" />
+
+<!-- Google Webfonts -->
+<link href="http://fonts.googleapis.com/css?family=Droid+Serif:r,b,i,bi|Droid+Sans:r,b" rel="stylesheet" type="text/css" />
+
+<!-- Alt Stylesheet -->
+<link href="http://weheartcats.com/wp-content/themes/superstore/styles/default.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Favicon -->
+<link rel="shortcut icon" href="http://weheartcats.com/wp-content/uploads/2013/11/favicon.ico"/>
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://weheartcats.com/wp-content/themes/superstore/functions/css/shortcodes.css" rel="stylesheet" type="text/css" />
+
+<!-- Custom Stylesheet -->
+<link href="http://weheartcats.com/wp-content/themes/superstore/custom.css" rel="stylesheet" type="text/css" />
+</head>
+<body class="home blog archive category category-blog category-83 unknown alt-style-default layout-left-content ">
+
+
+<div id="wrapper">
+
+    
+	<div id="top">
+		<div class="col-full">
+						<ul class="contact">
+																			</ul>
+					<nav role="navigation" class="top-nav">
+				<ul id="top-nav" class="nav fl"><li id="menu-item-181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="http://weheartcats.com/about/">About</a></li>
+<li id="menu-item-183" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-item menu-item-183"><a href="http://weheartcats.com/category/blog/">Blog</a></li>
+<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="http://weheartcats.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="http://weheartcats.com/shop/">Shop</a></li>
+</ul>			</nav>
+		</div><!--/.col-full-->
+	</div><!-- /#top -->
+
+ 
+	<header id="header" class="col-full">
+
+		<div class="header-top ">
+
+			<div class="row">
+
+				
+	<a id="logo" href="http://weheartcats.com/" title="">
+		<img src="http://weheartcats.com/wp-content/uploads/2013/11/Final-Logo-copy-300x132.png" alt="We Heart Cats" />
+	</a>
+
+			    <hgroup>
+					<span class="nav-toggle"><a href="#navigation"><span>Navigation</span></a></span>
+					<h1 class="site-title"><a href="http://weheartcats.com/">We Heart Cats</a></h1>
+					<h2 class="site-description"></h2>
+				</hgroup>
+
+				<div class="widget woocommerce widget_product_search">
+<form role="search" method="get" class="woocommerce-product-search" action="http://weheartcats.com/">
+	<label class="screen-reader-text" for="woocommerce-product-search-field">Search for:</label>
+	<input type="search" id="woocommerce-product-search-field" class="search-field" placeholder="Search Products&hellip;" value="" name="s" title="Search for:" />
+	<input type="submit" value="Search" />
+	<input type="hidden" name="post_type" value="product" />
+</form>
+</div>	<div class="account logged-out">
+	<a href="http://weheartcats.com/my-account/" title="Log In">
+		<img alt='' src='http://2.gravatar.com/avatar/?s=96&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/?s=192&amp;d=mm&amp;r=g 2x' class='avatar avatar-96 photo avatar-default' height='96' width='96' />	</a>
+		<nav class="account-links">
+			<ul>
+									<li class="my-account"><a href="http://weheartcats.com/my-account/" class="tiptip" title="Log In"><span>Log In</span></a></li>
+				
+				
+							</ul>
+		</nav>
+	</div>
+	    	</div><!--/.row-->
+
+	    </div><!--/.header-top-->
+
+		<nav id="navigation" class="col-full" role="navigation">
+
+			
+	<ul class="cart">
+		<li class="container ">
+
+       			<a class="cart-contents" href="http://weheartcats.com/cart/" title="View your shopping cart"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>0.00</span> <span class="contents">0</span></a>
+	<div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div>		</li>
+	</ul>
+
+	<script>
+
+    jQuery(function(){
+		jQuery('ul.cart a.cart-contents, .added_to_cart').tipTip({
+			defaultPosition: "top",
+			delay: 0
+		});
+	});
+
+	</script>
+
+	
+			<ul id="main-nav" class="nav fl"><li id="menu-item-39" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-39"><a href="http://weheartcats.com/">Home</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-80"><a href="http://weheartcats.com/product-category/feeder-bowls/">Feeders &#038; Bowls</a>
+<ul class="sub-menu">
+	<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="http://weheartcats.com/product-category/feeder-bowls/automatic-feeders-waterers/">Automatic Feeders &#038; Waterers</a></li>
+	<li id="menu-item-3554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3554"><a href="http://weheartcats.com/product-category/feeder-bowls/cat-fountains/">Cat Fountains</a></li>
+	<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://weheartcats.com/product-category/feeder-bowls/stainless-steel/">Stainless Steel</a></li>
+</ul>
+</li>
+<li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36"><a href="http://weheartcats.com/product-category/cat-food/">Food &#038; Treats</a>
+<ul class="sub-menu">
+	<li id="menu-item-755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-755"><a href="http://weheartcats.com/product-category/cat-food/cat-treats-cat-food/">Cat Treats</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124"><a href="http://weheartcats.com/product-category/food-treats/catnip-grass/">Catnip &#038; Grass</a></li>
+	<li id="menu-item-100" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-100"><a href="http://weheartcats.com/product-category/cat-food/dry-cat-food/">Dry Cat Food</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102"><a href="http://weheartcats.com/product-category/cat-food/organic-cat-food/">Organic Cat Food</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a href="http://weheartcats.com/product-category/cat-food/wet-cat-food/">Wet Cat Food</a></li>
+</ul>
+</li>
+<li id="menu-item-98" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-98"><a href="http://weheartcats.com/product-category/furniture/">Furniture</a>
+<ul class="sub-menu">
+	<li id="menu-item-97" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-97"><a href="http://weheartcats.com/product-category/furniture/cat-beds/">Cat Beds &#038; Pads</a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-587"><a href="http://weheartcats.com/product-category/furniture/cat-carriers/">Cat Carriers</a></li>
+	<li id="menu-item-590" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-590"><a href="http://weheartcats.com/product-category/furniture/cat-doors/">Cat Doors</a></li>
+	<li id="menu-item-312" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-312"><a href="http://weheartcats.com/product-category/furniture/cat-houses/">Cat Houses</a></li>
+	<li id="menu-item-142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-142"><a href="http://weheartcats.com/product-category/furniture/cat-trees/">Cat Trees</a></li>
+	<li id="menu-item-164" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-164"><a href="http://weheartcats.com/product-category/furniture/litter-box-furniture/">Litter Box Furniture</a></li>
+	<li id="menu-item-169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-169"><a href="http://weheartcats.com/product-category/furniture/scratching-posts/">Scratching Posts</a></li>
+	<li id="menu-item-171" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-171"><a href="http://weheartcats.com/product-category/furniture/window-perch/">Window Perches</a></li>
+</ul>
+</li>
+<li id="menu-item-81" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-81"><a href="http://weheartcats.com/product-category/grooming-and-care/">Grooming &#038; Care</a>
+<ul class="sub-menu">
+	<li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-104"><a href="http://weheartcats.com/product-category/grooming-and-care/books/">Books</a></li>
+	<li id="menu-item-99" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-99"><a href="http://weheartcats.com/product-category/grooming-and-care/brushes/">Brushes</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-588"><a href="http://weheartcats.com/product-category/grooming-and-care/flea-tick/">Fleas &#038; Ticks</a></li>
+	<li id="menu-item-592" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-592"><a href="http://weheartcats.com/product-category/grooming-and-care/dental-care/">Dental Care</a></li>
+	<li id="menu-item-170" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-170"><a href="http://weheartcats.com/product-category/grooming-and-care/hairball-remedies/">Hairball Remedies</a></li>
+	<li id="menu-item-591" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-591"><a href="http://weheartcats.com/product-category/grooming-and-care/kitten-feeding-care/">Kitten Feeding &#038; Care</a></li>
+	<li id="menu-item-172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-172"><a href="http://weheartcats.com/product-category/grooming-and-care/senior-cat-care/">Senior Cat Care</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-106"><a href="http://weheartcats.com/product-category/grooming-and-care/cat-shampoo/">Shampoo</a></li>
+	<li id="menu-item-178" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-178"><a href="http://weheartcats.com/product-category/grooming-and-care/supplements/">Supplements</a></li>
+</ul>
+</li>
+<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a href="http://weheartcats.com/product-category/litter-boxes/">Litter &#038; Boxes</a>
+<ul class="sub-menu">
+	<li id="menu-item-105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105"><a href="http://weheartcats.com/product-category/litter-boxes/automated/">Automated Litter Boxes</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="http://weheartcats.com/product-category/litter-boxes/eco-friendly-and-natural-litter/">Eco-Friendly &#038; Natural</a></li>
+	<li id="menu-item-165" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-165"><a href="http://weheartcats.com/product-category/furniture/litter-box-furniture/">Litter Box Furniture</a></li>
+</ul>
+</li>
+<li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-90"><a href="http://weheartcats.com/product-category/gifts/">Gifts</a>
+<ul class="sub-menu">
+	<li id="menu-item-1501" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1501"><a href="http://weheartcats.com/product-category/gifts/cat-toys/">Cat Toys</a></li>
+	<li id="menu-item-1502" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1502"><a href="http://weheartcats.com/product-category/gifts/cat-lover-gifts/">Gifts for Cat Lovers</a></li>
+</ul>
+</li>
+</ul>
+
+		</nav><!-- /#navigation -->
+
+		
+
+
+	</header><!-- /#header -->
+
+	
+    <div id="content" class="col-full">
+
+    	<div id="featured-slider" class="flexslider flexslider default-width-slide">
+	<ul class="slides">
+		<li class="slide slide-number-1 has-image no-video">
+			<div class="slide-media"><img src="http://weheartcats.com/wp-content/uploads/2013/11/happycat2.jpg" alt="averyhappycat"  width="1200"  class="woo-image slide-image" /></div><!--/.slide-media-->
+						<div class="slide-content">
+				<header><h1>WeHeartCats.com = Happy Cats</h1></header>
+							</div><!--/.slide-content-->
+					</li>
+	</ul>
+</div><!--/#featured-slider-->
+
+    	<div class="woocommerce woocommerce-wrap woocommerce-columns-4">
+	    	<div class="widget widget_woo_product_categories"><div class="woocommerce columns-4"><ul class="products">
+<li class="product product-category first">
+
+	<a href="http://weheartcats.com/product-category/feeder-bowls/">
+	<a href="http://weheartcats.com/product-category/feeder-bowls/">
+
+		<div class="img-wrap"><img src="http://weheartcats.com/wp-content/uploads/2013/11/drinkwellplatinum-150x150.jpg" alt="Feeder &amp; Bowls" width="150" height="150" /><span class="details-link"></span></div> <!--/.wrap-->
+		<h3>
+			Feeder &amp; Bowls							<mark class="count">(27)</mark>
+					</h3>
+
+		<span class="view-more">View products</span>
+		
+		
+	</a>
+
+	</a>
+</li><li class="product product-category">
+
+	<a href="http://weheartcats.com/product-category/cat-food/">
+	<a href="http://weheartcats.com/product-category/cat-food/">
+
+		<div class="img-wrap"><img src="http://weheartcats.com/wp-content/uploads/2013/11/Castor-Pollux-Organix-Indoor-Adult-Dry-Cat-Food-5.25-Pound-Bag-Chicken-Brown-Rice-Flaxseed-0-150x150.jpg" alt="Food &amp; Treats" width="150" height="150" /><span class="details-link"></span></div> <!--/.wrap-->
+		<h3>
+			Food &amp; Treats							<mark class="count">(102)</mark>
+					</h3>
+
+		<span class="view-more">View products</span>
+		
+		
+	</a>
+
+	</a>
+</li><li class="product product-category">
+
+	<a href="http://weheartcats.com/product-category/furniture/">
+	<a href="http://weheartcats.com/product-category/furniture/">
+
+		<div class="img-wrap"><img src="http://weheartcats.com/wp-content/uploads/2013/12/heatedcatbed-150x150.jpg" alt="Furniture" width="150" height="150" /><span class="details-link"></span></div> <!--/.wrap-->
+		<h3>
+			Furniture							<mark class="count">(87)</mark>
+					</h3>
+
+		<span class="view-more">View products</span>
+		
+		
+	</a>
+
+	</a>
+</li><li class="product product-category last">
+
+	<a href="http://weheartcats.com/product-category/gifts/">
+	<a href="http://weheartcats.com/product-category/gifts/">
+
+		<div class="img-wrap"><img src="http://weheartcats.com/wp-content/uploads/2014/09/gift-150x150.jpg" alt="Gifts" width="150" height="150" /><span class="details-link"></span></div> <!--/.wrap-->
+		<h3>
+			Gifts							<mark class="count">(45)</mark>
+					</h3>
+
+		<span class="view-more">View products</span>
+		
+		
+	</a>
+
+	</a>
+</li></ul>
+</div></div><div class="widget widget_woo_featured_products"><ul class="products featured">
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/the-all-new-kitty-tube-generation-2-outdoor-insulated-cat-house-feral-option-with-straw-and-double-insulated-liner-option/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/the-all-new-kitty-tube-generation-2-outdoor-insulated-cat-house-feral-option-with-straw-and-double-insulated-liner-option/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4" title="Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Kitty-Tube-GENERATION-2-Outdoor-Insulated-Cat-House-with-Custom-Pet-Pillow-0-4-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>191.98</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>The All NEW Kitty Tube-GENERATION 2. Outdoor Insulated Cat House-Feral Option with Straw, and Double Insulated Liner option.</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">All NEW GENERATION 2 Kitty Tube. Feral Option with Straw, and Double ...</div><span data-url="//www.amazon.com/gp/product/B00LS41JCU/?tag=weheartcats-20" data-product_id="4343" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-houses/" rel="tag">Cat Houses</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00LS41JCU" data-quantity="1" data-product_id="4343" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/one-fast-cat-exercise-wheel/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/one-fast-cat-exercise-wheel/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/One-Fast-Cat-Exercise-Wheel-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="One-Fast-Cat-Exercise-Wheel-0" title="One-Fast-Cat-Exercise-Wheel-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/One-Fast-Cat-Exercise-Wheel-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/One-Fast-Cat-Exercise-Wheel-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/One-Fast-Cat-Exercise-Wheel-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>199.00</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>One Fast Cat Exercise Wheel</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Easy assembly and open design so cats can enter from either ...</div><span data-url="//www.amazon.com/gp/product/B00NG0YERG/?tag=weheartcats-20" data-product_id="3540" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/gifts/" rel="tag">Gifts</a>, <a href="http://weheartcats.com/product-category/gifts/cat-toys/" rel="tag">Toys</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00NG0YERG" data-quantity="1" data-product_id="3540" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/cat-activity-center-with-hanging-toy-balls-mice-more-helps-cats-get-exercise-stay-active-best-cat-toys-on-amazon-by-bigupbrands/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/cat-activity-center-with-hanging-toy-balls-mice-more-helps-cats-get-exercise-stay-active-best-cat-toys-on-amazon-by-bigupbrands/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0" title="Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Cat-Activity-Center-with-Hanging-Toy-Balls-Mice-More-Helps-Cats-Get-Exercise-Stay-Active-Best-Cat-Toys-on-Amazon-by-BigUpBrands-0.jpg 200w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>17.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Cat Activity Center with Hanging Toy Balls, Mice &#038; More &#8211; Helps Cats Get Exercise &#038; Stay Active &#8211; Best Cat Toys on Amazon &#8211; by BigUpBrands</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">PURR-FECTLY FUN 4 hanging cat toy pieces encourage cats to bat, roll & ...</div><span data-url="//www.amazon.com/gp/product/B00W0F4SH4/?tag=weheartcats-20" data-product_id="3487" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/gifts/" rel="tag">Gifts</a>, <a href="http://weheartcats.com/product-category/gifts/cat-toys/" rel="tag">Toys</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00W0F4SH4" data-quantity="1" data-product_id="3487" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/the-natural-pet-company-cat-toys-collection-in-gift-box/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/the-natural-pet-company-cat-toys-collection-in-gift-box/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0" title="The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/The-Natural-Pet-Company-Cat-Toys-Collection-in-Gift-Box-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>13.95</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>The Natural Pet Company Cat Toys Collection in Gift Box</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">• FULL OF VARIETY! - Remember last Christmas when you bought your ...</div><span data-url="//www.amazon.com/gp/product/B00UHRQAGY/?tag=weheartcats-20" data-product_id="3476" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/gifts/" rel="tag">Gifts</a>, <a href="http://weheartcats.com/product-category/gifts/cat-toys/" rel="tag">Toys</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00UHRQAGY" data-quantity="1" data-product_id="3476" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/catit-senses-2-0-wellness-center/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/catit-senses-2-0-wellness-center/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Catit-Senses-20-Wellness-Center-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Catit-Senses-20-Wellness-Center-0" title="Catit-Senses-20-Wellness-Center-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Catit-Senses-20-Wellness-Center-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Catit-Senses-20-Wellness-Center-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Catit-Senses-20-Wellness-Center-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>24.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Catit Senses 2.0 Wellness Center</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Offers 360° of relaxation and grooming for your cat!
+Provides head, neck, ...</div><span data-url="//www.amazon.com/gp/product/B00D3NI4EU/?tag=weheartcats-20" data-product_id="3468" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/gifts/" rel="tag">Gifts</a>, <a href="http://weheartcats.com/product-category/gifts/cat-toys/" rel="tag">Toys</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00D3NI4EU" data-quantity="1" data-product_id="3468" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/catit-design-senses-play-circuit/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/catit-design-senses-play-circuit/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Catit-Design-Senses-Play-Circuit-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Catit-Design-Senses-Play-Circuit-0" title="Catit-Design-Senses-Play-Circuit-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Catit-Design-Senses-Play-Circuit-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Catit-Design-Senses-Play-Circuit-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Catit-Design-Senses-Play-Circuit-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>8.45</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Catit Design Senses Play Circuit</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Catit Design Senses Play Circuit Original New
+Brand New
+Officially Licensed</div><span data-url="//www.amazon.com/gp/product/B006BIQ8AG/?tag=weheartcats-20" data-product_id="3405" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/gifts/" rel="tag">Gifts</a>, <a href="http://weheartcats.com/product-category/gifts/cat-toys/" rel="tag">Toys</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B006BIQ8AG" data-quantity="1" data-product_id="3405" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/petsfit-20x24x21-inches-espresso-pet-house-litter-box-enclosure-night-stand-painted-with-non-toxic/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/petsfit-20x24x21-inches-espresso-pet-house-litter-box-enclosure-night-stand-painted-with-non-toxic/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0" title="Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Petsfit-20x24x21-Inches-Espresso-Pet-House-Litter-Box-Enclosure-Night-Stand-Painted-With-Non-Toxic-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>109.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Petsfit 20x24x21 Inches Espresso Pet House Litter Box Enclosure Night Stand Painted With Non-Toxic</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Multi-funtional night stand pet furniture,can be used as pet house ...</div><span data-url="//www.amazon.com/gp/product/B00XKX6W9C/?tag=weheartcats-20" data-product_id="3305" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a>, <a href="http://weheartcats.com/product-category/furniture/litter-box-furniture/" rel="tag">Litter Box Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00XKX6W9C" data-quantity="1" data-product_id="3305" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/petsafe-drinkwell-pet-fountain-50-oz/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/petsafe-drinkwell-pet-fountain-50-oz/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="PetSafe-Drinkwell-Pet-Fountain-50-oz-0" title="PetSafe-Drinkwell-Pet-Fountain-50-oz-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/PetSafe-Drinkwell-Pet-Fountain-50-oz-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>54.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>35.52</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>PetSafe Drinkwell Pet Fountain 50 oz</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Made of plastic
+Replaceable charcoal filter removes bad tastes and odors
+...</div><span data-url="//www.amazon.com/gp/product/B01HO8U5NC/?tag=weheartcats-20" data-product_id="3223" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/feeder-bowls/cat-fountains/" rel="tag">Cat Fountains</a>, <a href="http://weheartcats.com/product-category/feeder-bowls/" rel="tag">Feeder &amp; Bowls</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B01HO8U5NC" data-quantity="1" data-product_id="3223" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/kh-manufacturing-mod-dream-pod-tanblack-22-unheated/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/kh-manufacturing-mod-dream-pod-tanblack-22-unheated/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0" title="KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Manufacturing-Mod-Dream-Pod-TanBlack-22-unheated-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>35.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>K&#038;H Manufacturing Mod Dream Pod Tan/Black 22&#8243; (unheated)</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">This fun bowlis made for comfort Rugged 600 Denier polyester exterior It ...</div><span data-url="//www.amazon.com/gp/product/B00KCNUY3I/?tag=weheartcats-20" data-product_id="2928" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-beds/" rel="tag">Cat Beds</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00KCNUY3I" data-quantity="1" data-product_id="2928" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/kh-kitty-camper-indoor-cat-bed-14-inch-by-20-inch-fish-print-orange/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/kh-kitty-camper-indoor-cat-bed-14-inch-by-20-inch-fish-print-orange/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0" title="KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/KH-Kitty-Camper-Indoor-Cat-Bed-14-Inch-by-20-Inch-Fish-Print-Orange-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>20.00</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>K&#038;H Kitty Camper Indoor Cat Bed, 14-Inch by 20-Inch, Fish Print, Orange</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">This is a an amazing  place for cats to hang out ...</div><span data-url="//www.amazon.com/gp/product/B004ZJOGY8/?tag=weheartcats-20" data-product_id="2926" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-beds/" rel="tag">Cat Beds</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B004ZJOGY8" data-quantity="1" data-product_id="2926" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/trixie-pet-products-wooden-outdoor-cat-sanctuary/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/trixie-pet-products-wooden-outdoor-cat-sanctuary/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0" title="Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Trixie-Pet-Products-Wooden-Outdoor-Cat-Sanctuary-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>142.99</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Trixie Pet Products Wooden Outdoor Cat Sanctuary</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Dimensions: 22L x 23W x 37H inches
+3-story wooden cat house ...</div><span data-url="//www.amazon.com/gp/product/B01K4I7QFO/?tag=weheartcats-20" data-product_id="2893" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-houses/" rel="tag">Cat Houses</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B01K4I7QFO" data-quantity="1" data-product_id="2893" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/new-cat-condos-premier-large-cat-play-tree/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/new-cat-condos-premier-large-cat-play-tree/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/New-Cat-Condos-Premier-Large-Cat-Play-Tree-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="New-Cat-Condos-Premier-Large-Cat-Play-Tree-0" title="New-Cat-Condos-Premier-Large-Cat-Play-Tree-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/New-Cat-Condos-Premier-Large-Cat-Play-Tree-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/New-Cat-Condos-Premier-Large-Cat-Play-Tree-0-90x90.jpg 90w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>189.99</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>129.99</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>New Cat Condos Premier Large Cat Play Tree</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Made from Solid Wood, Plush Household Grade Carpet, Unoiled Sisal Rope ...</div><span data-url="//www.amazon.com/gp/product/B008SGS70S/?tag=weheartcats-20" data-product_id="2717" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-trees/" rel="tag">Cat Trees</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B008SGS70S" data-quantity="1" data-product_id="2717" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/litter-robot-lrii-automatic-self-cleaning-litter-box/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/litter-robot-lrii-automatic-self-cleaning-litter-box/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0" title="Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Litter-Robot-LRII-Automatic-Self-Cleaning-Litter-Box-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>349.00</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Litter Robot LRII Automatic Self-Cleaning Litter Box</h3>
+
+
+
+							</a>
+
+							<div class="excerpt"></div><span data-url="//www.amazon.com/gp/product/B00VFSMOOQ/?tag=weheartcats-20" data-product_id="2654" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/litter-boxes/automated/" rel="tag">Automated Litter Boxes</a>, <a href="http://weheartcats.com/product-category/litter-boxes/" rel="tag">Litter Boxes</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00VFSMOOQ" data-quantity="1" data-product_id="2654" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/scoopfree-self-cleaning-litter-box/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/scoopfree-self-cleaning-litter-box/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/ScoopFree-Self-Cleaning-Litter-Box-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="ScoopFree-Self-Cleaning-Litter-Box-0" title="ScoopFree-Self-Cleaning-Litter-Box-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/ScoopFree-Self-Cleaning-Litter-Box-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/ScoopFree-Self-Cleaning-Litter-Box-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/ScoopFree-Self-Cleaning-Litter-Box-0-300x300.jpg 300w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>125.00</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>ScoopFree Self Cleaning Litter Box</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Self-cleans for weeks with no scooping, cleaning, or refilling
+Crystal litter ...</div><span data-url="//www.amazon.com/gp/product/B000ELUQQS/?tag=weheartcats-20" data-product_id="2648" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/litter-boxes/automated/" rel="tag">Automated Litter Boxes</a>, <a href="http://weheartcats.com/product-category/litter-boxes/" rel="tag">Litter Boxes</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B000ELUQQS" data-quantity="1" data-product_id="2648" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured first">
+
+							<a href="http://weheartcats.com/product/aspen-pet-round-bed-animal-print-18/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/aspen-pet-round-bed-animal-print-18/">
+
+								<div class="img-wrap">
+	<span class="onsale">Sale!</span>
+<img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-Round-Bed-Animal-Print-18-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Aspen-Pet-Round-Bed-Animal-Print-18-0" title="Aspen-Pet-Round-Bed-Animal-Print-18-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-Round-Bed-Animal-Print-18-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-Round-Bed-Animal-Print-18-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-Round-Bed-Animal-Print-18-0.jpg 198w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>16.72</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>11.08</span></ins></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Aspen Pet Round Bed Animal Print &#8211; 18&#8243;</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">Plush animal print interior with chocolate brown exterior
+Dimensions: 18" x 18" x 5"
+...</div><span data-url="//www.amazon.com/gp/product/B009Q9O4K8/?tag=weheartcats-20" data-product_id="2646" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-beds/" rel="tag">Cat Beds</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B009Q9O4K8" data-quantity="1" data-product_id="2646" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					
+						<li class="product featured last">
+
+							<a href="http://weheartcats.com/product/aspen-pet-80135-self-warming-cat-bed/" class="woocommerce-LoopProduct-link">
+							<a href="http://weheartcats.com/product/aspen-pet-80135-self-warming-cat-bed/">
+
+								<div class="img-wrap"><img width="150" height="150" src="http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0-150x150.jpg" class="attachment-shop_catalog size-shop_catalog wp-post-image" alt="Aspen-Pet-80135-Self-Warming-Cat-Bed-0" title="Aspen-Pet-80135-Self-Warming-Cat-Bed-0" srcset="http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0-150x150.jpg 150w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0-300x300.jpg 300w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0-200x200.jpg 200w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0-90x90.jpg 90w, http://weheartcats.com/wp-content/uploads/2016/08/Aspen-Pet-80135-Self-Warming-Cat-Bed-0.jpg 500w" sizes="(max-width: 150px) 100vw, 150px" />
+	<span class="price"><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&#36;</span>14.01</span></span>
+<span class="details-link"></span></div> <!--/.wrap-->
+								<h3>Aspen Pet 80135 Self-Warming Cat Bed</h3>
+
+
+
+							</a>
+
+							<div class="excerpt">The sleep surface of the bed incorporates a layer of self-warming ...</div><span data-url="//www.amazon.com/gp/product/B00DJRCQBW/?tag=weheartcats-20" data-product_id="2582" class="wwcAmzAff-product-buy-url" style="display: none;"></span><div class="categories"><a href="http://weheartcats.com/product-category/furniture/cat-beds/" rel="tag">Cat Beds</a>, <a href="http://weheartcats.com/product-category/furniture/" rel="tag">Furniture</a></div></a><a rel="nofollow" href="http://weheartcats.com/?redirectAmzASIN=B00DJRCQBW" data-quantity="1" data-product_id="2582" data-product_sku="" class="button product_type_external">Buy Now!</a>
+						</li>
+
+					</ul></div>		</div><!--/.woocommerce-->
+		<section id="main" class="full-width">
+				
+						
+				
+	
+	<article class="post-4607 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+
+		<div class="post-content">
+
+			<a href="http://weheartcats.com/dealing-with-cat-hairballs/"  title="Dealing With Cat Hairballs"><img src="http://weheartcats.com/wp-content/uploads/2016/08/Pet-Naturals-Hairball-0.jpg" alt=""  width="800"  height="300"  class="woo-image thumbnail aligncenter" /></a>
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1><a href="http://weheartcats.com/dealing-with-cat-hairballs/" title="Continue Reading &rarr;">Dealing With Cat Hairballs</a></h1>
+
+		        </header>
+
+				<p>For cat owners, dealing with hairballs can be scary. However, you should know that hairballs are a routine and actually healthy result of your cat grooming themselves. When your cat grooms him or herself, his tongue will catch all dead and loose hair which they will then swallow. Cats that groom themselves regularly are generally [&hellip;]</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="http://weheartcats.com/dealing-with-cat-hairballs/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span>August 25, 2016</span>
+				</li>
+				<li class="post-author"><a href="http://weheartcats.com/author/Danielle/">DeeDee</a></li>
+				<li class="post-category"><a href="http://weheartcats.com/category/blog/" rel="category tag">Blog</a></li>
+				<li class="post-comments"><a href="http://weheartcats.com/dealing-with-cat-hairballs/#respond">Leave a Comment</a></li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+				
+	
+	<article class="post-188 post type-post status-publish format-standard hentry category-blog">
+
+		<div class="post-content">
+
+			
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1><a href="http://weheartcats.com/what-are-the-best-eco-friendly-cat-litter-options/" title="Continue Reading &rarr;">What Are The Best Eco-Friendly Cat Litter Options?</a></h1>
+
+		        </header>
+
+				<p>For those of us who own indoor cats, finding an environmentally friendly cat litter option can be a challenging task. However, it is not a trivial one, as when you consider the environmental impact of cat litter on our environment. In fact, clay-based cat litter is having a significant impact on our environment, as much [&hellip;]</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="http://weheartcats.com/what-are-the-best-eco-friendly-cat-litter-options/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span>August 8, 2016</span>
+				</li>
+				<li class="post-author"><a href="http://weheartcats.com/author/Danielle/">DeeDee</a></li>
+				<li class="post-category"><a href="http://weheartcats.com/category/blog/" rel="category tag">Blog</a></li>
+				<li class="post-comments">Comments off.</li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+				
+	
+	<article class="post-2011 post type-post status-publish format-standard has-post-thumbnail hentry category-blog">
+
+		<div class="post-content">
+
+			<a href="http://weheartcats.com/black-friday-gifts-for-cat-lovers/"  title="Black Friday Gifts for Cat Lovers!"><img src="http://weheartcats.com/wp-content/uploads/2014/11/Enesco-Hoots-N-Howlers-Catffeinated-Mug-16-Ounce-0.jpg" alt=""  width="800"  height="300"  class="woo-image thumbnail aligncenter" /></a>
+			<section class="entry">
+
+				<header class="post-header">
+
+		            <h1><a href="http://weheartcats.com/black-friday-gifts-for-cat-lovers/" title="Continue Reading &rarr;">Black Friday Gifts for Cat Lovers!</a></h1>
+
+		        </header>
+
+				<p>We hope all our readers had a Happy Thanksgiving! Ours was lovely, and even our elderly Maine Coon enjoyed snuggling with family members on the sofa and a few pieces of turkey! It&#8217;s &#8220;Black Friday&#8221; today, and we know many of you are getting started with holiday shopping today. We wanted to let you know [&hellip;]</p>
+				<footer class="post-more">
+									<span class="read-more"><a href="http://weheartcats.com/black-friday-gifts-for-cat-lovers/" title="Continue Reading &rarr;">Continue Reading &rarr;</a></span>
+								</footer>
+
+			</section>
+
+			
+		</div><!--/.post-content-->
+
+		
+		<aside class="post-meta">
+			<ul>
+				<li class="post-date">
+					<span>November 28, 2014</span>
+				</li>
+				<li class="post-author"><a href="http://weheartcats.com/author/Danielle/">DeeDee</a></li>
+				<li class="post-category"><a href="http://weheartcats.com/category/blog/" rel="category tag">Blog</a></li>
+				<li class="post-comments"><a href="http://weheartcats.com/black-friday-gifts-for-cat-lovers/#respond">Leave a Comment</a></li>
+			</ul>
+		</aside>
+	</article><!-- /.post -->
+			
+		        
+		<nav class="pagination woo-pagination"><span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://weheartcats.com/page/2/'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://weheartcats.com/page/4/'>4</a>
+<a class="next page-numbers" href="http://weheartcats.com/page/2/">Next &rarr;</a></nav>
+		</section><!-- /#main -->
+		
+        
+    </div><!-- /#content -->
+
+	
+	<div class="footer-wrap contact">
+
+		<section class="col-full">
+
+						<ul class="contact">
+																			</ul>
+		
+		</section>
+
+	</div><!--/.footer-wrap-contact-->
+
+	<div class="footer-wrap">
+
+	
+	
+		<section id="footer-widgets" class="col-full col-4 fix">
+
+							
+			<div class="block footer-widget-1">
+	        	<div id="search-2" class="widget widget_search"><div class="search_main fix"><form role="search" class="searchform" method="get" id="searchform" class="searchform" action="http://weheartcats.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" class="field s" placeholder="Search..." id="s" />
+					<input type="submit" class="search-submit" id="searchsubmit" value="Search" />
+				</div>
+			</form></div></div>		<div id="recent-posts-3" class="widget widget_recent_entries">		<h3>Recent Blog Posts</h3>		<ul>
+					<li>
+				<a href="http://weheartcats.com/dealing-with-cat-hairballs/">Dealing With Cat Hairballs</a>
+						</li>
+					<li>
+				<a href="http://weheartcats.com/what-are-the-best-eco-friendly-cat-litter-options/">What Are The Best Eco-Friendly Cat Litter Options?</a>
+						</li>
+					<li>
+				<a href="http://weheartcats.com/black-friday-gifts-for-cat-lovers/">Black Friday Gifts for Cat Lovers!</a>
+						</li>
+					<li>
+				<a href="http://weheartcats.com/helping-abandoned-and-feral-cats-survive-the-winter/">Helping Abandoned and Feral Cats Survive the Winter</a>
+						</li>
+					<li>
+				<a href="http://weheartcats.com/weheartcats-our-favorite-cat-videos-of-2014/">WeHeartCats: Our Favorite Cat Videos of 2014</a>
+						</li>
+				</ul>
+		</div>		<div id="rss_links-2" class="widget widget_rss_links"><p><a target="_self" href="http://weheartcats.com/feed/" title="Subscribe to Posts"><img src="http://weheartcats.com/wp-content/plugins/jetpack/images/rss/blue-large.png" alt="RSS Feed" /></a>&nbsp;<a target="_self" href="http://weheartcats.com/feed/" title="Subscribe to Posts">RSS - Posts</a></p>
+</div>			</div>
+
+		        							
+			<div class="block footer-widget-2">
+	        	<div id="facebook-likebox-3" class="widget widget_facebook_likebox"><h3><a href="https://www.facebook.com/weheartcatscom">Like Us On Facebook!</a></h3>		<div id="fb-root"></div>
+		<div class="fb-page" data-href="https://www.facebook.com/weheartcatscom" data-width="240"  data-height="300" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+		<div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/weheartcatscom"><a href="https://www.facebook.com/weheartcatscom">Like Us On Facebook!</a></blockquote></div>
+		</div>
+		</div>			</div>
+
+		        							
+			<div class="block footer-widget-3">
+	        	<div id="twitter_timeline-3" class="widget widget_twitter_timeline"><h3>Follow Us on Twitter!</h3><a class="twitter-timeline" data-width="200" data-height="400" data-theme="light" data-link-color="#f96e5b" data-border-color="#e8e8e8" data-tweet-limit="2" data-lang="EN" data-widget-id="406632949501550592">My Tweets</a></div>			</div>
+
+		        							
+			<div class="block footer-widget-4">
+	        	<div id="text-2" class="widget widget_text"><h3>Subscribe For Deals &#038; Discounts!</h3>			<div class="textwidget"><script type="text/javascript" src="http://forms.aweber.com/form/35/1090181335.js"></script></div>
+		</div>			</div>
+
+		        			
+		</section><!-- /#footer-widgets  -->
+			<footer id="footer" class="col-full">
+
+			<hr />
+
+			<div id="copyright" class="col-left">
+							<p>We Heart Cats &copy; 2018. All Rights Reserved.</p>
+						</div>
+
+			<div id="credit" class="col-right">
+	        				<p></a></p>
+						</div>
+
+		</footer><!-- /#footer  -->
+
+	</div><!--/.footer-wrap-->
+
+</div><!-- /#wrapper -->
+
+<!-- start/ wwcAmzAff woocommerce-tabs amazon fix -->
+<script type="text/javascript">
+jQuery('.woocommerce-tabs #tab-description .aplus p img[height=1]').css({ 'height': '1px' });
+</script>
+<!-- end/ wwcAmzAff woocommerce-tabs amazon fix -->
+
+<span id="wwcAmzAff_current_aff" class="display: none;" data-current_aff="{&quot;user_country&quot;:{&quot;key&quot;:&quot;com&quot;,&quot;website&quot;:&quot;.com&quot;,&quot;affID&quot;:&quot;weheartcats-20&quot;}}" /></span>
+<!-- start/ wwcAmzAff -->
+			<!-- start/  wwcAmzAff product buy url -->
+			<script type="text/javascript">
+				jQuery(document).ready(function ($) {
+					var $products = $('ul.products').find('.product_type_external'),
+						$prod_info = $('ul.products').find('.wwcAmzAff-product-buy-url');
+
+					if ( $products.length > 0 && $prod_info.length > 0 ) { // products list page
+						$products.each(function(i) {
+							var $this = $(this),
+								product_id = $this.data('product_id');
+
+							var $current = $prod_info.filter(function(i) {
+								return $(this).data('product_id') == product_id;
+							});
+							if ( $current.length > 0 ) {
+								$this.prop('href', $current.data('url'));
+							}
+						});
+					}
+					
+					var $prod_container = $('div[id^="product-"]');
+					if ( $prod_container.length > 0 ) { // product details page
+
+						var $this = $prod_container,
+							$prod_info = $this.next('.wwcAmzAff-product-buy-url');
+ 
+						if ( $prod_info.length > 0 ) {
+							var prod_id = $prod_info.data('product_id'),
+								prod_url = $prod_info.data('url');
+	 
+							var is_link = $this.find('a.single_add_to_cart_button'),
+                                is_button = $this.find('button.single_add_to_cart_button');
+
+                            if ( is_link.length ) {
+                                is_link.prop('href', prod_url);
+							} else if ( is_button.length ) {
+							    
+							    var btn_text = is_button.text(),
+                                    new_a = '<a class="single_add_to_cart_button button alt" rel="nofollow" href="' + prod_url + '" target="_blank">' + btn_text + '</a>';
+							    is_button.after( new_a );
+							    is_button.remove();
+							}
+						}
+					}
+				});
+			</script>
+			<!-- end/  wwwcAmzAff product buy url -->
+		<!-- end/ wwcAmzAff -->
+
+	<div style="display:none">
+	<div class="grofile-hash-map-d41d8cd98f00b204e9800998ecf8427e">
+	</div>
+	</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46056458-1', 'weheartcats.com');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=9434779; 
+var sc_invisible=1; 
+var sc_security="023c3dea"; 
+var sc_https=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="click tracking"
+href="http://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/9434779/0/023c3dea/1/"
+alt="click tracking"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<!--[if lt IE 9]>
+<script src="http://weheartcats.com/wp-content/themes/superstore/includes/js/respond.js"></script>
+<![endif]-->
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/weheartcats.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartcats.com/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/weheartcats.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"http:\/\/weheartcats.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//weheartcats.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='//weheartcats.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//weheartcats.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='//weheartcats.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//weheartcats.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.4'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201804'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jpfbembed = {"appid":"249643311490","locale":"en_US"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/plugins/jetpack/_inc/facebook-embed.js'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-content/plugins/jetpack/_inc/twitter-timeline.js?ver=4.0.0'></script>
+<script type='text/javascript' src='http://weheartcats.com/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201804.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'61125072',post:'0',tz:'0',srv:'weheartcats.com'} ]);
+	_stq.push([ 'clickTrackerInit', '61125072', '0' ]);
+</script>
+</body>
+</html>

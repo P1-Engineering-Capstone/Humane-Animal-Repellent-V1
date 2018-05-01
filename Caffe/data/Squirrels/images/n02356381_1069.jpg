@@ -1,0 +1,846 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js ie6 oldie" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js ie7 oldie" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js ie8 oldie" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+  <title>Page not found | The News Tribune Blogs - The News Tribune</title>
+
+  <link rel="icon" href="http://blogmedia.thenewstribune.com/wp-content/themes/tnt-aurora/favicon.ico" type="image/x-icon" />
+  <link rel="shortcut icon" href="http://blogmedia.thenewstribune.com/wp-content/themes/tnt-aurora/favicon.ico" />
+  <link rel="apple-touch-icon" href="http://media.thenewstribune.com/images/apple-touch-icon-114x114.png" />
+  <link rel="alternate" type="application/rss xml" title="Subscribe to The News Tribune Blogs" href="http://blog.thenewstribune.com/feed/" />
+
+  <!-- <link rel="stylesheet" href="http://blog.thenewstribune.com/wp-content/themes/tnt-aurora/aurora-tnt.css" /> -->
+
+  <link href="http://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+
+  <link href="http://media.thenewstribune.com/mistatic/stylesheets/structure.css" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://media.thenewstribune.com/mistatic/stylesheets/sites/NewsTribuneOnline.css" media="screen" rel="stylesheet" type="text/css" />
+
+  <link rel="stylesheet" href="http://blog.thenewstribune.com/wp-content/themes/tnt-aurora/style.css?2014092201" />
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Coustard" />
+  <!--[if lte IE 6]>
+  <link rel="stylesheet" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css" media="screen, projection">
+  <![endif]-->
+
+  <script src="http://media.thenewstribune.com/scripts/modernizr-1.7.min.js"></script>
+  <script src="http://media.thenewstribune.com/scripts/head.load.min.js"></script>
+  	  <script>
+	    var gptadslots=[];
+	    var googletag = googletag || {};
+	    googletag.cmd = googletag.cmd || [];
+	    (function(){ var gads = document.createElement('script');
+	      gads.async = true; gads.type = 'text/javascript';
+	      var useSSL = 'https:' == document.location.protocol;
+	      gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+	      var node = document.getElementsByTagName('script')[0];
+	      node.parentNode.insertBefore(gads, node);
+	    })();
+
+	    googletag.cmd.push(function() {
+
+	      gptadslots[1]= googletag.defineSlot('/7675/TAC.vendor-blogs_thenewstribune/News', [[728,90]], 'div-gpt-ad-451608532239993224-1').setTargeting('atf',['Y']).setTargeting('pos',['1']).addService(googletag.pubads());
+      gptadslots[2]= googletag.defineSlot('/7675/TAC.vendor-blogs_thenewstribune/News', [[300,250]], 'div-gpt-ad-451608532239993224-2').setTargeting('atf',['Y']).setTargeting('pos',['1']).addService(googletag.pubads());
+
+	    	googletag.pubads().enableSingleRequest();
+	      googletag.pubads().setTargeting('pl',['blog']).setTargeting('sect',['TheNewsTribuneBlogs']);
+	      googletag.pubads().enableAsyncRendering();
+	      googletag.enableServices();
+	    });
+	  </script>
+
+	    <meta property="fb:app_id" content="178810216508"/>
+<meta property="og:site_name" content="Tacoma News Tribune"/>
+<meta property="og:title" content="The News Tribune Blogs"/>
+<meta property="og:type" content="website"/>
+<meta property="og:description" content="Tacoma and South Puget Sound | News, sports, music and the arts" />
+<meta property="og:url" content="http://blog.thenewstribune.com/media/users/kellydavenport/squirrel.jpg" />
+<meta property="og:image" content="http://media.thenewstribune.com/images/shared/tnt-logo.jpg"/>
+<link rel='stylesheet' id='easy-article-pagination-css'  href='http://blog.thenewstribune.com/wp-content/plugins/easy-pagination/css/eap.css?ver=1.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js?ver=4.0'></script>
+<script type='text/javascript' src='http://blogmedia.thenewstribune.com/wp-content/plugins/easy-pagination/js/jquery.easing.1.3.js?ver=1.3'></script>
+<script type='text/javascript' src='http://blogmedia.thenewstribune.com/wp-content/plugins/easy-pagination/js/eap.js?ver=1.0.1.10'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.thenewstribune.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blogmedia.thenewstribune.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.0" />
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://blog.thenewstribune.com/wp-content/plugins/easy-pagination/css/eap_ie8.css" />
+<![endif]-->
+
+  <script type="text/javascript">
+    /**
+     * miAppControler contains master settings that can be used to quickly disable
+     * javascript applications. For each supported app there is an attribute containing
+     * an integer value. The meaning of the value is application specific, except
+     * for 0 and 1.
+     * 0 = disable the entire app
+     * 1 = enable the entire app
+     * Any additional values should be noted in this file.
+     *
+     * The controller is instantiated in the MI object and should be interfaced with
+     * there.
+     */
+    var miAppControler = function() {};
+    /* Commenting
+     2 = disable comment submission & display
+     3 = enable comment submission & display only
+     4 = disable popular threads widget
+    */
+    miAppControler.prototype.commenting = 2;
+    /*
+     2 = display static coupon ad
+    */
+    miAppControler.prototype.findnsave = 0;
+    miAppControler.prototype.dealsaver = 0;
+    /* Surveywall
+     0 = disable pass widget
+     1 = enable pass widget
+    */
+      miAppControler.prototype.surveywall = 1;
+    /* Paywall
+     0 = disable paywall
+     1 = enable paywall for preview & live
+     2 = enable paywall for preview only
+    */
+    miAppControler.prototype.paywall = 1;
+          var pageInfo = {'version':1.0};
+          pageInfo.section = {};
+          pageInfo.section.id = 99;
+          pageInfo.asset = {};
+          pageInfo.asset.id = 0;
+          pageInfo.asset.title = "typeset";
+          pageInfo.type = "typeset";
+  </script>
+  <script type="text/javascript">
+  var auth_cookie_name = "thenewstribune_user_auth";
+  </script>
+  <script type="text/javascript" src="http://media.thenewstribune.com/mistatic/cache/javascripts/911ec54b9e3b1a6cc25df67426736bd8-min.js"></script>
+  <script type="text/javascript" src="http://media.thenewstribune.com/static/scripts/sectionfront.js"></script>
+  <script type="text/javascript">
+      if (typeof(mi.Search) !== 'undefined') {
+          mi.search = new mi.Search();
+      }
+  </script>
+  <!--[if lte IE 7]>
+  <script type="text/javascript">
+  $(document).ready(function() {
+      // Dynamic padding for navigation
+      var parent_container = $('nav.primary div');
+      var target_elements = $('nav.primary div a');
+      var remainder_element = $('nav.primary div ul#analytics_based li:first-child a');
+      var border_size = (target_elements.length * 2 + 1);
+      padding(parent_container, target_elements, remainder_element, border_size, false);
+      // Dynamic padding for sub-navigation
+      var parent_container = $('#sub_nav');
+      var target_elements = $('#sub_nav > ul li a');
+      var remainder_element = $('#sub_nav > ul li:first-child a');
+      var border_size = (target_elements.length * 2 + 1);
+      padding(parent_container, target_elements, remainder_element, border_size, false);
+  });
+  </script>
+  <![endif]-->
+  <script language="JavaScript" type="text/javascript" src="http://media.thenewstribune.com/misites/tnt/thenewstribune.js"></script>
+
+</head>
+<body>
+
+<div class="vendorContent">
+  <header id="header">
+  <div class="leaderboard" id="header_r1">
+    <div class="ad">
+      <div class="advertisement dart_728x90" id="dart_728x90_1">
+        
+	<div id="div-gpt-ad-451608532239993224-1">
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('div-gpt-ad-451608532239993224-1'); });
+	  </script>
+	</div>
+
+	      </div>
+    </div>
+  </div>
+  <div class="mast">
+    <div id="masthead">
+      <div id="mast_top">
+        <ul id="sales_nav">
+          <li class="classifed first"><a href="http://www.thenewstribune.com/classified-ads/#navlink=navbar">Classifieds</a></li>
+          <li class="jobs"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?lr=cbmc_nt#navlink=navbar">Jobs</a></li>
+          <li class="cars"><a href="http://www.thenewstribune.com/cars/#navlink=navbar">Cars</a></li>
+          <li class="homes"><a href="http://www.thenewstribune.com/homes/#navlink=navbar">Homes</a></li>
+          <li class="apartments"><a href="http://www.apartments.com/partner/Community.aspx?who=tribnet&p=tribnet&Area2=Y&page=SubArea&state=WA&rgn2=30&frontdoor=tribnet&partner=tribnet&prvpg=3#navlink=navbar">Apartments</a></li>
+          <li class="legals"><a href="http://www.legalnotice.org/pl/thenewstribune/landing1.aspx#navlink=navbar">Legals</a></li>
+          <li class="place_ad last"><a href="http://www.thenewstribune.com/placead/#navlink=navbar">Place an ad</a></li>
+        </ul>
+        <div id="weather">&nbsp;</div>
+        <!-- #weather -->
+      <!-- end mast_top -->
+      <div class="clear">
+      </div>
+      <div id="mast_main">
+        <div id="logo">
+          <a href="http://www.thenewstribune.com/" class="site_title">
+          <h1>The News Tribune</h1>
+          <img class="market_logo" src="http://media.thenewstribune.com/mistatic/images/logo/NewsTribuneOnline.png" alt="The News Tribune">
+          </a>
+        </div>
+        <div id="nonmember" class="signin">
+          <ul id="services_nav">
+            <li class="first"><a id="digital_subscriptions" href="http://www.thenewstribune.com/plus">Subscriptions</a></li>
+            <li><a href="http://www.thenewstribune.com/report_news/">Report News</a></li>
+            <li class="last"><a href="http://www.thenewstribune.com/customer-service/">Customer Service</a></li>
+          </ul>
+        </div>
+        <div class="mh_search" id="searchbar">
+          <form id="search_widget_form" name="miSearchForm" onsubmit="" action="http://www.thenewstribune.com/search_results?q=" method="get">
+            <div id="searchInputContainer">
+            </div>
+            <div class="options">
+              <input type="text" id="search_keywords" name="q" class="placeholder" placeholder="Search The News Tribune" onfocus="this.style.color='black';" onblur="if (this.value=='') { this.style.color='#999';}" />
+            </div>
+            <button type="submit">Search</button>
+            <ul id="search_widget_choice" style="display: none;">
+              <li>
+              <a id="site_search" href="#">
+              <img src="http://media.thenewstribune.com/mistatic/images/search/magnifying_glass_icon.png">Search stories on this site </a>
+              </li>
+              <li>
+              <a id="archives" href="#">
+              <img src="http://media.thenewstribune.com/mistatic/images/search/search_folder.png">Search print archives </a>
+              </li>
+            </ul>
+            <div class="clear">
+            </div>
+          </form>
+          <script type="text/javascript">
+                    if (typeof(mi.search) !== "undefined" || typeof(mi.search.setUp) !== "function") {
+                        mi.search.setUp();
+                    }
+            </script>
+        </div>
+        <!-- end search bar -->
+      </div>
+      <!-- end mast_main -->
+      <div class="clear">
+      </div>
+    </div>
+    <!-- #masthead -->
+    <div class="clear">
+    </div>
+    <script language="javascript" src="http://media.thenewstribune.com/mistatic/javascripts/weather.js"></script>
+    <script language="javascript">weather();</script>
+  </div>
+  <nav class="primary">
+  <div id="main_nav_container"><ul id="main_nav">
+<li id="nav_ad">
+  <div id="div-gpt-ad-868693460401858-3">
+    <script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-868693460401858-3'); });</script>
+    <div style="border: 0pt none;" id="google_ads_iframe_/7675/TAC.site_thenewstribune/_HomePage_2__container__"><iframe src="javascript:&quot;<html><body style='background:transparent'></body></html>&quot;" style="border: 0px none; vertical-align: bottom;" marginheight="0" marginwidth="0" name="google_ads_iframe_/7675/TAC.site_thenewstribune/_HomePage_2" id="google_ads_iframe_/7675/TAC.site_thenewstribune/_HomePage_2" scrolling="no" width="100" frameborder="0" height="25"></iframe></div></div>
+  </li>
+  <li id="home" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/#navlink=navbar" title="Home Page">Home</a></li>                <li id="news" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/news/#navlink=navbar" title="News">News</a>
+  <div class="mega_menu_container">
+    <div class="container_12">
+      <div class="subnav grid_4">
+        <ul class="subnav_row_one">
+          <li><a href="http://www.thenewstribune.com/local-columns/#navlink=subnav" title="">Columns</a></li>
+          <li><a href="http://www.thenewstribune.com/peter-callaghan/#navlink=subnav" title="">Peter Callaghan</a></li>
+          <li><a href="http://www.thenewstribune.com/larry-larue/#navlink=subnav" title="">Larry LaRue</a></li>
+          <li><a href="http://www.thenewstribune.com/databases/#navlink=subnav" title="">Databases</a></li>
+          <li><a href="http://www.thenewstribune.com/political-news/#navlink=subnav" title="">Government/Politics</a></li>
+          <li><a href="http://www.thenewstribune.com/political-buzz/#navlink=subnav" title="">Political Buzz</a></li>
+          <li><a href="http://www.thenewstribune.com/local-news/#navlink=subnav" title="">Local News</a></li>
+          <li><a href="http://www.thenewstribune.com/communities/#navlink=subnav" title="">Communities</a></li>
+          <li><a href="http://www.thenewstribune.com/crime-news/#navlink=subnav" title="">Crime</a></li>
+          <li><a href="http://www.thenewstribune.com/education-news/#navlink=subnav" title="">Education</a></li>
+        </ul><ul class="subnav_row_two">                                                <li><a href="http://www.thenewstribune.com/traffic/#navlink=subnav" title="">Traffic</a></li>
+        <li><a href="http://www.thenewstribune.com/military-news/#navlink=subnav" title="">Military</a></li>
+        <li><a href="http://www.legacy.com/obituaries/tribnet/#navlink=subnav" title="">Obituaries</a></li>
+        <li><a href="http://www.southsoundclassifieds.com/obits/#navlink=subnav" title="">Archive</a></li>
+        <li><a href="http://www.thenewstribune.com/local-news-photos/#navlink=subnav" title="">Photos</a></li>
+
+      </ul>
+    </div>
+    <div class="nav_recent_headlines grid_6"></div>
+    <div class="nav_promo grid_2">
+
+
+    </div>
+  </div>
+</div>                </li>                <li id="sports" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/sports/#navlink=navbar" title="Sports">Sports</a>
+<div class="mega_menu_container">
+  <div class="container_12">
+    <div class="subnav grid_4">
+      <ul class="subnav_row_one">
+        <li><a href="http://www.thenewstribune.com/college-sports/#navlink=subnav" title="">College</a></li>
+        <li><a href="http://blog.thenewstribune.com/uwsports/#navlink=subnav" title="">Huskies Insider Blog</a></li>
+        <li><a href="http://www.thenewstribune.com/uw-huskies/#navlink=subnav" title="">UW Huskies</a></li>
+        <li><a href="http://www.thenewstribune.com/wsu-cougars/#navlink=subnav" title="">WSU Cougars</a></li>
+        <li><a href="http://www.thenewstribune.com/sports-columns/#navlink=subnav" title="">Columns</a></li>
+        <li><a href="http://www.thenewstribune.com/dave-boling/#navlink=subnav" title="">Dave Boling</a></li>
+        <li><a href="http://www.thenewstribune.com/john-mcgrath/#navlink=subnav" title="">John McGrath</a></li>
+        <li><a href="http://www.thenewstribune.com/high-school-sports/#navlink=subnav" title="">High School</a></li>
+        <li><a href="http://preps.thenewstribune.com/#navlink=subnav" title="">Preps Stats</a></li>
+        <li><a href="http://www.thenewstribune.com/seattle-mariners/#navlink=subnav" title="">Mariners</a></li>
+      </ul><ul class="subnav_row_two">                                                <li><a href="http://blog.thenewstribune.com/mariners/#navlink=subnav" title="">Mariners Insider Blog</a></li>
+      <li><a href="http://www.thenewstribune.com/seattle-seahawks/#navlink=subnav" title="">Seahawks</a></li>
+      <li><a href="http://blog.thenewstribune.com/seahawks/#navlink=subnav" title="">Seahawks Insider Blog</a></li>
+      <li><a href="http://www.thenewstribune.com/sounders-mls-pro-soccer/#navlink=subnav" title="">Sounders</a></li>
+      <li><a href="http://blog.thenewstribune.com/soccer/#navlink=subnav" title="">Sounders Insider Blog</a></li>
+      <li><a href="http://www.thenewstribune.com/tacoma-rainiers/#navlink=subnav" title="">Tacoma Rainiers</a></li>
+
+    </ul>
+  </div>
+  <div class="nav_recent_headlines grid_6"></div>
+  <div class="nav_promo grid_2">
+
+
+    <h3><a href="http://blog.thenewstribune.com/seahawks/#navlink=subnav">Seahawks Insider</a></h3>
+    <p> Catch up on all the latest news and notes from Seattle Seahawks beat writer Todd Dybas. </p>
+
+    <img src="http://media.thenewstribune.com/smedia/2013/07/24/07/17/1eh61c.AuHi.5.jpg">
+
+  </div>
+</div>
+</div>                </li>                <li id="business" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/business/#navlink=navbar" title="Business">Business</a>
+<div class="mega_menu_container">
+  <div class="container_12">
+    <div class="subnav grid_4">
+      <ul class="subnav_row_one">
+        <li><a href="http://www.thenewstribune.com/boeing-news/#navlink=subnav" title="">Boeing</a></li>
+        <li><a href="http://markets.financialcontent.com/mi.newstribune/#navlink=subnav" title="">Markets</a></li>
+        <li><a href="http://wwwb.thenewstribune.com/business/new_business/#navlink=subnav" title="">New Businesses</a></li>
+        <li><a href="http://wwwb.thenewstribune.com/business/people_business/#navlink=subnav" title="">People in Business</a></li>
+        <li><a href="http://www.thenewstribune.com/port-of-tacoma/#navlink=subnav" title="">Port of Tacoma</a></li>
+        <li><a href="http://www.thenewstribune.com/real-estate-news/#navlink=subnav" title="">Real Estate</a></li>
+        <li><a href="http://online.wsj.com/public/page/sundayjournal.html?partner=thenewstribune#navlink=subnav" title="">WSJ Sunday</a></li>
+
+      </ul>
+    </div>
+    <div class="nav_recent_headlines grid_6"></div>
+    <div class="nav_promo grid_2">
+
+
+    </div>
+  </div>
+</div>                </li>                <li id="opinion" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/opinion/#navlink=navbar" title="Opinion">Opinion</a>
+<div class="mega_menu_container">
+  <div class="container_12">
+    <div class="subnav grid_4">
+      <ul class="subnav_row_one">
+        <li><a href="http://blog.thenewstribune.com/bluebyline/#navlink=subnav" title="">Blue Byline Blog</a></li>
+        <li><a href="http://www.thenewstribune.com/editorial-cartoons/#navlink=subnav" title="">Cartoons</a></li>
+        <li><a href="http://www.thenewstribune.com/editorials/#navlink=subnav" title="">Editorials</a></li>
+        <li><a href="http://blog.thenewstribune.com/letters/#navlink=subnav" title="">Letters to the Editor</a></li>
+        <li><a href="http://blog.thenewstribune.com/letters/submit/#navlink=subnav" title="">Submit a Letter</a></li>
+        <li><a href="http://www.thenewstribune.com/opinion-columns/#navlink=subnav" title="">Opinion Columns</a></li>
+
+      </ul>
+    </div>
+    <div class="nav_recent_headlines grid_6"></div>
+    <div class="nav_promo grid_2">
+
+
+      <h3><a href="http://blog.thenewstribune.com/letters/submit#navlink=subnav">Submit a Letter to the Editor</a></h3>
+      <p> Give us your opinion. </p>
+
+      <img src="http://media.thenewstribune.com/smedia/2013/07/15/17/32/29o2j.AuHi.38.jpeg">
+
+    </div>
+  </div>
+</div>                </li>                <li id="living_&amp;_entertainment" class="main_nav_item"><a class="main_nav_link" href="http://www.thenewstribune.com/living-and-entertainment/#navlink=navbar" title="Living &amp; Entertainment">Living &amp; Entertainment</a>
+<div class="mega_menu_container">
+  <div class="container_12">
+    <div class="subnav grid_4">
+      <ul class="subnav_row_one">
+        <li><a href="http://www.thenewstribune.com/entertainment/#navlink=subnav" title="">Entertainment</a></li>
+        <li><a href="http://www.thenewstribune.com/art-culture/#navlink=subnav" title="">Arts &amp; Culture</a></li>
+        <li><a href="http://www.thenewstribune.com/comics/#navlink=subnav" title="">Comics</a></li>
+        <li><a href="http://calendar.thenewstribune.com/#navlink=subnav" title="">Events Calendar</a></li>
+        <li><a href="http://www.thenewstribune.com/horoscopes/#navlink=subnav" title="">Horoscopes</a></li>
+        <li><a href="http://www.thenewstribune.com/movie-news-reviews/#navlink=subnav" title="">Movies</a></li>
+        <li><a href="http://www.thenewstribune.com/sudoku/#navlink=subnav" title="">Puzzles &amp; Games</a></li>
+        <li><a href="http://blog.thenewstribune.com/tntdiner/#navlink=subnav" title="">TNT Diner</a></li>
+        <li><a href="http://www.thenewstribune.com/living/#navlink=subnav" title="">Living</a></li>
+        <li><a href="http://www.thenewstribune.com/food-drink/#navlink=subnav" title="">Food</a></li>
+      </ul><ul class="subnav_row_two">                                                <li><a href="http://www.thenewstribune.com/religion/#navlink=subnav" title="">Religion</a></li>
+      <li><a href="http://www.thenewstribune.com/outdoors/#navlink=subnav" title="">Outdoors</a></li>
+      <li><a href="http://www.thenewstribune.com/fishing-report/#navlink=subnav" title="">Fishing</a></li>
+      <li><a href="http://www.thenewstribune.com/mt-rainier-news/#navlink=subnav" title="">Mt. Rainier</a></li>
+
+    </ul>
+  </div>
+  <div class="nav_recent_headlines grid_6"></div>
+  <div class="nav_promo grid_2">
+
+
+  </div>
+</div>
+</div>                </li>
+<li id="local_deals" class="main_nav_item"><a class="main_nav_link" href="http://findnsave.thenewstribune.com/#navlink=navbar" title="Local Deals">Local Deals</a>
+
+  <div class="mega_menu_container">
+    <div class="mega_menu">
+      <div class="container_12">
+        <div id="deals_nav_column" class="grid_4">
+          <img src="/mistatic/images/findnsave-menu-logo.png" alt="FindnSave">
+          <ul>
+
+            <li><a href="http://www.thenewstribune.com/contests/#navlink=subnav">Contests</a></li>
+
+            <li><a href="http://findnsave.thenewstribune.com/PrintCoupons#navlink=subnav">Coupons</a></li>
+
+            <li><a href="http://findnsave.thenewstribune.com/PrintCoupons#navlink=subnav">Grocery Coupons</a></li>
+
+            <li><a href="http://findnsave.thenewstribune.com/Coupons#navlink=subnav">Local Coupons</a></li>
+
+            <li><a href="http://findnsave.thenewstribune.com/Local-Ads#navlink=subnav">Featured Advertisers</a></li>
+
+            <li><a href="http://findnsave.thenewstribune.com/Local-Ads#navlink=subnav">Local Ads</a></li>
+
+          </ul>
+        </div>
+                            <!--
+                            <div id="circulars_nav_column" class="grid_4">
+                                 insert new circulars widget here
+                            </div>
+                          -->
+                          <div id="dealsaver_nav_column" class="grid_4">
+                            <script type="text/javascript">
+                            if (typeof(mi.DealSaver) !== 'undefined') {
+                              if ( typeof( mi.dealSaver ) == 'undefined' ) {
+                                mi.dealSaver = new mi.DealSaver();
+                                jQuery(document).ready(function(){
+                                  mi.dealSaver.executeDs();
+                                });
+
+                                mi.dealSaver.setConf("LID",772);
+
+                              }
+                            }
+                            </script>
+                            <div class="dsWidgetDisplay" style="display:block">
+                              <div class="revWidgetWrap">
+                                <h2><a class="ds_dealtitle" href="http://tacoma.dealsaver.com/engine/Welcome.aspx?contestid=32770&amp;LID=772#widget=ds_rrail">Today's Deal</a></h2>
+                                <div class="revWidgetContent">
+                                  <div class="dsDetails">
+                                    <h3 class="ds_deal_title">
+                                      <a class="ds_title_link" href="http://tacoma.dealsaver.com/engine/SplashDetails.aspx?contestid=32770&amp;productid=11129796&amp;LID=772#widget=ds_rrail">$30 for a 60 Minute Massage ($65 Value)</a>
+                                    </h3>
+                                    <div style="float:none; text-align:center" class="ds_deal_image">
+                                      <a href="http://tacoma.dealsaver.com/engine/SplashDetails.aspx?contestid=32770&amp;productid=11129796&amp;LID=772#widget=ds_rrail"><img src="http://c.eblastengine.com/EmailImages/82587.jpg"></a>
+                                    </div>
+                                    <div class="ds_clearall"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+
+                  </li>
+
+</ul></div>
+  <div class="clear"></div>
+  </nav>
+  </header>
+</div>
+
+
+<div id="pagewrapper" class="clearfix">
+
+<section id="maincontent" class="clearfix">
+
+<div class="leftrail">
+
+<hgroup class="blogtitle">
+      <h1><a href="http://blog.thenewstribune.com">The News Tribune Blogs</a></h1>
+    <h3 class="description">Tacoma and South Puget Sound | News, sports, music and the arts</h3>
+  </hgroup>
+
+
+<div class="fourohfour box full post grad_ltgray_to_white">
+
+  <header class="bigtitle boxtitle">
+    <h4>
+      <span>Quoth the server: "404!"</span>
+    </h4>
+  </header>
+
+  <div class="entry inside">
+    <p>We're unable to locate the page you have requested. This could be due to content on our site having expired, a broken link, an outdated bookmark, or a mistyped address.</p>
+    <p>Send questions and comments to <a href="mailto:webmaster@thenewstribune.com">webmaster@thenewstribune.com</a></p>  
+  </div> <!-- .inside -->
+
+</div> <!-- .box -->
+
+
+<div class="fourohfour box full post grad_ltgray_to_white">
+
+  <header class="bigtitle boxtitle">
+    <h4>
+      <span>Recent Posts</span>
+    </h4>
+  </header>
+
+  <div class="ahp-posts entry inside">
+      
+  </div> <!-- .inside -->
+
+</div> <!-- .box -->
+
+</div> <!-- .leftrail -->
+
+
+<aside class="rightrail clearfix">
+
+      <div id="dart_300x250_ats_1" class="advertisement tnt-basic_sidebar dart3">
+	<div id="div-gpt-ad-451608532239993224-2">
+	  <script>
+	    googletag.cmd.push(function() { googletag.display('div-gpt-ad-451608532239993224-2'); });
+	  </script>
+	</div>
+
+	</div>
+  
+  
+
+  <ul id="tablet_sidebar" class="blogwidgets clearfix">
+    <li id="linkcat-377" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Business</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/business/">Biz Buzz</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-15" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Entertainment</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/getout">Get Out</a></li>
+<li><a href="http://blog.thenewstribune.com/arts/">Go Arts</a></li>
+<li><a href="http://blog.thenewstribune.com/tntdiner/">TNT Diner</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-633" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Lifestyles</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/adventure/">The Adventure Guys</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-6" class="box widget_links"><h2 class="smalltitle boxtitle"><span>News</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/military/">FOB Tacoma</a></li>
+<li><a href="http://blog.thenewstribune.com/crime/">Lights and Sirens</a></li>
+<li><a href="http://blog.thenewstribune.com/politics/">Political Buzz</a></li>
+<li><a href="http://blog.thenewstribune.com/traffic/">Slowdown Lowdown</a></li>
+<li><a href="http://blog.thenewstribune.com/photo/">TNT Photo Blog</a></li>
+<li><a href="http://blog.thenewstribune.com/street/">Word on the Street</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-634" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Opinion</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/opinion/">Inside Opinion</a></li>
+<li><a href="http://blog.thenewstribune.com/letters/">Letters to the Editor</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-10" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Sports</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/golf/">Green Scene</a></li>
+<li><a href="http://blog.thenewstribune.com/uwsports/">Huskies Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/mariners/">Mariners Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/seahawks">Seahawks Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/soccer">Sounders Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/preps">The Prep Blog</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-4" class="box widget_links"><h2 class="smalltitle boxtitle"><span>The South Sound Community</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://inyourneighborhood.blogspot.com/">In Your Neighborhood</a></li>
+<li><a href="http://www.thenewstribune.com/tacomablogcentral/">Tacoma Blog Central</a></li>
+
+	</ul>
+</li>
+  </ul>
+
+  <ul id="right_sidebar" class="blogwidgets">
+    <li id="linkcat-377" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Business</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/business/">Biz Buzz</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-15" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Entertainment</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/getout">Get Out</a></li>
+<li><a href="http://blog.thenewstribune.com/arts/">Go Arts</a></li>
+<li><a href="http://blog.thenewstribune.com/tntdiner/">TNT Diner</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-633" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Lifestyles</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/adventure/">The Adventure Guys</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-6" class="box widget_links"><h2 class="smalltitle boxtitle"><span>News</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/military/">FOB Tacoma</a></li>
+<li><a href="http://blog.thenewstribune.com/crime/">Lights and Sirens</a></li>
+<li><a href="http://blog.thenewstribune.com/politics/">Political Buzz</a></li>
+<li><a href="http://blog.thenewstribune.com/traffic/">Slowdown Lowdown</a></li>
+<li><a href="http://blog.thenewstribune.com/photo/">TNT Photo Blog</a></li>
+<li><a href="http://blog.thenewstribune.com/street/">Word on the Street</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-634" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Opinion</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/opinion/">Inside Opinion</a></li>
+<li><a href="http://blog.thenewstribune.com/letters/">Letters to the Editor</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-10" class="box widget_links"><h2 class="smalltitle boxtitle"><span>Sports</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://blog.thenewstribune.com/golf/">Green Scene</a></li>
+<li><a href="http://blog.thenewstribune.com/uwsports/">Huskies Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/mariners/">Mariners Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/seahawks">Seahawks Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/soccer">Sounders Insider</a></li>
+<li><a href="http://blog.thenewstribune.com/preps">The Prep Blog</a></li>
+
+	</ul>
+</li>
+<li id="linkcat-4" class="box widget_links"><h2 class="smalltitle boxtitle"><span>The South Sound Community</span></h2>
+	<ul class='xoxo blogroll'>
+<li><a href="http://inyourneighborhood.blogspot.com/">In Your Neighborhood</a></li>
+<li><a href="http://www.thenewstribune.com/tacomablogcentral/">Tacoma Blog Central</a></li>
+
+	</ul>
+</li>
+<li id="text-2" class="box widget_text"><h2 class="smalltitle boxtitle"><span>Your Blog</span></h2>			<div class="textwidget">Add your blog at<a href="http://www.thenewstribune.com/tacomablogcentral/"> Tacoma Blog Central</a>.</div>
+		</li>  </ul>
+
+</aside></section>
+
+
+</div> <!-- #pagewrapper -->
+
+
+<div class="vendorContent">
+  <footer id="footer">
+  <div id="page_footer">
+    <div id="stay_connected">
+      <h2 class="heading"><span class="section_label">Stay Connected</span></h2>
+      <div class="item newsletters">
+        <a href="http://www.thenewstribune.com/reg-bin/tint.cgi?mode=edit#newsletters#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Email Newsletters&nbsp;<span>&gt;</span>
+          <div class="description">
+            Manage newsletter subscriptions
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item tablets">
+        <a href="http://www.thenewstribune.com/tablet#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Tablets&nbsp;<span>&gt;</span>
+          <div class="description">
+            Apps and services for tablet devices
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item mobile">
+        <a href="http://www.thenewstribune.com/mobile#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Mobile&nbsp;<span>&gt;</span>
+          <div class="description">
+            Apps and services for your mobile phone
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item social_media">
+        <a href="http://www.thenewstribune.com/social-media#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Social Media&nbsp;<span>&gt;</span>
+          <div class="description">
+            Get updates via Facebook and Twitter
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item e_edition">
+        <a href="http://www.thenewstribune.com/e-edition#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          e-Edition&nbsp;<span>&gt;</span>
+          <div class="description">
+            Your daily paper delivered to your computer
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item home_delivery">
+        <a href="https://iservices.thenewstribune.com/cgi/cgiip.wsc/custservice/web/login.html#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Home Delivery&nbsp;<span>&gt;</span>
+          <div class="description">
+            Manage your home delivery account
+          </div>
+        </div>
+        </a>
+      </div>
+      <div class="item digital_subscriptions">
+        <a href="http://www.thenewstribune.com/plus#navlink=stayconnected">
+        <div class="item_image">
+        </div>
+        <div class="item_label">
+          Digital Subscriptions&nbsp;<span>&gt;</span>
+          <div class="description">
+            Manage your online subscriptions
+          </div>
+        </div>
+        </a>
+      </div>
+    </div>
+    <div class="clear">
+    </div>
+    <div id="footer_text_links">
+      <p class="links">
+        <a href="http://www.thenewstribune.com/privacy_policy#navlink=mi_footer" title="Privacy Policy" class="privacy-policy">Privacy Policy</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/terms_of_service#navlink=mi_footer" title="Terms of Use" class="terms-of-use">Terms of Use</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/privacy_policy#behavioral_targeting" title="About Our Ads" class="about-our-ads">About Our Ads</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/contact-us#navlink=mi_footer" title="Contact Us" class="contact-us">Contact Us</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/about-us/#navlink=mi_footer" title="About Us" class="about-us">About Us</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/sitemap/#navlink=footer" title="Site Map" class="sitemap">Site Map</a>
+        &nbsp;|&nbsp; <a href="http://www.thenewstribune.com/copyright#navlink=mi_footer" title="Copyright" class="copyright">Copyright</a>
+      </p>
+    </div>
+    <!-- /#footer_text_links -->
+    <div id="footer_partner_links">
+      <p class="links">
+        <span class="footer_partner_title">Partners</span>: &nbsp; <a href="http://www.theolympian.com/" target="_blank" title="The Olympian">The Olympian</a>
+        &nbsp;|&nbsp; <a href="http://www.gateline.com/" target="_blank" title="The Peninsula Gateway">The Peninsula Gateway</a>
+        &nbsp;|&nbsp; <a href="http://www.puyallupherald.com/" target="_blank" title="The Puyallup Herald">The Puyallup Herald</a>
+        &nbsp;|&nbsp; <a href="http://www.nwguardian.com/" target="_blank" title="Northwest Guardian">Northwest Guardian</a>
+        &nbsp;|&nbsp; <a href="http://www.kirotv.com" target="_blank" title="KIRO7">KIRO7</a>
+        &nbsp;|&nbsp; <a href="http://nie.thenewstribune.com/" target="_blank" title="News in Education">NIE</a>
+      </p>
+    </div>
+    <!-- /#footer_partner_links -->
+    <div id="copyright">
+      &copy; 2013 www.thenewstribune.com and wire service sources. All Rights Reserved. <a href="http://www.thenewstribune.com">http://www.thenewstribune.com</a>
+    </div>
+    <a href="http://www.thenewstribune.com/" class="logo" title="The News Tribune">
+    <img alt="The News Tribune" src="http://media.thenewstribune.com/mistatic/images/logo/NewsTribuneOnline_footer.png">
+    </a>
+  </div>
+  <!-- /#page_footer -->
+  </footer>
+</div>
+
+<script>
+
+  var insite_int = {};
+
+  head.js(
+    'http://www.thenewstribune.com/static/js/insite_conf.js',
+    'http://www.thenewstribune.com/reg_js/verify_access.js',
+    'http://blogmedia.thenewstribune.com/wp-content/plugins/insite-ajax-comments/jquery.cookie-pack.js',
+    function() {
+
+    var $j = jQuery;
+
+    $j('#commentarea').empty();
+
+    // Get cookies
+    insite_int.useroreo   = unescape( $j.cookie( "tacoma_user_auth" ) );
+    insite_int.emailoreo  = unescape( $j.cookie( "e-tnt" ) );
+
+    // If cookies have the right things
+    if ( insite_int.useroreo && insite_int.emailoreo ) {
+      insite_int.username = insite_int.useroreo.split("|")[0];
+
+      if ( insite_int.username && insite_int.username != ".threshold" ) {
+        insite_int.email = ( 'e-tnt' != 'AT' ) ? insite_int.emailoreo.split("|")[0] : insite_int.emailoreo.split("&")[2].substr(2);
+      }
+    }
+
+
+
+    if ( insite_int.username && insite_int.email && insite_int.username != 'null' && insite_int.email != 'null' ) {
+
+      $j('#commentarea')
+        .html('<p class="insite_comments_loggedin clearfix">Commenting as <strong>' + insite_int.username + '</strong> <small>(<a href="http://www.thenewstribune.com/reg-bin/tint.cgi?mode=logout?goto=' + location.href + '">Not you?</a>)</small></p>')
+        .append('<input type="hidden" name="author" id="author" value="' + insite_int.username + '" />')
+        .append('<input type="hidden" name="email" id="email" value="' + insite_int.email + '" />')
+        .append('<textarea tabindex="4" rows="10" cols="60" id="comment" name="comment"></textarea>')
+        .append('<input type="submit" value="Submit Comment" tabindex="5" id="submit" name="submit" class="grad_glassyellow button" />')
+      ;
+    } else {
+      $j('#commentarea').html('<p id="login" style="font-size:120%; padding-bottom:20px;">You must be logged in to comment. <a href="http://www.thenewstribune.com/static/insite/login.html?goto=' + location.href + '">Log in<\/a> or <a href="http://www.thenewstribune.com/reg-bin/int.cgi?mode=register&amp;goto=' + location.href + '">register<\/a>.<br \/><span style="color:#444;font-size:12px;font-style:italic;">If you\'re already logged in, but are still seeing this message, learn how to <a href="http://blog.thenewstribune.com/blog/2009/08/31/problems-commenting-on-our-new-system/">clear your cookies</a> to fix the problem.<\/span><\/p>');
+    }
+
+  });
+
+</script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201803.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'9206014',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(9206014,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+<iframe src="http://media.thenewstribune.com/static/photo/counters/_nocount.html" id="click_iframe" name="click_iframe" style="width:1px;height:1px;border:0;"></iframe>
+
+<script>
+  function jpgClick()
+  {
+    frames['click_iframe'].location.href = "http://media.thenewstribune.com/static/photo/counters/_blogfeatured.html";
+  }
+
+  function jpgClickAlt()
+  {
+    frames['click_iframe'].location.href = "http://media.thenewstribune.com/static/photo/counters/_blogpage.html";
+  }
+</script><div id="mistatstag" style="display:none;">
+  <script>
+    var miblogs_name, miblogs_headline, miblogs_author, miblogs_role, miblogs_pubdate, miblogs_moddate, miblogs_pagetype, miblogs_taxonomy;
+
+    if ( !miblogs_name )      miblogs_name      = "The News Tribune Blogs";
+    if ( !miblogs_headline )  miblogs_headline  = "";
+    if ( !miblogs_author )    miblogs_author    = "";
+    if ( !miblogs_pubdate )   miblogs_pubdate   = "2012-12-28 23:49:07";
+    if ( !miblogs_moddate )   miblogs_moddate   = "2012-12-28 23:49:07";
+    if ( !miblogs_pagetype )  miblogs_pagetype  = "";
+    if ( !miblogs_role )      miblogs_role      = "Staff";
+    if ( !miblogs_taxonomy )  miblogs_taxonomy  = "News|Opinion|Blogs||";
+  </script>
+  <script src="http://media.thenewstribune.com/mistats/sites/tnt/thenewstribune.js"></script>
+  <script src="http://media.thenewstribune.com/mistats/vendors/wordpress_s_code.js"></script>
+  <script src="http://media.thenewstribune.com/mistats/vendors/wordpress.js"></script>
+  <script src="http://media.thenewstribune.com/mistats/finalizestats.js"></script>
+</div>
+</body></html>

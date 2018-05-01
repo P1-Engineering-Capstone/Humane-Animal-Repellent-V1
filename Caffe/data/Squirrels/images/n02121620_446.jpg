@@ -1,0 +1,213 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Passoft Informatie Techniek | ICT | Doetinchem | Dienstverleners</title>
+<meta name="robots" content="noodp,noydir"/>
+<meta name="author" content="Ben te Paske | Passoft Informatie Techniek" />
+<meta name="contact" content="info@passoft.nl" />
+<meta name="copyright" content="� 1999..2018 Passoft Informatie Techniek" />
+<meta name="description" content="Dienstverleners in ICT - De Zekerheid van Kwaliteit, al 30 jaar een bewezen feit!" />
+<meta name="keywords" content="automatisering, computers, software, systeembeheer, ICT" />
+<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+<link rel="shortcut icon" href="https://www.passoft.nl/images/favicon.ico" type="image/x-icon" />
+<link href="https://www.passoft.nl/images/favicon-57.png" rel="apple-touch-icon">
+<link href="https://www.passoft.nl/images/favicon-72.png" rel="apple-touch-icon" sizes="72x72">
+<link href="https://www.passoft.nl/images/favicon-114.png" rel="apple-touch-icon" sizes="114x114">
+<link href="https://www.passoft.nl/images/favicon-120.png" rel="apple-touch-icon" sizes="120x120">
+<link href="https://www.passoft.nl/images/favicon-144.png" rel="apple-touch-icon" sizes="144x144">
+<link href="https://www.passoft.nl/images/favicon-152.png" rel="apple-touch-icon" sizes="152x152">
+<link href="https://www.passoft.nl/images/favicon-180.png" rel="apple-touch-icon" sizes="180x180">
+<link rel="icon" type="image/png" sizes="192x192" href="https://www.passoft.nl/images/android-icon-192x192.png">
+<link href="css/main.css" type="text/css" rel="stylesheet" />
+<link href="css/jquery.bxslider.css" rel="stylesheet" />
+<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="scripts/jquery.bxslider.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.bxslider').bxSlider({
+      auto: true,
+	  mode: 'fade',
+	  randomStart: true,
+      speed: 1200,
+      pause: 8000,
+	  pager: false,
+      autoHover: false  
+    });
+});
+</script>
+<script type="text/javascript">
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
+</head>
+<body>
+<a name="pagetop"></a>
+<div id="wrapper">
+  <header>
+    <div id="menu_wrapper">
+      <nav>
+        <ul>
+          <li><a href="default.asp#infotop" title="Home">&nbsp;&nbsp;<strong>Home</strong>&nbsp;&nbsp;</a></li>
+          <li><a href="hardware.asp#infotop" title="Producten en Diensten">&nbsp;&nbsp;Producten en Diensten&nbsp;&nbsp;</a></li>
+          <li><a href="wiezijnwij.asp#infotop" title="Even voorstellen">&nbsp;&nbsp;Even voorstellen&nbsp;&nbsp;</a></li>
+          <li><a href="referenties.asp#infotop" title="Referenties">&nbsp;&nbsp;Referenties&nbsp;&nbsp;</a></li>
+          <li><a href="disclaimer.asp#infotop" title="Diversen">&nbsp;&nbsp;Diversen&nbsp;&nbsp;</a></li>
+          <li><a href="adres.asp#infotop" title="Contact">&nbsp;&nbsp;Contact&nbsp;&nbsp;</a></li>
+        </ul>
+      </nav>
+      <div id="logo">
+        <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="rslides">
+          <tr>
+            <td><a href="default.asp" title="Home"><img src="images/logobalk-links.jpg" alt="Home"></a></td>
+            <td><a href="default.asp" title="ICT - Dienstverleners - Doetinchem"><img src="images/logobalk-midden.jpg" alt="ICT - Dienstverleners - Doetinchem"></a></td>
+            <td><a href="https://get.teamviewer.com/passofthelpdesk" title="TeamViewer - Hulp op Afstand" target="_blank"><img src="images/logobalk-rechts.jpg" alt="TeamViewer - Hulp op Afstand"></a></td>
+          </tr>
+        </table>
+      </div>
+    </div>
+    <nav id="skipTo">
+      <ul>
+        <li><img src="images/mainmenu.png" alt="Home" name="home" border="0" usemap="#homebuttons" id="home"></li>
+      </ul>
+    </nav>
+    <a name="infotop"></a>
+    <div id="slider-wrapper">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" class="rslides">
+        <tr>
+          <td>
+            <ul class="bxslider">
+              
+              <li> <img src="https://www.passoft.nl/upload/slide-default11.jpg" title="Passoft Informatie Techniek - Dienstverleners in ICT - Telecom" class="rslides"> </li>
+              
+              <li> <img src="https://www.passoft.nl/upload/slide-default12.jpg" title="Passoft Informatie Techniek - Dienstverleners in ICT - Telecom" class="rslides"> </li>
+              
+            </ul>
+            </td>
+        </tr>
+      </table>
+    </div>
+  </header>
+  <div id="content_wrapper"> 
+    <table border="0" align="center" cellpadding="0" cellspacing="0" class="rslides">
+  <tr>
+    <td><section id="main"><h2>Welkom bij<br />Passoft Informatie Techniek</h2></section>
+      <aside><h1>Automatiserings oplossingen<br />voor het midden- en klein bedrijf</h1></aside></td>
+  </tr>
+</table>
+ 
+  </div>
+  <div id="sitemap_wrapper">
+  <section id="main">
+    <table width="100%" border="0" cellpadding="0" cellspacing="5" class="sitemap">
+      <tr>
+        <td width="50%" valign="top">
+        <a href="hardware.asp#infotop">
+          <h3>Hardware</h3>
+          </a>
+          
+          <a href="telecom.asp#infotop">
+          <h3>Telecom</h3>
+          </a>
+          <a href="software.asp#infotop">
+          <h3>Software</h3>
+          </a></td>
+        <td width="50%" valign="top"><a href="systeembeheer.asp#infotop">
+          <h3>Systeembeheer</h3>
+          </a>
+          
+          <a href="internet.asp#infotop">
+          <h3>Internet</h3>
+          </a>
+          
+          <a href="wiezijnwij.asp#infotop">
+          <h3>Wie zijn wij</h3>
+          </a></td>
+      </tr>
+    </table>
+  </section>
+  <aside>
+    <table width="100%" border="0" cellpadding="0" cellspacing="5" class="sitemap">
+      <tr>
+        <td width="50%" valign="top"><a href="referenties.asp#infotop">
+          <h3>Referenties</h3>
+          </a>
+          <a href="disclaimer.asp#infotop">
+          <h3>Disclaimer</h3>
+          </a>
+          <a href="adres.asp#infotop">
+          <h3>Contact</h3>
+          </a></td>
+        <td width="50%" valign="top"><a href="route.asp#infotop">
+          <h3>Route</h3>
+          </a>
+          <a href="upload/pit_levervwdVOF.pdf" target="_blank">
+          <h3>Leveringsvrwd</h3>
+          </a>
+          <a href="https://get.teamviewer.com/passofthelpdesk" target="_blank">
+          <h3>TeamViewer</h3>
+          </a>
+      </tr>
+    </table>
+  </aside>
+</div>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" class="rslides">
+  <tr>
+    <td align="center"><br>
+      <hr>
+      <br>
+      <h2> Wij wensen u fijne feestdagen
+en een gezond en succesvol 2018!</h2>
+      <br>
+      <hr></td>
+  </tr>
+</table><br>
+  <table width="80%" border="0" align="center" cellpadding="0" cellspacing="0" class="footer">
+  <tr>
+    <td width="53" align="left"><a href="default.asp" title="Home" target="_self"><img src="../images/paslogo48.png" alt="Home" width="53" height="48" border="0" /></a></td>
+    <td align="left">&nbsp;</td>
+    <td width="32" align="right"><a href="http://www.twitter.com/Passoft" title="Passoft op Twitter" target="_blank"><img src="images/btn_twitter.png" alt="Passoft op Twitter" width="32" height="32" border="0" /></a></td>
+    <td width="64" align="right"><a href="https://www.facebook.com/Passoft.IT" title="Passoft op Facebook" target="_blank"><img src="images/btn_facebook.png" alt="Passoft op Facebook" width="32" height="32" border="0"></a></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">&copy;&nbsp;2018&nbsp;Passoft Informatie Techniek&nbsp;&nbsp;|&nbsp;&nbsp;Deze website gebruikt alleen Sessie cookies&nbsp;&nbsp;|&nbsp;&nbsp;<a href="disclaimer.asp">Disclaimer</a></td>
+  </tr>
+</table>
+<map name="homebuttons" id="homebuttons">
+  <area shape="rect" coords="75,0,200,40" href="default.asp" alt="homebutton" />
+  <area shape="rect" coords="-10,0,60,40" href="#pagetop" alt="topbutton" />
+</map>
+<br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
+</body>
+</html>

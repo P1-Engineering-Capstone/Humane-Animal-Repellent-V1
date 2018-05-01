@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" lang="nl">
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=UTF-8" />
+	<title>Website - Er is een fout opgetreden - gemeente Hulst</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1, user-scalable=0" />
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="stylesheet" type="text/css" media="all" href="/styles/custom/screen.css.jsp?colors=009946;FFFFFF;3B8EDE;FFFFFF;009946;FFFFFF;" />
+    	<link rel="stylesheet" type="text/css" media="all" href="/styles/custom/modules.css.jsp?colors=009946;FFFFFF;3B8EDE;FFFFFF;009946;FFFFFF;" />
+
+        <link rel="stylesheet" type="text/css" media="all" href="/styles/custom/responsive.css.jsp?colors=009946;FFFFFF;3B8EDE;FFFFFF;009946;FFFFFF;" />
+	<link rel="stylesheet" type="text/css" media="print" href="/styles/custom/print.css.jsp" />
+
+	<link rel="stylesheet" type="text/css" media="screen" href="/styles/custom/defaultcontrast.css.jsp" title="Normaal contrast" class="togglecontrast defaultcontrast" />
+	<link rel="alternate stylesheet" type="text/css" media="screen" href="/styles/custom/highcontrast.css.jsp" title="Vergroot contrast" class="togglecontrast highcontrast" />
+
+<!--[if lte IE 7.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/custom/ie6-7.css.jsp" /><![endif]-->
+     <!--[if IE 8.0]><link rel="stylesheet" type="text/css" media="all" href="/styles/custom/ie8.css.jsp?colors=009946;FFFFFF;3B8EDE;FFFFFF;009946;FFFFFF;<![endif]-->
+
+	<link rel="profile" href="http://microformats.org/profile/hcard" />
+
+	<script type="text/javascript" src="/js/lib/prototype.js"></script>
+	<script type="text/javascript" src="/js/lib/scriptaculous/scriptaculous.js?load=effects,builder,dragdrop,controls,slider"></script>
+	<script type="text/javascript" src="/js/lib/modernizr.js"></script>
+	<script type="text/javascript" src="/js/custom/modernizr.custom.js"></script>
+	<script type="text/javascript" src="/js/custom/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/custom/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="/js/custom/accessiblenav.js"></script>
+    <script type="text/javascript" src="/js/custom/toptasks.js"></script>
+
+
+	<script type="text/javascript">
+		var contextpath = "",
+			stylesPath = contextpath + "/styles/custom",
+			imagegallerypath = contextpath + "/imagegallery/",
+			mapsKey = "AIzaSyCgflGcDuUflK2CN_vhecJQRZzCdMRL8l8";
+	</script>
+	
+	<script type="text/javascript" src="/js/default.js"></script>
+	
+	<script type="text/javascript">
+			</script>
+		<script type="text/javascript" src="/js/cookie_check.js"></script>
+	<script type="text/javascript" src="/js/lib/date-nl-NL.js"></script>
+	<script type="text/javascript" src="/js/calendar.js"></script>
+	<script type="text/javascript" src="/js/simpleform.js"></script>
+	<script type="text/javascript" src="/js/emocracy.js"></script>
+	
+
+	<script src="/js/readspeaker/ReadSpeaker.js?pids=embhl" type="text/javascript"></script>
+
+		<script type="text/javascript">
+			jQuery.noConflict();
+			jQuery(document).ready(function($){
+				$(".hidden").addClass('rs_skip');
+				$("noscript").addClass('rs_skip');
+			});
+		</script>
+	<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+	<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" />
+	<link rel="schema.OVERHEID" href="http://metadata.overheid.nl/terms/" />
+	<meta name="DC.title" content="Website - Er is een fout opgetreden - gemeente Hulst" />
+	<meta name="OVERHEID.organisationType" scheme="OVERHEID.organisatietype" content="gemeente" />
+	<meta name="DC.creator" scheme="OVERHEID.gemeente" content="Hulst" />
+	<meta name="DC.identifier" scheme="DCTERMS.URI" content="/content.jsp?objectid=5b698e1f-e8bb-4702-b7ec-a705771ef7b1" />
+	<!-- Google Analytics -->
+	<script>
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		ga('create', 'UA-11445733-3', 'auto');<!-- Production code -->
+		<!--ga('create', 'UA-11445733-3', {'cookieDomain': 'none'});--><!-- Localhost test code-->
+		ga('send', 'pageview');
+		ga('set', 'forceSSL', true);
+
+	</script>
+	<!-- End Google Analytics -->
+</head>
+<body class="no-js">
+<div id="wrapper">
+	<div id="accessibility-tools" class="errortools">
+	</div>
+    
+	<div class="header" id="header">
+	<div class="keyboardlinks">
+		<a class="skiplink" href="#row2">Direct naar de inhoud van de pagina</a>
+		<a class="skiplink" href="#dl-menu">Direct naar het hoofdmenu</a>
+		<a class="skiplink" href="#quicksearch">Direct naar het zoekveld</a>
+	</div>
+	<div class="contentrow">
+		<a id="logo" href="/Inwoners" rel="home" title="Ga naar de startpagina">
+		<img id="logoimg" src="/dsresource?objectid=527ed18b-9174-40f0-9883-b29ee9475f59" alt="Logo, gemeente Hulst" />
+		</a>
+			<div class="container-sessions" >
+				</div>
+	</div>
+</div><div class="content-wrapper content-top">
+		<div id="content" class="contentrow grid-16 error-page">
+			<h1>Pagina niet gevonden</h1><p class="description">Helaas, de door u opgevraagde pagina is niet gevonden. Deze kan zijn verplaatst of is niet langer beschikbaar.</p><h2>Probeer &eacute;&eacute;n van de volgende opties</h2><ul>
+				<li>Controleer het internetadres in de adresbalk</li>
+				<li>
+					Ga direct naar:
+					<ul class="section">
+						<li><a href="/">de homepage</a></li>
+						<li><a href="/Sitemap">de sitemap</a></li>
+						</ul>
+				</li>
+				<li>Of voer uw zoektermen hier direct in<form method="post" action="/Zoekresultaten">
+						<p>
+							<input type="hidden" name="dateformat" value="dd-MM-yyyy" />
+							<input type="hidden" name="searchbase" value="0" />
+							<input type="hidden" name="searchrange" value="10" />
+							<input type="hidden" name="searchpage" value="1" />
+							<input type="hidden" name="nodelocation" value="5b698e1f-e8bb-4702-b7ec-a705771ef7b1" />
+							<label for="freetext">Zoekterm(en)</label>
+							<input type="text" class="text" name="freetext" value="" size="15" id="freetext"/>
+							<input type="submit" class="submit" name="submit-button" value="Zoek" />
+						</p>
+					</form>
+				</li>
+				</ul>
+		</div>
+	</div>
+
+</div>
+</body>
+</html>

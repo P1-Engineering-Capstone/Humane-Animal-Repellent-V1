@@ -1,0 +1,182 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>  Page not found</title>
+<link rel="stylesheet" href="http://www.fitclothing.com/wp-content/themes/the_affilate_store/style.css" type="text/css" media="screen" />
+<link rel="alternate" type="application/rss+xml" title="FIT Clothing RSS Feed" href="http://www.fitclothing.com/feed/" />
+<link rel="pingback" href="http://www.fitclothing.com/xmlrpc.php" />
+    <link rel="Shortcut Icon" href="http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/favicon.png" type="image/x-icon" />
+<!-- This site uses the Yoast Google Analytics plugin v5.2.8 - Universal disabled - https://yoast.com/wordpress/plugins/google-analytics/ -->
+<script type="text/javascript">
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-58356830-1']);
+	_gaq.push(['_gat._forceSSL']);
+	_gaq.push(['_trackPageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+
+	(function () {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+
+</script>
+<!-- / Yoast Google Analytics -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fitclothing.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fitclothing.com/wp-includes/wlwmanifest.xml" /> 
+<style type="text/css">
+body {background:#F8F8F8 url(http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/textured.png);}
+.xc_pinterest:hover .xc_pin {
+    display:block;}
+</style>
+<script type="text/javascript" src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/script/jquery.js"></script>
+<script type="text/javascript" src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/script/jquery-blink.js"></script>
+<script type="text/javascript">
+$(document).ready(function()
+{
+        $('.blink').blink({delay:600});
+});
+var site = function() {
+    this.css3menuLi = $('#css3menu li').children('ul').hide().end();
+    this.init();
+};
+ 
+site.prototype = {
+      
+     init : function() {
+         this.setMenu();
+     },
+      
+     // Enables the slidedown menu, and adds support for IE6
+      
+     setMenu : function() {
+      
+     $.each(this.css3menuLi, function() {
+         if ( $(this).children('ul')[0] ) {
+             $(this)
+                 .append('<span />')
+                 .children('span')
+         }
+     });
+      
+         this.css3menuLi.hover(function() {
+             // mouseover
+            $(this).find('> ul').stop(true, true).slideDown('slow', 'easeOutBounce');
+         }, function() {
+             // mouseout
+             $(this).find('> ul').stop(true, true).hide();        
+        });
+          
+     }
+   
+}
+ 
+ 
+new site();
+</script>
+</head>
+<body>
+<div id="wrapper">
+<div class="header">
+<div class="headwrap">
+		<div class="blname">
+		<a href="http://www.fitclothing.com/">
+				FIT Clothing</a></div>
+		<div class="bldesc">
+		<a href="http://www.fitclothing.com/">
+		<font face="arial" size="-1">Clothing for sports, fitness and leisure</font>
+		</a></div>
+		</div>
+	<div id="shopcart">
+	Shopping Cart <img src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/shopping_cart.png" style="margin-bottom: -7px;"><br/>
+	<font style="font-size:12px;margin-top:-5px;">Cart: $ 0.00</font>
+	</div>
+
+</div>
+ <div id="headmenu">
+ 		<ul id="css3menu">
+		   	<li><a href="http://www.fitclothing.com/">Home</a></li> 	<li class="cat-item cat-item-6"><a href="http://www.fitclothing.com/category/athletic-outdoor-clothing/" >Athletic &amp; Outdoor Clothing</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.fitclothing.com/category/gym-wear/" title="FIT CLothing brings you the best selection of gym and fitness wear.">Gym wear</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.fitclothing.com/category/running/" >Running</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://www.fitclothing.com/category/yoga-clothing/" >Yoga Clothing</a>
+</li>
+				
+		</ul><div style="clear: both"></div>	
+	</div>
+	<div id="bottomhead"><form role="search" method="get" id="searchform" action="http://www.fitclothing.com">
+  <div class="search">
+    <label class="labelse" for="s">Search</label>
+	<select name='cat' id='cat' class='postform' >
+	<option value='-1'>All Departments</option>
+	<option class="level-0" value="2">Running</option>
+	<option class="level-0" value="3">Gym wear</option>
+	<option class="level-0" value="6">Athletic &amp; Outdoor Clothing</option>
+	<option class="level-0" value="108">Yoga Clothing</option>
+</select>
+<input type="text" placeholder="Find product here.." name="s" id="s" class="sol" required>
+    <input type="image" alt="Search" src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/btn_sr.png" class="seimg">
+	<a style="cursor: pointer; text-decoration: none;" onClick="window.open('http://www.fitclothing.com/golds-gym-classic-stringer-vest-golds-blue-large/'); return false;"><img src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/surprise.png" style="margin-bottom: -7px;"/></a>
+  </div>
+</form>
+</div>
+	<div style="clear: both"></div><div id="wrapcontent">
+<div class="inside">
+<div class="titlecontent"><h2>Error 404 - Not Found</h2></h2></div>
+		<p>Sorry, but you are looking for something that isn't here.</p>
+</div>
+
+<div id="sidebarleft">
+		<div class="box">		<h3>Recent Posts</h3>		<ul>
+					<li>
+				<a href="http://www.fitclothing.com/fruit-of-the-loom-mens-elasticated-cuff-jog-pants-jogging-bottoms-m-deep-navy/">Fruit Of The Loom Mens Elasticated Cuff Jog Pants / Jogging Bottoms (M) (Deep Navy)</a>
+						</li>
+					<li>
+				<a href="http://www.fitclothing.com/speedo-endurance-plus-speedo-fit-pinnacle-v-jammer-black-and-japan-blue-size-34/">Speedo Endurance Plus Speedo Fit Pinnacle V Jammer &#8211; Black and Japan Blue Size 34</a>
+						</li>
+					<li>
+				<a href="http://www.fitclothing.com/alkii-performance-yoga-shorts-with-foldover-waistband-cherry-s/">Alki&#8217;I Performance Yoga Shorts With Foldover Waistband Cherry S</a>
+						</li>
+					<li>
+				<a href="http://www.fitclothing.com/orient-mens-fet0h003b-the-elite-multi-eyes-watch/">Orient Men&#8217;s FET0H003B The Elite Multi Eyes Watch</a>
+						</li>
+					<li>
+				<a href="http://www.fitclothing.com/la-vogue-3-piece-yoga-fitness-sweatshirt-jogging-suit-tracksuit/">La Vogue 3-Piece Yoga Fitness Sweatshirt Jogging Suit Tracksuit</a>
+						</li>
+				</ul>
+		</div><div class="box"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-6"><a href="http://www.fitclothing.com/category/athletic-outdoor-clothing/" >Athletic &amp; Outdoor Clothing</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.fitclothing.com/category/gym-wear/" title="FIT CLothing brings you the best selection of gym and fitness wear.">Gym wear</a>
+</li>
+	<li class="cat-item cat-item-2"><a href="http://www.fitclothing.com/category/running/" >Running</a>
+</li>
+	<li class="cat-item cat-item-108"><a href="http://www.fitclothing.com/category/yoga-clothing/" >Yoga Clothing</a>
+</li>
+		</ul>
+</div>		
+</div><div style="clear: both"></div><br>
+
+
+<div id="footer">
+
+<img src="http://www.fitclothing.com/wp-content/themes/the_affilate_store/images/payment.png" width="80%"><br/>
+
+Copyright &copy; 2018 <a href="http://www.fitclothing.com"><b>FIT Clothing</b></a> 
+
+Clothing for sports, fitness and leisure
+</div>
+
+<div style="clear: both"></div>
+
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,176 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Periodista Digital :: 404 Página no existe</title>
+
+<!-- Incluimos los metatags-->
+<meta name="author" content="Periodista Digital"/>
+<meta name="Content-Language" content="ES-ES"/>
+<meta name="description" content="Error 404. Página no existe"/>
+<meta name="keywords" content="error, 404"/>
+
+<meta name="Audience" content="All"/>
+<meta name="Expires" content="no-expire"/>
+<meta name="Content-Type" content="text/html; charset=utf-8"/>
+<meta name="robots" content="noindex">
+<!-- Fin de los metatags -->
+
+<link rel="shortcut icon" href="/periodista.ico" />
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "12323471" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=12323471&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-114328-2']);
+  _gaq.push(['_setDomainName', 'periodistadigital.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<style type="text/css">
+a {
+	font-family: Times New Roman, Times, serif;
+	color: #97acc0;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #97acc0;
+}
+a:hover {
+	text-decoration: underline;
+	color: #97acc0;
+}
+a:active {
+	text-decoration: none;
+}
+#contenedor {
+	width:955px;
+	height:600px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#logo404 {
+	margin-left:auto;
+	border:0px;
+	margin-right:auto;
+	width:250px;
+	height:82px;
+	border:0px;
+}
+#contenedortxt-img {
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:702px;
+	height:366px;
+}
+#imagen404 {
+	position:absolute;
+	border:0px;
+	width:275px;
+	height:266px;
+	left: 6px;
+	top: 65px;
+}
+#txt404 {
+	position:absolute;
+	border:0px;
+	width:273px;
+	height:26px;
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	color:#4a4646;
+	font-size:20px;
+	left: 5px;
+	top: 339px;
+}
+#bocadillo404 {
+	position:absolute;
+	background-image:url(/imgs/bocadilloPD.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	border:0px;
+	width:410px;
+	height:287px;
+	left: 291px;
+	top: 28px;
+}
+#txtoops {
+	position:absolute;
+	border:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#0d2d44;
+	font-size:67px;
+	z-index:100;
+	left: 120px;
+	top: 51px;
+}
+#texto404 {
+	position:absolute;
+	text-align:center;
+	border:0px;
+	width:286px;
+	height:58px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#4a4646;
+	font-size:18px;
+	z-index:100;
+	left: 77px;
+	top: 135px;
+}
+#textovolver {
+	position:absolute;
+	text-align:center;
+	border:0px;
+	width:277px;
+	height:29px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#4a4646;
+	font-size:18px;
+	left: 5px;
+	top: 28px;
+}
+</style>
+
+</head>
+
+<body>
+<div id="contenedor">
+	<div id="logo404"><a href="http://www.periodistadigital.com/"><img src="/imagenes/logo.png" alt="logo" width="190" height="54" border="0" /></a></div>
+    <div id="contenedortxt-img">
+    	<div id="imagen404"><a href="http://www.periodistadigital.com/"><img src="/imgs/ilustracionPD.jpg" alt="404PeriodistaDigital" width="275" height="266" border="0" /></a></div>
+      <div id="txt404">Error 404</div>
+        <div id="bocadillo404"><a href="http://www.periodistadigital.com/">
+       	  <div id="txtoops">Oops!</div>
+            <div id="texto404">Vaya fallo <br>Lo sentimos, esta página no existe.</div>
+      </a></div>
+      <div id="textovolver">Volver a <a href="http://www.periodistadigital.com/">Periodista Digital</a></div>
+    
+  </div>
+</div>
+</body>
+</html>

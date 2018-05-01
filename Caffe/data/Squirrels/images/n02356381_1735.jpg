@@ -1,0 +1,35 @@
+<div id="message404">
+<h1>Not found...</h1>
+<p>Sorry, this content is no longer available. <a href="http://www.snh.gov.uk/index/">Please refer to our new site</a>
+<span id="redirectLink"></span></p> 
+<p>Should you require assistance please contact <a href="mailto:enquiries@snh.gov.uk">enquiries@snh.gov.uk</a></p>
+</div>
+
+
+<script>
+var redirectURL="";
+var loc=window.location.href
+loc=loc.replace("http://www.snh.org.uk","")
+
+var list=new Array(
+	["/publications/on-line/designatedareas/nnrs","http://www.nnr-scotland.org.uk"],
+	//["/publications/on-line/designatedareas/nnrs","http://www.nnr-scotland.org.uk"],
+	//["/publications/on-line/designatedareas/nnrs","http://www.nnr-scotland.org.uk"],
+	//["/publications/on-line/designatedareas/nnrs","http://www.nnr-scotland.org.uk"],
+	//["/publications/on-line/designatedareas/nnrs","http://www.nnr-scotland.org.uk"],
+	
+	
+	
+	["/snh","http://www.snh.gov.uk"]
+	
+)
+
+var len=list.length;
+for(i=0;i<len;i++){
+  if(loc.indexOf(list[i][0])==0){redirectURL=list[i][1];}
+}
+
+if(redirectURL!=""){ 
+  document.getElementById("redirectLink").innerHTML=" or try this link <a href='"+redirectURL+"'>"+redirectURL+"</a>"
+}
+</script>

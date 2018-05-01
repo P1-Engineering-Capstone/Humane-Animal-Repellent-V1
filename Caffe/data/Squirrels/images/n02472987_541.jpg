@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" lang="es-ES">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" lang="es-ES">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" lang="es-ES">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html lang="es-ES">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8" />
+	<title>404 Not Found | FUNDACIÓN YUSTE</title>
+
+<link rel="stylesheet" href="http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/css/language-selector.css?v=3.3.8" type="text/css" media="all" />
+			
+	
+	<link rel="pingback" href="http://www.fundacionyuste.org/xmlrpc.php" />
+
+		<!--[if lt IE 9]>
+	<script src="http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/js/html5.js" type="text/javascript"></script>
+	<![endif]-->
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+
+	<link rel="alternate" type="application/rss+xml" title="FUNDACIÓN YUSTE &raquo; Feed" href="http://www.fundacionyuste.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="FUNDACIÓN YUSTE &raquo; RSS de los comentarios" href="http://www.fundacionyuste.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.fundacionyuste.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.14"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="YUSTE V10 EN PRODUCCION v." name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='advpsStyleSheet-css'  href='http://www.fundacionyuste.org/wp-content/plugins/advanced-post-slider/advps-style.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/font-awesome/css/font-awesome.min.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/js/prettyPhoto/css/prettyPhoto.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ecs-css-css'  href='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/style.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ssbaFont-css'  href='//fonts.googleapis.com/css?family=Indie+Flower&#038;ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.fundacionyuste.org/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,800italic,400,300,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='et-gf-droid-serif-css'  href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/style.css?ver=4.4.14' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-css-css'  href='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/epanel/shortcodes/css/shortcodes.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='et-shortcodes-responsive-css-css'  href='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/epanel/shortcodes/css/shortcodes_responsive.css?ver=3.0' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/advanced-post-slider/js/advps.frnt.script.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/advanced-post-slider/bxslider/jquery.bxslider.min.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/js/carouFredSel.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/js/helper-plugins/jquery.touchSwipe.min.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/js/prettyPhoto/jquery.prettyPhoto.js?ver=4.4.14'></script>
+<link rel='https://api.w.org/' href='http://www.fundacionyuste.org/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fundacionyuste.org/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fundacionyuste.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WPML ver:3.3.8 stt:1,2;" />
+<style type="text/css">	.ssba {
+									
+									
+									background-color: transparent;
+									
+								}
+								.ssba img
+								{
+									width: 30px !important;
+									padding: 6px;
+									border:  0;
+									box-shadow: none !important;
+									display: inline !important;
+									vertical-align: middle;
+								}
+								.ssba, .ssba a
+								{
+									text-decoration:none;
+									border:0;
+									
+									font-family: Indie Flower;
+									font-size: 	0px;
+									
+									font-weight: bold;
+								}</style><!-- <meta name="vfb" version="2.9.2" /> -->
+
+<style type="text/css">																																																																																																														
+</style><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />	<style>
+		a { color: #606060; }
+
+		body { color: #666666; }
+
+		.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading, .et_quote_content, .et_link_content, .et_audio_content { background-color: #f4bf2e; }
+
+		#main-header, #main-header .nav li ul, .et-search-form, #main-header .et_mobile_menu { background-color: #ffffff; }
+
+		#top-header, #et-secondary-nav li ul { background-color: #f4bf2e; }
+
+		.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button, .woocommerce-message, .woocommerce-error, .woocommerce-info { background: #f4bf2e !important; }
+
+		#et_search_icon:hover, .mobile_menu_bar:before, .footer-widget h4, .et-social-icon a:hover, .comment-reply-link, .form-submit input, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover { color: #f4bf2e !important; }
+
+		.woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .et_pb_contact_submit, .et_pb_bg_layout_light .et_pb_newsletter_button, .nav-single a, .posted_in a { color: #f4bf2e !important; }
+
+		.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before, blockquote { border-color: #f4bf2e; }
+
+		#main-footer { background-color: #212121; }
+
+		#top-menu a { color: #666666; }
+
+		#top-menu li.current-menu-ancestor > a, #top-menu li.current-menu-item > a, .bottom-nav li.current-menu-item > a { color: #f4bf2e; }
+
+	h1, h2, h3, h4, h5, h6 { font-family: 'Droid Serif', Georgia, "Times New Roman", serif; }body, input, textarea, select { font-family: 'Droid Serif', Georgia, "Times New Roman", serif; }	</style>
+    
+    
+    <!-- ------------------------------ <![CODIGO ANALYTICS]-->
+    
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-56748088-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+    <!-- ------------------------------ <![CODIGO ANALYTICS]-->
+    
+</head>
+<body class="error404 et_fixed_nav et_right_sidebar unknown et_includes_sidebar">
+	<div id="page-container">
+
+	
+		<header id="main-header" class="et_nav_text_color_dark">
+			<div class="container clearfix">
+							<a href="http://www.fundacionyuste.org/">
+					
+                    
+                    <img src="http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/images/logo_es.png" alt="FUNDACIÓN YUSTE" id="logo" />
+                    
+				</a>
+
+				<div id="et-top-navigation">
+					<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li id="menu-item-2095" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2095"><a href="http://www.fundacionyuste.org/fundacion/">FUNDACIÓN</a>
+<ul class="sub-menu">
+	<li id="menu-item-2100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2100"><a href="http://www.fundacionyuste.org/fundacion/objetivos/">Objetivos</a></li>
+	<li id="menu-item-2101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2101"><a href="http://www.fundacionyuste.org/fundacion/sede/">Sedes</a></li>
+	<li id="menu-item-2102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2102"><a href="http://www.fundacionyuste.org/fundacion/patronato/">Patronato</a></li>
+	<li id="menu-item-3800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3800"><a href="http://www.fundacionyuste.org/fundacion/staff_/">Staff de la Fundación</a></li>
+	<li id="menu-item-2103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2103"><a href="http://www.fundacionyuste.org/fundacion/contacto/">Contacto</a></li>
+</ul>
+</li>
+<li id="menu-item-2111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2111"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/">PREMIO EUROPEO CARLOS V</a>
+<ul class="sub-menu">
+	<li id="menu-item-2114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2114"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/objeto-de-el-premio/">Objeto del premio</a></li>
+	<li id="menu-item-2174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2174"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/convocatoria-2018/">XII Convocatoria Premio Europeo Carlos V</a></li>
+	<li id="menu-item-2121" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2121"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/becas-premio-europeo-carlos-v/">Becas Premio Europeo Carlos V</a></li>
+	<li id="menu-item-2122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2122"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/red-alumni/">Red Alumni</a></li>
+	<li id="menu-item-2113" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2113"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/los-premiados/">Los premiados</a></li>
+</ul>
+</li>
+<li id="menu-item-2112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2112"><a href="http://www.fundacionyuste.org/academia/">ACADEMIA EUROPEA DE YUSTE</a>
+<ul class="sub-menu">
+	<li id="menu-item-2199" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2199"><a href="http://www.fundacionyuste.org/academia/objetivos/">Objetivos de la Academia</a></li>
+	<li id="menu-item-2123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2123"><a href="http://www.fundacionyuste.org/academia/academicos-2/">Académicos</a></li>
+</ul>
+</li>
+<li id="menu-item-2124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2124"><a href="http://www.fundacionyuste.org/campus-yuste/">CAMPUS YUSTE</a>
+<ul class="sub-menu">
+	<li id="menu-item-6581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6581"><a href="http://www.fundacionyuste.org/campus-yuste/la-sede/">La Sede</a></li>
+	<li id="menu-item-6578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6578"><a href="http://www.fundacionyuste.org/campus-yuste/cursos/">Cursos</a></li>
+	<li id="menu-item-8381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8381"><a href="http://www.fundacionyuste.org/campus-yuste/inscripcion/">Inscripción</a></li>
+	<li id="menu-item-6576" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6576"><a href="http://www.fundacionyuste.org/campus-yuste/becas/">Becas</a></li>
+	<li id="menu-item-6694" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6694"><a href="http://www.fundacionyuste.org/campus-yuste/contacto/">Contactos</a></li>
+	<li id="menu-item-6577" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6577"><a href="http://www.fundacionyuste.org/campus-yuste/como-llegar/">Cómo llegar</a></li>
+	<li id="menu-item-6575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6575"><a href="http://www.fundacionyuste.org/campus-yuste/alojamiento/">Alojamiento</a></li>
+	<li id="menu-item-6582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6582"><a href="http://www.fundacionyuste.org/campus-yuste/noticias-campus-yuste/">Noticias Campus Yuste</a></li>
+	<li id="menu-item-6579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6579"><a href="http://www.fundacionyuste.org/campus-yuste/galeria/">Galería de fotos</a></li>
+	<li id="menu-item-4938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4938"><a href="http://www.fundacionyuste.org/campus-yuste/previous-editions/">Ediciones anteriores</a></li>
+</ul>
+</li>
+<li id="menu-item-2097" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2097"><a href="http://www.fundacionyuste.org/publicaciones/">PUBLICACIONES</a>
+<ul class="sub-menu">
+	<li id="menu-item-3209" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3209"><a href="http://www.fundacionyuste.org/publicaciones/cuadernos-yuste/">Cuadernos de Yuste</a></li>
+	<li id="menu-item-3210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3210"><a href="http://www.fundacionyuste.org/publicaciones/pliegos-yuste/">Pliegos de Yuste</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-language menu-item-language-current menu-item-has-children"><a href="#" onclick="return false"><img class="iclflag" src="http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/flags/es.png" width="18" height="12" alt="es" title="Español" /></a></li><li class="menu-item menu-item-language"><a href="http://www.fundacionyuste.org/en/"><img class="iclflag" src="http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/flags/en.png" width="18" height="12" alt="en" title="English" /></a></li></ul>					</nav>
+
+					
+										<div id="et_top_search">
+						<span id="et_search_icon"></span>
+						<form role="search" method="get" class="et-search-form et-hidden" action="http://www.fundacionyuste.org/">
+						<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />						</form>
+					</div>
+					
+					<div id="et_mobile_nav_menu">
+			<a href="#" class="mobile_nav closed">
+				<span class="select_page">Select Page</span>
+				<span class="mobile_menu_bar"></span>
+			</a>
+		</div>				</div> <!-- #et-top-navigation -->
+			</div> <!-- .container -->
+		</header> <!-- #main-header -->
+
+		<div id="et-main-area">
+<div id="main-content">
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+				<article id="post-0" class="et_pb_post not_found post-10890 post type-post status-publish format-standard has-post-thumbnail hentry category-noticias-destacadas category-slider-inicio">
+					<div class="entry">
+<!--If no results are found-->
+	<h1>No Results Found</h1>
+	<p>The page you requested could not be found. Try refining your search, or use the navigation above to locate the post.</p>
+</div>
+<!--End if no results are found-->				</article> <!-- .et_pb_post -->
+			</div> <!-- #left-area -->
+
+				<div id="sidebar">
+				<div id="recent-posts-3" class="et_pb_widget widget_recent_entries">		<h4 class="widgettitle">Entradas recientes</h4>		<ul>
+					<li>
+				<a href="http://www.fundacionyuste.org/presentada-la-xii-edicion-del-premio-carlos-v-que-reconoce-el-esfuerzo-y-el-compromiso-en-la-construccion-de-europa/">Presentada la XII edición del Premio Europeo Carlos V, que reconoce el esfuerzo y el compromiso en la construcción de Europa</a>
+						</li>
+					<li>
+				<a href="http://www.fundacionyuste.org/la-secretaria-general-iberoamericana-rebeca-grynspan-mayufis-nuevo-miembro-de-la-academia-europea-e-iberoamericana-de-yuste/">La Secretaria General Iberoamericana, Rebeca Grynspan Mayufis, nuevo miembro de la Academia Europea e Iberoamericana de Yuste</a>
+						</li>
+					<li>
+				<a href="http://www.fundacionyuste.org/fundacion-yuste-presenta-el-libro-el-cacereno-juan-blazquez-mayoralgo-contador-y-preceptista-politico-en-nueva-espana-de-manuel-manas/">Fundación Yuste presenta el libro ´El cacereño Juan Blázquez Mayoralgo. Contador y preceptista político en Nueva España’, de Manuel Mañas</a>
+						</li>
+				</ul>
+		</div> <!-- end .et_pb_widget -->			</div> <!-- end #sidebar -->
+		</div> <!-- #content-area -->
+	</div> <!-- .container -->
+</div> <!-- #main-content -->
+
+
+			<footer id="main-footer">
+				
+<div class="container">
+	<div id="footer-widgets" class="clearfix">
+	<div class="footer-widget"><div id="text-10" class="fwidget et_pb_widget widget_text"><h4 class="title">Real Monasterio de Yuste</h4>			<div class="textwidget">10430 Cuacos de Yuste<br />
+Cáceres-Extremadura España<br />
+Tel. +34 927 01 40 90<br />
+beatriz.cartas@fundacionyuste.org<br /></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="text-12" class="fwidget et_pb_widget widget_text"><h4 class="title">Oficina de Extremadura en Bruselas</h4>			<div class="textwidget">Avenue de Cortenbergh 87-89, <br />
+2ª planta<br />
+B-1000 Brussels Belgium<br />
+Tel. +32.(0).2.736.59.50<br />
+miguel.martin@fundacionyuste.org<br /><br /></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="jc_section_menu_widget-23" class="fwidget et_pb_widget widget_jc_section_menu_widget"><div class="menu-menu-principal-container"><ul id="menu-menu-principal" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2095"><a href="http://www.fundacionyuste.org/fundacion/">FUNDACIÓN</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2111"><a href="http://www.fundacionyuste.org/premio-europeo-carlos-v/">PREMIO EUROPEO CARLOS V</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2112"><a href="http://www.fundacionyuste.org/academia/">ACADEMIA EUROPEA DE YUSTE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2124"><a href="http://www.fundacionyuste.org/campus-yuste/">CAMPUS YUSTE</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2097"><a href="http://www.fundacionyuste.org/publicaciones/">PUBLICACIONES</a></li>
+<li class="menu-item menu-item-language menu-item-language-current menu-item-has-children"><a href="#" onclick="return false"><img class="iclflag" src="http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/flags/es.png" width="18" height="12" alt="es" title="Español" /></a></li><li class="menu-item menu-item-language"><a href="http://www.fundacionyuste.org/en/"><img class="iclflag" src="http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/flags/en.png" width="18" height="12" alt="en" title="English" /></a></li></ul></div></div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget last"><div id="text-19" class="fwidget et_pb_widget widget_text"><h4 class="title">PERFIL DEL CONTRATANTE</h4>			<div class="textwidget"><a href="http://www.fundacionyuste.org/es/perfil-del-contratante/" target="_self" style="color:#fff !important">Instrucciones Reguladoras del Procedimiento de Contratación</a>
+</br>
+</br>
+</br>
+</br></div>
+		</div> <!-- end .fwidget --><div id="text-21" class="fwidget et_pb_widget widget_text"><h4 class="title">SÍGUENOS</h4>			<div class="textwidget"><table width="100%" border="0" cellspacing="30" cellpadding="6">
+  <tr>
+  <td width="33%" align="center"><a href="https://www.facebook.com/fundacionyuste.org" target="_blank"><img src="http://www.fundacionyuste.org/wp-content/uploads/2015/01/facebook-32.png" width="30" height="30"  /></a>
+   </td>
+   <td width="33%" align="center">
+   <a href="https://twitter.com/fundacionyuste" target="_blank"><img src="http://www.fundacionyuste.org/wp-content/uploads/2015/01/twitter-32.png" width="30" height="30"  /></a></td>
+   <td width="33%" align="center">
+   <a href="https://www.youtube.com/channel/UCUYKRDOh1TAzGYed3zKrtHA" target="_blank"><img src="http://www.fundacionyuste.org/wp-content/uploads/2015/10/youtube-32.png" width="30" height="30"  /></a></td>
+  </tr>
+</table></div>
+		</div> <!-- end .fwidget --></div> <!-- end .footer-widget -->	</div> <!-- #footer-widgets -->
+</div>	<!-- .container -->
+
+		            
+<div id="footer-bottom">
+	  <div class="container clearfix">
+	    <table width="100%" border="0" cellspacing="5" cellpadding="0">
+						  <tbody>
+						    <tr>
+						      <td width="46%" colspan="3" align="center" valign="top"><h4><img src="http://www.fundacionyuste.org/logos/logo_gobex.png" width="163" height="42" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_dipcaceres.png" width="165" height="57" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_dipbadajoz.png" width="155" height="54" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_avante.png" width="101" height="61" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_alimentosextremadura.png" width="126" height="61" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_eu.png" width="189" height="61" border="0" /><img src="http://www.fundacionyuste.org/logos/logo_telefonica.png" width="153" height="40" border="0" /></h4></td>
+					        </tr>
+					      </tbody>
+					  </table>
+</div>	<!-- .container -->
+				</div>
+</footer> <!-- #main-footer -->
+		</div> <!-- #et-main-area -->
+
+
+	</div> <!-- #page-container -->
+
+	<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/ezcarousel/js/main.js?ver=1'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/simple-share-buttons-adder/js/ssba.min.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/js/jquery.fitvids.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/js/waypoints.min.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/js/jquery.magnific-popup.js?ver=4.4.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_custom = {"ajaxurl":"http:\/\/www.fundacionyuste.org\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/www.fundacionyuste.org\/wp-content\/themes\/YUSTE_V10\/images","et_load_nonce":"e19728b4bb","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/themes/YUSTE_V10/js/custom.js?ver=4.4.14'></script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-includes/js/wp-embed.min.js?ver=4.4.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var icl_vars = {"current_language":"es","icl_home":"http:\/\/www.fundacionyuste.org\/","ajax_url":"http:\/\/www.fundacionyuste.org\/wp-admin\/admin-ajax.php","url_type":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.fundacionyuste.org/wp-content/plugins/WPML.3.3.8/res/js/sitepress.js?ver=4.4.14'></script>
+</body>
+</html>

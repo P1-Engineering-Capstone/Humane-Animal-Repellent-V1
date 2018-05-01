@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html lang="nl" prefix="og: http://ogp.me/ns#" class="no-js ie ie6 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 7 ]><html lang="nl" prefix="og: http://ogp.me/ns#" class="no-js ie ie7 lte7 lte8 lte9"><![endif]-->
+<!--[if IE 8 ]><html lang="nl" prefix="og: http://ogp.me/ns#" class="no-js ie ie8 lte8 lte9"><![endif]-->
+<!--[if IE 9 ]><html lang="nl" prefix="og: http://ogp.me/ns#" class="no-js ie ie9 lte9"><![endif]-->
+<!--[if lt IE 9]>
+	<script src="https://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="nl" prefix="og: http://ogp.me/ns#" class="no-js"><!--<![endif]-->
+	<head>
+		<!-- PRODUCTIESERVER -->
+	
+		<!-- $m for mobile devices -->
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta charset="UTF-8" />
+		<title>Pagina niet gevonden - Lancyr</title>
+		<link rel="profile" href="http://gmpg.org/xfn/11" />
+		<link rel="stylesheet" href="https://www.lancyr.nl/wp-content/themes/lancyr/style.css" />
+
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:700" rel="stylesheet">
+
+		<link rel="pingback" href="https://www.lancyr.nl/xmlrpc.php" />
+
+<link rel="shortcut icon" href="/favicon.ico">
+<!-- wp_head -->
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pagina niet gevonden - Lancyr" />
+<meta property="og:site_name" content="Lancyr" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Pagina niet gevonden - Lancyr" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Lancyr &raquo; Feed" href="https://www.lancyr.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Lancyr &raquo; Reactiesfeed" href="https://www.lancyr.nl/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.lancyr.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.9"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script src="https://www.lancyr.nl/wp-content/themes/lancyr/js/modernizr.js"></script>
+<!--[if IE ]><link rel="stylesheet" href="https://www.lancyr.nl/wp-content/themes/lancyr/css/ie.css"><![endif]-->
+<link rel='stylesheet' id='yarppWidgetCss-css'  href='https://www.lancyr.nl/wp-content/plugins/yet-another-related-posts-plugin/style/widget.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='opinionstage-style-css'  href='https://www.lancyr.nl/wp-content/plugins/social-polls-by-opinionstage/opinionstage-style-common.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='opinionstage-font-style-css'  href='https://www.lancyr.nl/wp-content/plugins/social-polls-by-opinionstage/opinionstage-font.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='bannerspace-styles-css'  href='https://www.lancyr.nl/wp-content/plugins/bannerspace/bannerspace.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.lancyr.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.8' type='text/css' media='all' />
+<link rel='stylesheet' id='collapseomatic-css-css'  href='https://www.lancyr.nl/wp-content/plugins/jquery-collapse-o-matic/light_style.css?ver=1.6' type='text/css' media='all' />
+<link rel='stylesheet' id='social-widget-css'  href='https://www.lancyr.nl/wp-content/plugins/social-media-widget/social_widget.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='symple_shortcode_styles-css'  href='https://www.lancyr.nl/wp-content/plugins/symple-shortcodes/shortcodes/css/symple_shortcodes_styles.css?ver=4.7.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ubermenu-basic-css'  href='https://www.lancyr.nl/wp-content/plugins/ubermenu/styles/basic.css?ver=2.2.1.0' type='text/css' media='all' />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	var disableStr = 'ga-disable-UA-899579-50';
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-899579-50', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/bannerspace/jquery.cycle.all.min.js?ver=4.7.9'></script>
+<link rel='https://api.w.org/' href='https://www.lancyr.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lancyr.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.lancyr.nl/wp-includes/wlwmanifest.xml" /> 
+
+<!--	bannerspace [ START ] --> 
+<style type='text/css'>
+			#bannerspace_nav .activeSlide a {
+				background-color:#000 !important;
+			}
+		
+			#bannerspace_nav a {
+				background-color:#FFF  !important;;
+			}
+		
+			.bs_arrow{
+				background-color:#000;
+			}
+		
+			#bannerspace_wrap{
+				background-color:#e0dfdf;
+			}
+		
+			.bs_arrow{
+				display:none !important;
+			}
+			#bannerspace_wrap,
+				#bannerspace,
+				.slide{
+					width:960px;
+				}
+			#bannerspace_wrap,
+				#bannerspace,
+				.slide{
+					height:300px;
+				}
+			#bannerspace .content {
+					width:315px;
+				}
+			#bannerspace .imageWrapper {
+					width:958px;
+				}
+		</style>
+	<script type='text/javascript'> 
+	
+		jQuery(document).ready(function($) {
+			
+			// All options - http://jquery.malsup.com/cycle/options.html
+			
+			$('#bannerspace').after('<div id=bannerspace_nav>').cycle({
+				fx:     'fade',	//Effects - http://jquery.malsup.com/cycle/browser.html
+				speed:  '1000',	
+				pager:  '#bannerspace_nav',
+				next:   '#bs_r_arrow',
+                prev:   '#bs_l_arrow',
+				timeout: '6500',
+				containerResize: 0,
+				slideResize: 0,
+				requeueOnImageNotLoaded: 1,
+				cleartypeNoBg: true,
+				sync: 'checkbox',
+				pagerAnchorBuilder: function(idx, slide) {
+					var title =  $($(slide).find('.title').get(0)).html();
+					
+					return '<span><a href=\'javascript:void(0);\' title=\' ' +title+ ' \'></a></span>';
+				}
+			}).cycle('pause')		
+						jQuery(window).load(function ($) {													
+							jQuery('.bs_arrow').fadeIn();
+							jQuery('#bannerspace_nav').fadeIn();
+							jQuery('#bannerspace .content').fadeIn();					 
+							jQuery('#bannerspace').cycle('resume');						 					
+						});
+					
+		});
+		
+
+	</script><!--	bannerspace [ END ] --> 
+<link rel="stylesheet" type="text/css" href="https://websites.financieelmarketeers.nl/lancyr/wp-content/plugins/j-shortcodes/css/jay.css" />
+<script type="text/javascript" src="https://websites.financieelmarketeers.nl/lancyr/wp-content/plugins/j-shortcodes/js/jay.js"></script><script src='https://websites.financieelmarketeers.nl/?dm=872bc6eebf702a409be62968c309ff25&amp;action=load&amp;blogid=46&amp;siteid=1&amp;t=354234699&amp;back=https%3A%2F%2Fwww.lancyr.nl%2Fnl.Lancyr.Consumentensite%2Fcontent_files%2Fringtone_hond.jpg' type='text/javascript'></script>
+<!-- BMGC:Whitelisted -->
+<link rel="icon" href="https://websites.financieelmarketeers.nl/lancyr/wp-content/uploads/sites/46/2015/03/Autorechtbijstand-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://websites.financieelmarketeers.nl/lancyr/wp-content/uploads/sites/46/2015/03/Autorechtbijstand.jpg" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://websites.financieelmarketeers.nl/lancyr/wp-content/uploads/sites/46/2015/03/Autorechtbijstand.jpg" />
+<meta name="msapplication-TileImage" content="https://websites.financieelmarketeers.nl/lancyr/wp-content/uploads/sites/46/2015/03/Autorechtbijstand.jpg" />
+
+<!-- UberMenu CSS - Controlled through UberMenu Options Panel 
+================================================================ -->
+<style type="text/css" id="ubermenu-style-generator-css">
+/* Style Generator Styles */
+#megaMenu {
+  border:none;
+  border-bottom:;
+  background-color:transparent;
+  background:-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+  background:-webkit-linear-gradient(top,transparent,transparent);
+  background:-moz-linear-gradient(top,transparent,transparent);
+  background:-ms-linear-gradient(top,transparent,transparent);
+  background:-o-linear-gradient(top,transparent,transparent);
+  -webkit-border-radius:0px;
+  -moz-border-radius:0px;
+  border-radius:0px;
+  -moz-background-clip:padding;
+  -webkit-background-clip:padding-box;
+  background-clip:padding-box;
+  -webkit-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+  -moz-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+  box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+}
+#megaMenu ul.megaMenu > li > a, #megaMenu ul.megaMenu > li > span.um-anchoremulator {
+  font-size:12px;
+  color:#333333;
+  padding:12px 15px;
+  font-weight:bold;
+}
+#megaMenu.megaMenuHorizontal ul.megaMenu > li > a, #megaMenu.megaMenuHorizontal ul.megaMenu > li > span.um-anchoremulator {
+  border-left:1px solid transparent;
+  -webkit-box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0.9);
+  -moz-box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0.9);
+  box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0.9);
+}
+#megaMenu.megaMenuVertical ul.megaMenu > li > a, #megaMenu.megaMenuVertical ul.megaMenu > li > span.um-anchoremulator {
+  border-top:1px solid transparent;
+  -webkit-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+  -moz-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+  box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0.9);
+}
+#megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > a, #megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator, #megaMenu ul li.mega-with-sub > a, #megaMenu ul li.mega-with-sub > span.um-anchoremulator, #megaMenu ul li.ss-nav-menu-mega > a, #megaMenu ul li.ss-nav-menu-mega > span.um-anchoremulator { padding-right:20px; }
+#megaMenu ul.megaMenu > li > a span.wpmega-link-title, #megaMenu ul.megaMenu > li > span.um-anchoremulator span.wpmega-link-title {
+  text-transform:none;
+  text-shadow:0 -1px 1px transparent;
+}
+#megaMenu ul.megaMenu > li:hover > a, #megaMenu ul.megaMenu > li > a:hover, #megaMenu ul.megaMenu > li.megaHover > a, #megaMenu ul.megaMenu > li:hover > span.um-anchoremulator, #megaMenu ul.megaMenu > li > span.um-anchoremulator:hover, #megaMenu ul.megaMenu > li.megaHover > span.um-anchoremulator {
+  color:#333333 !important;
+  border-bottom-color:transparent !important;
+  background-color:transparent;
+  background:-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+  background:-webkit-linear-gradient(top,transparent,transparent);
+  background:-moz-linear-gradient(top,transparent,transparent);
+  background:-ms-linear-gradient(top,transparent,transparent);
+  background:-o-linear-gradient(top,transparent,transparent);
+  -webkit-box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0.9);
+  -moz-box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0.9);
+  box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0.9);
+}
+#megaMenu ul.megaMenu > li:hover > a span.wpmega-link-title, #megaMenu ul.megaMenu > li:hover > span.um-anchoremulator span.wpmega-link-title, #megaMenu ul.megaMenu > li > a:hover span.wpmega-link-title, #megaMenu ul.megaMenu > li > span.um-anchoremulator:hover span.wpmega-link-title, #megaMenu ul.megaMenu > li.megaHover > a span.wpmega-link-title, #megaMenu ul.megaMenu > li.megaHover > span.um-anchoremulator span.wpmega-link-title { text-shadow:0 -1px 1px transparent; }
+#megaMenu ul.megaMenu > li.current-menu-item > a, #megaMenu ul.megaMenu > li.current-menu-parent > a, #megaMenu ul.megaMenu > li.current-menu-ancestor > a { color:#000000; }
+#megaMenu ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu ul.megaMenu li.ss-nav-menu-reg ul.sub-menu {
+  border-color:transparent;
+  color:#000000;
+  text-shadow:0px 1px 1px transparent;
+  -webkit-box-shadow:1px 1px 1px transparent;
+  -moz-box-shadow:1px 1px 1px transparent;
+  box-shadow:1px 1px 1px transparent;
+  background-color:transparent;
+  background:-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+  background:-webkit-linear-gradient(top,transparent,transparent);
+  background:-moz-linear-gradient(top,transparent,transparent);
+  background:-ms-linear-gradient(top,transparent,transparent);
+  background:-o-linear-gradient(top,transparent,transparent);
+}
+#megaMenu ul.megaMenu ul.sub-menu .wpmega-postlist a { color:#000000; }
+#megaMenu.megaMenuHorizontal ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu.megaMenuHorizontal ul.megaMenu li.ss-nav-menu-reg > ul.sub-menu { border-top:; }
+#megaMenu ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1 > li { min-width:100px; }
+#megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li > a, #megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li:hover > a, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu .ss-nav-menu-header > a, #megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li > span.um-anchoremulator, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu .ss-nav-menu-header > span.um-anchoremulator, .wpmega-widgetarea h2.widgettitle {
+  color:#777777;
+  font-size:12px;
+  font-weight:bold;
+  text-shadow:0px 1px 1px transparent;
+  padding-bottom:.4em;
+  border-bottom:1px dotted transparent;
+  margin-bottom:.6em;
+}
+#megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li:hover > a { color:#777777; }
+#megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li > a, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li > span.um-anchoremulator, #megaMenu ul ul.sub-menu li > a, #megaMenu ul ul.sub-menu li > span.um-anchoremulator {
+  color:#888888;
+  font-size:12px;
+  text-shadow:0px 1px 1px transparent;
+  background-color:transparent;
+}
+#megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li a:hover, #megaMenu ul ul.sub-menu > li:hover > a {
+  color:#000000;
+  background-color:transparent;
+}
+#megaMenu ul.megaMenu > li.menu-item > .wpmega-nonlink > form#searchform { padding-top:2px; }
+#megaMenu ul.megaMenu li.menu-item.ss-nav-menu-highlight > a, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-highlight > span.um-anchoremulator { color:#888888 !important; }
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description { padding-left:21px; }
+.ss-nav-menu-with-img { min-height:16px; }
+#megaMenu ul.megaMenu li a span.wpmega-item-description, #megaMenu ul.megaMenu li span.um-anchoremulator span.wpmega-item-description {
+  font-size:9px;
+  line-height:1.4em;
+  color:#bbbbbb;
+  text-transform:none;
+}
+#megaMenu ul li.mega-with-sub > a:after, #megaMenu ul li.ss-nav-menu-mega > a:after, #megaMenu ul li.mega-with-sub > span.um-anchoremulator:after, #megaMenu ul li.ss-nav-menu-mega > span.um-anchoremulator:after { border-top-color:transparent; }
+#megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > a:after, #megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator:after { border-left-color:transparent; }
+#megaMenu .wpmega-divider {
+  border-top:1px solid transparent;
+  border-bottom:1px solid rgba(255,255,255,0.05);
+}
+#megaMenu.megaMenuVertical > ul > li > a, #megaMenu.megaMenuVertical > ul > li > span.um-anchoremulator {
+  background-color:transparent;
+  background:-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+  background:-webkit-linear-gradient(top,transparent,transparent);
+  background:-moz-linear-gradient(top,transparent,transparent);
+  background:-ms-linear-gradient(top,transparent,transparent);
+  background:-o-linear-gradient(top,transparent,transparent);
+}
+#megaMenu.megaMenuVertical ul li.ss-nav-menu-reg li.megaReg-with-sub > a:after, #megaMenu.megaMenuVertical ul li.mega-with-sub > a:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-mega > a:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator:after, #megaMenu.megaMenuVertical ul li.mega-with-sub > span.um-anchoremulator:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-mega > span.um-anchoremulator:after { border-left-color:transparent; }
+#megaMenu.megaMenuVertical ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu.megaMenuVertical ul.megaMenu li.ss-nav-menu-reg > ul.sub-menu { border-left:; }
+#megaMenu.megaMenuHorizontal ul.megaMenu { *border-bottom:none; }
+#megaMenu.megaMenuVertical ul.megaMenu { *border-right:none; }
+
+
+
+/* Image Text Padding */
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description{
+  padding-left: 23px;
+}
+
+
+/* Custom Tweaks - UberMenu Style Configuration Settings */
+#megaMenu {
+  border:1px solid #ffffff;
+  border-bottom:;
+  background-color:#ffffff;
+  background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#ffffff));
+  background:-webkit-linear-gradient(top,#ffffff,#ffffff);
+  background:-moz-linear-gradient(top,#ffffff,#ffffff);
+  background:-ms-linear-gradient(top,#ffffff,#ffffff);
+  background:-o-linear-gradient(top,#ffffff,#ffffff);
+  -webkit-border-radius:0px;
+  -moz-border-radius:0px;
+  border-radius:0px;
+  -moz-background-clip:padding;
+  -webkit-background-clip:padding-box;
+  background-clip:padding-box;
+  -webkit-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+  -moz-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+  box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+}
+#megaMenu ul.megaMenu > li > a, #megaMenu ul.megaMenu > li > span.um-anchoremulator {
+  font-size:10px;
+  color:#000000;
+  padding:2px 15px;
+  font-weight:bold;
+}
+#megaMenu.megaMenuHorizontal ul.megaMenu > li > a, #megaMenu.megaMenuHorizontal ul.megaMenu > li > span.um-anchoremulator {
+  border-left:1px solid #d4d4d4;
+  -webkit-box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0);
+  -moz-box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0);
+  box-shadow:inset 1px 0px 0px 0px rgba(255,255,255,0);
+}
+#megaMenu.megaMenuVertical ul.megaMenu > li > a, #megaMenu.megaMenuVertical ul.megaMenu > li > span.um-anchoremulator {
+  border-top:1px solid #d4d4d4;
+  -webkit-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+  -moz-box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+  box-shadow:inset 0px 1px 0px 0px rgba(255,255,255,0);
+}
+#megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > a, #megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator, #megaMenu ul li.mega-with-sub > a, #megaMenu ul li.mega-with-sub > span.um-anchoremulator, #megaMenu ul li.ss-nav-menu-mega > a, #megaMenu ul li.ss-nav-menu-mega > span.um-anchoremulator { padding-right:20px; }
+#megaMenu ul.megaMenu > li > a span.wpmega-link-title, #megaMenu ul.megaMenu > li > span.um-anchoremulator span.wpmega-link-title {
+  text-transform:uppercase;
+  text-shadow:0 -1px 1px transparent;
+}
+#megaMenu ul.megaMenu > li:hover > a, #megaMenu ul.megaMenu > li > a:hover, #megaMenu ul.megaMenu > li.megaHover > a, #megaMenu ul.megaMenu > li:hover > span.um-anchoremulator, #megaMenu ul.megaMenu > li > span.um-anchoremulator:hover, #megaMenu ul.megaMenu > li.megaHover > span.um-anchoremulator {
+  color:#0068b3 !important;
+  border-bottom-color:transparent !important;
+  background-color:transparent;
+  background:-webkit-gradient(linear,left top,left bottom,from(transparent),to(transparent));
+  background:-webkit-linear-gradient(top,transparent,transparent);
+  background:-moz-linear-gradient(top,transparent,transparent);
+  background:-ms-linear-gradient(top,transparent,transparent);
+  background:-o-linear-gradient(top,transparent,transparent);
+  -webkit-box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0);
+  -moz-box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0);
+  box-shadow:inset 1px 1px 0px 0px rgba(255,255,255,0);
+}
+#megaMenu ul.megaMenu > li:hover > a span.wpmega-link-title, #megaMenu ul.megaMenu > li:hover > span.um-anchoremulator span.wpmega-link-title, #megaMenu ul.megaMenu > li > a:hover span.wpmega-link-title, #megaMenu ul.megaMenu > li > span.um-anchoremulator:hover span.wpmega-link-title, #megaMenu ul.megaMenu > li.megaHover > a span.wpmega-link-title, #megaMenu ul.megaMenu > li.megaHover > span.um-anchoremulator span.wpmega-link-title { text-shadow:0 -1px 1px transparent; }
+#megaMenu ul.megaMenu > li.current-menu-item > a, #megaMenu ul.megaMenu > li.current-menu-parent > a, #megaMenu ul.megaMenu > li.current-menu-ancestor > a { color:#0068b3; }
+#megaMenu ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu ul.megaMenu li.ss-nav-menu-reg ul.sub-menu {
+  border-color:transparent;
+  color:#000000;
+  text-shadow:0px 1px 1px transparent;
+  -webkit-box-shadow:1px 1px 1px transparent;
+  -moz-box-shadow:1px 1px 1px transparent;
+  box-shadow:1px 1px 1px transparent;
+  background-color:#ffffff;
+  background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#ffffff));
+  background:-webkit-linear-gradient(top,#ffffff,#ffffff);
+  background:-moz-linear-gradient(top,#ffffff,#ffffff);
+  background:-ms-linear-gradient(top,#ffffff,#ffffff);
+  background:-o-linear-gradient(top,#ffffff,#ffffff);
+}
+#megaMenu ul.megaMenu ul.sub-menu .wpmega-postlist a { color:#000000; }
+#megaMenu.megaMenuHorizontal ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu.megaMenuHorizontal ul.megaMenu li.ss-nav-menu-reg > ul.sub-menu { border-top:; }
+#megaMenu ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1 > li { min-width:100px; }
+#megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li > a, #megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li:hover > a, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu .ss-nav-menu-header > a, #megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li > span.um-anchoremulator, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu .ss-nav-menu-header > span.um-anchoremulator, .wpmega-widgetarea h2.widgettitle {
+  color:#0068b3;
+  font-size:12px;
+  font-weight:bold;
+  text-shadow:0px 1px 1px transparent;
+  padding-bottom:.4em;
+  border-bottom:1px dotted transparent;
+  margin-bottom:.6em;
+}
+#megaMenu ul li.ss-nav-menu-mega ul.sub-menu-1 > li:hover > a { color:#ff0000; }
+#megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li > a, #megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li > span.um-anchoremulator, #megaMenu ul ul.sub-menu li > a, #megaMenu ul ul.sub-menu li > span.um-anchoremulator {
+  color:#888888;
+  font-size:12px;
+  text-shadow:0px 1px 1px transparent;
+  background-color:transparent;
+}
+#megaMenu ul li.ss-nav-menu-mega ul ul.sub-menu li a:hover, #megaMenu ul ul.sub-menu > li:hover > a {
+  color:#000000;
+  background-color:transparent;
+}
+#megaMenu ul.megaMenu > li.menu-item > .wpmega-nonlink > form#searchform { padding-top:-8px; }
+#megaMenu ul.megaMenu li.menu-item.ss-nav-menu-highlight > a, #megaMenu ul.megaMenu li.menu-item.ss-nav-menu-highlight > span.um-anchoremulator { color:#888888 !important; }
+#megaMenu .ss-nav-menu-with-img > a > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > a > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > a > .wpmega-item-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-title, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-link-description, #megaMenu .ss-nav-menu-with-img > span.um-anchoremulator > .wpmega-item-description { padding-left:21px; }
+.ss-nav-menu-with-img { min-height:16px; }
+#megaMenu ul.megaMenu li a span.wpmega-item-description, #megaMenu ul.megaMenu li span.um-anchoremulator span.wpmega-item-description {
+  font-size:9px;
+  line-height:1.4em;
+  color:#bbbbbb;
+  text-transform:none;
+}
+#megaMenu ul li.mega-with-sub > a:after, #megaMenu ul li.ss-nav-menu-mega > a:after, #megaMenu ul li.mega-with-sub > span.um-anchoremulator:after, #megaMenu ul li.ss-nav-menu-mega > span.um-anchoremulator:after { border-top-color:transparent; }
+#megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > a:after, #megaMenu ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator:after { border-left-color:transparent; }
+#megaMenu .wpmega-divider {
+  border-top:1px solid transparent;
+  border-bottom:1px solid rgba(255,255,255,0.05);
+}
+#megaMenu.megaMenuVertical > ul > li > a, #megaMenu.megaMenuVertical > ul > li > span.um-anchoremulator {
+  background-color:#ffffff;
+  background:-webkit-gradient(linear,left top,left bottom,from(#ffffff),to(#ffffff));
+  background:-webkit-linear-gradient(top,#ffffff,#ffffff);
+  background:-moz-linear-gradient(top,#ffffff,#ffffff);
+  background:-ms-linear-gradient(top,#ffffff,#ffffff);
+  background:-o-linear-gradient(top,#ffffff,#ffffff);
+}
+#megaMenu.megaMenuVertical ul li.ss-nav-menu-reg li.megaReg-with-sub > a:after, #megaMenu.megaMenuVertical ul li.mega-with-sub > a:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-mega > a:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-reg li.megaReg-with-sub > span.um-anchoremulator:after, #megaMenu.megaMenuVertical ul li.mega-with-sub > span.um-anchoremulator:after, #megaMenu.megaMenuVertical ul li.ss-nav-menu-mega > span.um-anchoremulator:after { border-left-color:transparent; }
+#megaMenu.megaMenuVertical ul.megaMenu > li.ss-nav-menu-mega > ul.sub-menu-1, #megaMenu.megaMenuVertical ul.megaMenu li.ss-nav-menu-reg > ul.sub-menu { border-left:; }
+#megaMenu.megaMenuHorizontal ul.megaMenu { *border-bottom:none; }
+#megaMenu.megaMenuVertical ul.megaMenu { *border-right:none; }	
+</style>
+<!-- end UberMenu CSS -->
+		
+					<style type="text/css" id="wp-custom-css">
+			/*
+Je kunt hier je eigen CSS toevoegen.
+
+Klik op het help icoon om meer te leren.
+*/
+.page-id-28669 .site-content.bm-no-sidebar {
+    background: #ebebeb;
+}		</style>
+	<style type="text/css">
+<!--
+/* J shortcodes custom CSS code. http://www.jshortcodes.com */
+.gallery img {border:none;}
+.gallery .nav-prev, .gallery .nav-next { width:auto;}
+ul.filmstrip li { list-style: none; }
+-->
+</style>
+
+<!-- end wp_head --><style type="text/css">h1, h2, h3, h4, h5, p a, .site-content section ul li:before, form.wpcf7-form div label:before, ul.link-list li, .site-content section ul.link-list li, .highlight, div.vcard .business-hours p:before, div.vcard .adr:before, div.vcard .email:before, div.vcard .fax:before, div.vcard .tel:before, div.vcard .kvk:before, .user-options li.tel a, div.breadcrumbs, div.breadcrumbs span, div.ui-tabs ul.ui-tabs-nav li.ui-state-active, .rating .score-info strong, .quick-info ol li, .rating .score-info strong, .quick-info ol li, #megaMenu ul#megaUber li a:hover, #megaMenu ul#megaUber li.megaHover a, #megaMenu ul#megaUber li.current_page_item a, #megaMenu ul#megaUber ul.sub-menu li.widget_text h2, #megaMenu ul#megaUber ul.sub-menu li a:before, #megaMenu ul#megaUber ul.sub-menu li.tips ul li a:before, #megaMenu ul#megaUber ul.sub-menu li a .wpmega-link-title, #bm-submenu .bm-submenu-menu ul li li a:before, #bm-submenu .bm-submenu-menu ul li.current_page_item > a, .widget_nav_menu .menu-hoofdmenu-container ul li li a:before, .widget_nav_menu .menu-hoofdmenu-container ul li.current_page_item > a { color: #a41984; }.button, .pushbutton-wide, div.ui-tabs ul.ui-tabs-nav li.ui-state-active, aside li.widget-container .menu-button-menu-container li.highlight a, #bm-cookies-close { background-color: #a41984; }.site-meta nav ul li a, .site-meta nav ul li.text { border-color: #a41984; }article div.entry-content h2, article div.entry-content h4, form.wpcf7-form label span.required, .widget-container div.vcard .adr:before, .widget-container div.vcard .email:before, .widget-container div.vcard .fax:before, .widget-container div.vcard .tel:before, .widget-container div.vcard ul.social:before, .post-heading:before, #bannerspace .content h4, #bannerspace .content ul li:before, .entry-title a, .entry-utility:before, aside li.widget-container h3, aside li.widget-container .menu-button-menu-container a, #megaMenu ul#megaUber ul.sub-menu li h2, #megaMenu ul#megaUber ul.sub-menu li h2 a, #megaMenu ul#megaUber ul.sub-menu li.tips a, #megaMenu ul#megaUber ul.sub-menu li.tips a:before, .author h1 a, .category h1 span.category-title, .office-info .mr_social_sharing_wrapper:before, div.bm_form_manager th { color: #6d8c0b; }aside li.widget-container a.button, .contact-submit .wpcf7-submit, #megaMenu ul#megaUber ul.sub-menu li.widget_text a.button, .office-info a.button, #bannerspace .content blockquote, #bannerspace .content a, div.customer-care h3, div.ui-tabs ul.ui-tabs-nav li, .rating, .rating .score, .bm_aanmeldennieuwsbriefWidget h3.widget-title, .bm_aanmeldennieuwsbriefWidget input[type="submit"], div.bm_form_manager input[type="submit"], .cc_fields_signup input[type="submit"], #bm-cookies-more-info, .navigation a { background-color: #6d8c0b; }#bannerspace_wrap #bannerspace_nav span.activeSlide a { /* overriding colours set in bannerspace options */ background-color: #6d8c0b !important; }form div input:focus, form div textarea:focus, .avatar-wrapper { border-color: #6d8c0b; }</style>
+	</head>
+	<body class="error404 symple-shortcodes  symple-shortcodes-responsive" id="bm-body">
+        <!--[if lt IE 7]>
+            <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+        <![endif]-->
+
+	<div class="site-header-wrapper clearfix">
+		
+		<header role="banner">
+		<div>
+			<a href="https://www.lancyr.nl/" title="Lancyr - Binnen 5 minuten online verzekerd" rel="home">
+
+			<img src="https://websites.financieelmarketeers.nl/lancyr/wp-content/uploads/sites/46/2013/07/Lancyr701.png" alt="Lancyr - Binnen 5 minuten online verzekerd" />
+			<span id="header_office_name"></span>
+			</a>
+		</div>
+		</header>
+
+		<div class="user-options">
+			<ul>
+				<!-- <li><a class="button" href="#TODO:Link_Naar_Forum">Bezoek klantenforum</a></li> -->
+				<li class="search-widget" style="margin-right:0;"><form role="search" method="get" id="searchform" class="searchform" action="https://www.lancyr.nl/">
+				<div>
+					<label class="screen-reader-text" for="s">Zoeken naar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Zoeken" />
+				</div>
+			</form></li>
+							</ul>
+		</div>
+		<!-- /.user-options -->
+
+		<nav id="access" role="navigation">
+		  			<a id="skip" class="screen-reader-text" href="#content" title="Spring naar de inhoud">Spring naar de inhoud</a>
+						<div id="megaMenu" class="megaMenuContainer megaMenu-nojs megaResponsive megaResponsiveToggle megaFullWidth megaMenuHorizontal megaMenuOnHover wpmega-withjs wpmega-noconflict"><div id="megaMenuToggle" class="megaMenuToggle">Hoofdmenu&nbsp; <span class="megaMenuToggle-icon"></span></div><ul id="megaUber" class="megaMenu" data-theme-location="primary"><li id="menu-item-1837" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-0 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="https://www.lancyr.nl/zelf-verzekeren/"><span class="wpmega-link-title">Online Verzekeren</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-13214" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/verzekeringspakket/"><span class="wpmega-link-title">Verzekeringspakket</span></a></li><li id="menu-item-26851" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/lancyr-autoverzekering/"><span class="wpmega-link-title">Goedkope autoverzekering</span></a></li><li id="menu-item-26529" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/tijdelijke-autoverzekering/"><span class="wpmega-link-title">Tijdelijke autoverzekering</span></a></li><li id="menu-item-1839" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/autoverzekering-vergelijken/"><span class="wpmega-link-title">Autoverzekeringen vergelijken</span></a></li><li id="menu-item-1838" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/aansprakelijkheidsverzekering/"><span class="wpmega-link-title">Aansprakelijkheidsverzekering</span></a></li><li id="menu-item-26070" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/bootverzekering/"><span class="wpmega-link-title">Bootverzekering</span></a></li><li id="menu-item-25947" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/bromfietsverzekering/"><span class="wpmega-link-title">Bromfietsverzekering</span></a></li><li id="menu-item-25949" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/camperverzekering/"><span class="wpmega-link-title">Camperverzekering</span></a></li><li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/doorlopende-reisverzekering/"><span class="wpmega-link-title">Doorlopende reisverzekering</span></a></li><li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/inboedelverzekering/"><span class="wpmega-link-title">Inboedelverzekering</span></a></li><li id="menu-item-25948" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/motorverzekering/"><span class="wpmega-link-title">Motorverzekering</span></a></li><li id="menu-item-19938" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/oldtimerverzekering/"><span class="wpmega-link-title">Oldtimerverzekering</span></a></li><li id="menu-item-19937" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/ongevallenverzekering/"><span class="wpmega-link-title">Ongevallenverzekering</span></a></li><li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/opstalverzekering/"><span class="wpmega-link-title">Opstalverzekering</span></a></li><li id="menu-item-1844" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/rechtsbijstandverzekering/"><span class="wpmega-link-title">Rechtsbijstandverzekering</span></a></li><li id="menu-item-1843" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/rechtsbijstandverzekering-verkeer/"><span class="wpmega-link-title">Rechtsbijstandverzekering verkeer</span></a></li><li id="menu-item-30077" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/lancyr-zorgverzekering/"><span class="wpmega-link-title">Lancyr zorgverzekering 2018</span></a></li></ul>
+</li><li id="menu-item-27814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-1 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="https://www.lancyr.nl/zzp-verzekeringen/"><span class="wpmega-link-title">ZZP</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-28762" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/zzp-verzekeringen/aansprakelijkheidsverzekering-zzp/"><span class="wpmega-link-title">Aansprakelijkheidsverzekering ZZP</span></a></li><li id="menu-item-28645" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/zzp-verzekeringen/autoverzekering-zakelijk/"><span class="wpmega-link-title">Autoverzekering zakelijk</span></a></li><li id="menu-item-29538" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/zzp-verzekeringen/arbeidsongeschiktheidsverzekering-zzp/"><span class="wpmega-link-title">Arbeidsongeschiktheidsverzekering ZZP</span></a></li><li id="menu-item-28761" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/zzp-verzekeringen/beroepsaansprakelijkheidsverzekering-zzp/"><span class="wpmega-link-title">Beroepsaansprakelijkheidsverzekering ZZP</span></a></li><li id="menu-item-29456" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/zzp-verzekeringen/rechtsbijstandverzekering-zzp/"><span class="wpmega-link-title">Rechtsbijstandverzekering ZZP</span></a></li></ul>
+</li><li id="menu-item-1824" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-2 ss-nav-menu-item-depth-0 ss-nav-menu-mega ss-nav-menu-mega-alignCenter"><a href="https://www.lancyr.nl/spaarrente-vergelijken/" onclick="__gaTracker('send', 'event', 'outbound-menu', 'https://www.lancyr.nl/spaarrente-vergelijken/', 'Sparen');" title="Hoogste spaarrente vergelijken en direct online afsluiten"><span class="wpmega-link-title">Sparen</span></a></li><li id="menu-item-1822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-3 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="https://www.lancyr.nl/financieel-advies/"><span class="wpmega-link-title">Financieel advies</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/mijn-situatie/"><span class="wpmega-link-title">Levensfase wijzigingen</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-1836" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="https://www.lancyr.nl/mijn-situatie/trouwen/"><span class="wpmega-link-title">Trouwen</span></a></li><li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="https://www.lancyr.nl/mijn-situatie/gezinsuitbreiding/"><span class="wpmega-link-title">Gezinsuitbreiding</span></a></li><li id="menu-item-1832" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="https://www.lancyr.nl/mijn-situatie/echtscheiding/"><span class="wpmega-link-title">Echtscheiding</span></a></li><li id="menu-item-1834" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="https://www.lancyr.nl/mijn-situatie/ontslag/"><span class="wpmega-link-title">Ontslag</span></a></li>	</ul>
+</li><li id="menu-item-25913" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/financieel-advies/gratis-polis-analyse-service/"><span class="wpmega-link-title">Gratis Polis Analyse Service</span></a></li><li id="menu-item-1823" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/financieel-advies/verzekeringen/"><span class="wpmega-link-title">Verzekeringen</span></a></li><li id="menu-item-1825" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/financieel-advies/hypotheekadvies/"><span class="wpmega-link-title">Hypotheekadvies</span></a></li></ul>
+</li><li id="menu-item-26216" class="menu-item menu-item-type-custom menu-item-object-custom ss-nav-menu-item-4 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="http://www.lancyr.nl/category/blog/" onclick="__gaTracker('send', 'event', 'outbound-menu', 'http://www.lancyr.nl/category/blog/', 'Blog');" title="Nieuws en tips"><span class="wpmega-link-title">Blog</span></a></li><li id="menu-item-1826" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-5 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="https://www.lancyr.nl/klantenservice/"><span class="wpmega-link-title">Klantenservice</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-26519" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/mijn-verzekeringen/"><span class="wpmega-link-title">Mijn Verzekeringen</span></a></li><li id="menu-item-26171" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1 ss-nav-menu-highlight"><a href="https://www.lancyr.nl/schade-melden/"><span class="wpmega-link-title">Schade melden</span></a></li><li id="menu-item-26299" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/klantenservice/alarmnummers/"><span class="wpmega-link-title">Alarmnummers</span></a></li><li id="menu-item-1830" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/klantenservice/wijziging-doorgeven/"><span class="wpmega-link-title">Wijzigingen doorgeven</span></a></li><li id="menu-item-25994" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/veelgestelde-vragen/"><span class="wpmega-link-title">Veelgestelde vragen</span></a></li><li id="menu-item-28941" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/klantenservice/verzekeringskaarten/"><span class="wpmega-link-title">Verzekeringskaarten</span></a></li><li id="menu-item-1829" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/klantenservice/klacht-melden/"><span class="wpmega-link-title">Tevredenheid of klacht melden</span></a></li><li id="menu-item-3032" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/klantenservice/overzicht-polisvoorwaarden/"><span class="wpmega-link-title">Overzicht polisvoorwaarden</span></a></li><li id="menu-item-26122" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/vacatures/"><span class="wpmega-link-title">Vacatures</span></a></li><li id="menu-item-1855" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/links-en-downloads/"><span class="wpmega-link-title">Links en downloads</span></a></li></ul>
+</li><li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children mega-with-sub ss-nav-menu-item-6 ss-nav-menu-item-depth-0 ss-nav-menu-reg"><a href="https://www.lancyr.nl/contact/"><span class="wpmega-link-title">Contact</span></a>
+<ul class="sub-menu sub-menu-1">
+<li id="menu-item-1849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/over-ons/"><span class="wpmega-link-title">Over ons</span></a>
+	<ul class="sub-menu sub-menu-2">
+<li id="menu-item-29432" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-2"><a href="https://www.lancyr.nl/over-ons/zo-beoordelen-klanten-ons/"><span class="wpmega-link-title">Zo beoordelen klanten ons</span></a></li>	</ul>
+</li><li id="menu-item-26921" class="menu-item menu-item-type-post_type menu-item-object-page ss-nav-menu-item-depth-1"><a href="https://www.lancyr.nl/over-ons/websites-van-lancyr/"><span class="wpmega-link-title">Websites van Lancyr</span></a></li></ul>
+</li></ul></div>		</nav><!-- #access -->
+
+	</div>
+	<!-- /.site-header-wrapper -->
+
+	<div class="site-visual-wrapper">
+		<div class="site-visual">
+				</div>
+		<!-- /.site-visual -->
+	</div>
+	<!-- /.site-visual-wrapper -->
+
+	<div class="site-content-wrapper">
+		<div class="site-content">
+
+			<!-- breadcrumbs -->
+			<div class="breadcrumbs"><!-- Breadcrumb NavXT 5.6.0 -->
+<a title="Ga naar Lancyr." href="https://www.lancyr.nl" class="home">Lancyr</a> <span>»</span>404 Niet gevonden</div>			<!-- /breadcrumbs -->
+
+			<!-- quick info and team info only appear on the homepage -->
+									
+			<section id="content" role="main">
+			<article id="post-0" class="post error404 not-found" role="main">
+				<h1>Niet gevonden</h1>
+				<p>Onze excuses, de pagina die u zoekt is niet gevonden. Zoek verder op onze website of neem contact met ons op.</p>
+				<form role="search" method="get" id="searchform" class="searchform" action="https://www.lancyr.nl/">
+				<div>
+					<label class="screen-reader-text" for="s">Zoeken naar:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Zoeken" />
+				</div>
+			</form><script>document.getElementById('s') && document.getElementById('s').focus();</script>
+			</article>
+<!-- FILE:footer.php -->
+			</section><!-- #main -->
+
+				<!-- FILE:sidebar.php -->
+	<aside>
+				<ul class="xoxo">
+
+			
+<!-- secondary-widget-area -->
+<li id="text-7" class="widget-container widget_text"><h3 class="widget-title">Lancyr Autoverzekering</h3>			<div class="textwidget"><div id="kz">
+    <script src="https://code.komparu.com/w/__carinsurance.lancyr2/Fgkux/latest"></script>
+</div>
+</div>
+		</li><li id="text-19" class="widget-container widget_text">			<div class="textwidget"><div class="textwidget" style="height:450px;width:330px;">
+  <iframe style="height:100%;width:100%;" marginheight="0" marginwidth="0" name="AdvieskeuzeBannerscoreuitgebreidenreviews" scrolling="auto" src="https://www.advieskeuze.nl/go/banner?id=c0c2e619-fa1a-4f60-923b-88ca4488c70c&amp;slug=scoreuitgebreidenreviews&amp;properties=A_AcDBAEAAwQBEAEgASABIAEgDhFqZXJvZW4tZWdiZXJzAAA" frameborder="0"></iframe>
+</div></div>
+		</li><li id="bm_wijhelpengraagverderwidget-3" class="widget-container bm_wijhelpengraagverderWidget">			<div class="menu-button-menu-container">
+				<ul id="menu-button-menu" class="menu">
+					<li class="highlight menu-item menu-item-type-custom menu-item-object-custom"><a href="/contact">Wij helpen u graag verder</a></li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/contact">Maak vrijblijvend een (bel)afspraak</a></li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/contact">Stuur ons een e-mail</a></li>
+					<li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="tel:">Bel ons vrijblijvend </a></li>
+				</ul>
+			</div>
+			</li>		
+		</ul>
+	</aside>
+		</div>
+		<!-- /.site-content -->
+	</div>
+	<!-- /.site-content-wrapper -->
+	
+	<div class="office-info-wrapper">
+		<footer class="office-info" role="contentinfo">
+<!-- FILE:sidebar-footer.php -->
+
+
+
+					<ul class="widget-block">
+						<li id="text-2" class="widget-container widget_text">			<div class="textwidget"><script>
+$ = jQuery;
+$(document).ready(function() {
+	function getParam() {
+		var map = {};
+		var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function(m,key,value) {
+			map[key] = value;
+		});
+		return map;
+	}
+		
+	if (getParam()["profile"] && getParam()["code"] && $('iframe').length > 0){
+		var profile = getParam()["profile"];
+		var code = getParam()["code"];
+		var iframeUri = $('#content').find('iframe').attr('src');
+		var iframeUriClean = iframeUri.split('?')[0];
+		var kParam = iframeUri.split('?')[1];
+		var kId = kParam.split('=')[1];
+		console.log('\n\n\n\n'+kId)
+		if ( kId.length && kParam.length ) {
+			var newUri = iframeUriClean+'?profile='+profile+'&code='+code+'&'+kParam;
+		} else {
+			var newUri = iframeUriClean+'?profile='+profile+'&code='+code;
+		}
+		console.log('\n\n\n\n\n\n'+newUri+'\n\n\n\n\n\n');
+
+		$('#content').find('iframe').attr('src',newUri);
+	}
+});
+</script>
+<script>
+	var _urconfig = { sid: "81f33468-6555-454a-95f3-7c06fdd77789", aip: 0, usePageProtocol: false };
+	(function (d, s) {
+	    var js = d.createElement(s),
+	        sc = d.getElementsByTagName(s)[0];
+	    js.src = "https://hit.uptrendsdata.com/rum.min.js";
+	    js.async = "async";
+	    sc.parentNode.insertBefore(js, sc);
+	}(document, "script"));
+</script></div>
+		</li>					</ul>
+
+
+		</footer>
+		<!-- /.office-info -->
+	</div>
+	<!-- /.office-info-wrapper -->
+
+	<footer class="site-meta">
+		<nav>
+			<ul>
+				<li><a href="/sitemap">Sitemap</a></li>
+				<li><a href="/disclaimer">Disclaimer</a></li>
+				<li><a href="/privacy">Privacy</a></li>
+				<li><a href="/algemene-voorwaarden">Algemene Voorwaarden</a></li>
+									<li class="text">KVK: 27184817</li>
+													<li class="text">AFM: 12014012</li>
+							</ul>
+		</nav>
+		
+		<p class="copyright">Copyright <span class="highlight">&copy;</span> 2018 Lancyr</p>
+	</footer>
+	<!-- /.site-meta -->
+	
+	
+	<!-- FILE:sidebar-footer-landing.php -->
+
+
+<div class="footer-landing">
+	<footer class="landing-widgets">
+
+					<ul class="widget-block">
+											</ul>
+
+	</footer>
+	<!-- /.widgets -->
+</div>
+<!-- /.footer-landing -->
+	
+
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/jquery/ui/tabs.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/bm_about_author/js/bm_about_author.js?ver=1.0.0'></script>
+<script type='text/javascript'>
+var colomatduration = 'fast';
+var colomatslideEffect = 'slideFade';
+</script><script type="text/javascript" src="https://www.lancyr.nl/wp-content/themes/lancyr/js/script.js"></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/ubermenu/js/hoverIntent.js?ver=4.7.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var uberMenuSettings = {"speed":"300","trigger":"hoverIntent","orientation":"horizontal","transition":"slide","hoverInterval":"20","hoverTimeout":"400","removeConflicts":"on","autoAlign":"off","noconflict":"off","fullWidthSubs":"off","androidClick":"on","loadGoogleMaps":"off","repositionOnLoad":"off"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/ubermenu/js/ubermenu.min.js?ver=4.7.9'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.lancyr.nl\/wp-json\/","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Graag verifi\u00ebren dat je geen robot bent."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.8'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js?ver=1.6.5'></script>
+<script type='text/javascript' src='https://www.lancyr.nl/wp-includes/js/wp-embed.min.js?ver=4.7.9'></script>
+
+
+<!-- Shortcodes Ultimate custom CSS - begin -->
+<style type='text/css'>
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:5px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:5px 20px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-mrlm{font-size:11px;font-family:Verdana, Geneva, sans-serif !important;;vertical-align:top}
+.tg .tg-1hr3{font-weight:bold;font-size:11px;font-family:Verdana, Geneva, sans-serif !important;;background-color:#a41984;color:#ffffff;vertical-align:top}
+.tg .tg-706g{background-color:#f0f1f1;vertical-align:top}
+.tg .tg-8bte{font-size:11px;font-family:Verdana, Geneva, sans-serif !important;;background-color:#a41984;color:#ffffff;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+.tg .tg-uh5j{font-size:11px;font-family:Verdana, Geneva, sans-serif !important;;background-color:#f0f1f1;vertical-align:top}
+.su-button {background-color: #a41984 !important; border-color: #a22383 !important;} 
+</style>
+<!-- Shortcodes Ultimate custom CSS - end -->
+
+		<!-- Google-code voor remarketingtag -->
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 954867628;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+		</script>
+		<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+		</script>
+		<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/954867628/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+		</noscript>
+			</body>
+</html>

@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<title>Page not found | Catblogosphere</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://blog.catblogosphere.com/xmlrpc.php">
+	<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Catblogosphere &raquo; Feed" href="http://blog.catblogosphere.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Catblogosphere &raquo; Comments Feed" href="http://blog.catblogosphere.com/comments/feed/" />
+<!-- This site uses the Google Analytics by MonsterInsights plugin v6.2.7 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script type="text/javascript" data-cfasync="false">
+		var disableStr = 'ga-disable-UA-38076059-1';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-38076059-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('send','pageview','/404.html?page=' + document.location.pathname + document.location.search + '&from=' + document.referrer);
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/blog.catblogosphere.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='crayon-css'  href='http://blog.catblogosphere.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta' type='text/css' media='all' />
+<link rel='stylesheet' id='articulla-font-awesome-css'  href='http://blog.catblogosphere.com/wp-content/themes/articulla/assets/font-awesome/css/font-awesome.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='articulla-style-css'  href='http://blog.catblogosphere.com/wp-content/themes/articulla/style.css?ver=4.9.2' type='text/css' media='all' />
+<style id='articulla-style-inline-css' type='text/css'>
+body{ font-family: "Slabo 27px"; font-size: 16px; }label, input[type="submit"], .featured-post-item .post-date, .featured-post-item .post-title, .carousel-item .carousel-caption .carousel-title, .post .post-header, .post .post-readmore a, .link-pages > span, .link-pages a, .pagination, .post-single .post-taxonomy .post-taxonomy-heading, .post-single .post-share .post-share-heading, .author-info .author-detail .author-name, .comment-body .fn, .comment-body .comment-metadata a, .comment-body .comment-reply-link, .comment-respond .comment-reply-title, .archive-taxonomy h3, .archive-taxonomy h2, .widget .widget-title, .widget_recent_entries li:before, .posts-slider-widget .slider-item .slider-title, .widget-profile .profile-name, .site-footer .colophon { font-family: "Oswald"; }.top-menu, .site-menu, .mobile-menu-list > li > a { font-family: "Oswald"; }.widget-profile .profile-name span, .search-form .search-field { font-family: "Slabo 27px"; }.post .post-title, .carousel-item .carousel-caption .carousel-title { text-transform: none; letter-spacing: 2px; }.post .post-meta { text-transform: uppercase; letter-spacing: 2px; }.site-menu > li > a, .top-menu > li > a { text-transform: uppercase; letter-spacing: 2px; }body { background-color: #e6e7e8; background-image: url(  ); background-repeat: repeat; background-attachment: scroll; background-size: auto; background-position: left top; }a, .header-light .site-nav .site-menu > li > a:hover, .post .post-title a:hover, .post-single .post-taxonomy .post-tags a:hover, .author-info .author-detail .author-name a:hover, .comments-section .comment-respond a, .comment-respond #cancel-comment-reply-link:hover, .widget a:hover, .widget_categories li a:hover { color: #c03535; }input[type="submit"]:hover, .top-menu ul, .site-menu ul, .mobile-nav .mobile-menu-anchor, .mobile-menu-list, .featured-posts .owl-pagination .owl-page.active, .owl-carousel .owl-controls .owl-next:hover, .owl-carousel .owl-controls .owl-prev:hover, .post .post-readmore a:hover, .link-pages > span, .link-pages a:hover, .pagination span, .pagination a:hover, .post-single .post-taxonomy .post-category a:hover, .post-single .post-share a:hover, .author-info .author-detail .author-socials a:hover, .widget_tag_cloud .tagcloud a:hover { background: #c03535; }.top-menu ul:after, .site-menu ul:after { border-bottom-color: #c03535; } .post-single .post-taxonomy a:hover, .post-single .post-taxonomy .post-tags a:hover, .widget_tag_cloud .tagcloud a:hover { border-color: #c03535; }
+</style>
+<link rel='stylesheet' id='body-font-css'  href='http://fonts.googleapis.com/css?family=Slabo+27px%3Aregular&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='heading-font-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A300%2Cregular%2C700&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nav-font-css'  href='http://fonts.googleapis.com/css?family=Oswald%3A300%2Cregular%2C700&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='tipsy-css'  href='http://blog.catblogosphere.com/wp-content/plugins/wp-shortcode/css/tipsy.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mts_wpshortcodes-css'  href='http://blog.catblogosphere.com/wp-content/plugins/wp-shortcode/css/wp-shortcode.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='__EPYT__style-css'  href='http://blog.catblogosphere.com/wp-content/plugins/youtube-embed-plus/styles/ytprefs.min.css?ver=4.9.2' type='text/css' media='all' />
+<style id='__EPYT__style-inline-css' type='text/css'>
+
+                .epyt-gallery-thumb {
+                        width: 33.333%;
+                }
+                
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _EPYT_ = {"ajaxurl":"http:\/\/blog.catblogosphere.com\/wp-admin\/admin-ajax.php","security":"d1dbb89f6c","gallery_scrolloffset":"20","eppathtoscripts":"http:\/\/blog.catblogosphere.com\/wp-content\/plugins\/youtube-embed-plus\/scripts\/","epresponsiveselector":"[\"iframe.__youtube_prefs_widget__\"]","epdovol":"1","version":"11.8.5","evselector":"iframe.__youtube_prefs__[src], iframe[src*=\"youtube.com\/embed\/\"], iframe[src*=\"youtube-nocookie.com\/embed\/\"]","ajax_compat":"","stopMobileBuffer":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/contact-bank/assets/global/plugins/custom/js/custom.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var CrayonSyntaxSettings = {"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"http:\/\/blog.catblogosphere.com\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};
+var CrayonSyntaxStrings = {"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=_2.7.2_beta'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","is_debug_mode":"false","download_extensions":"doc,exe,js,pdf,ppt,tgz,zip,xls","inbound_paths":"","home_url":"http:\/\/blog.catblogosphere.com","track_download_as":"event","internal_label":"int","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js?ver=6.2.7'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/wp-shortcode/js/jquery.tipsy.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/wp-shortcode/js/wp-shortcode.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js?ver=4.9.2'></script>
+<link rel='https://api.w.org/' href='http://blog.catblogosphere.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://blog.catblogosphere.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://blog.catblogosphere.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+
+<link rel="stylesheet" href="http://blog.catblogosphere.com/wp-content/plugins/count-per-day/counter.css" type="text/css" />
+<meta name="google-site-verification" content="HBIXn48Bho_lbquVzSh8vbHM-W5LIDyX6D6DN84FlmM" /><!--[if IE 7]>
+<link rel="stylesheet" href="http://blog.catblogosphere.com/wp-content/plugins/wp-review/assets/css/wp-review-ie7.css">
+<![endif]-->
+<meta name="google-site-verification" content="0yD7R6iKgdaxX2fUVoWIdUMjCKe5fIMi8vrBHWjvvho" /><meta name="google-site-verification" content="bUtdU_BuckiBLR6r_z6Koof956UVTY_mLWv8hEmEsSI" /><meta name="google-site-verification" content="C_EtJVkO0W54iHCm-rNSEkgbpSyROf8246-TBOsJyG8" />	<link href="http://blog.catblogosphere.com/wp-content/uploads/2015/05/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<!-- All in one Favicon 4.5 --><!-- BEGIN GADWP v5.1.2.5 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-38076059-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+<!-- ## NXS/OG ## --><!-- ## NXSOGTAGS ## --><!-- ## NXS/OG ## -->
+<meta data-pso-pv="1.2.1" data-pso-pt="errorPage" data-pso-th="a5cb1255daebb6db71e67ac7538bda46"><script pagespeed_no_defer="" data-pso-version="20170403_083938">window.dynamicgoogletags={config:[]};dynamicgoogletags.config=["ca-pub-6379881958906210",null,[],null,null,null,null,null,null,null,null,null,0.001,"http://blog.catblogosphere.com"];(function(){var h=this,l=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";
+else if("function"==b&&"undefined"==typeof a.call)return"object";return b};var m=String.prototype.trim?function(a){return a.trim()}:function(a){return a.replace(/^[\s\xa0]+|[\s\xa0]+$/g,"")},p=function(a,b){return a<b?-1:a>b?1:0};var aa=Array.prototype.forEach?function(a,b,c){Array.prototype.forEach.call(a,b,c)}:function(a,b,c){for(var d=a.length,f="string"==typeof a?a.split(""):a,e=0;e<d;e++)e in f&&b.call(c,f[e],e,a)};var q=function(a){q[" "](a);return a};q[" "]=function(){};var ca=function(a,b){var c=ba;Object.prototype.hasOwnProperty.call(c,a)||(c[a]=b(a))};var r;a:{var t=h.navigator;if(t){var u=t.userAgent;if(u){r=u;break a}}r=""};var da=-1!=r.indexOf("Opera"),v=-1!=r.indexOf("Trident")||-1!=r.indexOf("MSIE"),ea=-1!=r.indexOf("Edge"),w=-1!=r.indexOf("Gecko")&&!(-1!=r.toLowerCase().indexOf("webkit")&&-1==r.indexOf("Edge"))&&!(-1!=r.indexOf("Trident")||-1!=r.indexOf("MSIE"))&&-1==r.indexOf("Edge"),fa=-1!=r.toLowerCase().indexOf("webkit")&&-1==r.indexOf("Edge"),x=function(){var a=h.document;return a?a.documentMode:void 0},y;
+a:{var z="",A=function(){var a=r;if(w)return/rv\:([^\);]+)(\)|;)/.exec(a);if(ea)return/Edge\/([\d\.]+)/.exec(a);if(v)return/\b(?:MSIE|rv)[: ]([^\);]+)(\)|;)/.exec(a);if(fa)return/WebKit\/(\S+)/.exec(a);if(da)return/(?:Version)[ \/]?(\S+)/.exec(a)}();A&&(z=A?A[1]:"");if(v){var B=x();if(null!=B&&B>parseFloat(z)){y=String(B);break a}}y=z}
+var C=y,ba={},D=function(a){ca(a,function(){for(var b=0,c=m(String(C)).split("."),d=m(String(a)).split("."),f=Math.max(c.length,d.length),e=0;0==b&&e<f;e++){var g=c[e]||"",k=d[e]||"";do{g=/(\d*)(\D*)(.*)/.exec(g)||["","","",""];k=/(\d*)(\D*)(.*)/.exec(k)||["","","",""];if(0==g[0].length&&0==k[0].length)break;b=p(0==g[1].length?0:parseInt(g[1],10),0==k[1].length?0:parseInt(k[1],10))||p(0==g[2].length,0==k[2].length)||p(g[2],k[2]);g=g[3];k=k[3]}while(0==b)}return 0<=b})},E;var F=h.document;
+E=F&&v?x()||("CSS1Compat"==F.compatMode?parseInt(C,10):5):void 0;var G=function(){},ga="function"==typeof Uint8Array,I=[],J=function(a,b){if(b<a.l){b+=a.j;var c=a.a[b];return c===I?a.a[b]=[]:c}c=a.f[b];return c===I?a.f[b]=[]:c},K=function(a){if(a.m)for(var b in a.m){var c=a.m[b];if("array"==l(c))for(var d=0;d<c.length;d++)c[d]&&K(c[d]);else c&&K(c)}};G.prototype.toString=function(){K(this);return this.a.toString()};var L=function(a,b){this.events=[];this.D=b||h;var c=null;b&&(b.google_js_reporting_queue=b.google_js_reporting_queue||[],this.events=b.google_js_reporting_queue,c=b.google_measure_js_timing);this.o=null!=c?c:Math.random()<a};L.prototype.disable=function(){aa(this.events,this.A,this);this.events.length=0;this.o=!1};L.prototype.A=function(a){var b=this.D.performance;a&&b&&b.clearMarks&&(b.clearMarks("goog_"+a.uniqueId+"_start"),b.clearMarks("goog_"+a.uniqueId+"_end"))};var ha=function(){var a=!1;try{var b=Object.defineProperty({},"passive",{get:function(){a=!0}});h.addEventListener("test",null,b)}catch(c){}return a}();var N=function(){var a=M;try{var b;if(b=!!a&&null!=a.location.href)a:{try{q(a.foo);b=!0;break a}catch(c){}b=!1}return b}catch(c){return!1}},O=function(a,b){for(var c in a)Object.prototype.hasOwnProperty.call(a,c)&&b.call(void 0,a[c],c,a)};var P=function(a,b,c,d,f){this.s=c||4E3;this.b=a||"&";this.v=b||",$";this.g=void 0!==d?d:"trn";this.J=f||null;this.u=!1;this.i={};this.F=0;this.c=[]},ja=function(a,b,c,d){b=b+"//"+c+d;var f=ia(a)-d.length-0;if(0>f)return"";a.c.sort(function(a,b){return a-b});d=null;c="";for(var e=0;e<a.c.length;e++)for(var g=a.c[e],k=a.i[g],H=0;H<k.length;H++){if(!f){d=null==d?g:d;break}var n=Q(k[H],a.b,a.v);if(n){n=c+n;if(f>=n.length){f-=n.length;b+=n;c=a.b;break}else a.u&&(c=f,n[c-1]==a.b&&--c,b+=n.substr(0,c),
+c=a.b,f=0);d=null==d?g:d}}e="";a.g&&null!=d&&(e=c+a.g+"="+(a.J||d));return b+e+""},ia=function(a){if(!a.g)return a.s;var b=1,c;for(c in a.i)b=c.length>b?c.length:b;return a.s-a.g.length-b-a.b.length-1},Q=function(a,b,c,d,f){var e=[];O(a,function(a,k){(a=R(a,b,c,d,f))&&e.push(k+"="+a)});return e.join(b)},R=function(a,b,c,d,f){if(null==a)return"";b=b||"&";c=c||",$";"string"==typeof c&&(c=c.split(""));if(a instanceof Array){if(d=d||0,d<c.length){for(var e=[],g=0;g<a.length;g++)e.push(R(a[g],b,c,d+1,
+f));return e.join(c[d])}}else if("object"==typeof a)return f=f||0,2>f?encodeURIComponent(Q(a,b,c,d,f+1)):"...";return encodeURIComponent(String(a))};var ma=function(a,b){var c=ka;if(c.I<(b||c.B))try{var d;a instanceof P?d=a:(d=new P,O(a,function(a,b){var c=d,e=c.F++,f={};f[b]=a;a=[f];c.c.push(e);c.i[e]=a}));var f=ja(d,c.H,c.C,c.G+"pso_unknown&");f&&la(f)}catch(e){}},la=function(a){h.google_image_requests||(h.google_image_requests=[]);var b=h.document.createElement("img");b.src=a;h.google_image_requests.push(b)};var S;if(!(S=!w&&!v)){var T;if(T=v)T=9<=Number(E);S=T}S||w&&D("1.9.1");v&&D("9");var na=document,oa=window;var pa=!!window.google_async_iframe_id,M=pa&&window.parent||window;var ka,U;if(pa&&!N()){var V="."+na.domain;try{for(;2<V.split(".").length&&!N();)na.domain=V=V.substr(V.indexOf(".")+1),M=window.parent}catch(a){}N()||(M=window)}U=M;var W=new L(1,U);ka=new function(){this.H="http:"===oa.location.protocol?"http:":"https:";this.C="pagead2.googlesyndication.com";this.G="/pagead/gen_204?id=";this.B=.01;this.I=Math.random()};
+if("complete"==U.document.readyState)U.google_measure_js_timing||W.disable();else if(W.o){var qa=function(){U.google_measure_js_timing||W.disable()};U.addEventListener?U.addEventListener("load",qa,ha?void 0:!1):U.attachEvent&&U.attachEvent("onload",qa)};var ra=function(){this.document=document},X=function(a,b,c){a=a.document.getElementsByTagName(b);for(b=0;b<a.length;++b)if(a[b].hasAttribute(c))return a[b].getAttribute(c);return null};var sa=function(){var a=window;return a.dynamicgoogletags=a.dynamicgoogletags||{}};var Y=function(a){var b=a;a=ta;this.m=null;b||(b=[]);this.j=-1;this.a=b;a:{if(this.a.length){var b=this.a.length-1,c=this.a[b];if(c&&"object"==typeof c&&"array"!=l(c)&&!(ga&&c instanceof Uint8Array)){this.l=b-this.j;this.f=c;break a}}this.l=Number.MAX_VALUE}if(a)for(b=0;b<a.length;b++)c=a[b],c<this.l?(c+=this.j,this.a[c]=this.a[c]||I):this.f[c]=this.f[c]||I};
+(function(){function a(){}a.prototype=G.prototype;Y.L=G.prototype;Y.prototype=new a;Y.K=function(a,c,d){for(var b=Array(arguments.length-2),e=2;e<arguments.length;e++)b[e-2]=arguments[e];return G.prototype[c].apply(a,b)}})();var ta=[3];var ua=function(){var a=sa().config;if(a){var b=new ra,a=new Y(a),c;c=J(a,13);if(c=null==c?c:+c){var d={};d.wpc=J(a,1);d.sv=X(b,"script","data-pso-version");d.tn=X(b,"meta","data-pso-pt");d.th=X(b,"meta","data-pso-th");d.w=0<window.innerWidth?window.innerWidth:null;d.h=0<window.innerHeight?window.innerHeight:null;ma(d,c)}}sa().loaded=!0};var Z=window;Z.addEventListener?Z.addEventListener("load",ua,!1):Z.attachEvent&&Z.attachEvent("onload",ua);})();
+</script><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-6379881958906210",
+    enable_page_level_ads: true
+  });
+</script>
+
+</head>
+<body class="error404 hard-shadow header-1 header-dark sticky-nav no-sidebar">
+
+	<div class="site-wrap">
+
+			<div id="top-search" class="top-search">
+		<div class="container">
+			<form method="get" action="http://blog.catblogosphere.com/">
+				<input type="text" class="top-search-input" placeholder="Type and press enter..." name="s">
+				<a href="#" class="search-anchor-close"><i class="fa fa-remove"></i></a>
+			</form>
+		</div>
+	</div>
+	
+		<div class="site-topbar ">
+			<div class="container cf">				
+					<div class="tagline">
+		 	</div>
+		<div class="top-socials">
+						<a href="https://www.facebook.com/TheCatBlogosphere" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+								<a href="https://twitter.com/catblogosphere" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+								<a href="https://plus.google.com/+CatBlogosphere" target="_blank" title="Google+"><i class="fa fa-google-plus"></i></a>
+								<a href="http://blog.catblogosphere.com/rss" target="_blank" title="RSS"><i class="fa fa-rss"></i></a>
+						<a href="#" class="search-anchor"><i class="fa fa-search"></i></a>
+	</div>
+				</div>
+		</div>
+		
+		<header class="site-header site-header-stars">
+			<div class="container cf site-header-cloud">
+
+					<div class="branding">
+		<div class="logo">
+			<a href="http://blog.catblogosphere.com/" title="Catblogosphere"><center><img src="http://blog.catblogosphere.com/wp-content/uploads/2015/05/cb-logo3.png" alt="Catblogosphere"></center></a>
+		</div><!-- .logo -->
+	</div><!-- .branding -->
+		
+
+
+				
+				<!--div class="kitties" style="margin:111px auto -20px 41px">
+					<img src="http://blog.catblogosphere.com/wp-content/uploads/2015/05/cb-header.png" alt="CB kitties">
+				</div-->
+				<!--div class="little-container">
+					<div class='little-isis'>
+						<img src="http://blog.catblogosphere.com/wp-content/uploads/2015/05/little-isis.png" alt="Little Isis">
+					</div>
+				</div-->
+				<!-- <div class="stars"><div class="twinkling"></div></div> -->
+			</div><!-- .container -->
+
+		</header><!-- .site-header -->
+
+		<nav class="site-nav">
+			<div class="container nav-container cf">
+				<div class="site-menu-wrap">				
+					<div class="menu-cb-container"><ul id="menu-cb" class="site-menu"><li id="menu-item-32257" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32257"><a href="http://blog.catblogosphere.com/">Home</a></li>
+<li id="menu-item-27976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27976"><a href="http://blog.catblogosphere.com/about/">About</a></li>
+<li id="menu-item-31528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31528"><a href="http://blog.catblogosphere.com/calendar/">Calendar</a></li>
+<li id="menu-item-31527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31527"><a href="http://blog.catblogosphere.com/logos/">Sidebar Badges</a></li>
+<li id="menu-item-31529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31529"><a href="http://blog.catblogosphere.com/goodies-from-our-cb-furriends/">CB Shops</a></li>
+<li id="menu-item-27974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27974"><a href="http://blog.catblogosphere.com/terms-of-use/">Terms of Use</a></li>
+<li id="menu-item-27975" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27975"><a href="http://blog.catblogosphere.com/contact/">Contact</a></li>
+</ul></div>
+					<div class="mobile-nav cf">
+						<div class="mobile-menu">
+							<a href="#" class="mobile-menu-anchor"><i class="fa fa-bars"></i></a>
+							<div class="menu-cb-container"><ul id="menu-cb-1" class="mobile-menu-list"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-32257"><a href="http://blog.catblogosphere.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27976"><a href="http://blog.catblogosphere.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31528"><a href="http://blog.catblogosphere.com/calendar/">Calendar</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31527"><a href="http://blog.catblogosphere.com/logos/">Sidebar Badges</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31529"><a href="http://blog.catblogosphere.com/goodies-from-our-cb-furriends/">CB Shops</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27974"><a href="http://blog.catblogosphere.com/terms-of-use/">Terms of Use</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27975"><a href="http://blog.catblogosphere.com/contact/">Contact</a></li>
+</ul></div>					
+						</div><!-- .mobile-menu -->
+							<div class="mobile-socials">
+						<a href="https://www.facebook.com/TheCatBlogosphere" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a>
+								<a href="https://twitter.com/catblogosphere" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a>
+								<a href="https://plus.google.com/+CatBlogosphere" target="_blank" title="Google+"><i class="fa fa-google-plus"></i></a>
+								<a href="http://blog.catblogosphere.com/rss" target="_blank" title="RSS"><i class="fa fa-rss"></i></a>
+						<a href="#" class="search-anchor"><i class="fa fa-search"></i></a>
+	</div>
+						</div><!-- .mobile-nav -->
+				</div>
+
+			</div>
+		</nav><!-- .site-nav -->
+
+		
+		
+		<div class="site-content">
+			<div class="container cf">
+<div class="content-wrap">
+	<div class="main-content">
+
+		<article class="post post-single page-404">
+	<div class="post-wrap cf">
+		<header class="post-header">
+			<h1 class="post-title">404: Nothing Found</h1>
+		</header>
+
+		<div class="post-content">
+					<p>It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.</p>
+			<form role="search" method="get" class="search-form" action="http://blog.catblogosphere.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</div>
+	</div>
+</article>
+	</div>
+</div>
+
+			</div>
+		</div><!-- .site-content -->
+		
+		<footer class="site-footer">
+			<div class="container cf">
+				<div class="footer-copyright">
+					<div class="colophon">
+						Copyright (c) 2018 <a href="http://blog.catblogosphere.com/">Catblogosphere</a>					</div>
+				</div>
+			</div>
+		</footer>
+
+	</div><!-- .site-wrap -->
+	
+	<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/readmore-readless/js/readmore.min.js?ver=1.0.0'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/imagesloaded.min.js?ver=3.2.0'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/masonry.min.js?ver=3.3.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/themes/articulla/assets/js/plugins.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/themes/articulla/assets/js/theme.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/page-links-to/js/new-tab.min.js?ver=2.9.8'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"catblogosphere"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://blog.catblogosphere.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.9.2'></script>
+	
+</body>
+</html>

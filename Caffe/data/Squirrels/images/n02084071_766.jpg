@@ -1,0 +1,442 @@
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="ie6 lte8"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie7 lte8"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie8 lte8"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html>
+  <!--<![endif]-->
+  <head>
+       		
+
+
+               
+       		<meta charset="utf-8"/>
+
+  <title>404 - Pagina helaas niet gevonden</title>
+
+	
+
+
+<meta name="description" content="	
+"/>
+
+<!-- See: http://support.google.com/webmasters/bin/answer.py?hl=nl&answer=79812 -->
+<meta name="robots" content="NOODP"/>
+
+
+<!-- Mobile viewport optimisation -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+<!-- Always force latest IE rendering engine & Chrome Frame -->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico"/>
+               
+       		
+  
+    
+    
+          
+                  
+                      	<link rel="stylesheet" type="text/css" href="/global/css/minifier.css?uris=/global/css/base.css&amp;1" />
+                    
+      
+  
+    
+    
+          
+                  
+                      	<link rel="stylesheet" type="text/css" href="/global/css/minifier.css?uris=/global/css/jquery.fancybox.css&amp;1" />
+                    
+      
+
+  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+      
+      
+  
+  
+               
+               		<script type="text/javascript" data-search-index="false">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-45522237-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+  ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+       
+  </head>
+  
+  <body>
+    <div id="content" class="offcanvas-content clearfix">
+      
+      <header>
+        <div class="container">  
+          <div class="clearfix">
+            <div class="pull-left hidden-md hidden-lg">
+              <span class="offcanvas-toggle">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </span><!--do not use an <a>, this has undesired effects on an iPhone -->
+            </div>
+            
+            <div class="pull-left logo">
+              <a href="/"><img src="/contentAsset/raw-data/645b9060-24ea-4d85-a158-5593a9cdc52b/bedrijfslogo" alt=""></a>
+            </div>
+            
+               		  
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <ul class="nav nav-pills nav-main hidden-xs hidden-sm pull-right">
+      <li >
+      <a href="/dakbedekking" >Dakbedekking</a>
+    </li>
+      <li >
+      <a href="/verwarming" >Verwarming</a>
+    </li>
+      <li >
+      <a href="/diensten" >Diensten</a>
+    </li>
+      <li >
+      <a href="/apk-gas" >APK gas</a>
+    </li>
+      <li >
+      <a href="/contact" >Contact</a>
+    </li>
+    <li> 
+    <a href="tel:010-422 86 11" class="btn btn-info btn-lg" role="button">
+      <span class="icon-phone"></span>010-422 86 11
+    </a>
+  </li>
+</ul>
+
+      
+      
+  
+  
+                                       
+          </div>
+        </div>
+      </header>
+      
+      <main>
+        
+        <div class="container-fluid horizontal-nav hidden-xs hidden-sm">
+          <div class="container">
+            <div class="row">
+                 		              
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+<style>
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+ }
+  .dropdown-menu {
+    background-color: #00B2CB; 
+  }
+  .dropdown-menu a {
+    margin-left: auto;
+    margin-right: auto;
+    display: block !important; 
+  }
+</style>
+          
+      
+      
+    
+  
+                                           </div>
+          </div>
+        </div>
+        
+        <div class="container-fluid">
+          <div class="row">
+            <div class="jumbotron">
+                                             		 <div class="jumbotron-cover" style="background-image:url(/global/images/homepage-banner.jpg)">&nbsp;</div> 
+               </div>
+          </div>
+        </div>
+                           		          
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+                      
+<div class="container">
+    <div class="row">
+        <div>
+            <ol class="breadcrumb">
+                <li><a href="/">Home</a></li>
+                                <li><a href="/error">error</a></li>
+                            </ol>
+        </div>
+    </div>
+</div>
+
+
+
+      
+      
+    
+  
+           <div class="container">
+          <div class="row">
+            
+               		      	
+		   
+			         				         		
+   		       
+	     <div>
+<div>
+<h1>Pagina niet gevonden</h1>
+<p>Helaas kon de pagina die u zocht niet gevonden worden.&nbsp;De pagina bestaat niet meer, is verhuisd of u heeft een verkeerde link gekregen of gebruikt.</p>
+<h2>Wat nu?</h2>
+<p>Ga naar de <a href="/">homepage<br /></a>Neem direct <a href="/contact/">contact </a>op</p>
+</div>
+</div>
+         
+                                       
+          </div>
+        </div>
+        
+                           		<div class="container-fluid grey maps-wrapper">
+  <div class="row">
+    <div id="map-canvas"></div>
+    <div id="maps-info">
+      <span class="h1">Neem direct contact op</span>
+      <span class="h2">Met een ervaren installateur</span>
+      <p><a href="/contact/" class="btn btn-primary btn-lg" role="button">Contact opnemen</a></p>
+    </div>
+  </div>
+</div>
+         </main>
+      
+      <footer>
+           		          
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          
+<div class="footer-nav">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                							<h4>Neem direct contact op</h4>
+<ul class="list-unstyled">
+  <li>
+    <a href="/contact">Contact</a><br/>
+    <a href="/contact/afspraak-maken.html">Afspraak maken</a><br/>
+    <a href="/contact/offerte-aanvragen.html">Offerte aanvragen</a>
+  </li>
+</ul>
+
+<ul class="list-unstyled">
+  <li>
+    <a href="/acties/folder">Bekijk onze folder</a><br/>
+  </li>
+</ul>
+	            </div>
+            <div class="col-sm-8">
+                <h4><a href="/contact/">Van der Lely BV</a></h4>
+                <ul class="list-unstyled">
+                    <li>
+                        Nachtschadestraat 16 <br/>
+                        3053 JW Rotterdam <br/>
+                        010-422 86 11<br/>
+                                            </li>
+                </ul>
+            </div>
+            <div class="col-sm-8">
+                <div class="social-media">
+                    <h4>Volg ons</h4>
+                    <ul class="list-unstyled clearfix">
+                                                    <li><a target="_blank" href="https://twitter.com/instalcenter"><i class="fa fa-twitter"></i></a></li>
+                                                                            <li><a target="_blank" href="https://nl-nl.facebook.com/instalcenter" ><i class="fa fa-facebook"></i></a></li>
+                                                                            <li><a target="_blank" href="http://www.youtube.com/channel/UCQ_nZ9y91ETMLwJ0kbNn0jg" ><i class="fa fa-youtube"></i></a></li>
+                                            </ul>
+                </div>
+                <h4>Aangesloten bij</h4>
+                <ul class="list-unstyled">
+                    <li class="bib"><a href="http://www.instalcenter.nl" target="_blank">&nbsp;</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="footer-sub">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-24">
+                <h4>Copyright 2014-2017 - Aangesloten bij InstalCenter</h4>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+      
+      
+    
+  
+                         </footer>
+      
+    </div>
+    
+               		          
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <aside class="offcanvas-menu">
+    <nav>
+        <ul class="nav nav-pills nav-stacked nav-offcanvas">
+            <li>
+                <a href="/">Home</a>
+            </li>
+
+            
+                            
+                                                                                                                                                                            <li>
+                        <a href="/dakbedekking" class="  no-active-child">Dakbedekking</a>
+                        <ul>
+                                                        <li ><a href="/dakbedekking/dakisolatie">Dakisolatie</a></li>
+                                                        <li ><a href="/dakbedekking/dakshingles">Dakshingles</a></li>
+                                                        <li ><a href="/dakbedekking/nokvorsten">Nokvorsten</a></li>
+                                                    </ul>
+                    </li>
+                                                                
+                                                                                                                                                                                                                        <li>
+                        <a href="/verwarming" class="  no-active-child">Verwarming</a>
+                        <ul>
+                                                        <li ><a href="/verwarming/cv-ketels">CV Ketels</a></li>
+                                                        <li ><a href="/verwarming/evohome">Evohome</a></li>
+                                                        <li ><a href="/verwarming/radiatoren">Radiatoren</a></li>
+                                                        <li ><a href="/verwarming/vloerverwarming">Vloerverwarming</a></li>
+                                                    </ul>
+                    </li>
+                                                                
+                                                                                                                                                                                                                                                                                                                <li>
+                        <a href="/diensten" class="  no-active-child">Diensten</a>
+                        <ul>
+                                                        <li ><a href="/diensten/loodwerk">Loodwerk</a></li>
+                                                        <li ><a href="/diensten/pv-panelen">PV panelen</a></li>
+                                                        <li ><a href="/diensten/riolering">Riolering</a></li>
+                                                        <li ><a href="/diensten/sanitair">Sanitair</a></li>
+                                                        <li ><a href="/diensten/zinkwerk">Zinkwerk</a></li>
+                                                        <li ><a href="/diensten/dakgootpreventie">Dakgootpreventie</a></li>
+                                                    </ul>
+                    </li>
+                                                                                    <li  ><a href="/apk-gas">APK gas</a></li>
+                                            
+                                                                                                                                                                                                                                                                    <li>
+                        <a href="/contact" class="  no-active-child">Contact</a>
+                        <ul>
+                                                        <li ><a href="/contact/over-ons">Over ons</a></li>
+                                                        <li ><a href="/contact/offerte-aanvragen.html">Offerte aanvragen</a></li>
+                                                        <li ><a href="/contact/afspraak.html">Afspraak maken</a></li>
+                                                        <li ><a href="/contact/thuis-magazine.html">Thuis magazine</a></li>
+                                                        <li ><a href="/contact/vacatures">Vacatures</a></li>
+                                                    </ul>
+                    </li>
+                                                        </ul>
+    </nav>
+</aside>
+      
+      
+    
+  
+       
+       		          
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          	
+      
+        
+    
+          
+      	    	   	    	   	  	<script type="text/javascript" src="/global/js/vendor/minifier.js?uris=/global/js/vendor/jquery-1.10.2.min.js,
+/global/js/vendor/jquery-validation-1.11.1/jquery.validate.js,
+/global/js/vendor/jquery-validation-1.11.1/additional-methods.js,
+/global/js/vendor/bootstrap-3.1.1/modal.js,
+/global/js/vendor/bootstrap-3.1.1/tooltip.js,
+/global/js/jquery.isaac.offcanvas.js,
+/global/js/vendor/bootstrap-3.1.1/transition.js,
+/global/js/vendor/bootstrap-3.1.1/dropdown.js,
+/global/js/vendor/bootstrap-3.1.1/collapse.js,
+/global/js/jquery.fancybox.pack.js,
+/global/js/isaac.dom-bootstrap.js,
+/global/js/bootstrap.js&amp;1"></script>
+  	   	  	    	        
+      
+      
+    
+  
+               
+               		          
+      
+  
+              	    	    		  		  	  	  		  		  		  	      
+              
+        
+          <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key="></script>
+<script>
+    var map;
+      function initialize() {
+        var myLatlng = new google.maps.LatLng(51.96725,4.46643);
+        var mapOptions = {
+          zoom: 15,
+          center: myLatlng,
+          scrollwheel: false,
+          navigationControl: false,
+          mapTypeControl: false,
+          scaleControl: false,
+          disableDefaultUI: true
+      };
+
+      map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
+
+      var marker = new google.maps.Marker({
+        position: myLatlng,
+        map: map
+      });
+
+    }
+
+    google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+
+      
+      
+    
+  
+       
+  </body>
+  
+</html>

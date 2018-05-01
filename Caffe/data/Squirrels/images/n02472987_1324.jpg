@@ -1,0 +1,722 @@
+<!DOCTYPE html>
+<html lang="nl-NL" prefix="og: http://ogp.me/ns#" class="html_stretched responsive av-preloader-disabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_slim html_header_sticky html_header_shrinking html_header_topbar_active html_mobile_menu_phone html_disabled html_header_searchicon html_content_align_center html_header_unstick_top_disabled html_header_stretch_disabled ">
+<head>
+<meta charset="UTF-8" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Pagina niet gevonden - Letsgoactive</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v6.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noindex,follow"/>
+<meta property="og:locale" content="nl_NL" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Pagina niet gevonden - Letsgoactive" />
+<meta property="og:site_name" content="Letsgoactive" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Pagina niet gevonden - Letsgoactive" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"https:\/\/www.letsgoactive.nl\/","name":"Letsgoactive","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.letsgoactive.nl\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Letsgoactive &raquo; Feed" href="https://www.letsgoactive.nl/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Letsgoactive &raquo; Reactiesfeed" href="https://www.letsgoactive.nl/comments/feed/" />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=Open+Sans:400,600' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.letsgoactive.nl\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56794,8205,9794,65039],[55358,56794,8203,9794,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='flick-css'  href='https://www.letsgoactive.nl/wp-content/plugins/mailchimp//css/flick/flick.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_main_css-css'  href='https://www.letsgoactive.nl/?mcsf_action=main_css&#038;ver=4.9.2' type='text/css' media='all' />
+<!--[if IE]>
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://www.letsgoactive.nl/wp-content/plugins/mailchimp/css/ie.css?ver=4.9.2' type='text/css' media='all' />
+<![endif]-->
+<link rel='stylesheet' id='dashicons-css'  href='https://www.letsgoactive.nl/wp-includes/css/dashicons.min.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elusive-css'  href='https://www.letsgoactive.nl/wp-content/plugins/menu-icons/vendor/kucrut/icon-picker/css/types/elusive.min.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.letsgoactive.nl/wp-content/plugins/menu-icons/vendor/kucrut/icon-picker/css/types/font-awesome.min.css?ver=4.7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='foundation-icons-css'  href='https://www.letsgoactive.nl/wp-content/plugins/menu-icons/vendor/kucrut/icon-picker/css/types/foundation-icons.min.css?ver=3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='https://www.letsgoactive.nl/wp-content/plugins/menu-icons/vendor/kucrut/icon-picker/css/types/genericons.min.css?ver=3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='menu-icons-extra-css'  href='https://www.letsgoactive.nl/wp-content/plugins/menu-icons/css/extra.min.css?ver=0.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.letsgoactive.nl/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wpml-legacy-horizontal-list-0-css'  href='https://www.letsgoactive.nl/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.css?ver=1' type='text/css' media='all' />
+<style id='wpml-legacy-horizontal-list-0-inline-css' type='text/css'>
+.wpml-ls-statics-shortcode_actions{background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions, .wpml-ls-statics-shortcode_actions .wpml-ls-sub-menu, .wpml-ls-statics-shortcode_actions a {border-color:#EEEEEE;}.wpml-ls-statics-shortcode_actions a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions a:hover,.wpml-ls-statics-shortcode_actions a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-shortcode_actions .wpml-ls-current-language:hover>a, .wpml-ls-statics-shortcode_actions .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;}
+#lang_sel img, #lang_sel_list img, #lang_sel_footer img { display: inline; }
+</style>
+<link rel='stylesheet' id='tt-easy-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Shadows+Into+Light%3Aregular&#038;subset=latin%2Call&#038;ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-wpml-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/config-wpml/wpml-mod.css?ver=4.9.2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/grid.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/base.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/layout.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/shortcodes.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://www.letsgoactive.nl/wp-content/uploads/dynamic_avia/enfold_child.css?ver=5a2eaea1a58b0' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/css/custom.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold-child/style.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-gravity-css'  href='https://www.letsgoactive.nl/wp-content/themes/enfold/config-gravityforms/gravity-mod.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='footer-credits-css'  href='https://www.letsgoactive.nl/wp-content/plugins/footer-putter/styles/footer-credits.css?ver=1.14.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mc4wp-form-basic-css'  href='https://www.letsgoactive.nl/wp-content/plugins/mailchimp-for-wp/assets/css/form-basic.min.css?ver=4.1.13' type='text/css' media='all' />
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/mailchimp//js/scrollTo.js?ver=1.5.7'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/jquery/jquery.form.min.js?ver=4.2.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mailchimpSF = {"ajax_url":"https:\/\/www.letsgoactive.nl\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/mailchimp//js/mailchimp.js?ver=1.5.7'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/mailchimp//js/datepicker.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/themes/enfold/js/avia-compat.js?ver=2'></script>
+<script type='text/javascript'>
+var mejsL10n = {"language":"nl","strings":{"mejs.install-flash":"Je gebruikt een browser die geen Flash Player heeft ingeschakeld of ge\u00efnstalleerd. Zet de Flash Player-plugin aan of download de nieuwste versie van https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen-off":"Volledig scherm uitzetten","mejs.fullscreen-on":"Volledig scherm","mejs.download-video":"Video downloaden","mejs.fullscreen":"Volledig scherm","mejs.time-jump-forward":["Ga 1 seconde vooruit","Ga %1 seconden vooruit"],"mejs.loop":"Loop aan-\/uitzetten ","mejs.play":"Afspelen","mejs.pause":"Pauzeren","mejs.close":"Sluiten","mejs.time-slider":"Tijdschuifbalk","mejs.time-help-text":"Gebruik de Links\/Rechts-pijltoetsen om \u00e9\u00e9n seconde vooruit te spoelen, Omhoog\/Omlaag-pijltoetsen om tien seconden vooruit te spoelen.","mejs.time-skip-back":["1 seconde terugspoelen","Ga %1 seconden terug"],"mejs.captions-subtitles":"Ondertitels","mejs.captions-chapters":"Hoofdstukken","mejs.none":"Geen","mejs.mute-toggle":"Geluid aan-\/uitzetten","mejs.volume-help-text":"Gebruik Omhoog\/Omlaag-pijltoetsen om het volume te verhogen of te verlagen.","mejs.unmute":"Geluid aan","mejs.mute":"Afbreken","mejs.volume-slider":"Volumeschuifbalk","mejs.video-player":"Videospeler","mejs.audio-player":"Audiospeler","mejs.ad-skip":"Advertentie overslaan","mejs.ad-skip-info":["Overslaan in 1 seconde","Overslaan in %1 seconden"],"mejs.source-chooser":"Kies bron","mejs.stop":"Stop","mejs.speed-rate":"Snelheidsniveau","mejs.live-broadcast":"Live uitzending","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanees","mejs.arabic":"Arabisch","mejs.belarusian":"Wit-Russisch","mejs.bulgarian":"Bulgaars","mejs.catalan":"Catalaans","mejs.chinese":"Chinees","mejs.chinese-simplified":"Chinees (Versimpeld)","mejs.chinese-traditional":"Chinees (Traditioneel)","mejs.croatian":"Kroatisch","mejs.czech":"Tsjechisch","mejs.danish":"Deens","mejs.dutch":"Nederlands","mejs.english":"Engels","mejs.estonian":"Estlands","mejs.filipino":"Filipijns","mejs.finnish":"Fins","mejs.french":"Frans","mejs.galician":"Galicisch","mejs.german":"Duits","mejs.greek":"Grieks","mejs.haitian-creole":"Ha\u00eftiaans Creools","mejs.hebrew":"Hebreeuws","mejs.hindi":"Hindi","mejs.hungarian":"Hongaars","mejs.icelandic":"IJslands","mejs.indonesian":"Indonesisch","mejs.irish":"Iers","mejs.italian":"Italiaans","mejs.japanese":"Japans","mejs.korean":"Koreaans","mejs.latvian":"Lets","mejs.lithuanian":"Litouws","mejs.macedonian":"Macedonisch","mejs.malay":"Maleis","mejs.maltese":"Maltees","mejs.norwegian":"Noors","mejs.persian":"Perzisch","mejs.polish":"Pools","mejs.portuguese":"Portugees","mejs.romanian":"Roemeens","mejs.russian":"Russisch","mejs.serbian":"Servisch","mejs.slovak":"Slovaaks","mejs.slovenian":"Sloveens","mejs.spanish":"Spaans","mejs.swahili":"Swahili","mejs.swedish":"Zweeds","mejs.tagalog":"Tagalog","mejs.thai":"Thais","mejs.turkish":"Turks","mejs.ukrainian":"Oekra\u00efens","mejs.vietnamese":"Vietnamees","mejs.welsh":"Wels","mejs.yiddish":"Jiddisch"}};
+</script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.6-78496d1'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<link rel='https://api.w.org/' href='https://www.letsgoactive.nl/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.letsgoactive.nl/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.letsgoactive.nl/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.9.2" />
+<meta name="generator" content="WPML ver:3.8.4 stt:38,1;" />
+<!-- Hotjar Tracking Code for https://www.letsgoactive.nl -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:604814,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script type="text/javascript">
+        jQuery(function($) {
+            $('.date-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd/yyyy';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: true,
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+            });
+            d = new Date();
+            $('.birthdate-pick').each(function() {
+                var format = $(this).data('format') || 'mm/dd';
+                format = format.replace(/yyyy/i, 'yy');
+                $(this).datepicker({
+                    autoFocusNextInput: true,
+                    constrainInput: false,
+                    changeMonth: true,
+                    changeYear: false,
+                    minDate: new Date(d.getFullYear(), 1-1, 1),
+                    maxDate: new Date(d.getFullYear(), 12-1, 31),
+                    beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
+                    dateFormat: format.toLowerCase(),
+                });
+
+            });
+
+        });
+    </script>
+<link rel="profile" href="https://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="Letsgoactive RSS2 Feed" href="https://www.letsgoactive.nl/feed/" />
+<link rel="pingback" href="https://www.letsgoactive.nl/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://www.letsgoactive.nl/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://www.letsgoactive.nl/wp-content/uploads/2016/08/fav-icon.jpg" type="image/x-icon">
+		<style type="text/css" id="wp-custom-css">
+			/*
+Je kunt hier je eigen CSS toevoegen.
+
+Klik op het help icoon om meer te leren.
+*/ 
+ #full_slider_2 h2.avia-caption-title span  ,  #full_slider_1 h2.avia-caption-title span {
+    font-size: 40px;
+    vertical-align: top;
+    line-height: 76px;
+}
+li#menu-item-4855 a .avia-menu-text , li#menu-item-3557 a .avia-menu-text{
+position:relative;
+}
+li#menu-item-4855 a .avia-menu-text .trade ,li#menu-item-3557 a .avia-menu-text .trade {
+position: absolute;
+    right: -10px !important;
+    font-size: 11px;
+   
+    line-height: 100%;
+    display: inline-block !important;
+    opacity: 1 !important;
+    top: 0;
+}
+@media (min-width: 240px) and (max-width: 767px){
+:lang(en) #footer #text-44 ,:lang(en) #footer #text-45 {
+    margin: 0 !important;
+}
+.page-id-2 #full_slider_2 h2.avia-caption-title span , .page-id-2113 #full_slider_1 h2.avia-caption-title span {
+    font-size: 20px;
+    vertical-align: top;
+    line-height: 23px;
+}
+}
+:lang(nl) #footer #text-45 , :lang(nl) #footer #text-44{display:none;}
+:lang(en) .en .top25icons {
+    padding: 0 5px;
+}
+:lang(en) #footer #mc4wp_form_widget-2 , :lang(en) #footer #text-3 , :lang(en) #footer #text-4{display:none;}
+/* footer and */
+.iconbox_top .iconbox_content {padding: 28px 20px 10px 20px;}
+.iconbox_top .iconbox_content h2{font-size:14px !important;}
+.wpml-ls-statics-shortcode_actions {
+    background-color: #622E78;
+}
+#header_meta #lang_sel_list {
+    padding:1px 0 !important;
+}
+ul#menu-our-training-programs a {
+    color: #622e78;
+    font-size: 14px;
+}
+ul#menu-our-training-programs a:hover {
+    color: #b8ce4b;
+}
+div#footer:after {
+    content: ' ';
+    height: 35px ;
+    max-width: 14% !important;
+    background-size: contain;
+    margin: auto;
+}
+#text-42.widget {
+    padding: 0;
+}
+ .entry-content-wrapper .av_textblock_section h6 {
+    font-size: 45px;
+}
+#footer #footer-credits ul li:before, #footer-credits ul li:before {
+    color: #444;
+}
+.textwidget .person p.app {color: #696969;}
+
+:lang(en) .custom-footer #footer-credits #menu-item-3637,:lang(en) .custom-footer #footer-credits #menu-item-3638{display:none;}
+
+#footer-credits ul li a{color:#444;}
+:lang(en) #footer #newsbox-2,:lang(en) #footer #nav_menu-24{display:none;}
+@media  (max-width: 1580px){
+.textwidget .person p.app {
+    font-size: 15px;
+}
+.textwidget .person .av_one_half a {
+    font-size: 19px;
+}
+}
+/** 11-8 end  **/
+
+/custom css/
+.flex_column.av_one_fourth {
+  width: 100%;
+}
+@media (min-width: 768px) and (max-width: 1199px)
+{
+.avia-testimonial.av_one_fourth {
+    width: 100% !important;
+    margin-left: 6%;
+}
+.avia-testimonial .flex_column{margin: 0;
+    margin-bottom: 20px;
+}
+.responsive #top .avia-testimonial {
+    border-bottom-style: dashed;
+    border-bottom-width: 1px;
+}
+.responsive .avia-testimonial {
+    padding: 20px 0;
+    border-right: none;
+    margin: 0;
+}
+.responsive .avia-testimonial{display: block;
+    width: 100%;
+    float: none;
+}
+.avia-animated-number-title {
+    font-size: 28px !important;}
+}
+
+		</style>
+	<style id="tt-easy-google-font-styles" type="text/css">p { }
+h1 { }
+h2 { }
+h3 { }
+h4 { }
+h5 { }
+h6 { font-family: 'Shadows Into Light'; font-style: normal; font-weight: 400; }
+</style>
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 3.7.1
+Installed: enfold
+AviaFramework Version: 4.5.3
+AviaBuilder Version: 0.9
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:512-PU:92-PLA:25
+WP:4.9.2
+Updates: disabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('https://www.letsgoactive.nl/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('https://www.letsgoactive.nl/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('https://www.letsgoactive.nl/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('https://www.letsgoactive.nl/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('https://www.letsgoactive.nl/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+</style><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-11163979-2', 'auto');
+ga('send', 'pageview');
+
+</script>
+</head>
+
+
+
+
+<body data-rsssl=1 id="top" class="error404 stretched open_sans helvetica-neue-websave _helvetica_neue " itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	
+	<div id='wrap_all'>
+
+	
+
+
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_slim av_header_sticky av_header_shrinking av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top_disabled av_seperator_small_border av_bottom_nav_disabled '  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>
+		<div id='header_meta' class='container_wrap container_wrap_meta  av_icon_active_right av_extra_header_active av_secondary_left av_phone_active_right'>
+
+		
+
+			      <div class='container'>
+
+			      
+<div class="lang_sel_list_horizontal wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-list-horizontal" id="lang_sel_list">
+	<ul><li class="icl-nl wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-nl wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.letsgoactive.nl" class="lang_sel_sel"><span class="wpml-ls-native icl_lang_sel_native">NL</span></a>
+			</li><li class="icl-en wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-last-item wpml-ls-item-legacy-list-horizontal">
+				<a href="https://www.letsgoactive.nl/?lang=en" class="lang_sel_other"><span class="wpml-ls-native icl_lang_sel_native">ENG</span></a>
+			</li></ul>
+</div><ul class='noLightbox social_bookmarks icon_count_5'><li class='social_bookmarks_facebook av-social-link-facebook social_icon_1'><a target='_blank' href='https://www.facebook.com/LetsgoactiveNL/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Facebook'><span class='avia_hidden_link_text'>Facebook</span></a></li><li class='social_bookmarks_gplus av-social-link-gplus social_icon_2'><a target='_blank' href='https://plus.google.com/+LetsgoactiveNl' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Gplus'><span class='avia_hidden_link_text'>Gplus</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_3'><a target='_blank' href='https://twitter.com/Letsgoactive' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter'><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_linkedin av-social-link-linkedin social_icon_4'><a target='_blank' href='https://www.linkedin.com/company/letsgoactive-the-hospitality-company' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Linkedin'><span class='avia_hidden_link_text'>Linkedin</span></a></li><li class='social_bookmarks_instagram av-social-link-instagram social_icon_5'><a target='_blank' href=' https://www.instagram.com/letsgoactive/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Instagram'><span class='avia_hidden_link_text'>Instagram</span></a></li></ul><nav class='sub_menu'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><ul class='avia_wpml_language_switch avia_wpml_language_switch_extra'><li class='language_nl avia_current_lang'><a href='https://www.letsgoactive.nl'>	<span class='language_flag'><img title='NL' src='https://www.letsgoactive.nl/wp-content/plugins/sitepress-multilingual-cms/res/flags/nl.png' alt='NL' /></span>	<span class='language_native'>NL</span>	<span class='language_translated'>NL</span>	<span class='language_code'>nl</span></a></li><li class='language_en '><a href='https://www.letsgoactive.nl/?lang=en'>	<span class='language_flag'><img title='ENG' src='https://www.letsgoactive.nl/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png' alt='ENG' /></span>	<span class='language_native'>ENG</span>	<span class='language_translated'>ENG</span>	<span class='language_code'>en</span></a></li></ul></nav><div class='phone-info '><span><a href="tel:0793238262">079 323 82 62</a></span></div>
+			      </div>
+
+		</div>
+
+
+
+
+		<div  id='header_main' class='container_wrap container_wrap_logo'>
+
+	
+
+        <div class='container av-logo-container'><div class='inner-container'><strong class='logo'><a href='https://www.letsgoactive.nl/'><img height='100' width='300' src='https://www.letsgoactive.nl/wp-content/uploads/2016/08/logo_letsgoactive.png' alt='Letsgoactive' /></a></strong><nav class='main_menu' data-selectname='Selecteer een pagina'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://www.letsgoactive.nl/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">HOME</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-2"><a href="https://www.letsgoactive.nl/diensten/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TRAININGEN</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-3666" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/givability-trainingen/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Givability® Trainingen</span></a></li>
+	<li id="menu-item-771" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/hospitality-gastvrijheid-gastheerschap/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Trainingen in Hospitality, Gastvrijheid &#038; Gastheerschap</span></a></li>
+	<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/verkooptrainingen/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Klantgerichte verkooptrainingen</span></a></li>
+	<li id="menu-item-1655" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/leiderschapstrainingen/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Trainingen in Leiderschap &#038; leidinggeven</span></a></li>
+	<li id="menu-item-2084" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/communicatietrainingen/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Trainingen in communicatie &#038; persoonlijke effectiviteit</span></a></li>
+	<li id="menu-item-1705" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/teambuilding-dna-visie-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Teambuilding programma&#8217;s &#038; onderscheidend vermogen</span></a></li>
+	<li id="menu-item-1717" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/inspirerendesprekers-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Inspirerende sprekers</span></a></li>
+</ul>
+</li>
+<li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-top-level menu-item-top-level-3"><a href="https://www.letsgoactive.nl/branches/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">BRANCHES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+
+<ul class="sub-menu">
+	<li id="menu-item-1837" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/restaurant-horeca-catering/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Restaurant, horeca &#038; catering</span></a></li>
+	<li id="menu-item-1831" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/hotellerie/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Hotellerie en andere accommodaties</span></a></li>
+	<li id="menu-item-1839" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/zorg/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Zorg</span></a></li>
+	<li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/retail/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Retail</span></a></li>
+	<li id="menu-item-1827" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/facilitairedienstverlening/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Facilitaire dienstverlening</span></a></li>
+	<li id="menu-item-1835" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/museum-attractiepark-theater/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Musea, attractieparken &#038; theaters</span></a></li>
+	<li id="menu-item-1829" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/dienstverlening/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Financiële &#038; zakelijke dienstverlening</span></a></li>
+	<li id="menu-item-1833" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://www.letsgoactive.nl/onderwijs-overheid/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">Onderwijs &#038; overheid</span></a></li>
+</ul>
+</li>
+<li id="menu-item-6156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-4"><a href="https://www.letsgoactive.nl/givability/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">GIVABILITY®</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-5973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-5"><a href="https://www.letsgoactive.nl/inspirerendesprekers-2/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">SPREKERS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-3289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://www.letsgoactive.nl/referenties/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">REFERENTIES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-7"><a href="https://www.letsgoactive.nl/over-ons/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">OVER ONS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-4026" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-8"><a href="https://www.letsgoactive.nl/events/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">EVENTS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-mega-parent  menu-item-top-level menu-item-top-level-9"><a href="https://www.letsgoactive.nl/blogcolumns/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">BLOGS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page av-menu-button av-menu-button-colored menu-item-mega-parent  menu-item-top-level menu-item-top-level-10"><a href="https://www.letsgoactive.nl/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CONTACT</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown">
+							<a href="?s=" rel="nofollow" data-avia-search-tooltip="
+
+&lt;form action=&quot;https://www.letsgoactive.nl/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Zoek' /&gt;
+			&lt;/div&gt;
+&lt;input type='hidden' name='lang' value='nl' /&gt;&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Zoek</span></a>
+	        		   </li></ul></div></nav></div> </div> 
+
+
+		<!-- end container_wrap-->
+
+		</div>
+
+		
+
+		<div class='header_bg'></div>
+
+
+
+<!-- end header -->
+
+</header>
+
+		
+	<div id='main' class='all_colors' data-scroll-offset='88'>
+
+	<div class='stretch_full container_wrap alternate_color light_bg_color title_container'><div class='container'><h1 class='main-title entry-title'>Error 404 - Pagina niet gevonden</h1><div class="breadcrumb breadcrumbs avia-breadcrumbs"><div class="breadcrumb-trail" xmlns:v="http://rdf.data-vocabulary.org/#"><span class="trail-before"><span class="breadcrumb-title">U bevindt zich hier:</span></span> <a href="https://www.letsgoactive.nl" title="Letsgoactive" rel="home" class="trail-begin">Home</a> <span class="sep">/</span> <span class="trail-end">404 Niet Gevonden</span></div></div></div></div>
+
+		<div class='container_wrap container_wrap_first main_color sidebar_right'>
+			
+						
+			<div class='container'>
+
+				<main class='template-page content av-content-small alpha units'  role="main" itemprop="mainContentOfPage" >
+
+
+                    <div class="entry entry-content-wrapper clearfix" id='search-fail'>
+                    
+<p class='entry-content'><strong>Niets Gevonden</strong><br/>
+
+Sorry, de post waarnaar u opzoek bent is niet beschikbaar. Misschien wilt u gebruik maken van de zoekfunctie?</p>
+
+
+<form action="https://www.letsgoactive.nl/" id="searchform" method="get" class="">
+	<div>
+		<input type="submit" value="" id="searchsubmit" class="button avia-font-entypo-fontello" />
+		<input type="text" id="s" name="s" value="" placeholder='Zoek' />
+			</div>
+<input type='hidden' name='lang' value='nl' /></form>
+
+
+<div class='hr_invisible'></div>
+
+<section class="404_recommendation">
+    <p>Voor de beste zoekresultaten, houd het volgende in gedachte:</p>
+    <ul class='borderlist-not'>
+        <li>Dubbel-check altijd uw spelling. </li>
+        <li>Probeer soortgelijke zoekwoorden, bijvoorbeeld: tablet in plaats van laptop.</li>
+        <li>Probeer meer dan een zoekwoord te gebruiken.</li>
+    </ul>
+
+    <div class='hr_invisible'></div>
+
+    <h3 class=''>Liever wat artikelen doorzoeken?</h3>
+
+    <div class="widget avia_combo_widget"><div class='tabcontainer border_tabs top_tab tab_initial_open tab_initial_open__1'><div class="tab first_tab active_tab widget_tab_popular"><span>Populair</span></div><div class='tab_content active_tab_content'><ul class="news-wrap"><li class="news-content post-format-standard"><a class='news-link' title='De terras survivallaar' href='https://www.letsgoactive.nl/blog/horeca-blog/de-terras-survivallaar/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/bar-en-medewerkers-Fotolia_98063501_S-1-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>De terras survivallaar<span class='news-time'>juni 27, 2017 - 12:19 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Van groep naar team' href='https://www.letsgoactive.nl/blog/leiderschap-blog-letsgoactive/groep-naar-team/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-meeting-kopie-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Van groep naar team<span class='news-time'>juni 27, 2017 - 12:24 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Gevers en krijgers' href='https://www.letsgoactive.nl/blog/leiderschap-blog-letsgoactive/gevers-en-krijgers/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_84466906_M-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Gevers en krijgers<span class='news-time'>juni 27, 2017 - 12:30 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Doe de &#8216;Bitterballentest&#8217;' href='https://www.letsgoactive.nl/blog/horeca-blog/doe-de-bitterballentest/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Bitterballen-Fotolia_46416005_S-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Doe de &#8216;Bitterballentest&#8217;<span class='news-time'>juni 29, 2017 - 6:17 pm</span></strong></a></li></ul></div><div class="tab widget_tab_recent"><span>Recent</span></div><div class='tab_content'><ul class="news-wrap"><li class="news-content post-format-standard"><a class='news-link' title='Wens voor 2018' href='https://www.letsgoactive.nl/blog/wens-voor-2018/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Wens voor 2018<span class='news-time'>januari 4, 2018 - 3:56 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Winnen!' href='https://www.letsgoactive.nl/blog/leiderschap-blog-letsgoactive/winnen/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Winnen!<span class='news-time'>november 7, 2017 - 10:16 am</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Non-formeel leren: het beste van 4 werelden' href='https://www.letsgoactive.nl/blog/alle-blogs/non-formeel-leren-beste-4-werelden/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="Gevend leiderschap" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Non-formeel leren: het beste van 4 werelden<span class='news-time'>september 3, 2017 - 7:23 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='5 Gouden Regels in Retail' href='https://www.letsgoactive.nl/blog/retail-blog-letsgoactive/5-gouden-regels-klantgericht-verkopen-retail/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>5 Gouden Regels in Retail<span class='news-time'>september 2, 2017 - 5:05 pm</span></strong></a></li></ul></div><div class="tab widget_tab_comments"><span>Reacties</span></div><div class='tab_content'></div><div class="tab last_tab widget_tab_tags"><span>Tags</span></div><div class='tab_content tagcloud'><a href="https://www.letsgoactive.nl/tag/marketing/" class="tag-cloud-link tag-link-30 tag-link-position-1" style="font-size: 12px;">Marketing</a>
+<a href="https://www.letsgoactive.nl/tag/siva/" class="tag-cloud-link tag-link-31 tag-link-position-2" style="font-size: 12px;">SIVA</a>
+<a href="https://www.letsgoactive.nl/tag/verkoop-training/" class="tag-cloud-link tag-link-33 tag-link-position-3" style="font-size: 12px;">Verkoop training</a>
+<a href="https://www.letsgoactive.nl/tag/verkopen/" class="tag-cloud-link tag-link-32 tag-link-position-4" style="font-size: 12px;">Verkopen</a></div></div></div></section>
+                    </div>
+
+				<!--end content-->
+				</main>
+
+				<aside class='sidebar sidebar_right  alpha units'  role="complementary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" ><div class='inner_sidebar extralight-border'><section id="text-5" class="widget clearfix widget_text"><h3 class="widgettitle">Daarom Letsgoactive</h3>			<div class="textwidget"><div class='avia-icon-list-container '>
+<ul class='avia-icon-list avia-icon-list-left av-iconlist-small avia_animate_when_almost_visible'>
+<li>
+<div  style='color:#b8ce4b; font-size:18px; ' class='iconlist_icon avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div>
+<article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<div class='iconlist_content_wrap'>
+<header class="entry-content-header">
+<div class='iconlist_title_small'  itemprop="headline"   style='color:#622e78; font-size:18px; '>Praktisch & resultaatgericht</div>
+</header>
+<div class='iconlist_content '  itemprop="text"  ></div>
+</div>
+<footer class="entry-footer"></footer>
+</article>
+<div class='iconlist-timeline'></div>
+</li>
+<li>
+<div  style='color:#b8ce4b; font-size:18px; ' class='iconlist_icon avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div>
+<article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<div class='iconlist_content_wrap'>
+<header class="entry-content-header">
+<div class='iconlist_title_small'  itemprop="headline"   style='color:#622e78; font-size:18px; '>Gedreven, ervaren trainers</div>
+</header>
+<div class='iconlist_content '  itemprop="text"  ></div>
+</div>
+<footer class="entry-footer"></footer>
+</article>
+<div class='iconlist-timeline'></div>
+</li>
+<li>
+<div  style='color:#b8ce4b; font-size:18px; ' class='iconlist_icon avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div>
+<article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<div class='iconlist_content_wrap'>
+<header class="entry-content-header">
+<div class='iconlist_title_small'  itemprop="headline"   style='color:#622e78; font-size:18px; '>Hoge intensiteit, veel dynamiek</div>
+</header>
+<div class='iconlist_content '  itemprop="text"  ></div>
+</div>
+<footer class="entry-footer"></footer>
+</article>
+<div class='iconlist-timeline'></div>
+</li>
+<li>
+<div  style='color:#b8ce4b; font-size:18px; ' class='iconlist_icon avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div>
+<article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<div class='iconlist_content_wrap'>
+<header class="entry-content-header">
+<div class='iconlist_title_small'  itemprop="headline"   style='color:#622e78; font-size:18px; '>Dé experts in Hospitality</div>
+</header>
+<div class='iconlist_content '  itemprop="text"  ></div>
+</div>
+<footer class="entry-footer"></footer>
+</article>
+<div class='iconlist-timeline'></div>
+</li>
+<li>
+<div  style='color:#b8ce4b; font-size:18px; ' class='iconlist_icon avia-font-entypo-fontello'><span class='iconlist-char' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></span></div>
+<article class="article-icon-entry av-iconlist-empty"  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+<div class='iconlist_content_wrap'>
+<header class="entry-content-header">
+<div class='iconlist_title_small'  itemprop="headline"   style='color:#622e78; font-size:18px; '>Sinds 2001 toonaangevend in Gastheerschap</div>
+</header>
+<div class='iconlist_content '  itemprop="text"  ></div>
+</div>
+<footer class="entry-footer"></footer>
+</article>
+<div class='iconlist-timeline'></div>
+</li>
+</ul>
+</div>
+<div  class='hr hr-short hr-center '><span class='hr-inner ' ><span class='hr-inner-style'></span></span></div>
+</div>
+		<span class="seperator extralight-border"></span></section><section id="text-10" class="widget clearfix widget_text">			<div class="textwidget"><article class="iconbox iconbox_left_content  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  style='background-color:#622e78; border:1px solid #622e78; color:#ffffff; ' ></div><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title'  itemprop="headline"  ><a href='https://www.letsgoactive.nl/contact/' title='MAIL ONS'  >MAIL ONS</a></h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
+		<span class="seperator extralight-border"></span></section><section id="text-9" class="widget clearfix widget_text">			<div class="textwidget"><article class="iconbox iconbox_left_content  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  style='background-color:#622e78; border:1px solid #622e78; color:#ffffff; ' ></div><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title'  itemprop="headline"  >BEL ONS: 079 - 323 82 62</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
+		<span class="seperator extralight-border"></span></section><section id="text-8" class="widget clearfix widget_text">			<div class="textwidget"><article class="iconbox iconbox_left_content  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  style='background-color:#622e78; border:1px solid #622e78; color:#ffffff; ' ></div><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title'  itemprop="headline"  ><a href='https://www.letsgoactive.nl/bel-mij-terug/' title='BEL MIJ TERUG'  >BEL MIJ TERUG</a></h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
+		<span class="seperator extralight-border"></span></section><section id="text-7" class="widget clearfix widget_text">			<div class="textwidget"><article class="iconbox iconbox_left_content  "  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" ><div class="iconbox_icon heading-color" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'  style='background-color:#622e78; border:1px solid #622e78; color:#ffffff; ' ></div><div class="iconbox_content"><header class="entry-content-header"><h3 class='iconbox_content_title'  itemprop="headline"  >APP ONS: 06 109 465 69</h3></header><div class='iconbox_content_container '  itemprop="text"  ></div></div><footer class="entry-footer"></footer></article></div>
+		<span class="seperator extralight-border"></span></section><section id="portfoliobox-2" class="widget clearfix newsbox"><span class="seperator extralight-border"></span></section></div></aside>
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+
+<!--WPFC_FOOTER_START-->						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_fourth  first el_before_av_one_fourth'><section id="newsbox-2" class="widget clearfix newsbox"><h3 class="widgettitle">Blogs</h3><ul class="news-wrap image_size_widget"><li class="news-content post-format-standard"><a class='news-link' title='Wens voor 2018' href='https://www.letsgoactive.nl/blog/wens-voor-2018/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2018/01/Balloon-1-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Wens voor 2018<span class='news-time'>januari 4, 2018 - 3:56 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Winnen!' href='https://www.letsgoactive.nl/blog/leiderschap-blog-letsgoactive/winnen/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/11/Williams-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Winnen!<span class='news-time'>november 7, 2017 - 10:16 am</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Non-formeel leren: het beste van 4 werelden' href='https://www.letsgoactive.nl/blog/alle-blogs/non-formeel-leren-beste-4-werelden/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="Gevend leiderschap" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/08/Gevend-Leiderschap-Letsgoactive-120x120.jpg 120w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Non-formeel leren: het beste van 4 werelden<span class='news-time'>september 3, 2017 - 7:23 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='5 Gouden Regels in Retail' href='https://www.letsgoactive.nl/blog/retail-blog-letsgoactive/5-gouden-regels-klantgericht-verkopen-retail/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2016/10/etalages-modezaakFotolia_65133311_M-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>5 Gouden Regels in Retail<span class='news-time'>september 2, 2017 - 5:05 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Let&#8217;s make a difference!' href='https://www.letsgoactive.nl/blog/alle-blogs/lets-make-a-difference/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/07/Fotolia_72734670_M-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Let&#8217;s make a difference!<span class='news-time'>juli 29, 2017 - 12:46 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Van bestelling opnemen naar adviseren' href='https://www.letsgoactive.nl/blog/horeca-blog/bestelling-opnemen-naar-adviseren/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/H-Menukaart-formeler-Fotolia_34725682_S-kopie-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Van bestelling opnemen naar adviseren<span class='news-time'>juni 29, 2017 - 8:14 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Power to the cleaners!' href='https://www.letsgoactive.nl/blog/leiderschap-blog-letsgoactive/power-to-the-cleaners/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Fotolia_152620091_S-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Power to the cleaners!<span class='news-time'>juni 29, 2017 - 8:00 pm</span></strong></a></li><li class="news-content post-format-standard"><a class='news-link' title='Hoe bouw je een succesvol team?' href='https://www.letsgoactive.nl/teambuilding-blog/hoe-bouw-succesvol-team/'><span class='news-thumb '><img width="36" height="36" src="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-36x36.jpg" class="attachment-widget size-widget wp-post-image" alt="" srcset="https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-36x36.jpg 36w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-80x80.jpg 80w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-180x180.jpg 180w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-120x120.jpg 120w, https://www.letsgoactive.nl/wp-content/uploads/2017/06/Team-jongetjes-Fotolia_18951671_M-450x450.jpg 450w" sizes="(max-width: 36px) 100vw, 36px" /></span><strong class='news-headline'>Hoe bouw je een succesvol team?<span class='news-time'>juni 29, 2017 - 7:49 pm</span></strong></a></li></ul><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="nav_menu-24" class="widget clearfix widget_nav_menu"><h3 class="widgettitle">Recente opdrachten</h3><div class="menu-recente-opdrachten-container"><ul id="menu-recente-opdrachten" class="menu"><li id="menu-item-430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-430"><a href="https://www.letsgoactive.nl/referenties/eneco?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Eneco Facilities</span></a></li>
+<li id="menu-item-431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-431"><a href="https://www.letsgoactive.nl/referenties/louvrehotelsgroup?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Louvre Hotels Group</span></a></li>
+<li id="menu-item-432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-432"><a href="https://www.letsgoactive.nl/referenties/parkzuiderhout?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Park Zuiderhout</span></a></li>
+<li id="menu-item-3404" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3404"><a href="https://www.letsgoactive.nl/referenties/dehorecagroepleiden?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>De Horeca Groep Leiden</span></a></li>
+<li id="menu-item-3405" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3405"><a href="https://www.letsgoactive.nl/referenties/beeldengeluid?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Museum voor Beeld en Geluid</span></a></li>
+<li id="menu-item-3621" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3621"><a href="https://www.letsgoactive.nl/referenties/reyerlafeber?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Reyer Lafeber Eyefashion</span></a></li>
+<li id="menu-item-3622" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3622"><a href="https://www.letsgoactive.nl/referenties/restaurantindewatertuin?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Restaurant In de Watertuin</span></a></li>
+<li id="menu-item-3623" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3623"><a href="https://www.letsgoactive.nl/referenties/mcl?iframe=true"><i class="_mi _before dashicons dashicons-smiley" aria-hidden="true"></i><span>Medisch Centrum Leeuwarden</span></a></li>
+</ul></div><span class="seperator extralight-border"></span></section><section id="text-44" class="widget clearfix widget_text"><h3 class="widgettitle">Contact</h3>			<div class="textwidget"><div class="en">Letsgoactive training groep<br />
+Rokkeveenseweg 30A<br />
+2712 XZ Zoetermeer<br />
+Tel. 079 323 82 62<br />
+<a href="info@letsgoactive.nl">info@letsgoactive.nl</a></div>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="mc4wp_form_widget-2" class="widget clearfix widget_mc4wp_form_widget"><h3 class="widgettitle">Blijf op de hoogte met onze kennis en inspiratie updates</h3><script type="text/javascript">(function() {
+	if (!window.mc4wp) {
+		window.mc4wp = {
+			listeners: [],
+			forms    : {
+				on: function (event, callback) {
+					window.mc4wp.listeners.push({
+						event   : event,
+						callback: callback
+					});
+				}
+			}
+		}
+	}
+})();
+</script><!-- MailChimp for WordPress v4.1.13 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-3627 mc4wp-form-basic" method="post" data-id="3627" data-name="" ><div class="mc4wp-form-fields"><p style="display: none">
+    <label>Lijstkeuze</label>
+    <label>
+        <input name="_mc4wp_lists[]" type="checkbox" value="46396d0cfc" checked="true"> <span>Kennis &amp; Inspiratie Update</span>
+    </label>
+</p>
+<p>max 6 keer per jaar</p>
+<p><input type="text" name="NAME" placeholder="Naam" required /></p>
+<p><input type="email" name="EMAIL" placeholder="E-mail" required /></p>
+<p><input type="submit" value="INSCHRIJVEN" /></p><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1516660147" /><input type="hidden" name="_mc4wp_form_id" value="3627" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /></div><div class="mc4wp-response"></div></form><!-- / MailChimp for WordPress Plugin --><span class="seperator extralight-border"></span></section><section id="text-45" class="widget clearfix widget_text">			<div class="textwidget"><div class="en"><a class="top25icons" href="https://www.facebook.com/LetsgoactiveNL/" target="_blank" rel="noopener" data-tool="facebook"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/facebook.png" alt="facebook" /></a><a class="top25icons" href="https://twitter.com/Letsgoactive" target="_blank" rel="noopener" data-tool="twitter"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/twitter.png" alt="twitter" /></a><a class="top25icons" href="https://www.linkedin.com/company/letsgoactive-the-hospitality-company" target="_blank" rel="noopener" data-tool="linkedin"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/linkedin.png" alt="linkedin" /></a><a class="top25icons" href="https://www.instagram.com/letsgoactive/" target="_blank" rel="noopener" data-tool="instagram"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/instagram.png" alt="instagram" /></a></div>
+</div>
+		<span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_fourth  el_after_av_one_fourth  el_before_av_one_fourth '><section id="text-3" class="widget clearfix widget_text"><h3 class="widgettitle">Contact</h3>			<div class="textwidget">Letsgoactive training groep
+Rokkeveenseweg 30A
+<BR>2712 XZ Zoetermeer
+<BR>Tel. 079 323 82 62
+<BR><A HREF="info@letsgoactive.nl">info@letsgoactive.nl</A></div>
+		<span class="seperator extralight-border"></span></section><section id="text-4" class="widget clearfix widget_text">			<div class="textwidget"><a class="top25icons" href="https://www.facebook.com/LetsgoactiveNL/" data-tool="facebook" target="_blank"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/facebook.png" alt="facebook"></a>
+<a class="top25icons" href="https://twitter.com/Letsgoactive" data-tool="twitter" target="_blank"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/twitter.png" alt="twitter"></a>
+<a class="top25icons" href="https://www.linkedin.com/company/letsgoactive-the-hospitality-company" data-tool="linkedin" target="_blank"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/linkedin.png" alt="linkedin"></a>
+<a class="top25icons" href="https://www.instagram.com/letsgoactive/" data-tool="linkedin" target="_blank"><img src="https://www.globalorange.nl/wp-content/plugins/top-25-social-icons/images/circle/instagram.png" alt="linkedin"></a></div>
+		<span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+<div class="proposal_footer"><div class="footer-voorstel">			<div class="textwidget"><a href="https://www.letsgoactive.nl/information-and-requests/?lang=en">Voorstel ontvangen?<span class="iconfont" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span></a>
+<script>
+jQuery(':lang(en) .proposal_footer .textwidget a').html('Send me a proposal <span class="iconfont" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></span>');
+jQuery(':lang(nl) .proposal_footer .textwidget a').attr("href", "https://www.letsgoactive.nl/offerte-aanvragen/");
+
+</script></div>
+		</div></div>
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://www.letsgoactive.nl/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://www.letsgoactive.nl/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://www.letsgoactive.nl/wp-admin/admin-ajax.php?lang=nl';
+/* ]]> */ 
+</script>
+ 
+ 
+<script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+	avia_framework_globals.gmap_api = 'AIzaSyD5KxbWMZk60stZAY3uqA7zYzax3tAdI-U';
+/* ]]> */ 
+</script>	
+<div class="custom-footer"><div id="text-42" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><div id="footer-credits" class=" footer-center"><span class="footer-credits"><ul id="menu-putter" class="menu"><li id="menu-item-4141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4141"><a href="https://www.letsgoactive.nl/contact?customize_changeset_uuid=c4fdba3e-467e-4baa-bdce-67aa3e51ac60&amp;customize_messenger_channel=preview-0" target="_self">Copyright © 2017</a></li>
+<li id="menu-item-3637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3637"><a href="https://www.letsgoactive.nl/sitemap/?customize_changeset_uuid=c4fdba3e-467e-4baa-bdce-67aa3e51ac60&amp;customize_messenger_channel=preview-0" target="_self">Sitemap</a></li>
+<li id="menu-item-3638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3638"><a href="https://www.letsgoactive.nl/privacy/?customize_changeset_uuid=c4fdba3e-467e-4baa-bdce-67aa3e51ac60&amp;customize_messenger_channel=preview-0" target="_self">Privacy Policy</a></li>
+</ul></span><span></span></div>
+<script>
+jQuery(':lang(nl) #footer-credits #menu-item-3638 a').text('Privacy verklaring');
+</script></div>
+		</div></div><div id="footer_copyright-2" class="widget widget_footer_copyright"><div class="widget-wrap"><div id="footer-credits" class=" footer-right"><span></span></div><div class="clear"></div></div></div></div><!-- end .custom-footer --><script type="text/javascript">(function() {function addEventListener(element,event,handler) {
+	if(element.addEventListener) {
+		element.addEventListener(event,handler, false);
+	} else if(element.attachEvent){
+		element.attachEvent('on'+event,handler);
+	}
+}function maybePrefixUrlField() {
+	if(this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if( urlFields && urlFields.length > 0 ) {
+	for( var j=0; j < urlFields.length; j++ ) {
+		addEventListener(urlFields[j],'blur',maybePrefixUrlField);
+	}
+}/* test if browser supports date fields */
+var testInput = document.createElement('input');
+testInput.setAttribute('type', 'date');
+if( testInput.type !== 'date') {
+
+	/* add placeholder & pattern to all date fields */
+	var dateFields = document.querySelectorAll('.mc4wp-form input[type="date"]');
+	for(var i=0; i<dateFields.length; i++) {
+		if(!dateFields[i].placeholder) {
+			dateFields[i].placeholder = 'YYYY-MM-DD';
+		}
+		if(!dateFields[i].pattern) {
+			dateFields[i].pattern = '[0-9]{4}-(0[1-9]|1[012])-(0[1-9]|1[0-9]|2[0-9]|3[01])';
+		}
+	}
+}
+
+})();</script><script type='text/javascript'>
+/* <![CDATA[ */
+var wpcf7 = {"apiSettings":{"root":"https:\/\/www.letsgoactive.nl\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"recaptcha":{"messages":{"empty":"Graag verifi\u00ebren dat je geen robot bent."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/themes/enfold/js/avia.js?ver=3'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/themes/enfold/js/shortcodes.js?ver=3'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=4.9.2'></script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-includes/js/wp-embed.min.js?ver=4.9.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mc4wp_forms_config = [];
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/mailchimp-for-wp/assets/js/forms-api.min.js?ver=4.1.13'></script>
+<!--[if lte IE 9]>
+<script type='text/javascript' src='https://www.letsgoactive.nl/wp-content/plugins/mailchimp-for-wp/assets/js/third-party/placeholders.min.js?ver=4.1.13'></script>
+<![endif]-->
+<a href='#top' title='Scroll naar bovenzijde' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll naar bovenzijde</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<script language="Javascript">
+window.location = "e404.php";
+</script>
+<title>Page Not Found</title>
+<link rel="stylesheet" type="text/css" href="Styles.css">
+<script language="Javascript" src="Scripts.js"></script>	
+</head>
+
+<body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+<!-- BEGIN TABLE: Main -->
+<table cellpadding="0" cellspacing="0" border="0" width="760" align="center">
+<tr>
+<td rowspan="2" bgcolor="#FFFFFF"><img src="../images/spacer.gif" width="10" height="1" border="0"></td>
+<!-- left hand navigation -->
+<td width="1%" valign="top" background="images/LeftBackground.gif"><table cellpadding="0" cellspacing="0" border="0" background="../images/LeftBackground.gif"><tr><td><a href="/index.html"><img src="/images/LOGO_GIF_200pix_recut.gif" alt="" width="182" height="184" border="0"></a></td></tr><tr><td><img src="/images/spacer.gif" width="1" height="18"></td></tr><tr><td>	<table cellpadding="0" cellspacing="0" border="0">	<tr>	<td><img src="/images/spacer.gif" width="22" height="1" border="0"></td>	<td>		<table cellpadding="0" cellspacing="0" border="0">
+
+
+		<tr>		<td><a href="/Testimonials.php"><img src="/images/testimonialbutton.GIF" alt="Customer Testimonials and Photo Gallery" width="135" height="31" border="0"></a></td>		</tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr><td><!-- Begin Personal Site Search Form --><form method=get action="/.search"><input type="hidden" name="results_page" value="http://pawpathlittermat.com/my_results.php"> <input type="text" name="query" value="" size=18><br><input type="submit" name="name" value="Search This Site"></form><!-- End Personal Site Search Form --></tr>		<tr>		<td><a href="/index.html" class="LeftLinks">Home</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/ProductInformation.html" class="LeftLinks">Product Information</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/Pictures.html" class="LeftLinks">Pictures</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/FAQ.html" class="LeftLinks">FAQ's</a></td>		</tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td></tr>		<tr>		<td><a href="/littermat.html"><img src="/images/ORDERbutton.GIF" alt="Order Now" width="98" height="22" border="0"></a></td>		</tr>		
+
+
+
+
+<tr>			<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/Feedback.php" class="LeftLinks">Tell Us What You Think!</a></td>		</tr><tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-93515357494156" class="LeftLinks">Shopping Cart</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/orderstatus.php" class="LeftLinks">Order Status</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/Assembly.html" class="LeftLinks">Assembly Instructions</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/ReturnPolicy.php" class="LeftLinks">Return Policy</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td><a href="/AboutUs.php" class="LeftLinks">About Us</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		<tr>		<td>
+<a href="/contactus.php" class="LeftLinks">Contact Us</a></td>		</tr>				<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>		
+
+		<tr>		<td><a href="/linktous.php" class="LeftLinks">Link To Us!</a></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</tr>                
+<tr>		<td><a href="/art_1.php" target="_blank" class="LeftLinks">CAT PRINTS</a></td>		</tr><tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>		</tr>		<tr>		<td><a href="/FunLinks.php" class="LeftLinks">FUN LINKS</a></td>	
+
+	</tr><tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>		</tr>			
+
+<tr><td><a href="/charities.php" class="LeftLinks">Events & Charities</a></td>		</tr>
+
+<tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>		</tr>			<tr>		<td><a href="/Articles.php" class="LeftLinks">Cat Articles</a> <class="LeftLinks"></td>		</tr><tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td></tr><tr>		<td><a href="/submitphoto.php" class="LeftLinks">Submit Your Cat Photos to our Gallery!</a> <class="LeftLinks"></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td></tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="16" border="0"></td>		</table>	</td>	</table></td></tr><tr><td align="center"><img src="/images/Leo_leftcolumn.GIF" alt="" width="174" height="187" border="0"></td></tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>
+
+<td align="center">
+
+<!-- BEGIN THE I-LOVE-CATS.COM AWARD CODE -->
+<div style="text-align: left; 
+background:url(http://www.i-love-cats.com/award/cataward.gif) no-repeat; width:150px; 
+height:150px; font:Arial; font-size:9px; color:#000; line-height:10px; 
+padding-left:17px; padding-top: 38px;"><strong>I-Love-Cats.com 
+</strong>
+<br />proudly awards this <a href="http://www.i-love-cats.com/">cat</a> 
+<br />site! Please upload 
+<br />your <a href=" http://www.i-love-cats.com/cat-pictures/">cat 
+pictures</a>, 
+<br />read <a href=" http://www.i-love-cats.com/catarticles.html ">cat 
+articles</a> 
+<br />or visit the <br /><a href="http://www.i-love-cats.com/forums/ 
+">cat forums</a>!
+</div>
+<!-- END THE I-LOVE-CATS.COM AWARD CODE -->
+<p>
+
+</td></tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>
+<td align="center">
+<!-- BEGIN THE PETSHED AWARD CODE --><a href="http://www.petshed.com/winner/#522"  target="_blank"><img border="0" src="/images/ps_award.gif" alt="Pet Shed Award" width="125" height="180" border="0"></a><!-- END PETSHED AWARD CODE -->
+</td>
+</td></tr>
+
+</td></tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr><td align="center">
+
+ <a href="/awards.php" class="LeftLinks">More Awards</a>
+</td></tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr>
+
+<td>
+</tr><td><img src="/images/spacer.gif" width="1" height="16" border="0"></td><tr><td><img src="/images/PawPrints_withdropshadow_re.gif" alt="" width="127" height="218" border="0"></td><p></tr></table></td>
+<td valign="top" align="left">
+	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tr>
+	<!-- top navigation -->
+	<td><table cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#b5ced8" width="100%">	<table cellpadding="0" cellspacing="0" border="0">	<tr>	<td><img src="/images/spacer.gif" alt="" width="1" height="75" border="0"></td>	<td valign="top">		<table cellpadding="0" cellspacing="0" border="0">		<tr>		<td><img src="/images/spacer.gif" width="1" height="30" border="0"></td>		</tr>		<tr>		<td><img src="/images/title.gif" alt="" width="354" height="19" border="0"></td>		</tr>		<tr>		<td><img src="/images/spacer.gif" width="1" height="10" border="0"></td>		</tr>		<tr>		<td class="TagLine" nowrap>Introducing a purrfect cat litter mat.  Say goodbye to scattered litter forever.</td>		</tr>		</table>	</td>	</tr>	</table></td><td rowspan="2"><img src="/images/Littermatontopbanner.GIF" alt="" width="153" height="116" border="0"></td></tr><tr><td bgcolor="#cdd5d8">	<table cellpadding="0" cellspacing="0" border="0">	<tr>	<td><img src="/images/spacer.gif" alt="" width="1" height="41" border="0"></td>	<td valign="top">		<table cellpadding="0" cellspacing="0" border="0">		<tr>		<td rowspan="2"><img src="/images/spacer.gif" alt="" width="27" height="1" border="0"></td>		<td><img src="/images/spacer.gif" width="1" height="10" border="0"></td>		</tr>		<tr>		<td><img src="/images/continentalshipping.GIF" width="400" height="23" border="0"></td>		</tr>		</table>	</td>	</tr>	</table></tr><tr></tr><tr><td colspan="2" align="right">	<table cellpadding="0" cellspacing="0" border="0">	<tr>	<td><a href="/index.html"><img src="/images/HeaderHome.gif" alt="" width="35" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="30" height="1" border="0"></td>	<td><a href="/littermat.html"><img src="/images/ordertop.gif" alt="" width="78" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="30" height="1" border="0"></td>	<td><a href="http://order.store.yahoo.com/cgi-bin/wg-order?yhst-93515357494156"><img src="/images/HeaderShoppingCart.gif" alt="" width="100" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="30" height="1" border="0"></td>	<td><a href="/FAQ.html"><img src="/images/HeaderFAQ.gif" alt="" width="35" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="30" height="1" border="0"></td>	<td><a href="/AboutUs.php"><img src="/images/HeaderAboutUs.gif" alt="" width="62" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="30" height="1" border="0"></td>	<td><a href="/contactus.php"><img src="/images/HeaderContactUs.gif" alt="" width="77" height="10" border="0"></a></td>	<td><img src="/images/spacer.gif" width="5" height="1" border="0"></td>	</tr>	</table></td></tr></table>
+<!-- Counter/Statistics -->
+<script language="JavaScript"
+src="http://us.js2.yimg.com/us.js.yimg.com/lib/smb/js/hosting/cp/js_source/whv2_001.js">
+</script>
+<script language="javascript">geovisit();</script>
+<noscript><img src="http://visit.webhosting.yahoo.com/visit.gif?time"
+alt="setstats" border="0" width="1" height="1"></noscript> 
+</td>
+	</tr>
+	<tr>
+	<td valign="top" align="left">
+<TABLE WIDTH="90%" BGCOLOR="#FFFFFF" ALIGN="center" CELLSPACING="1" CELLPADDING="4" BORDER="0">
+<TR>
+<TD></TD>
+</TR>
+</TABLE>
+
+<TABLE WIDTH="90%" BGCOLOR="#FFFFFF" ALIGN="center" CELLSPACING="1" CELLPADDING="4" BORDER="0">
+<TR>
+<TD><font face=arial color=blue><b>We couldn't find that page!</b></font>
+<font face=arial></TD>
+</TR>
+<TR>
+<TD>The file you are looking for, 
+<b>/blog/wp-content/uploads/2007/06/Bambi Eating.jpg</b>, cannot be found on this server. 
+<p>
+Please try a search below, or start from our 
+<a href="/index.html">home page</a>.</font>
+<p>
+</TD>
+</TR>
+<TR>
+<TD><!-- Begin Personal Site Search Form -->
+<form method=get action="/.search">
+<input type="text" name="p" value="" size=18>
+<input type="submit" name="name" value="Search">
+</form>
+<!-- End Personal Site Search Form -->
+<p>
+To report any broken links or errors, please contact us at <a href="mailto:webmaster@pawpathlittermat.com">webmaster@pawpathlittermat.com</a>
+</TD>
+</TR>
+</TABLE>
+
+
+
+			</td>
+	</tr>
+	</table>
+</td>
+<td rowspan="2" bgcolor="#cdd5d8"><img src="../images/spacer.gif" width="10" height="1" border="0"></td>
+<tr>
+<!-- bottom navigation -->
+<td colspan="2"><table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#b5ced8"><tr><td width="1%"><img src="/images/spacer.gif" width="211" height="1" border="0"></td><td align="left" class="BottomText">	<table cellpadding="0" cellspacing="0" border="0">	<tr>	<td class="BottomText"><a href="/index.html">Home</a></td>	<td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>	<td class="BottomText"><a href="/FAQ.html">FAQ’s</a></td>	<td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>	<td class="BottomText"><a href="/TermsConditions.php">Terms of Use</a></td>	<td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>	<td class="BottomText"><a href="/PrivacyPolicy.php">Privacy Policy</a></td>		<td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>	<td class="BottomText"><a href="/contactus.php">Contact Us</a></td><td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>        <td class="BottomText"><a href="/FunLinks.php">Links</a></td><td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>        <td class="BottomText"><a href="/linktous.php">Link To Us</a></td>        <td><img src="/images/spacer.gif" width="10" height="1" border="0"></td>        <td class="BottomText"><a href="/sitemap.php">Sitemap</a></td>        <td><img src="/images/spacer.gif" width="10" height="1" border="0"></td><td class="BottomText">	</tr>	</table>	Copyright © 2006 Seven Musketeers Corporation all rights reserved <br>	<a href="/contactus.php">Contact Us</a><br>	</td></tr></table><!-------------google analytics--------------------><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-1329197-1";urchinTracker();</script></td>
+</tr>
+</table>
+<!-- END TABLE: Main -->
+</body>
+</html>
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/e1390738556accd2e6f61cf35c656f82?id=f88471829976";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));</script>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noarchive,noindex,nofollow,noodp" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title>404: File Not Found</title>
+<style type="text/css">
+ /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/*END RESET STYLES*/
+
+/*404 Page Styles*/
+body {background: #fff; font: 100% Arial, Helvetica, sans-serif;}
+h1, h2, h3 {font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+p {font-family: Arial, Helvetica, sans-serif; font-size: 100%;}
+a, a:link {color: #0079c1; outline: 0; font-weight:bold; text-decoration:none;}
+a:hover, a:active, a:focus {outline:0;}
+a:hover {text-decoration:underline !important;}
+a:focus {border:0;}
+a:visited {font-weight:normal;}
+:focus {-moz-outline-style: none; outline:0;}
+div.content404 {display: block; position: relative; width: 32em; max-width: 100%; padding: 0.5em; overflow: hidden; /*border: 1px solid #000;*/ }
+.content404 h1 {font-size: 1.75em; color: #455660; margin-bottom: 0.625em;}
+.content404 p {font-size: 0.75em; line-height: 1.5em; padding-bottom: 1em;}
+.content404 img.pug {float: right; width: 300px; max-width: 100%; margin: 0 0.5em;}
+div.gotolinks {display: block; position: relative; width: 32em; margin: 1em; clear: both;}
+.gotolinks ul {float: left; width: 15em; margin-right: 5em; list-style-type: disc; font: 0.75em/2em Arial, Helvetica, sans-serif;}
+@media (max-width: 320px), handheld and (orientation: portrait) {
+div.content404 {display: block; width: auto; padding: 0.5em;}
+.content404 img.pug {float: none; width: 300px; max-width: 100%; margin:0; padding-bottom: 0.5em;}	
+.content404 p {font-size: 0.75em; line-height: 1.5em; padding: 0 1.5em 1em 0;}
+.gotolinks ul {display: block; float: none; list-style-type: disc; margin: 0; font: 0.75em/2em Arial, Helvetica, sans-serif;}
+}
+@media (max-width: 480px), handheld and (orientation: landscape) {
+div.content404 {display: block; width: auto; padding: 0.5em;}
+.content404 img.pug {float: right; width: 300px; max-width: 100%; margin:0; padding: 0 0.5em 0.5em 0;}
+.content404 p {font-size: 0.75em; line-height: 1.5em; padding: 0 1.5em 1em 0;}
+.gotolinks ul {float: left; width: 15em; margin-right: 5em; list-style-type: disc; font: 0.75em/2em Arial, Helvetica, sans-serif;}
+}
+@media (max-width: 360px), handheld {
+div.content404 {display: block; padding: 0.5em;}
+.content404 img.pug {float: none; width: 300px; max-width: 100%; margin:0; padding-bottom: 0.5em;}	
+.content404 p {font-size: 0.75em; line-height: 1.5em; padding: 0 1.5em 1em 0;}
+.gotolinks ul {display: block; float: none; list-style-type: disc; margin: 0; font: 0.75em/2em Arial, Helvetica, sans-serif;}
+}
+</style>
+
+<!-- Google Analytics -->
+<script type="text/javascript"> 
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6926120-1']);
+  _gaq.push(['_setDomainName', 'avma.org']);
+  _gaq.push(['_trackPageview','/404error/?url=' + document.location.pathname + document.location.search + '&ref=' + document.referrer]);
+  _gaq.push(['_trackPageLoadTime']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+</script>
+</head>
+<body>
+<div class="content404">
+<h1>404: File Not Found</h1>
+<img src="https://www.avma.org/PublishingImages/404-pug.png" width="300" alt="" class="pug" />
+<p>I looked and looked, but I can't find the page you requested. Maybe I buried it in the backyard with that ball I can't find.</p>
+<p>Here are links to some of the most popular pages on our site. If these aren't what you want, you can use the search box or the Quick Links section <strong>on our</strong> <a href="https://www.avma.org/">home page</a> <strong>or</strong> <a href="https://www.avma.org/Search/advanced.aspx">search our Knowledge Base</a>.</p>
+<div class="gotolinks">
+<ul>
+<li><strong><a href="https://www.avma.org/KB/Resources/LiteratureReviews/Pages/default.aspx">Literature Reviews</a> (formerly Backgrounders) </strong></li>
+<li><strong><a href="https://www.avma.org/kb/resources/reference/animalwelfare/pages/default.aspx">Animal Welfare</a></strong></li>
+<li><strong><a href="https://www.avma.org/professionaldevelopment/education/accreditation/pages/default.aspx">Center for Veterinary Education Accreditation (CVEA)</a></strong></li>
+<li><strong><a href="https://www.avma.org/ProfessionalDevelopment/Education/Accreditation/Colleges/Pages/colleges-accredited.aspx">Accredited Veterinary Colleges</a></strong></li>
+<li><strong><a href="https://www.avma.org/ProfessionalDevelopment/Education/Accreditation/Programs/Pages/vettech-programs.aspx">Accredited Veterinary Technology Programs</a></strong></li>
+<li><strong><a href="https://www.avma.org/ProfessionalDevelopment/Education/Foreign/Pages/default.aspx">ECFVG Program</a></strong></li>
+</ul>
+<ul>
+<li><strong><a href="https://www.avma.org/public/Pages/Dog-Bite-Prevention.aspx">Dog Bite Prevention</a></strong></li>
+<li><strong><a href="https://www.avma.org/news/issues/recalls-alerts/pages/default.aspx">Recalls &amp; Alerts</a></strong></li>
+<li><strong><a href="https://www.avma.org/Authentication/Pages/default.aspx?returnurl=https://ebusiness.avma.org/ProductCatalog/default.aspx">AVMA Store</a></strong></li>
+<li><strong><a href="https://www.avma.org/ProfessionalDevelopment/Career/VCC/Pages/default.aspx">Veterinary Career Center</a></strong></li>
+<li><strong><a href="https://www.avma.org/Authentication/Pages/default.aspx?returnurl=https://ebusiness.avma.org/login.aspx?rid=13">AVMA Member Directory</a></strong></li>
+<li><strong><a href="http://www.highroadsolution.com/avma_preference_page/default.aspx">Email Subscription Center</a></strong></li>
+<li><strong><a href="https://www.avma.org/KB/Resources/Statistics/Pages/default.aspx">Market Research Statistics</a></strong></li>
+</ul>
+</div>
+</div>
+</body>
+</html>

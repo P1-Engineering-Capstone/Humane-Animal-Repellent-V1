@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="nl-nl" dir="ltr">
+<head>
+	<meta charset="utf-8" />
+	<title>404 - View is niet gevonden [name, type, prefix]: category, jpg, contentView</title>
+	<link href="/templates/system/css/error.css" rel="stylesheet" />
+			<!--[if lt IE 9]><script src="/media/jui/js/html5.js"></script><![endif]-->
+</head>
+<body>
+	<div class="error">
+		<div id="outline">
+		<div id="errorboxoutline">
+			<div id="errorboxheader">404 - View is niet gevonden [name, type, prefix]: category, jpg, contentView</div>
+			<div id="errorboxbody">
+			<p><strong>Mogelijk kunt u deze pagina niet bezoeken wegens:</strong></p>
+			<ol>
+				<li>een <strong>verouderde bladwijzer/favoriet</strong></li>
+				<li>een zoekmachine heeft een <strong>verouderde lijst van deze website</strong></li>
+				<li>een <strong>fout getypt adres</strong></li>
+				<li>u heeft <strong>geen toegang</strong> tot deze pagina</li>
+				<li>De gegeven bron is niet gevonden.</li>
+				<li>Er is een fout opgetreden tijdens het verwerken van uw verzoek.</li>
+			</ol>
+			<p><strong>Probeer één van de volgende pagina's:</strong></p>
+			<ul>
+				<li><a href="/index.php" title="Naar de startpagina">Startpagina</a></li>
+			</ul>
+			<p>Als de problemen blijven bestaan, neem dan aub contact op met de systeembeheerder van deze website en rapporteer de onderstaande fout.</p>
+			<div id="techinfo">
+			<p>
+				View is niet gevonden [name, type, prefix]: category, jpg, contentView							</p>
+						</div>
+			</div>
+		</div>
+		</div>
+	</div>
+</body>
+</html>
