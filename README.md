@@ -8,6 +8,6 @@ predictions in order of highest percentage to lowest. If the object moving in th
 to the correct corrdinates and activate the water nozzle to squirt water at the squirrel, scaring it away from people's gardens,
 lawn pots, sprinklers, etc.
 
-Find the model at: https://www.dropbox.com/s/n2qgpjm1slej0sf/squirrel_alexnet.caffemodel?dl=0
+Find the model at: https://www.dropbox.com/s/f0rrqj5dl13eqhz/squirrel_alexnet.caffemodel?dl=0
 
 Details:<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iterations: 30,000<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accuracy: 55.5%<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Loss: 0.64
