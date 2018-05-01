@@ -11,6 +11,6 @@ lawn pots, sprinklers, etc.
 Find the model at: https://www.dropbox.com/s/n2qgpjm1slej0sf/squirrel_alexnet.caffemodel?dl=0
 
 Details:
-  Iterations: 30,000
-  Accuracy:   55.5%
-  Loss:       0.64
+    <p>Iterations: 30,000
+    <p>Accuracy:   55.5%
+    <p>Loss:       0.64
